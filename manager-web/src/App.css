@@ -1328,4 +1328,53 @@ body { -webkit-tap-highlight-color: transparent; }
     overflow-y: auto;
     overscroll-behavior: contain;
     padding-top: calc(12px + env(safe-area-inset-top, 0px));
-    padding-bottom: calc(12px + env(safe-area-inset-bo
+    padding-bottom: calc(12px + env(safe-area-inset-bottom, 0px));
+    padding-left: calc(10px + env(safe-area-inset-left, 0px));
+  }
+}
+
+/* Finger-sized controls (≥ 40px) on phones and touch screens. */
+@media (max-width: 860px), (pointer: coarse) {
+  .btn, .btn--sm, .btn--xs { min-height: 40px; }
+  .btn--xs { min-width: 40px; }
+  button.chip, .chips .chip { min-height: 40px; display: inline-flex; align-items: center; }
+  .topbar__menu, .topbar__theme { width: 40px; height: 40px; }
+  .sidebar__item { min-height: 44px; }
+  select, input:not([type='checkbox']):not([type='radio']):not([type='range']) { min-height: 40px; }
+  input[type='checkbox'], input[type='radio'] { width: 22px; height: 22px; }
+  .topbar__brand { min-height: 40px; }
+  /* Text-like buttons: a taller hit area without moving the layout. */
+  .link { padding-block: 12px; margin-block: -12px; }
+  .grid-table .link { padding-block: 7px; margin-block: -7px; }
+  .th-btn { min-height: 40px; display: inline-flex; align-items: center; }
+  button.cl-star { min-width: 40px; min-height: 40px; }
+  .bench-list button, .figure-list button { min-height: 40px; }
+  .trophy-photo figcaption a { display: inline-block; padding-block: 12px; margin-block: -12px; }
+  /* iOS zooms into inputs under 16px. */
+  input, select, textarea { font-size: max(16px, 1em); }
+}
+
+.install-btn { margin-top: 14px; opacity: 0.85; }
+.install-ios { display: grid; justify-items: center; }
+.install-ios__hint { margin-top: 6px; color: var(--muted); }
+
+.pwa-toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+  transform: translateX(-50%);
+  z-index: 150;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: calc(100vw - 24px);
+  padding: 8px 8px 8px 14px;
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text);
+  box-shadow: var(--shadow);
+  font-family: var(--font-cond);
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
