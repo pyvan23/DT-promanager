@@ -1,0 +1,277 @@
+{
+  "division": "ESP-1",
+  "country": "ESP",
+  "name": "LaLiga EA Sports",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
+    "https://www.laliga.com/laliga-easports/clubes"
+  ],
+  "formatNotes": "20 equipos, 38 jornadas. Descienden directamente los puestos 18-20 a LaLiga Hypermotion. Ascendidos 2026-27: Racing de Santander, Deportivo de La Coruña y Málaga (play-off); descendidos 2025-26: Mallorca, Girona, Real Oviedo. Europa: 1.º-4.º Champions League (5.º también si España logra plaza extra por rendimiento europeo UEFA), 5.º Europa League, 6.º Conference League (play-off); campeón de Copa del Rey a Europa League (si ya clasificado, la plaza pasa por liga al siguiente).",
+  "domesticCup": {
+    "name": "Copa del Rey",
+    "formatNotes": "Eliminatorias a partido único (el club de menor categoría juega en casa) desde la primera ronda con equipos de RFEF, Segunda y Primera; los participantes en Supercopa entran en dieciseisavos; semifinales a doble partido y final a partido único en sede neutral. Campeón a Europa League y a la Supercopa de España."
+  },
+  "clubs": [
+    {
+      "name": "Deportivo Alavés",
+      "shortName": "Alavés",
+      "city": "Vitoria-Gasteiz",
+      "province": "Álava (País Vasco)",
+      "affiliation": "directa",
+      "stadium": "Mendizorroza",
+      "colors": {
+        "primary": "#0057B8",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Athletic Club",
+      "shortName": "Athletic",
+      "city": "Bilbao",
+      "province": "Vizcaya (País Vasco)",
+      "affiliation": "directa",
+      "stadium": "San Mamés",
+      "colors": {
+        "primary": "#EE2523",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Club Atlético de Madrid",
+      "shortName": "Atlético",
+      "city": "Madrid",
+      "province": "Comunidad de Madrid",
+      "affiliation": "directa",
+      "stadium": "Riyadh Air Metropolitano",
+      "colors": {
+        "primary": "#CB3524",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Fútbol Club Barcelona",
+      "shortName": "Barcelona",
+      "city": "Barcelona",
+      "province": "Cataluña",
+      "affiliation": "directa",
+      "stadium": "Spotify Camp Nou",
+      "colors": {
+        "primary": "#A50044",
+        "secondary": "#004D98"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Real Club Celta de Vigo",
+      "shortName": "Celta",
+      "city": "Vigo",
+      "province": "Pontevedra (Galicia)",
+      "affiliation": "directa",
+      "stadium": "Abanca Balaídos",
+      "colors": {
+        "primary": "#8AC3EE",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Real Club Deportivo de La Coruña",
+      "shortName": "Deportivo",
+      "city": "A Coruña",
+      "province": "A Coruña (Galicia)",
+      "affiliation": "directa",
+      "stadium": "Abanca-Riazor",
+      "colors": {
+        "primary": "#0067B1",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Elche Club de Fútbol",
+      "shortName": "Elche",
+      "city": "Elche",
+      "province": "Alicante (Comunidad Valenciana)",
+      "affiliation": "directa",
+      "stadium": "Martínez Valero",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#05843A"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Reial Club Deportiu Espanyol de Barcelona",
+      "shortName": "Espanyol",
+      "city": "Cornellà de Llobregat",
+      "province": "Barcelona (Cataluña)",
+      "affiliation": "directa",
+      "stadium": "RCDE Stadium",
+      "colors": {
+        "primary": "#007FC8",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Getafe Club de Fútbol",
+      "shortName": "Getafe",
+      "city": "Getafe",
+      "province": "Comunidad de Madrid",
+      "affiliation": "directa",
+      "stadium": "Coliseum",
+      "colors": {
+        "primary": "#005999",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Levante Unión Deportiva",
+      "shortName": "Levante",
+      "city": "Valencia",
+      "province": "Valencia (Comunidad Valenciana)",
+      "affiliation": "directa",
+      "stadium": "Ciutat de València",
+      "colors": {
+        "primary": "#B4053F",
+        "secondary": "#004D98"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Málaga Club de Fútbol",
+      "shortName": "Málaga",
+      "city": "Málaga",
+      "province": "Málaga (Andalucía)",
+      "affiliation": "directa",
+      "stadium": "La Rosaleda",
+      "colors": {
+        "primary": "#00A0DF",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Atlético Osasuna",
+      "shortName": "Osasuna",
+      "city": "Pamplona",
+      "province": "Navarra",
+      "affiliation": "directa",
+      "stadium": "El Sadar",
+      "colors": {
+        "primary": "#D91A21",
+        "secondary": "#0A346F"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Real Racing Club de Santander",
+      "shortName": "Racing",
+      "city": "Santander",
+      "province": "Cantabria",
+      "affiliation": "directa",
+      "stadium": "El Sardinero",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#008A3E"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Rayo Vallecano de Madrid",
+      "shortName": "Rayo",
+      "city": "Madrid",
+      "province": "Comunidad de Madrid",
+      "affiliation": "directa",
+      "stadium": "Estadio de Vallecas",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#E53027"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Real Betis Balompié",
+      "shortName": "Betis",
+      "city": "Sevilla",
+      "province": "Sevilla (Andalucía)",
+      "affiliation": "directa",
+      "stadium": "Estadio de La Cartuja",
+      "colors": {
+        "primary": "#00954C",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Real Madrid Club de Fútbol",
+      "shortName": "Real Madrid",
+      "city": "Madrid",
+      "province": "Comunidad de Madrid",
+      "affiliation": "directa",
+      "stadium": "Santiago Bernabéu",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#FEBE10"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Real Sociedad de Fútbol",
+      "shortName": "Real Sociedad",
+      "city": "San Sebastián",
+      "province": "Guipúzcoa (País Vasco)",
+      "affiliation": "directa",
+      "stadium": "Reale Arena",
+      "colors": {
+        "primary": "#0067B1",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Sevilla Fútbol Club",
+      "shortName": "Sevilla",
+      "city": "Sevilla",
+      "province": "Sevilla (Andalucía)",
+      "affiliation": "directa",
+      "stadium": "Ramón Sánchez-Pizjuán",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#D71920"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Valencia Club de Fútbol",
+      "shortName": "Valencia",
+      "city": "Valencia",
+      "province": "Valencia (Comunidad Valenciana)",
+      "affiliation": "directa",
+      "stadium": "Mestalla",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Villarreal Club de Fútbol",
+      "shortName": "Villarreal",
+      "city": "Villarreal",
+      "province": "Castellón (Comunidad Valenciana)",
+      "affiliation": "directa",
+      "stadium": "Estadio de la Cerámica",
+      "colors": {
+        "primary": "#FFE114",
+        "secondary": "#005187"
+      },
+      "stature": 4
+    }
+  ]
+}

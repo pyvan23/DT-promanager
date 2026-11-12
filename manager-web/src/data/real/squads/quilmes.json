@@ -1,0 +1,219 @@
+{
+  "club": "Quilmes",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Quilmes_Atl%C3%A9tico_Club"
+  ],
+  "players": [
+    {
+      "name": "Joaquín Canadell",
+      "position": "ARQ",
+      "birthDate": "2003-04-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Esteban Glellel",
+      "position": "ARQ",
+      "birthDate": "1999-01-06",
+      "nationality": "SYR"
+    },
+    {
+      "name": "Gonzalo Marinelli",
+      "position": "ARQ",
+      "birthDate": "1989-02-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Rodríguez",
+      "position": "ARQ",
+      "birthDate": "2006-04-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Amicone",
+      "position": "DFC",
+      "birthDate": "2004-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Bindella",
+      "position": "DFC",
+      "birthDate": "2001-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Colazo",
+      "position": "DFC",
+      "birthDate": "1990-07-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Closter",
+      "position": "DFC",
+      "birthDate": "2008-08-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ariel Kippes",
+      "position": "DFC",
+      "birthDate": "1994-02-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Lescano",
+      "position": "DFC",
+      "birthDate": "2006-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Luna",
+      "position": "DFC",
+      "birthDate": "2005-07-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Novillo",
+      "position": "DFC",
+      "birthDate": "1998-02-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Ortega",
+      "position": "DFC",
+      "birthDate": "2005-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thomas Ortega",
+      "position": "DFC",
+      "birthDate": "2000-12-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santino Rodríguez",
+      "position": "DFC",
+      "birthDate": "2006-03-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Romeo",
+      "position": "DFC",
+      "birthDate": "2004-05-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Vallejos",
+      "position": "DFC",
+      "birthDate": "2000-12-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Aimale",
+      "position": "MC",
+      "birthDate": "2009-12-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Bolívar",
+      "position": "MC",
+      "birthDate": "1996-01-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Marghetich",
+      "position": "MC",
+      "birthDate": "2005-01-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Martínez",
+      "position": "MC",
+      "birthDate": "2003-09-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Méndez",
+      "position": "MC",
+      "birthDate": "2008-01-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Vega",
+      "position": "MC",
+      "birthDate": "2007-08-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ulises Vera",
+      "position": "MC",
+      "birthDate": "2003-10-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Yangali",
+      "position": "MC",
+      "birthDate": "2000-03-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Yozwiak",
+      "position": "MC",
+      "birthDate": "2007-02-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Arias",
+      "position": "DC",
+      "birthDate": "2007-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Axel Batista",
+      "position": "DC",
+      "birthDate": "2002-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pío Bonacci",
+      "position": "DC",
+      "birthDate": "1998-10-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Ciari",
+      "position": "DC",
+      "birthDate": "2002-01-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jano Coronel",
+      "position": "DC",
+      "birthDate": "2004-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Fernández",
+      "position": "DC",
+      "birthDate": "1989-03-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Lavezzi",
+      "position": "DC",
+      "birthDate": "1996-01-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Aaron Spetale",
+      "position": "DC",
+      "birthDate": "2000-05-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Vázquez",
+      "position": "DC",
+      "birthDate": "2008-04-21",
+      "nationality": "ARG"
+    }
+  ]
+}

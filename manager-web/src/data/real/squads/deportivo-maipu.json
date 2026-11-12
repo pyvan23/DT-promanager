@@ -1,0 +1,207 @@
+{
+  "club": "Deportivo Maipú",
+  "season": 2026,
+  "sources": [
+    "https://espndeportes.espn.com/futbol/equipo/plantel/_/id/11978",
+    "https://canchallena.lanacion.com.ar/equipo/maipu-42hssvuutbdoneg2gqmctq10y/",
+    "https://www.diariouno.com.ar/ovacion/futbol/todas-las-novedades-del-deportivo-maipu-refuerzos-amistosos-y-luminarias-nuevas-n1516609",
+    "https://es.wikipedia.org/wiki/Club_Deportivo_Maip%C3%BA"
+  ],
+  "players": [
+    {
+      "name": "Luciano Peraggini",
+      "position": "ARQ",
+      "birthDate": "2002-02-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Galardi",
+      "position": "ARQ",
+      "birthDate": "2002-05-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Pavón",
+      "position": "ARQ",
+      "birthDate": "2004-07-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Ortale",
+      "position": "LD",
+      "birthDate": "2002-03-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo de la Reta",
+      "position": "LI",
+      "birthDate": "2005-05-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Faggioli",
+      "position": "DFC",
+      "birthDate": "1997-02-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Arnijas",
+      "position": "DFC",
+      "birthDate": "2003-03-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Ferreyra",
+      "position": "DFC",
+      "birthDate": "2002-04-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Leiva",
+      "position": "DFC",
+      "birthDate": "2005-05-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Arón Agüero",
+      "position": "DFC",
+      "altPositions": [
+        "MC"
+      ],
+      "birthDate": "2002-12-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Paulini",
+      "position": "DFC",
+      "altPositions": [
+        "MC"
+      ],
+      "birthDate": "2002-03-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Fernández",
+      "position": "MC",
+      "altPositions": [
+        "DFC"
+      ],
+      "birthDate": "2002-02-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Arno",
+      "position": "MC",
+      "altPositions": [
+        "DFC"
+      ],
+      "birthDate": "2004-07-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Pérez",
+      "position": "MC",
+      "birthDate": "1986-02-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fausto Montero",
+      "position": "MC",
+      "birthDate": "1988-10-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo Gobetto",
+      "position": "MC",
+      "birthDate": "1996-04-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Orosco",
+      "position": "MC",
+      "birthDate": "1998-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Viguet",
+      "position": "MC",
+      "birthDate": "1998-05-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Mansilla",
+      "position": "MC",
+      "birthDate": "1997-05-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mirko Bonfigli",
+      "position": "MC",
+      "birthDate": "2004-05-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Vera",
+      "position": "MC",
+      "birthDate": "2003-05-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Nazar",
+      "position": "MC",
+      "birthDate": "2006-02-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Silva",
+      "position": "MC",
+      "altPositions": [
+        "DC"
+      ],
+      "birthDate": "2001-01-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Gaitán",
+      "position": "DC",
+      "altPositions": [
+        "MC"
+      ],
+      "birthDate": "2005-05-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Saccone",
+      "position": "DC",
+      "altPositions": [
+        "MC"
+      ],
+      "birthDate": "2001-12-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lisandro Cabrera",
+      "position": "DC",
+      "birthDate": "1998-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Giacone",
+      "position": "DC",
+      "birthDate": "2004-01-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luca Landriel",
+      "position": "DC",
+      "birthDate": "2005-05-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Víctor Barrera",
+      "position": "DC",
+      "birthDate": "2007-05-14",
+      "nationality": "ARG"
+    }
+  ]
+}

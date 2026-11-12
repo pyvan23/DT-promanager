@@ -1,0 +1,202 @@
+{
+  "club": "Gimnasia (M)",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atlético_Gimnasia_y_Esgrima_(Mendoza)",
+    "https://gimnasiayesgrimamza.com.ar/"
+  ],
+  "players": [
+    {
+      "name": "Santiago Roggero",
+      "position": "ARQ",
+      "birthDate": "2001-09-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "César Rigamonti",
+      "position": "ARQ",
+      "birthDate": "1987-04-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Petruchi",
+      "position": "ARQ",
+      "birthDate": "1998-09-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Mondino",
+      "position": "DFC",
+      "birthDate": "1994-11-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Recalde",
+      "position": "DFC",
+      "birthDate": "1997-07-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Muñoz",
+      "position": "DFC",
+      "birthDate": "1990-10-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Imanol González",
+      "position": "DFC",
+      "birthDate": "1998-01-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Germán Guiffrey",
+      "position": "DFC",
+      "birthDate": "1997-12-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Franco",
+      "position": "DFC",
+      "birthDate": "1992-02-10",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Franco Saavedra",
+      "position": "DFC",
+      "birthDate": "2003-09-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Paredes",
+      "position": "DFC",
+      "birthDate": "2002-09-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ismael Cortéz",
+      "position": "DFC",
+      "birthDate": "2000-06-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gerónimo Patritti",
+      "position": "DFC",
+      "birthDate": "2003-01-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Carrera",
+      "position": "DFC",
+      "birthDate": "2003-05-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Barboza",
+      "position": "MC",
+      "birthDate": "1999-09-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ulises Sánchez",
+      "position": "MC",
+      "birthDate": "1998-06-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Ceballos",
+      "position": "MC",
+      "birthDate": "2004-09-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Ortiz",
+      "position": "MC",
+      "birthDate": "2000-03-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fermín Antonini",
+      "position": "MC",
+      "birthDate": "1997-07-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Úbeda",
+      "position": "MC",
+      "birthDate": "2004-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Lencioni",
+      "position": "MC",
+      "birthDate": "2001-02-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás O'Connor",
+      "position": "MC",
+      "birthDate": "2004-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Esteban Fernández",
+      "position": "MC",
+      "birthDate": "2002-01-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Cingolani",
+      "position": "DC",
+      "birthDate": "2001-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Vargas",
+      "position": "DC",
+      "birthDate": "1997-07-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Romano",
+      "position": "DC",
+      "birthDate": "1999-11-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Rodríguez",
+      "position": "DC",
+      "birthDate": "1997-08-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Sabatini",
+      "position": "DC",
+      "birthDate": "1999-06-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Blas Armoa",
+      "position": "DC",
+      "birthDate": "2000-02-03",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Agustín Módica",
+      "position": "DC",
+      "birthDate": "2003-01-12",
+      "nationality": "ITA"
+    },
+    {
+      "name": "Brian Andrada",
+      "position": "DC",
+      "birthDate": "1997-06-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentino Simoni",
+      "position": "DC",
+      "birthDate": "2004-04-30",
+      "nationality": "ARG"
+    }
+  ]
+}

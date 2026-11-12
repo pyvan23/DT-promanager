@@ -1,0 +1,47 @@
+{
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Conference_League",
+    "https://www.uefa.com/uefasupercup/news/02a9-2198b459d375-97fdf1034979-1000--2027-and-2028-super-cup-venues-confirmed/"
+  ],
+  "competitions": [
+    {
+      "id": "champions-league",
+      "name": "UEFA Champions League",
+      "teams": 36,
+      "leaguePhase": {"matchesPerTeam": 8, "homeMatches": 4, "awayMatches": 4, "pots": 4, "opponentsPerPot": 2, "directToRound16": 8, "playoffPlaces": [9, 24], "eliminatedPlaces": [25, 36]},
+      "knockout": "Tabla única de 36. 1.º-8.º directo a octavos; 9.º-24.º juegan play-off de eliminatorias a ida y vuelta (9-16 cabezas de serie vs 17-24); 25.º-36.º eliminados sin repesca. Octavos, cuartos y semifinales a ida y vuelta (cuadro fijo según posición en la fase de liga).",
+      "final": "partido único en sede neutral (2027: Estadio Metropolitano, Madrid, 5 jun 2027)",
+      "qualificationNotes": "Por coeficiente de federación: asociaciones 1-5 con 4 plazas directas a fase de liga, 6.ª con 3, 7-15 con 2, resto con 1 (campeón). 2 plazas extra (European Performance Spots) para las dos federaciones con mejor coeficiente de la temporada anterior (2026-27: Inglaterra y España). Campeones de asociaciones 1-10 directos; las demás plazas vía rondas previas (ruta de campeones: 5 plazas; ruta de liga: 2 plazas). Aprox. por liga: Alemania 4 directos; Portugal (7.ª) campeón directo + 2.º a 3.ª previa; Países Bajos, Bélgica: campeón directo o previa según ranking + 2.º a 3.ª previa; Escocia: campeón a previa (ruta de campeones)."
+    },
+    {
+      "id": "europa-league",
+      "name": "UEFA Europa League",
+      "teams": 36,
+      "leaguePhase": {"matchesPerTeam": 8, "homeMatches": 4, "awayMatches": 4, "pots": 4, "opponentsPerPot": 2, "directToRound16": 8, "playoffPlaces": [9, 24], "eliminatedPlaces": [25, 36]},
+      "knockout": "Igual que la Champions: 1.º-8.º a octavos, 9.º-24.º play-off a ida y vuelta, 25.º-36.º eliminados. Octavos, cuartos y semifinales a ida y vuelta. Los eliminados en previas de Champions caen a Europa League.",
+      "final": "partido único en sede neutral (2027: Deutsche Bank Park/Waldstadion, Fráncfort, 26 may 2027)",
+      "qualificationNotes": "Directos a fase de liga: campeón de la Conference League anterior, campeones de copa de las asociaciones 1-7, 5.º de las asociaciones 1-5, más perdedores de previas de Champions; 12 plazas vía ronda play-off. Aprox. por liga: Alemania 5.º + campeón de copa; Portugal campeón de copa directo y 3.º a 2.ª previa; Países Bajos/Bélgica/Escocia: campeón de copa y 3.º vía previas. El campeón de la Europa League obtiene plaza en la fase de liga de Champions."
+    },
+    {
+      "id": "conference-league",
+      "name": "UEFA Conference League",
+      "teams": 36,
+      "leaguePhase": {"matchesPerTeam": 6, "homeMatches": 3, "awayMatches": 3, "pots": 6, "opponentsPerPot": 1, "directToRound16": 8, "playoffPlaces": [9, 24], "eliminatedPlaces": [25, 36]},
+      "knockout": "1.º-8.º a octavos, 9.º-24.º play-off a ida y vuelta, 25.º-36.º eliminados. Octavos, cuartos y semifinales a ida y vuelta.",
+      "final": "partido único en sede neutral (2027: Estadio de Beşiktaş, Estambul)",
+      "qualificationNotes": "Sin plazas directas: los 36 llegan por previas (5 ganadores de ruta de campeones, 19 de ruta de liga, 12 perdedores del play-off de Europa League). Asociaciones 1-5 meten a su 6.º (o 7.º) en la ronda play-off; asociaciones menores entran desde 1.ª/2.ª previa con 2.º-4.º clasificados y campeón de copa. El campeón de la Conference obtiene plaza en la fase de liga de Europa League."
+    },
+    {
+      "id": "super-cup",
+      "name": "UEFA Super Cup",
+      "teams": 2,
+      "leaguePhase": null,
+      "knockout": "Partido único entre el campeón de Champions y el campeón de Europa League de la temporada anterior; prórroga no se juega: empate va directo a penales.",
+      "final": "partido único en sede neutral a mediados de agosto (2027: Johan Cruijff ArenA, Ámsterdam, 11 ago 2027)",
+      "qualificationNotes": "Campeón vigente de la Champions League vs campeón vigente de la Europa League."
+    }
+  ]
+}

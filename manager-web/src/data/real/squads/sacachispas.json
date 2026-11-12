@@ -1,0 +1,117 @@
+{
+  "club": "Sacachispas",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/sacachispas-fc/300",
+    "https://www.soloascenso.com.ar/sintesis/sacachispas-fc-sportivo-barracas/46173",
+    "https://www.soloascenso.com.ar/sintesis/sportivo-barracas-sacachispas-fc/46146",
+    "https://www.soloascenso.com.ar/sintesis/argentino-de-rosario-sacachispas-fc/45331",
+    "https://www.soloascenso.com.ar/sintesis/sacachispas-fc-estrella-del-sur-alejandro-korn/45312"
+  ],
+  "players": [
+    {
+      "name": "Neyder Aragón",
+      "position": "ARQ"
+    },
+    {
+      "name": "Ezequiel Barreiro",
+      "position": "ARQ"
+    },
+    {
+      "name": "Alan Abregú",
+      "position": "DFC"
+    },
+    {
+      "name": "Benjamín Arias",
+      "position": "DFC"
+    },
+    {
+      "name": "Alan Buonofiglio",
+      "position": "DFC"
+    },
+    {
+      "name": "Luis Lorenzi",
+      "position": "DFC"
+    },
+    {
+      "name": "Ezequiel Moschen",
+      "position": "DFC"
+    },
+    {
+      "name": "Gonzalo Rocaniere",
+      "position": "DFC"
+    },
+    {
+      "name": "Uriel Sosa",
+      "position": "DFC"
+    },
+    {
+      "name": "Emanuel Abregú",
+      "position": "MC"
+    },
+    {
+      "name": "Emanuel Barreiro",
+      "position": "MC"
+    },
+    {
+      "name": "Lucas Díaz",
+      "position": "MC"
+    },
+    {
+      "name": "Facundo Durso",
+      "position": "MC"
+    },
+    {
+      "name": "Santiago Gallardo",
+      "position": "MC"
+    },
+    {
+      "name": "Tomás Magnano",
+      "position": "MC"
+    },
+    {
+      "name": "Valentín Mancuso",
+      "position": "MC"
+    },
+    {
+      "name": "Diego Molina Fariña",
+      "position": "MC"
+    },
+    {
+      "name": "Alejo Monje",
+      "position": "MC"
+    },
+    {
+      "name": "Nicolás Navarro",
+      "position": "MC"
+    },
+    {
+      "name": "Ricardo Priori",
+      "position": "MC"
+    },
+    {
+      "name": "Leandro Ríos",
+      "position": "MC"
+    },
+    {
+      "name": "Lautaro Torres",
+      "position": "MC"
+    },
+    {
+      "name": "Gerónimo Cardozo",
+      "position": "DC"
+    },
+    {
+      "name": "Ernesto Gallardo",
+      "position": "DC"
+    },
+    {
+      "name": "Santiago Romero",
+      "position": "DC"
+    },
+    {
+      "name": "Gonzalo Vivanco",
+      "position": "DC"
+    }
+  ]
+}

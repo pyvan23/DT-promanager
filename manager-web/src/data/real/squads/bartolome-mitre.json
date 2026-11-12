@@ -1,0 +1,201 @@
+{
+  "club": "Bartolomé Mitre",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Bartolome-Mitre-42.html"
+  ],
+  "players": [
+    {
+      "name": "Guillermo Bachke",
+      "position": "ARQ",
+      "birthDate": "1997-03-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Galeano",
+      "position": "ARQ",
+      "birthDate": "1994-11-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luis Uliambre",
+      "position": "ARQ",
+      "birthDate": "1995-04-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Arregui",
+      "position": "DFC",
+      "birthDate": "1998-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Barrientos",
+      "position": "DFC",
+      "birthDate": "1998-10-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ian Barrios",
+      "position": "DFC",
+      "birthDate": "2001-09-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Basualdo",
+      "position": "DFC",
+      "birthDate": "2002-09-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Canzoniero",
+      "position": "DFC",
+      "birthDate": "2000-03-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Espindola",
+      "position": "DFC",
+      "birthDate": "1996-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Katriel Lukoski",
+      "position": "DFC",
+      "birthDate": "2001-12-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Medina",
+      "position": "DFC",
+      "birthDate": "2004-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Olivier Paz Benítez",
+      "position": "DFC",
+      "birthDate": "1991-06-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Richard Rodriguez",
+      "position": "DFC",
+      "birthDate": "1993-11-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Sotelo",
+      "position": "DFC",
+      "birthDate": "2008-10-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Manuel Zarza",
+      "position": "DFC",
+      "birthDate": "1997-03-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jean Paul Arraya",
+      "position": "MC",
+      "birthDate": "2001-04-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Efrain Benítez",
+      "position": "MC",
+      "birthDate": "2007-07-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Cerdan",
+      "position": "MC",
+      "birthDate": "1998-11-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Milton Colman",
+      "position": "MC",
+      "birthDate": "2007-09-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Miguel Ángel Comes",
+      "position": "MC",
+      "birthDate": "1989-11-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Esquivel",
+      "position": "MC",
+      "birthDate": "2001-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Miguel Ángel Mendez",
+      "position": "MC",
+      "birthDate": "2003-03-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Morales",
+      "position": "MC",
+      "birthDate": "1987-01-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Robles",
+      "position": "MC",
+      "birthDate": "2000-10-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Walter Romero",
+      "position": "MC",
+      "birthDate": "2000-04-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Sarza",
+      "position": "MC",
+      "birthDate": "2006-05-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Axel Silva",
+      "position": "MC",
+      "birthDate": "2002-11-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julio Cesar Caceres",
+      "position": "DC",
+      "birthDate": "1988-03-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Caceres",
+      "position": "DC",
+      "birthDate": "2004-02-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Golomba",
+      "position": "DC",
+      "birthDate": "2001-12-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alvaro Klusener",
+      "position": "DC",
+      "birthDate": "1990-05-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Javier Román Peñaloza",
+      "position": "DC",
+      "birthDate": "1999-05-29",
+      "nationality": "ARG"
+    }
+  ]
+}

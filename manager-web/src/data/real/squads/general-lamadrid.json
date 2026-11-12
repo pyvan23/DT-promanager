@@ -1,0 +1,149 @@
+{
+  "club": "General Lamadrid",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/general-lamadrid/278"
+  ],
+  "players": [
+    {
+      "name": "Tiziano Colla",
+      "position": "ARQ"
+    },
+    {
+      "name": "Franco Davalos",
+      "position": "ARQ"
+    },
+    {
+      "name": "Matías Velázquez",
+      "position": "ARQ"
+    },
+    {
+      "name": "Luan Carusso",
+      "position": "DFC"
+    },
+    {
+      "name": "Valentino Colla",
+      "position": "DFC"
+    },
+    {
+      "name": "Ivo Gutiérrez",
+      "position": "DFC"
+    },
+    {
+      "name": "Jonathan Irala",
+      "position": "DFC"
+    },
+    {
+      "name": "Lucas Nuesch",
+      "position": "DFC"
+    },
+    {
+      "name": "Thiago Pittella",
+      "position": "DFC"
+    },
+    {
+      "name": "Diego Vitale",
+      "position": "DFC"
+    },
+    {
+      "name": "Damián Zadel",
+      "position": "DFC"
+    },
+    {
+      "name": "Carlos Zalazar",
+      "position": "DFC"
+    },
+    {
+      "name": "Brandon Balbachán",
+      "position": "MC"
+    },
+    {
+      "name": "Francisco Crespi",
+      "position": "MC"
+    },
+    {
+      "name": "Facundo Figueroa",
+      "position": "MC"
+    },
+    {
+      "name": "Gianluca Francone",
+      "position": "MC"
+    },
+    {
+      "name": "Thiago Gaeto",
+      "position": "MC"
+    },
+    {
+      "name": "Claudio Galeano",
+      "position": "MC"
+    },
+    {
+      "name": "Valentino Lozano",
+      "position": "MC"
+    },
+    {
+      "name": "Lorenzo Luna",
+      "position": "MC"
+    },
+    {
+      "name": "Ramiro Maccarone",
+      "position": "MC"
+    },
+    {
+      "name": "Ángel Ola",
+      "position": "MC"
+    },
+    {
+      "name": "Alejo Roa",
+      "position": "MC"
+    },
+    {
+      "name": "Martín Sarandeses",
+      "position": "MC"
+    },
+    {
+      "name": "Lucas Sesano",
+      "position": "MC"
+    },
+    {
+      "name": "Martin Spaccarotella",
+      "position": "MC"
+    },
+    {
+      "name": "Alexis Vázquez",
+      "position": "MC"
+    },
+    {
+      "name": "Tobías Vedovati",
+      "position": "MC"
+    },
+    {
+      "name": "Hugo Zarco",
+      "position": "MC"
+    },
+    {
+      "name": "Matías Bilbao",
+      "position": "DC"
+    },
+    {
+      "name": "Agustín Bracco",
+      "position": "DC"
+    },
+    {
+      "name": "Agustín Fernández",
+      "position": "DC"
+    },
+    {
+      "name": "Miqueas González",
+      "position": "DC"
+    },
+    {
+      "name": "Ezequiel Madariaga",
+      "position": "DC"
+    },
+    {
+      "name": "Darío Nami",
+      "position": "DC"
+    }
+  ]
+}

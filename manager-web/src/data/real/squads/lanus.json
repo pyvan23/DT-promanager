@@ -1,0 +1,171 @@
+{
+  "club": "Lanús",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atlético_Lanús"
+  ],
+  "players": [
+    {
+      "name": "Franco Petroli",
+      "position": "ARQ",
+      "birthDate": "1998-06-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Losada",
+      "position": "ARQ",
+      "birthDate": "1993-04-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Joaquin Romero",
+      "position": "DFC",
+      "birthDate": "2006-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Morgantini",
+      "position": "DFC",
+      "birthDate": "1994-09-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Pérez",
+      "position": "DFC",
+      "birthDate": "2001-01-04",
+      "nationality": "URY"
+    },
+    {
+      "name": "Sasha Marcich",
+      "position": "DFC",
+      "birthDate": "1998-05-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "José Canale",
+      "position": "DFC",
+      "birthDate": "1996-07-20",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Carlos Izquierdoz",
+      "position": "DFC",
+      "birthDate": "1988-11-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Octavio Ontivero",
+      "position": "DFC",
+      "birthDate": "2006-01-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Guidara",
+      "position": "DFC",
+      "birthDate": "1996-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ronaldo Dejesús",
+      "position": "DFC",
+      "birthDate": "2001-04-21",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Felipe Peña Biafore",
+      "position": "MC",
+      "birthDate": "2001-04-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Watson",
+      "position": "MC",
+      "birthDate": "2002-07-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcelino Moreno",
+      "position": "MC",
+      "birthDate": "1995-06-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Raúl Loaiza",
+      "position": "MC",
+      "birthDate": "1994-06-08",
+      "nationality": "COL"
+    },
+    {
+      "name": "Matías Sepúlveda",
+      "position": "MC",
+      "birthDate": "1999-03-12",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Agustín Medina",
+      "position": "MC",
+      "birthDate": "2006-10-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Carrera",
+      "position": "MC",
+      "birthDate": "1993-10-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Martín Sánchez",
+      "position": "MC",
+      "birthDate": "2005-08-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Cardozo",
+      "position": "MC",
+      "birthDate": "1997-05-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Eduardo Salvio",
+      "position": "DC",
+      "birthDate": "1990-07-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Chavero",
+      "position": "DC",
+      "birthDate": "2006-05-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yoshan Valois",
+      "position": "DC",
+      "birthDate": "2004-10-04",
+      "nationality": "COL"
+    },
+    {
+      "name": "Allan Wlk",
+      "position": "DC",
+      "birthDate": "2003-03-01",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Dylan Aquino",
+      "position": "DC",
+      "birthDate": "2005-06-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thomás De Martis",
+      "position": "DC",
+      "birthDate": "2008-06-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Besozzi",
+      "position": "DC",
+      "birthDate": "2003-01-22",
+      "nationality": "ARG"
+    }
+  ]
+}

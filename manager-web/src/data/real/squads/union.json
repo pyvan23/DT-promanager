@@ -1,0 +1,213 @@
+{
+  "club": "Unión",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Uni%C3%B3n_(Santa_Fe)"
+  ],
+  "players": [
+    {
+      "name": "Matías Mansilla",
+      "position": "ARQ",
+      "birthDate": "1996-01-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Gomes Gerth",
+      "position": "ARQ",
+      "birthDate": "2004-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Meuli",
+      "position": "ARQ",
+      "birthDate": "2001-06-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Chávez",
+      "position": "ARQ",
+      "birthDate": "2005-10-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Rocha",
+      "position": "DFC",
+      "birthDate": "2001-02-13",
+      "nationality": "URY"
+    },
+    {
+      "name": "Bruno Pittón",
+      "position": "DFC",
+      "birthDate": "1993-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pintado",
+      "position": "DFC",
+      "birthDate": "1997-07-28",
+      "nationality": "URY"
+    },
+    {
+      "name": "Lucas Ayala",
+      "position": "DFC",
+      "birthDate": "2007-02-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo Ludueña",
+      "position": "DFC",
+      "birthDate": "2003-02-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tobías Rubio",
+      "position": "DFC",
+      "birthDate": "2004-07-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nazareno Fazzi",
+      "position": "DFC",
+      "birthDate": "2006-12-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Isla",
+      "position": "DFC",
+      "birthDate": "2006-07-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Vargas",
+      "position": "DFC",
+      "birthDate": "2005-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Aimar",
+      "position": "DFC",
+      "birthDate": "2006-02-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Fagioli",
+      "position": "DFC",
+      "birthDate": "2005-08-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Menossi",
+      "position": "MC",
+      "birthDate": "1992-07-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emilio Giaccone",
+      "position": "MC",
+      "birthDate": "2005-01-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Malcorra",
+      "position": "MC",
+      "birthDate": "1987-07-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Luna Diale",
+      "position": "MC",
+      "birthDate": "1999-04-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Cacciabue",
+      "position": "MC",
+      "birthDate": "2007-06-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Mosqueira",
+      "position": "MC",
+      "birthDate": "2004-11-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Palacios",
+      "position": "MC",
+      "birthDate": "1999-02-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brahian Cuello",
+      "position": "MC",
+      "birthDate": "1997-09-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Augusto Solari",
+      "position": "MC",
+      "birthDate": "1992-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santino Vera",
+      "position": "MC",
+      "birthDate": "2006-04-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Misael Aguirre",
+      "position": "MC",
+      "birthDate": "2007-10-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Peresutti",
+      "position": "MC",
+      "birthDate": "2006-12-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Grella",
+      "position": "MC",
+      "birthDate": "2005-03-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Fragapane",
+      "position": "DC",
+      "birthDate": "1993-02-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcelo Estigarribia",
+      "position": "DC",
+      "birthDate": "1995-04-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Tarragona",
+      "position": "DC",
+      "birthDate": "1991-04-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Cerrudo",
+      "position": "DC",
+      "birthDate": "2006-03-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Eric Ramírez",
+      "position": "DC",
+      "birthDate": "1996-09-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ricardo Solbes",
+      "position": "DC",
+      "birthDate": "2006-07-08",
+      "nationality": "ARG"
+    }
+  ]
+}

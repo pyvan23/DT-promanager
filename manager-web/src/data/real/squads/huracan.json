@@ -1,0 +1,189 @@
+{
+  "club": "Huracán",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atlético_Huracán"
+  ],
+  "players": [
+    {
+      "name": "Hernán Galíndez",
+      "position": "ARQ",
+      "birthDate": "1987-03-30",
+      "nationality": "ECU"
+    },
+    {
+      "name": "Nazareno Durán",
+      "position": "ARQ",
+      "birthDate": "2004-05-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Meza",
+      "position": "ARQ",
+      "birthDate": "2000-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Blondel",
+      "position": "DFC",
+      "birthDate": "1996-09-14",
+      "nationality": "CHE"
+    },
+    {
+      "name": "Federico Vera",
+      "position": "DFC",
+      "birthDate": "1998-03-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabio Pereyra",
+      "position": "DFC",
+      "birthDate": "1990-01-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Lescano",
+      "position": "DFC",
+      "birthDate": "2006-01-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Nervo",
+      "position": "DFC",
+      "birthDate": "1991-01-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Daniel Zabala",
+      "position": "DFC",
+      "birthDate": "2003-01-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "César Ibáñez",
+      "position": "DFC",
+      "birthDate": "1999-06-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nehuén Paz",
+      "position": "DFC",
+      "birthDate": "1993-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Campo",
+      "position": "DFC",
+      "birthDate": "2005-03-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Máximo Palazzo",
+      "position": "DFC",
+      "birthDate": "2005-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Villar",
+      "position": "DFC",
+      "birthDate": "2001-01-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Gil",
+      "position": "MC",
+      "birthDate": "1991-05-31",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Óscar Romero",
+      "position": "MC",
+      "birthDate": "1992-07-04",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Facundo Waller",
+      "position": "MC",
+      "birthDate": "1997-04-09",
+      "nationality": "URY"
+    },
+    {
+      "name": "Emmanuel Ojeda",
+      "position": "MC",
+      "birthDate": "1997-11-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thaiel Peralta",
+      "position": "MC",
+      "birthDate": "2008-09-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luca Babino",
+      "position": "MC",
+      "birthDate": "2005-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Mora",
+      "position": "MC",
+      "birthDate": "2005-02-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Kalinger",
+      "position": "MC",
+      "birthDate": "2005-01-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Luján",
+      "position": "MC",
+      "birthDate": "2002-01-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Fernández Cedrés",
+      "position": "MC",
+      "birthDate": "1996-01-03",
+      "nationality": "URY"
+    },
+    {
+      "name": "Óscar Cortés",
+      "position": "DC",
+      "birthDate": "2003-12-03",
+      "nationality": "COL"
+    },
+    {
+      "name": "Jordy Caicedo",
+      "position": "DC",
+      "birthDate": "1997-11-18",
+      "nationality": "ECU"
+    },
+    {
+      "name": "Alejandro Martínez",
+      "position": "DC",
+      "birthDate": "1997-04-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Bisanz",
+      "position": "DC",
+      "birthDate": "2001-08-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Sequeira",
+      "position": "DC",
+      "birthDate": "1995-04-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Pussetto",
+      "position": "DC",
+      "birthDate": "1995-12-21",
+      "nationality": "ARG"
+    }
+  ]
+}

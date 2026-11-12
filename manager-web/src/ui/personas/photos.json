@@ -1,0 +1,54 @@
+{
+  "medico": [
+    "medico-1.jpg",
+    "medico-2.jpg"
+  ],
+  "presidente": [
+    "presidente-1.jpg",
+    "presidente-2.jpg",
+    "presidente-3.jpg"
+  ],
+  "secretario-tecnico": [
+    "secretario-tecnico-1.jpg",
+    "secretario-tecnico-2.jpg",
+    "secretario-tecnico-3.jpg",
+    "secretario-tecnico-4.jpg"
+  ],
+  "representante": [
+    "representante-1.jpg",
+    "representante-2.jpg",
+    "representante-3.jpg"
+  ],
+  "ojeador": [
+    "ojeador-1.jpg",
+    "ojeador-2.jpg",
+    "ojeador-3.jpg"
+  ],
+  "preparador-fisico": [
+    "preparador-fisico-1.jpg",
+    "preparador-fisico-2.jpg",
+    "preparador-fisico-3.jpg"
+  ],
+  "segundo-entrenador": [
+    "segundo-entrenador-1.jpg",
+    "segundo-entrenador-2.jpg",
+    "segundo-entrenador-3.jpg"
+  ],
+  "entrenador-juveniles": [
+    "entrenador-juveniles-1.jpg",
+    "entrenador-juveniles-2.jpg"
+  ],
+  "tesorero": [
+    "tesorero-1.jpg",
+    "tesorero-2.jpg",
+    "tesorero-3.jpg"
+  ],
+  "periodista": [
+    "periodista-1.jpg",
+    "periodista-2.jpg",
+    "periodista-3.jpg"
+  ],
+  "hincha": [
+    "hincha-1.jpg"
+  ]
+}

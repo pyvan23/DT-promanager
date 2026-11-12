@@ -1,0 +1,219 @@
+{
+  "club": "Gimnasia (LP)",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_de_Gimnasia_y_Esgrima_La_Plata"
+  ],
+  "players": [
+    {
+      "name": "Máximo Cabrera",
+      "position": "ARQ",
+      "birthDate": "2006-08-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Harlen Castillo",
+      "position": "ARQ",
+      "birthDate": "1993-08-17",
+      "nationality": "COL"
+    },
+    {
+      "name": "Nelson Insfrán",
+      "position": "ARQ",
+      "birthDate": "1995-05-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Kadijevic",
+      "position": "ARQ",
+      "birthDate": "2004-01-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Renzo Giampaoli",
+      "position": "DFC",
+      "birthDate": "2000-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Mastrángelo",
+      "position": "DFC",
+      "birthDate": "2002-11-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Germán Conti",
+      "position": "DFC",
+      "birthDate": "1994-06-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Errecalde",
+      "position": "DFC",
+      "birthDate": "2000-03-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Gelsomino",
+      "position": "DFC",
+      "birthDate": "2005-05-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Martínez",
+      "position": "DFC",
+      "birthDate": "1998-01-29",
+      "nationality": "URY"
+    },
+    {
+      "name": "Matías Melluso",
+      "position": "DFC",
+      "birthDate": "1998-06-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pedro Silva Torrejón",
+      "position": "DFC",
+      "birthDate": "1997-01-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Steimbach",
+      "position": "DFC",
+      "birthDate": "2002-07-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Corbalán",
+      "position": "DFC",
+      "birthDate": "2003-09-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bautista Barros Schelotto",
+      "position": "DFC",
+      "birthDate": "2000-01-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Cortazzo",
+      "position": "DFC",
+      "birthDate": "2005-10-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Miramón",
+      "position": "MC",
+      "birthDate": "2003-06-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Fernández",
+      "position": "MC",
+      "birthDate": "1990-01-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Augusto Max",
+      "position": "MC",
+      "birthDate": "1992-08-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Seoane",
+      "position": "MC",
+      "birthDate": "2004-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan José Pérez",
+      "position": "MC",
+      "birthDate": "2004-07-25",
+      "nationality": "COL"
+    },
+    {
+      "name": "Pablo Aguiar",
+      "position": "MC",
+      "birthDate": "2006-03-18",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Leandro Mamut",
+      "position": "MC",
+      "birthDate": "2003-12-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Di Biasi",
+      "position": "MC",
+      "birthDate": "2005-06-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Villarreal",
+      "position": "MC",
+      "birthDate": "2005-11-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Panaro",
+      "position": "DC",
+      "birthDate": "2002-12-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ivo Mammini",
+      "position": "DC",
+      "birthDate": "2003-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Janson",
+      "position": "DC",
+      "birthDate": "1994-08-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Colazo",
+      "position": "DC",
+      "birthDate": "2000-11-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Torres",
+      "position": "DC",
+      "birthDate": "1999-05-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Auzmendi",
+      "position": "DC",
+      "birthDate": "1997-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcelo Torres",
+      "position": "DC",
+      "birthDate": "1997-11-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Zalazar",
+      "position": "DC",
+      "birthDate": "2001-03-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Napolitano",
+      "position": "DC",
+      "birthDate": "2005-09-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Croce",
+      "position": "DC",
+      "birthDate": "2005-04-26",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "club": "Estudiantes (RC)",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Asociación_Atlética_Estudiantes"
+  ],
+  "players": [
+    {
+      "name": "Lucas Bruera",
+      "position": "ARQ",
+      "birthDate": "1997-10-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Gualtieri",
+      "position": "ARQ",
+      "birthDate": "2003-03-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Lastra",
+      "position": "ARQ",
+      "birthDate": "2001-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Maffini",
+      "position": "DFC",
+      "birthDate": "1993-01-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Fenoglio",
+      "position": "DFC",
+      "birthDate": "2003-09-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Antonini",
+      "position": "DFC",
+      "birthDate": "1999-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo González",
+      "position": "DFC",
+      "birthDate": "2003-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Ruiz Díaz",
+      "position": "DFC",
+      "birthDate": "1996-09-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Rodríguez",
+      "position": "DFC",
+      "birthDate": "2000-10-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Cobos",
+      "position": "DFC",
+      "birthDate": "1993-02-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sergio Ojeda",
+      "position": "DFC",
+      "birthDate": "1992-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Valenti",
+      "position": "DFC",
+      "birthDate": "2002-09-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Raúl Lozano",
+      "position": "DFC",
+      "birthDate": "1997-09-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Baños",
+      "position": "DFC",
+      "birthDate": "2005-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Quiroga",
+      "position": "DFC",
+      "birthDate": "2002-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Cabrera",
+      "position": "MC",
+      "birthDate": "1992-09-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Siro Rosané",
+      "position": "MC",
+      "birthDate": "2000-06-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás González",
+      "position": "MC",
+      "birthDate": "1998-11-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Romero",
+      "position": "MC",
+      "birthDate": "1999-03-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Alanís",
+      "position": "MC",
+      "birthDate": "1994-03-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Talpone",
+      "position": "MC",
+      "birthDate": "1996-04-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Forclaz",
+      "position": "MC",
+      "birthDate": "2003-04-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francesco Lo Celso",
+      "position": "MC",
+      "birthDate": "2000-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas González",
+      "position": "DC",
+      "birthDate": "1997-07-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Javier Ferreira",
+      "position": "DC",
+      "birthDate": "1992-02-15",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Martín Garnerone",
+      "position": "DC",
+      "birthDate": "1998-09-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yeison Moreno",
+      "position": "DC",
+      "birthDate": "1997-04-08",
+      "nationality": "COL"
+    },
+    {
+      "name": "Mauro Valiente",
+      "position": "DC",
+      "birthDate": "2000-01-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Garro",
+      "position": "DC",
+      "birthDate": "1992-11-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Molina",
+      "position": "DC",
+      "birthDate": "1999-07-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Bajamich",
+      "position": "DC",
+      "birthDate": "1999-08-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramón Ábila",
+      "position": "DC",
+      "birthDate": "1989-10-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ibrahim Hesar",
+      "position": "DC",
+      "birthDate": "1993-11-15",
+      "nationality": "SYR"
+    }
+  ]
+}

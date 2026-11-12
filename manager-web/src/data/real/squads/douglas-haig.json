@@ -1,0 +1,170 @@
+{
+  "club": "Douglas Haig",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Template:Douglas_Haig_squad",
+    "http://www.bdfa.com.ar/plantel-Douglas-Haig-1041.html",
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Douglas_Haig"
+  ],
+  "players": [
+    {
+      "name": "Juan Ignacio Carrera",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Perrone",
+      "position": "ARQ",
+      "birthDate": "1999-08-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Auil",
+      "position": "ARQ",
+      "birthDate": "2002-05-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Pezzi",
+      "position": "DFC",
+      "birthDate": "1997-01-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas López",
+      "position": "DFC",
+      "birthDate": "1994-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Canela",
+      "position": "DFC",
+      "birthDate": "2004-03-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mariano Mauri",
+      "position": "DFC",
+      "birthDate": "1994-08-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Cuello",
+      "position": "DFC",
+      "birthDate": "2000-07-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Caballo",
+      "position": "MC",
+      "birthDate": "1999-06-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Meza",
+      "position": "MC",
+      "birthDate": "1991-07-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Gómez",
+      "position": "MC",
+      "birthDate": "2003-03-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Ojeda",
+      "position": "MC",
+      "birthDate": "2001-08-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Robertino Seratto",
+      "position": "MC",
+      "birthDate": "2001-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Giménez",
+      "position": "MC",
+      "birthDate": "1997-07-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Castellano",
+      "position": "MC",
+      "birthDate": "2001-11-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Pereira",
+      "position": "MC",
+      "birthDate": "1994-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Boris Magnago",
+      "position": "DFC",
+      "birthDate": "2001-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Ponce de León",
+      "position": "DC",
+      "birthDate": "1998-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Arriola",
+      "position": "MC",
+      "birthDate": "1992-03-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Cabalucci",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elián Tus",
+      "position": "DC",
+      "birthDate": "2002-02-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Muriel Orlando",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonatan Palacio",
+      "position": "DC",
+      "birthDate": "2000-02-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio González",
+      "position": "DC",
+      "birthDate": "2001-02-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Simón Fiorito",
+      "position": "DC",
+      "birthDate": "2005-04-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luka Rosciano",
+      "position": "DC",
+      "birthDate": "2005-06-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Reta",
+      "position": "DC",
+      "birthDate": "2008-06-29",
+      "nationality": "ARG"
+    }
+  ]
+}

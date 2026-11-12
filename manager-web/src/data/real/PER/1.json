@@ -1,0 +1,252 @@
+{
+  "division": "PER-1",
+  "country": "PER",
+  "name": "Liga 1",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Liga_1_(Peru)",
+    "https://es.wikipedia.org/wiki/Liga_1_2026_(Per%C3%BA)",
+    "https://liga1.pe/"
+  ],
+  "formatNotes": "18 equipos. Torneo Apertura (17 fechas, una vuelta) y Clausura (17 fechas, localías invertidas); tabla acumulada para cupos y descenso. Play-offs: ganadores de Apertura y Clausura (si están en el top 8 acumulado) y los mejores del acumulado, con semifinales y final a ida y vuelta. Descienden los 2 últimos del acumulado (17.º y 18.º) a Liga 2. Ascendidos 2026: Cajamarca y Deportivo Moquegua (descendieron Ayacucho, Alianza Universidad y Binacional; la liga pasó de 19 a 18). Copa Libertadores: 4 cupos (top 4, ordenados por los play-offs). Copa Sudamericana: 4 cupos (5.º a 8.º del acumulado).",
+  "domesticCup": {
+    "name": "Copa de la Liga",
+    "formatNotes": "Nueva copa 2026 con 34 clubes de Liga 1 y Liga 2: fase de grupos (todos contra todos) y eliminatorias desde octavos hasta la final (junio-noviembre). El campeón suma 2 puntos y el subcampeón 1 en la tabla acumulada de 2027."
+  },
+  "clubs": [
+    {
+      "name": "Asociación Deportiva Tarma",
+      "shortName": "ADT",
+      "city": "Tarma",
+      "province": "Junín",
+      "affiliation": "directa",
+      "stadium": "Unión Tarma",
+      "colors": {
+        "primary": "#6CACE4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Alianza Atlético de Sullana",
+      "shortName": "Alianza Atlético",
+      "city": "Sullana",
+      "province": "Piura",
+      "affiliation": "directa",
+      "stadium": "Campeones del 36",
+      "colors": {
+        "primary": "#003DA5",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Alianza Lima",
+      "shortName": "Alianza Lima",
+      "city": "Lima",
+      "province": "Lima",
+      "affiliation": "directa",
+      "stadium": "Alejandro Villanueva",
+      "colors": {
+        "primary": "#002D72",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Club Atlético Grau",
+      "shortName": "Atlético Grau",
+      "city": "Piura",
+      "province": "Piura",
+      "affiliation": "directa",
+      "stadium": "Campeones del 36 (Sullana)",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#C8102E"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Fútbol Club Cajamarca",
+      "shortName": "Cajamarca",
+      "city": "Cajamarca",
+      "province": "Cajamarca",
+      "affiliation": "directa",
+      "stadium": "Héroes de San Ramón",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Cienciano",
+      "shortName": "Cienciano",
+      "city": "Cusco",
+      "province": "Cusco",
+      "affiliation": "directa",
+      "stadium": "Garcilaso",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Comerciantes Unidos",
+      "shortName": "Comerciantes Unidos",
+      "city": "Cutervo",
+      "province": "Cajamarca",
+      "affiliation": "directa",
+      "stadium": "Juan Maldonado Gamarra",
+      "colors": {
+        "primary": "#4FA3DB",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Cusco Fútbol Club",
+      "shortName": "Cusco FC",
+      "city": "Cusco",
+      "province": "Cusco",
+      "affiliation": "directa",
+      "stadium": "Garcilaso",
+      "colors": {
+        "primary": "#F2C200",
+        "secondary": "#002F6C"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Deportivo Garcilaso",
+      "shortName": "Garcilaso",
+      "city": "Cusco",
+      "province": "Cusco",
+      "affiliation": "directa",
+      "stadium": "Garcilaso",
+      "colors": {
+        "primary": "#87CEEB",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo Moquegua",
+      "shortName": "Moquegua",
+      "city": "Moquegua",
+      "province": "Moquegua",
+      "affiliation": "directa",
+      "stadium": "25 de Noviembre",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Juan Pablo II College",
+      "shortName": "Juan Pablo II",
+      "city": "Chongoyape",
+      "province": "Lambayeque",
+      "affiliation": "directa",
+      "stadium": "Complejo Juan Pablo II",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#FFD100"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Los Chankas",
+      "shortName": "Los Chankas",
+      "city": "Andahuaylas",
+      "province": "Apurímac",
+      "affiliation": "directa",
+      "stadium": "Los Chankas",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "FBC Melgar",
+      "shortName": "Melgar",
+      "city": "Arequipa",
+      "province": "Arequipa",
+      "affiliation": "directa",
+      "stadium": "Virgen de Chapi",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#C8102E"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Sport Boys Association",
+      "shortName": "Sport Boys",
+      "city": "Callao",
+      "province": "Callao",
+      "affiliation": "directa",
+      "stadium": "Miguel Grau",
+      "colors": {
+        "primary": "#F7A8C4",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Sport Huancayo",
+      "shortName": "Sport Huancayo",
+      "city": "Huancayo",
+      "province": "Junín",
+      "affiliation": "directa",
+      "stadium": "Huancayo",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Sporting Cristal",
+      "shortName": "Sporting Cristal",
+      "city": "Lima",
+      "province": "Lima",
+      "affiliation": "directa",
+      "stadium": "Alberto Gallardo",
+      "colors": {
+        "primary": "#00A3E0",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Club Universitario de Deportes",
+      "shortName": "Universitario",
+      "city": "Lima",
+      "province": "Lima",
+      "affiliation": "directa",
+      "stadium": "Monumental",
+      "colors": {
+        "primary": "#F2E6C9",
+        "secondary": "#7A1F2B"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Universidad Técnica de Cajamarca",
+      "shortName": "UTC",
+      "city": "Cajamarca",
+      "province": "Cajamarca",
+      "affiliation": "directa",
+      "stadium": "Héroes de San Ramón",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    }
+  ]
+}

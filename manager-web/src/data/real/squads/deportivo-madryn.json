@@ -1,0 +1,213 @@
+{
+  "club": "Deportivo Madryn",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Madryn"
+  ],
+  "players": [
+    {
+      "name": "Yair Bonnín",
+      "position": "ARQ",
+      "birthDate": "1990-09-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Toffoletti",
+      "position": "ARQ",
+      "birthDate": "2004-11-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Roberto León",
+      "position": "ARQ",
+      "birthDate": "2001-08-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Nievas",
+      "position": "ARQ",
+      "birthDate": "1998-04-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Montero",
+      "position": "ARQ",
+      "birthDate": "1997-01-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Giacopuzzi",
+      "position": "DFC",
+      "birthDate": "2001-04-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Ortíz",
+      "position": "DFC",
+      "birthDate": "1995-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Gutiérrez",
+      "position": "DFC",
+      "birthDate": "1995-01-02",
+      "nationality": "COL"
+    },
+    {
+      "name": "Franco Godoy",
+      "position": "DFC",
+      "birthDate": "2000-06-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Martínez",
+      "position": "DFC",
+      "birthDate": "1992-07-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Obdrzalek",
+      "position": "DFC",
+      "birthDate": "2000-10-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Sosa",
+      "position": "DFC",
+      "birthDate": "2000-08-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Yossen",
+      "position": "DFC",
+      "birthDate": "2004-07-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Víctor Cabrera",
+      "position": "DFC",
+      "birthDate": "2003-02-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Ayala",
+      "position": "DFC",
+      "birthDate": "1994-08-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Álvaro Dionisio",
+      "position": "DFC",
+      "birthDate": "1998-04-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Estanislao Jara",
+      "position": "MC",
+      "birthDate": "1999-09-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Recalde",
+      "position": "MC",
+      "birthDate": "1996-08-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yvo Calleros",
+      "position": "MC",
+      "birthDate": "1998-03-14",
+      "nationality": "URY"
+    },
+    {
+      "name": "Facundo Ospitaleche",
+      "position": "MC",
+      "birthDate": "1996-04-11",
+      "nationality": "URY"
+    },
+    {
+      "name": "Marcelo Meli",
+      "position": "MC",
+      "birthDate": "1992-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Cosi",
+      "position": "MC",
+      "birthDate": "1998-09-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Barrientos",
+      "position": "MC",
+      "birthDate": "1995-04-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías Ayala",
+      "position": "DC",
+      "birthDate": "2001-02-16",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Ezequiel Montagna",
+      "position": "DC",
+      "birthDate": "1994-06-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Ignacio Peinipil",
+      "position": "DC",
+      "birthDate": "2002-01-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luis Silba",
+      "position": "DC",
+      "birthDate": "1990-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nazareno Solís",
+      "position": "DC",
+      "birthDate": "1994-04-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Camilo Machado",
+      "position": "DC",
+      "birthDate": "1999-02-01",
+      "nationality": "COL"
+    },
+    {
+      "name": "Mauricio Cuero",
+      "position": "DC",
+      "birthDate": "1993-01-28",
+      "nationality": "COL"
+    },
+    {
+      "name": "Yamil García",
+      "position": "DC",
+      "birthDate": "2001-10-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Gudiño",
+      "position": "DC",
+      "birthDate": "1992-03-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pío Bonacci",
+      "position": "DC",
+      "birthDate": "1998-10-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Servetto",
+      "position": "DC",
+      "birthDate": "1996-03-27",
+      "nationality": "ARG"
+    }
+  ]
+}

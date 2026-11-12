@@ -1,0 +1,171 @@
+{
+  "club": "River Plate",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate"
+  ],
+  "players": [
+    {
+      "name": "Ezequiel Centurión",
+      "position": "ARQ",
+      "birthDate": "1997-05-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Beltrán",
+      "position": "ARQ",
+      "birthDate": "2004-10-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Martinet",
+      "position": "ARQ",
+      "birthDate": "2005-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tobías Ramírez",
+      "position": "DFC",
+      "birthDate": "2006-11-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Ortega",
+      "position": "DFC",
+      "birthDate": "1999-03-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Rivero",
+      "position": "DFC",
+      "birthDate": "2003-11-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Giovanni González",
+      "position": "DFC",
+      "birthDate": "1994-09-20",
+      "nationality": "URY"
+    },
+    {
+      "name": "Marcos Acuña",
+      "position": "DFC",
+      "birthDate": "1991-10-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Martínez Quarta",
+      "position": "DFC",
+      "birthDate": "1996-05-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Montiel",
+      "position": "DFC",
+      "birthDate": "1997-01-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Otamendi",
+      "position": "DFC",
+      "birthDate": "1988-02-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo González",
+      "position": "DFC",
+      "birthDate": "2006-04-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Portillo",
+      "position": "MC",
+      "birthDate": "2000-05-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Aníbal Moreno",
+      "position": "MC",
+      "birthDate": "1999-05-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Arambarri",
+      "position": "MC",
+      "birthDate": "1995-09-30",
+      "nationality": "URY"
+    },
+    {
+      "name": "Fausto Vera",
+      "position": "MC",
+      "birthDate": "2000-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Almada",
+      "position": "MC",
+      "birthDate": "2001-04-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Meza",
+      "position": "MC",
+      "birthDate": "2008-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Galván",
+      "position": "MC",
+      "birthDate": "2000-04-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Silva",
+      "position": "MC",
+      "birthDate": "2007-02-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tobías Andrada",
+      "position": "MC",
+      "birthDate": "2007-02-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Driussi",
+      "position": "DC",
+      "birthDate": "1996-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel Correa",
+      "position": "DC",
+      "birthDate": "1995-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Beltrán",
+      "position": "DC",
+      "birthDate": "2001-03-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rafael Borré",
+      "position": "DC",
+      "birthDate": "1995-09-15",
+      "nationality": "COL"
+    },
+    {
+      "name": "Lautaro Pereyra",
+      "position": "DC",
+      "birthDate": "2008-03-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Ruberto",
+      "position": "DC",
+      "birthDate": "2006-01-14",
+      "nationality": "ARG"
+    }
+  ]
+}

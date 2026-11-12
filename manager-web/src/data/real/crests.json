@@ -1,0 +1,1076 @@
+{
+  "ar-argentino-de-merlo": {
+    "file": "escudos/ar-argentino-de-merlo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Argentino_de_Merlo.png",
+    "license": "Public domain",
+    "article": "Club Atlético Argentino (Merlo)"
+  },
+  "ar-arsenal": {
+    "file": "escudos/ar-arsenal.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Arsenal_De_Llavallol_logo.png",
+    "license": "Public domain",
+    "article": "Club Atlético Arsenal (Llavallol)"
+  },
+  "ar-comunicaciones": {
+    "file": "escudos/ar-comunicaciones.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_comunicaciones_ba_logo.png",
+    "license": "Public domain",
+    "article": "Club Comunicaciones (Buenos Aires)"
+  },
+  "ar-deportivo-armenio": {
+    "file": "escudos/ar-deportivo-armenio.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Deportivo_Armenio.png",
+    "license": "CC0",
+    "article": "Club Deportivo Armenio"
+  },
+  "ar-deportivo-merlo": {
+    "file": "escudos/ar-deportivo-merlo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Deportivo_Merlo.svg",
+    "license": "Public domain",
+    "article": "Club Social y Deportivo Merlo"
+  },
+  "ar-dock-sud": {
+    "file": "escudos/ar-dock-sud.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Dock_Sud_Escudo_2020.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Sportivo Dock Sud"
+  },
+  "ar-excursionistas": {
+    "file": "escudos/ar-excursionistas.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atletico_Excursionistas.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Excursionistas (fútbol femenino)"
+  },
+  "ar-flandria": {
+    "file": "escudos/ar-flandria.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_flandria_escudo.png",
+    "license": "Public domain",
+    "article": "Club Social y Deportivo Flandria"
+  },
+  "ar-ituzaingo": {
+    "file": "escudos/ar-ituzaingo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_ituzaingo_logo.png",
+    "license": "Public domain",
+    "article": "Club Atlético Ituzaingó"
+  },
+  "ar-liniers": {
+    "file": "escudos/ar-liniers.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_liniers_logo.png",
+    "license": "Public domain",
+    "article": "Club Social y Deportivo Liniers"
+  },
+  "ar-sportivo-italiano": {
+    "file": "escudos/ar-sportivo-italiano.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Sportivo_Italiano_(Argentina)_logo.svg",
+    "license": "Public domain",
+    "article": "Club Sportivo Italiano"
+  },
+  "ar-talleres-rde": {
+    "file": "escudos/ar-talleres-rde.png",
+    "source": "https://commons.wikimedia.org/wiki/File:TalleresRE.svg",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético Talleres (Remedios de Escalada)"
+  },
+  "ar-villa-dalmine": {
+    "file": "escudos/ar-villa-dalmine.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Dalmine_logo.png",
+    "license": "Public domain",
+    "article": "Club Villa Dálmine"
+  },
+  "ar-villa-san-carlos": {
+    "file": "escudos/ar-villa-san-carlos.png",
+    "source": "https://commons.wikimedia.org/wiki/File:ESCUDO_OFICIAL_DEL_CLUB_VILLA_SAN_CARLOS.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético Villa San Carlos"
+  },
+  "ar-9-de-julio-r": {
+    "file": "escudos/ar-9-de-julio-r.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo9dejulio.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético 9 de Julio (Rafaela)"
+  },
+  "ar-sportivo-belgrano": {
+    "file": "escudos/ar-sportivo-belgrano.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Sportivo_Belgrano_de_San_Francisco.svg",
+    "license": "Public domain",
+    "article": "Club Sportivo Belgrano"
+  },
+  "ar-bartolome-mitre": {
+    "file": "escudos/ar-bartolome-mitre.png",
+    "source": "https://commons.wikimedia.org/wiki/File:ESCUDO_MITRE.png",
+    "license": "CC0",
+    "article": "Club Atlético Bartolomé Mitre (Posadas)"
+  },
+  "ar-boca-unidos": {
+    "file": "escudos/ar-boca-unidos.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Boca_Unidos.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Boca Unidos"
+  },
+  "ar-juventud-antoniana": {
+    "file": "escudos/ar-juventud-antoniana.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Oficial_Centro_Juventud_Antoniana.svg",
+    "license": "CC BY-SA 4.0",
+    "article": "Centro Juventud Antoniana"
+  },
+  "ar-san-martin-f": {
+    "file": "escudos/ar-san-martin-f.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Sportivo_General_San_Mart%C3%ADn.svg",
+    "license": "Public domain",
+    "article": "Club Sportivo General San Martín"
+  },
+  "ar-tucuman-central": {
+    "file": "escudos/ar-tucuman-central.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Club_Tucum%C3%A1n_Central.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Tucumán Central"
+  },
+  "ar-atenas-rc": {
+    "file": "escudos/ar-atenas-rc.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Sportivo_y_Biblioteca_Atenas_Rio_Cuarto_Escudo_Logo.png",
+    "license": "CC0",
+    "article": "Club Sportivo y Biblioteca Atenas"
+  },
+  "ar-cipolletti": {
+    "file": "escudos/ar-cipolletti.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Cipo.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Cipolletti"
+  },
+  "ar-huracan-las-heras": {
+    "file": "escudos/ar-huracan-las-heras.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Hurac%C3%A1n_Las_Heras.png",
+    "license": "Public domain",
+    "article": "Club Atlético Huracán Las Heras"
+  },
+  "ar-juventud-unida-universitario": {
+    "file": "escudos/ar-juventud-unida-universitario.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Juventud_de_Unida_San_Luis.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Juventud Unida Universitario"
+  },
+  "ar-alvarado": {
+    "file": "escudos/ar-alvarado.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Alvarado_(Mar_del_Plata)_-_BSAS.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Alvarado"
+  },
+  "ar-germinal": {
+    "file": "escudos/ar-germinal.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atl%C3%A9tico_Germinal.svg",
+    "license": "CC0",
+    "article": "Club Atlético Germinal"
+  },
+  "ar-guillermo-brown": {
+    "file": "escudos/ar-guillermo-brown.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Guillermo_Brown.svg",
+    "license": "Public domain",
+    "article": "Club Social y Atlético Guillermo Brown"
+  },
+  "ar-olimpo": {
+    "file": "escudos/ar-olimpo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:EscudoOlimpo.svg",
+    "license": "Public domain",
+    "article": "Club Olimpo"
+  },
+  "ar-villa-mitre": {
+    "file": "escudos/ar-villa-mitre.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Club_Villa_Mitre.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Villa Mitre"
+  },
+  "ar-argentinos-juniors": {
+    "file": "escudos/ar-argentinos-juniors.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors_logo.svg",
+    "license": "Public domain",
+    "article": "Asociación Atlética Argentinos Juniors (fútbol femenino)"
+  },
+  "ar-atletico-tucuman": {
+    "file": "escudos/ar-atletico-tucuman.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Atletico_tucuman_nuevo2.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Tucumán"
+  },
+  "ar-barracas-central": {
+    "file": "escudos/ar-barracas-central.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Barracas_central_logo.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Barracas Central"
+  },
+  "ar-belgrano": {
+    "file": "escudos/ar-belgrano.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Belgrano.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Belgrano (fútbol femenino)"
+  },
+  "ar-boca-juniors": {
+    "file": "escudos/ar-boca-juniors.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Boca_Juniors_logo_2026.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Boca Juniors"
+  },
+  "ar-central-cordoba-sde": {
+    "file": "escudos/ar-central-cordoba-sde.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_Cordoba_SdE_crest_(2025).svg",
+    "license": "Public domain",
+    "article": "Club Atlético Central Córdoba (Santiago del Estero)"
+  },
+  "ar-defensa-y-justicia": {
+    "file": "escudos/ar-defensa-y-justicia.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Social_y_Deportivo_Defensa_y_Justicia.svg",
+    "license": "Public domain",
+    "article": "Club Social y Deportivo Defensa y Justicia"
+  },
+  "ar-estudiantes-lp": {
+    "file": "escudos/ar-estudiantes-lp.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Estudiantes_de_la_Plata_crest_(2025).svg",
+    "license": "Public domain",
+    "article": "Club Estudiantes de La Plata (fútbol femenino)"
+  },
+  "ar-estudiantes-rc": {
+    "file": "escudos/ar-estudiantes-rc.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg",
+    "license": "Public domain",
+    "article": "Asociación Atlética Estudiantes"
+  },
+  "ar-gimnasia-lp": {
+    "file": "escudos/ar-gimnasia-lp.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_de_Gimnasia_y_Esgrima_La_Plata_(v2026).svg",
+    "license": "Public domain",
+    "article": "Club de Gimnasia y Esgrima La Plata"
+  },
+  "ar-gimnasia-m": {
+    "file": "escudos/ar-gimnasia-m.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Club_Atl%C3%A9tico_Gimnasia_y_Esgrima_Mendoza.png",
+    "license": "Public domain",
+    "article": "Club Atlético Gimnasia y Esgrima (Mendoza)"
+  },
+  "ar-huracan": {
+    "file": "escudos/ar-huracan.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético Huracán (fútbol femenino)"
+  },
+  "ar-independiente": {
+    "file": "escudos/ar-independiente.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Independiente.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Independiente (fútbol femenino)"
+  },
+  "ar-independiente-rivadavia": {
+    "file": "escudos/ar-independiente-rivadavia.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Independiente_Rivadavia.svg",
+    "license": "Public domain",
+    "article": "Club Sportivo Independiente Rivadavia"
+  },
+  "ar-instituto": {
+    "file": "escudos/ar-instituto.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Instituto_Atletico_Central_Cordoba.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Instituto Atlético Central Córdoba"
+  },
+  "ar-lanus": {
+    "file": "escudos/ar-lanus.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Lan%C3%BAs_(sin_estrellas).svg",
+    "license": "Public domain",
+    "article": "Club Atlético Lanús"
+  },
+  "ar-newell-s-old-boys": {
+    "file": "escudos/ar-newell-s-old-boys.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Newell%27s_Old_Boys_de_Rosario.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Newell's Old Boys (fútbol femenino)"
+  },
+  "ar-platense": {
+    "file": "escudos/ar-platense.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Alt%C3%A9tico_Platense_crest_(2025).svg",
+    "license": "Public domain",
+    "article": "Club Atlético Platense (fútbol femenino)"
+  },
+  "ar-racing-club": {
+    "file": "escudos/ar-racing-club.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Racing_Club_(2014).svg",
+    "license": "Public domain",
+    "article": "Racing Club (fútbol femenino)"
+  },
+  "ar-river-plate": {
+    "file": "escudos/ar-river-plate.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atl%C3%A9tico_River_Plate_logo.svg",
+    "license": "Public domain",
+    "article": "Club Atlético River Plate (fútbol femenino)"
+  },
+  "ar-rosario-central": {
+    "file": "escudos/ar-rosario-central.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Rosario_Central.png",
+    "license": "Public domain",
+    "article": "Club Atlético Rosario Central"
+  },
+  "ar-san-lorenzo": {
+    "file": "escudos/ar-san-lorenzo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro.svg",
+    "license": "Public domain",
+    "article": "Club Atlético San Lorenzo de Almagro (fútbol femenino)"
+  },
+  "ar-sarmiento-j": {
+    "file": "escudos/ar-sarmiento-j.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Sarmiento_de_Jun%C3%ADn.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Sarmiento (Junín)"
+  },
+  "ar-talleres-c": {
+    "file": "escudos/ar-talleres-c.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Talleres_2015.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Talleres (Córdoba)"
+  },
+  "ar-union": {
+    "file": "escudos/ar-union.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_club_Atl%C3%A9tico_Uni%C3%B3n_de_santa_fe.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Unión (Santa Fe)"
+  },
+  "ar-velez-sarsfield": {
+    "file": "escudos/ar-velez-sarsfield.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Vélez Sarsfield"
+  },
+  "ar-acassuso": {
+    "file": "escudos/ar-acassuso.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_acassuso_logo.png",
+    "license": "Public domain",
+    "article": "Club Atlético Acassuso"
+  },
+  "ar-almirante-brown": {
+    "file": "escudos/ar-almirante-brown.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Original_del_Club_Almirante_Brown.png",
+    "license": "Public domain",
+    "article": "Club Almirante Brown"
+  },
+  "ar-central-norte-s": {
+    "file": "escudos/ar-central-norte-s.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_CN5.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético Central Norte (Salta)"
+  },
+  "ar-colon": {
+    "file": "escudos/ar-colon.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n_con_estrella.png",
+    "license": "CC0",
+    "article": "Club Atlético Colón"
+  },
+  "ar-defensores-de-belgrano": {
+    "file": "escudos/ar-defensores-de-belgrano.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Defensores_belgrano_logo.png",
+    "license": "Public domain",
+    "article": "Club Atlético Defensores de Belgrano (fútbol femenino)"
+  },
+  "ar-deportivo-madryn": {
+    "file": "escudos/ar-deportivo-madryn.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Social_y_Deportivo_Madryn.svg",
+    "license": "Public domain",
+    "article": "Club Social y Deportivo Madryn"
+  },
+  "ar-deportivo-moron": {
+    "file": "escudos/ar-deportivo-moron.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Deportivo_Mor%C3%B3n_en_1970.jpg",
+    "license": "Public domain",
+    "article": "Club Deportivo Morón"
+  },
+  "ar-estudiantes-ba": {
+    "file": "escudos/ar-estudiantes-ba.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Estudiantes_BA_escudo.png",
+    "license": "Public domain",
+    "article": "Club Atlético Estudiantes (fútbol femenino)"
+  },
+  "ar-ferro": {
+    "file": "escudos/ar-ferro.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_club_ferro_c_oeste.svg",
+    "license": "Public domain",
+    "article": "Club Ferro Carril Oeste (fútbol femenino)"
+  },
+  "ar-godoy-cruz": {
+    "file": "escudos/ar-godoy-cruz.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_of_CD_Godoy_Cruz_Antonio_Tomba.png",
+    "license": "Public domain",
+    "article": "Club Deportivo Godoy Cruz Antonio Tomba"
+  },
+  "ar-los-andes": {
+    "file": "escudos/ar-los-andes.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Los_Andes.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Los Andes"
+  },
+  "ar-racing-c": {
+    "file": "escudos/ar-racing-c.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Racing_de_C%C3%B3rdoba.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Racing"
+  },
+  "ar-san-telmo": {
+    "file": "escudos/ar-san-telmo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_santelmo_logo.png",
+    "license": "Public domain",
+    "article": "Club Atlético San Telmo"
+  },
+  "ar-atlanta": {
+    "file": "escudos/ar-atlanta.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudoatlanta.png",
+    "license": "Public domain",
+    "article": "Club Atlético Atlanta"
+  },
+  "ar-atletico-de-rafaela": {
+    "file": "escudos/ar-atletico-de-rafaela.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logotipo_Oficial_y_Escudo_del_Club_Atl%C3%A9tico_de_Rafaela.svg",
+    "license": "Public domain",
+    "article": "Asociación Mutual Social y Deportiva Atlético de Rafaela"
+  },
+  "ar-colegiales": {
+    "file": "escudos/ar-colegiales.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Colegiales_arg_logo.png",
+    "license": "Public domain",
+    "article": "Club Atlético Colegiales (Munro)"
+  },
+  "ar-deportivo-maipu": {
+    "file": "escudos/ar-deportivo-maipu.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Deportivo_Maipu.svg",
+    "license": "Public domain",
+    "article": "Club Deportivo Maipú"
+  },
+  "ar-ferrocarril-midland": {
+    "file": "escudos/ar-ferrocarril-midland.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Midland_escudo.png",
+    "license": "CC0",
+    "article": "Club Atlético Ferrocarril Midland"
+  },
+  "ar-gimnasia-j": {
+    "file": "escudos/ar-gimnasia-j.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Gimnasia_y_Esgrima_de_Jujuy.svg",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético Gimnasia y Esgrima (Jujuy)"
+  },
+  "ar-nueva-chicago": {
+    "file": "escudos/ar-nueva-chicago.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Nueva_Chicago_Logo.png",
+    "license": "CC0",
+    "article": "Club Atlético Nueva Chicago"
+  },
+  "ar-patronato": {
+    "file": "escudos/ar-patronato.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_of_CA_Patronato_(2023).png",
+    "license": "Public domain",
+    "article": "Club Atlético Patronato de la Juventud Católica"
+  },
+  "ar-quilmes": {
+    "file": "escudos/ar-quilmes.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Quilmes_Atl%C3%A9tico_Club.svg",
+    "license": "Public domain",
+    "article": "Quilmes Atlético Club (fútbol femenino)"
+  },
+  "ar-tristan-suarez": {
+    "file": "escudos/ar-tristan-suarez.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Final_TS_PNG.png",
+    "license": "Public domain",
+    "article": "Club Tristán Suárez"
+  },
+  "ar-argentino-de-rosario": {
+    "file": "escudos/ar-argentino-de-rosario.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atletico_Argentino_de_Rosario.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Argentino (Rosario)"
+  },
+  "ar-atlas": {
+    "file": "escudos/ar-atlas.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atletico_Atlas.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Atlas"
+  },
+  "ar-berazategui": {
+    "file": "escudos/ar-berazategui.png",
+    "source": "https://commons.wikimedia.org/wiki/File:AD_Berazategui_logo.png",
+    "license": "Public domain",
+    "article": "Asociación Deportiva Berazategui"
+  },
+  "ar-canuelas": {
+    "file": "escudos/ar-canuelas.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Ca%C3%B1uelas_F%C3%BAtbol_Club.svg",
+    "license": "Public domain",
+    "article": "Cañuelas Fútbol Club"
+  },
+  "ar-central-ballester": {
+    "file": "escudos/ar-central-ballester.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo-Central-.Ballester.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Social y Deportivo Central Ballester"
+  },
+  "ar-central-cordoba-r": {
+    "file": "escudos/ar-central-cordoba-r.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atl%C3%A9tico_Central_C%C3%B3rdoba_Rosario).svg",
+    "license": "Public domain",
+    "article": "Club Atlético Central Córdoba (Rosario)"
+  },
+  "ar-centro-espanol": {
+    "file": "escudos/ar-centro-espanol.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Centro_Social_y_Recreativo_Espa%C3%B1ol.svg",
+    "license": "Public domain",
+    "article": "Centro Social y Recreativo Español"
+  },
+  "ar-el-porvenir": {
+    "file": "escudos/ar-el-porvenir.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Elporvenir_logo.png",
+    "license": "Public domain",
+    "article": "Club El Porvenir (fútbol femenino)"
+  },
+  "ar-general-lamadrid": {
+    "file": "escudos/ar-general-lamadrid.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_lamadrid_logo.png",
+    "license": "Public domain",
+    "article": "Club Atlético General Lamadrid (fútbol femenino)"
+  },
+  "ar-juventud-unida": {
+    "file": "escudos/ar-juventud-unida.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Deportivo_y_Social_Juventud_Unida.svg",
+    "license": "Public domain",
+    "article": "Club Deportivo y Social Juventud Unida"
+  },
+  "ar-lugano": {
+    "file": "escudos/ar-lugano.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudolugano1.png",
+    "license": "Public domain",
+    "article": "Club Atlético Lugano"
+  },
+  "ar-lujan": {
+    "file": "escudos/ar-lujan.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Club_Luj%C3%A1n.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Luján"
+  },
+  "ar-muniz": {
+    "file": "escudos/ar-muniz.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Social_Cultural_y_Deportivo_Mu%C3%B1iz.svg",
+    "license": "Public domain",
+    "article": "Club Social Cultural y Deportivo Muñiz"
+  },
+  "ar-puerto-nuevo": {
+    "file": "escudos/ar-puerto-nuevo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atl%C3%A9tico_Puerto_Nuevo.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Puerto Nuevo"
+  },
+  "ar-sacachispas": {
+    "file": "escudos/ar-sacachispas.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_del_Sacachispas_F%C3%BAtbol_Club.svg",
+    "license": "Public domain",
+    "article": "Sacachispas Fútbol Club"
+  },
+  "ar-victoriano-arenas": {
+    "file": "escudos/ar-victoriano-arenas.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoriano_Arenas_escudo_2025.png",
+    "license": "CC0",
+    "article": "Club Atlético Victoriano Arenas"
+  },
+  "ar-yupanqui": {
+    "file": "escudos/ar-yupanqui.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Yupanqui_club_logo.png",
+    "license": "Public domain",
+    "article": "Club Social y Deportivo Yupanqui"
+  },
+  "ar-nautico-hacoaj": {
+    "file": "escudos/ar-nautico-hacoaj.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Nautico_Hacoaj.svg",
+    "license": "CC BY 4.0",
+    "article": "Club Náutico Hacoaj"
+  },
+  "ar-ben-hur": {
+    "file": "escudos/ar-ben-hur.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Ben-hur-logo.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Sportivo Ben Hur"
+  },
+  "ar-general-paz-juniors": {
+    "file": "escudos/ar-general-paz-juniors.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_of_CA_General_Paz_Juniors.png",
+    "license": "Public domain",
+    "article": "Club Atlético General Paz Juniors"
+  },
+  "ar-americo-tesorieri": {
+    "file": "escudos/ar-americo-tesorieri.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atletico_Americo_Tesorieri.svg",
+    "license": "CC0",
+    "article": "Club Atlético Américo Tesorieri"
+  },
+  "ar-central-argentino-lb": {
+    "file": "escudos/ar-central-argentino-lb.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Central_Argentino_(La_Banda).png",
+    "license": "Public domain",
+    "article": "Club Atlético Central Argentino (La Banda)"
+  },
+  "ar-pacifico-ga": {
+    "file": "escudos/ar-pacifico-ga.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_SC_Pac%C3%ADfico_de_General_Alvear.svg",
+    "license": "Public domain",
+    "article": "Sport Club Pacífico"
+  },
+  "ar-sportivo-desamparados": {
+    "file": "escudos/ar-sportivo-desamparados.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Desamparados_de_San_Juan.svg",
+    "license": "Public domain",
+    "article": "Club Sportivo Desamparados"
+  },
+  "ar-racing-olavarria": {
+    "file": "escudos/ar-racing-olavarria.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Racing_de_Olavarria_-_BSAS.svg",
+    "license": "Public domain",
+    "article": "Racing Athletic Club"
+  },
+  "ar-escorpion": {
+    "file": "escudos/ar-escorpion.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Escorpiones_Bel%C3%A9n.png",
+    "license": "CC0",
+    "article": "Escorpiones de Belén Fútbol Club"
+  },
+  "ar-banfield": {
+    "file": "escudos/ar-banfield.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Banfield_2022.png",
+    "license": "CC BY-SA 3.0",
+    "article": "Club Atlético Banfield"
+  },
+  "ar-all-boys": {
+    "file": "escudos/ar-all-boys.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_All_Boys.svg",
+    "license": "Public domain",
+    "article": "Club Atlético All Boys"
+  },
+  "ar-chaco-for-ever": {
+    "file": "escudos/ar-chaco-for-ever.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Chaco_For_Ever-ARG.png",
+    "license": "Public domain",
+    "article": "Club Atlético Chaco For Ever"
+  },
+  "ar-mitre-sde": {
+    "file": "escudos/ar-mitre-sde.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Mitre_escudo.png",
+    "license": "Public domain",
+    "article": "Club Atlético Mitre (Santiago del Estero)"
+  },
+  "ar-san-miguel": {
+    "file": "escudos/ar-san-miguel.png",
+    "source": "https://commons.wikimedia.org/wiki/File:SAN_MIGUEL.png",
+    "license": "CC0",
+    "article": "Club Atlético San Miguel"
+  },
+  "ar-agropecuario": {
+    "file": "escudos/ar-agropecuario.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Agropecuario_cc.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Agropecuario Argentino"
+  },
+  "ar-gimnasia-y-tiro-s": {
+    "file": "escudos/ar-gimnasia-y-tiro-s.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Gimnasio_y_tiro_de_salta.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club de Gimnasia y Tiro"
+  },
+  "ar-san-martin-sj": {
+    "file": "escudos/ar-san-martin-sj.png",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Mart%C3%ADn_de_San_Juan.png",
+    "license": "CC0",
+    "article": "Club Atlético San Martín (San Juan)"
+  },
+  "ar-san-martin-t": {
+    "file": "escudos/ar-san-martin-t.png",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Martin_deTucuman.png",
+    "license": "CC0",
+    "article": "Club Atlético San Martín (Tucumán)"
+  },
+  "ar-temperley": {
+    "file": "escudos/ar-temperley.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club-Atl%C3%A9tico-Temperley.png",
+    "license": "Public domain",
+    "article": "Club Atlético Temperley"
+  },
+  "ar-brown-de-adrogue": {
+    "file": "escudos/ar-brown-de-adrogue.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Club_Atl%C3%A9tico_Brown_(Adrogu%C3%A9).png",
+    "license": "Public domain",
+    "article": "Club Atlético Brown"
+  },
+  "ar-defensores-unidos": {
+    "file": "escudos/ar-defensores-unidos.png",
+    "source": "https://commons.wikimedia.org/wiki/File:CADU_zarate.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético Defensores Unidos"
+  },
+  "ar-douglas-haig": {
+    "file": "escudos/ar-douglas-haig.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Douglas_Haig_de_Pergamino.png",
+    "license": "Public domain",
+    "article": "Club Atlético Douglas Haig"
+  },
+  "ar-sol-de-mayo": {
+    "file": "escudos/ar-sol-de-mayo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Sol_de_Mayo.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Social y Deportivo Sol de Mayo"
+  },
+  "ar-kimberley": {
+    "file": "escudos/ar-kimberley.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimberley_Atl%C3%A9tico_Club_logo.svg",
+    "license": "Public domain",
+    "article": "Kimberley Atlético Club"
+  },
+  "ar-defensores-de-cambaceres": {
+    "file": "escudos/ar-defensores-de-cambaceres.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Cambacerees.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Defensores de Cambaceres"
+  },
+  "ar-el-linqueno": {
+    "file": "escudos/ar-el-linqueno.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_El_Linque%C3%B1o.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético El Linqueño"
+  },
+  "ar-ezeiza": {
+    "file": "escudos/ar-ezeiza.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Futbol_Club_Ezeiza.png",
+    "license": "Public domain",
+    "article": "Fútbol Club Ezeiza"
+  },
+  "ar-sat": {
+    "file": "escudos/ar-sat.png",
+    "source": "https://commons.wikimedia.org/wiki/File:SAG2.png",
+    "license": "Public domain",
+    "article": "Sociedad Alemana de Gimnasia de Los Polvorines"
+  },
+  "ar-everton": {
+    "file": "escudos/ar-everton.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Everton_La_Plata.png",
+    "license": "Public domain",
+    "article": "Club Everton"
+  },
+  "ar-guemes-sde": {
+    "file": "escudos/ar-guemes-sde.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atletico_Guemes512x.png",
+    "license": "Public domain",
+    "article": "Club Atlético Güemes"
+  },
+  "ar-argentino-de-quilmes": {
+    "file": "escudos/ar-argentino-de-quilmes.png",
+    "source": "https://commons.wikimedia.org/wiki/File:ArgentinodeQuilmes.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético Argentino de Quilmes"
+  },
+  "ar-sarmiento-r": {
+    "file": "escudos/ar-sarmiento-r.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Sarmiento_(Resistencia).png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético Sarmiento (Resistencia)"
+  },
+  "ar-independiente-chivilcoy": {
+    "file": "escudos/ar-independiente-chivilcoy.png",
+    "source": "https://commons.wikimedia.org/wiki/File:EscudoOficialIndependienteChivilcoy.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Atlético Independiente (Chivilcoy)"
+  },
+  "ar-sarmiento-lb": {
+    "file": "escudos/ar-sarmiento-lb.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Sarmiento_Estrellas_Doradas.png",
+    "license": "CC0",
+    "article": "Club Atlético Sarmiento (La Banda)"
+  },
+  "ar-talleres-perico": {
+    "file": "escudos/ar-talleres-perico.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atletico_Talleres_de_Ciudad_Perico.svg",
+    "license": "Public domain",
+    "article": "Club Atlético Talleres (Perico)"
+  },
+  "ar-real-pilar": {
+    "file": "escudos/ar-real-pilar.png",
+    "source": "https://en.wikipedia.org/wiki/File:Real_pilar_escudo.png",
+    "license": "Fair use",
+    "article": "en: Real Pilar Fútbol Club"
+  },
+  "ar-san-martin-de-burzaco": {
+    "file": "escudos/ar-san-martin-de-burzaco.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_of_San_Mart%C3%ADn_de_Burzaco_(2023).png",
+    "license": "Public domain",
+    "article": "en: San Martín de Burzaco"
+  },
+  "ar-uai-urquiza": {
+    "file": "escudos/ar-uai-urquiza.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_dep_uaiurquiza_crest.png",
+    "license": "Fair use",
+    "article": "en: UAI Urquiza"
+  },
+  "ar-santamarina": {
+    "file": "escudos/ar-santamarina.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Santa_Marina_de_Tandil.svg",
+    "license": "Public domain",
+    "article": "en: Club y Biblioteca Ramón Santamarina"
+  },
+  "ar-aldosivi": {
+    "file": "escudos/ar-aldosivi.png",
+    "source": "https://en.wikipedia.org/wiki/File:Aldosivi_logo.svg",
+    "license": "Fair use",
+    "article": "en: Club Atlético Aldosivi"
+  },
+  "ar-deportivo-riestra": {
+    "file": "escudos/ar-deportivo-riestra.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Deportivo_Riestra.svg",
+    "license": "Public domain",
+    "article": "en: Deportivo Riestra"
+  },
+  "ar-tigre": {
+    "file": "escudos/ar-tigre.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Tigre_-_2019.svg",
+    "license": "Public domain",
+    "article": "en: Club Atlético Tigre"
+  },
+  "ar-ciudad-de-bolivar": {
+    "file": "escudos/ar-ciudad-de-bolivar.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Ciudad_Bolivar_logo.png",
+    "license": "Fair use",
+    "article": "en: Club Ciudad de Bolívar"
+  },
+  "ar-almagro": {
+    "file": "escudos/ar-almagro.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Almagro_escudo2024.png",
+    "license": "CC0",
+    "article": "en: Club Almagro"
+  },
+  "ar-fenix": {
+    "file": "escudos/ar-fenix.png",
+    "source": "https://en.wikipedia.org/wiki/File:Escudo_F%C3%A9nix.png",
+    "license": "Fair use",
+    "article": "en: Club Atlético Fénix"
+  },
+  "ar-atletico-parana": {
+    "file": "escudos/ar-atletico-parana.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Atletico_parana_logo.png",
+    "license": "Public domain",
+    "article": "en: Club Atlético Paraná"
+  },
+  "ar-atletico-chascomus": {
+    "file": "escudos/ar-atletico-chascomus.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Atl_chascomus_logo.png",
+    "license": "Public domain",
+    "article": "en: Club Atlético Chascomús"
+  },
+  "ar-chacarita-juniors": {
+    "file": "escudos/ar-chacarita-juniors.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Chacarita_Juniors.svg",
+    "license": "Public domain",
+    "article": "en: Chacarita Juniors"
+  },
+  "ar-laferrere": {
+    "file": "escudos/ar-laferrere.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Laferrere.png",
+    "license": "CC BY-SA 4.0",
+    "article": "wikidata:Q921923"
+  },
+  "ar-san-martin-m": {
+    "file": "escudos/ar-san-martin-m.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Atl%C3%A9tico_Club_San_Mart%C3%ADn.png",
+    "license": "CC BY-SA 4.0",
+    "article": "wikidata:Q603223"
+  },
+  "ar-claypole": {
+    "file": "escudos/ar-claypole.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_claypole_logo.png",
+    "license": "Public domain",
+    "article": "wikidata:Q5136130"
+  },
+  "ar-deportivo-espanol": {
+    "file": "escudos/ar-deportivo-espanol.png",
+    "source": "https://commons.wikimedia.org/wiki/File:2017_cdeoficial_shield.png",
+    "license": "Public domain",
+    "article": "wikidata:Q1191661"
+  },
+  "ar-j-j-urquiza": {
+    "file": "escudos/ar-j-j-urquiza.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Jj_urquiza.png",
+    "license": "Public domain",
+    "article": "wikidata:Q4807519"
+  },
+  "ar-mercedes": {
+    "file": "escudos/ar-mercedes.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_mercedes_badge.png",
+    "license": "Public domain",
+    "article": "wikidata:Q5774393"
+  },
+  "ar-sportivo-barracas": {
+    "file": "escudos/ar-sportivo-barracas.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Sportivo_Barracas.png",
+    "license": "Public domain",
+    "article": "wikidata:Q585480"
+  },
+  "ar-defensores-de-glew": {
+    "file": "escudos/ar-defensores-de-glew.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Defensores_glew_logo.png",
+    "license": "Public domain",
+    "article": "wikidata:Q124611459"
+  },
+  "ar-ferro-general-pico": {
+    "file": "escudos/ar-ferro-general-pico.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Ferro_Carril_Oeste_General_Pico.png",
+    "license": "Public domain",
+    "article": "wikidata:Q5774269"
+  },
+  "ar-camioneros": {
+    "file": "escudos/ar-camioneros.png",
+    "source": "https://www.thesportsdb.com/team/142497",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Deportivo Camioneros"
+  },
+  "ar-atletico-escobar": {
+    "file": "escudos/ar-atletico-escobar.png",
+    "source": "https://www.thesportsdb.com/team/155044",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Atlético Escobar"
+  },
+  "ar-gimnasia-chivilcoy": {
+    "file": "escudos/ar-gimnasia-chivilcoy.png",
+    "source": "https://www.thesportsdb.com/team/151471",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Gimnasia y Esgrima de Chivilcoy"
+  },
+  "ar-sportivo-las-parejas": {
+    "file": "escudos/ar-sportivo-las-parejas.png",
+    "source": "https://www.thesportsdb.com/team/142488",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Sportivo Las Parejas"
+  },
+  "ar-defensores-de-vilelas": {
+    "file": "escudos/ar-defensores-de-vilelas.png",
+    "source": "https://www.thesportsdb.com/team/155045",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Defensores de Vilelas"
+  },
+  "ar-costa-brava": {
+    "file": "escudos/ar-costa-brava.png",
+    "source": "https://www.thesportsdb.com/team/151470",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Costa Brava"
+  },
+  "ar-deportivo-rincon": {
+    "file": "escudos/ar-deportivo-rincon.png",
+    "source": "https://www.thesportsdb.com/team/150150",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Deportivo Rincón"
+  },
+  "ar-fadep": {
+    "file": "escudos/ar-fadep.png",
+    "source": "https://www.thesportsdb.com/team/155047",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:FADEP"
+  },
+  "ar-circulo-deportivo": {
+    "file": "escudos/ar-circulo-deportivo.png",
+    "source": "https://www.thesportsdb.com/team/142506",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Círculo Deportivo"
+  },
+  "ar-deportivo-paraguayo": {
+    "file": "escudos/ar-deportivo-paraguayo.png",
+    "source": "https://www.thesportsdb.com/team/150167",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Deportivo Paraguayo"
+  },
+  "ar-estrella-del-sur": {
+    "file": "escudos/ar-estrella-del-sur.png",
+    "source": "https://www.thesportsdb.com/team/150553",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Estrella del Sur"
+  },
+  "ar-leandro-n-alem": {
+    "file": "escudos/ar-leandro-n-alem.png",
+    "source": "https://www.thesportsdb.com/team/150170",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Leandro N. Alem"
+  },
+  "ar-leones-fc": {
+    "file": "escudos/ar-leones-fc.png",
+    "source": "https://www.thesportsdb.com/team/154105",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Leones de Rosario"
+  },
+  "ar-atletico-pilar": {
+    "file": "escudos/ar-atletico-pilar.png",
+    "source": "https://www.thesportsdb.com/team/155707",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Atlético Pilar"
+  },
+  "ar-barrancas-umet": {
+    "file": "escudos/ar-barrancas-umet.png",
+    "source": "https://www.thesportsdb.com/team/155708",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Barrancas UMET"
+  },
+  "ar-belgrano-z": {
+    "file": "escudos/ar-belgrano-z.png",
+    "source": "https://www.thesportsdb.com/team/155709",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Belgrano de Zárate"
+  },
+  "ar-buenos-aires-city": {
+    "file": "escudos/ar-buenos-aires-city.png",
+    "source": "https://www.thesportsdb.com/team/155710",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Buenos Aires City"
+  },
+  "ar-control-orientado": {
+    "file": "escudos/ar-control-orientado.png",
+    "source": "https://www.thesportsdb.com/team/156236",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Control Orientado"
+  },
+  "ar-deportivo-metalurgico": {
+    "file": "escudos/ar-deportivo-metalurgico.png",
+    "source": "https://www.thesportsdb.com/team/156238",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Deportivo Metalúrgico"
+  },
+  "ar-estrella-de-berisso": {
+    "file": "escudos/ar-estrella-de-berisso.png",
+    "source": "https://www.thesportsdb.com/team/156239",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Estrella de Berisso"
+  },
+  "ar-juventud-de-bernal": {
+    "file": "escudos/ar-juventud-de-bernal.png",
+    "source": "https://www.thesportsdb.com/team/156242",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Juventud de Bernal"
+  },
+  "ar-las-mandarinas": {
+    "file": "escudos/ar-las-mandarinas.png",
+    "source": "https://www.thesportsdb.com/team/156243",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Las Mandarinas"
+  },
+  "ar-uribelarrea-fc": {
+    "file": "escudos/ar-uribelarrea-fc.png",
+    "source": "https://www.thesportsdb.com/team/156247",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Uribelarrea"
+  },
+  "ar-cai": {
+    "file": "escudos/ar-cai.png",
+    "source": "https://www.thesportsdb.com/team/150027",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:CAI"
+  },
+  "ar-alumni-lh": {
+    "file": "escudos/ar-alumni-lh.png",
+    "source": "https://www.thesportsdb.com/team/155706",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Alumni de Los Hornos"
+  },
+  "ar-provincial-el": {
+    "file": "escudos/ar-provincial-el.png",
+    "source": "https://www.thesportsdb.com/team/156245",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Provincial"
+  }
+}

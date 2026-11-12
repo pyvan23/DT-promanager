@@ -1,0 +1,32 @@
+{
+  "division": "DEU-1",
+  "country": "DEU",
+  "name": "Bundesliga",
+  "season": 2026,
+  "sources": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga", "https://www.bundesliga.com/"],
+  "formatNotes": "18 equipos, todos contra todos a doble vuelta (34 jornadas). 17.º y 18.º descienden directo a 2. Bundesliga; 16.º juega play-off de permanencia ida y vuelta contra el 3.º de 2. Bundesliga. 1.º-4.º a fase de liga de Champions; 5.º a fase de liga de Europa League; 6.º al play-off de Conference League (se corren si el campeón de la DFB-Pokal ya está clasificado). Ascendidos 2026-27: SV Elversberg, Schalke 04, SC Paderborn (play-off vs Wolfsburg).",
+  "domesticCup": {
+    "name": "DFB-Pokal",
+    "formatNotes": "64 equipos (36 de Bundesliga y 2. Bundesliga + amateurs y campeones de copas regionales), eliminación directa a partido único desde primera ronda; final en el Olympiastadion de Berlín. El campeón va a la fase de liga de Europa League y juega la Supercopa (DFL-Supercup) contra el campeón de liga."
+  },
+  "clubs": [
+    {"name": "FC Bayern München", "shortName": "Bayern", "city": "Múnich", "province": "Baviera", "affiliation": "directa", "stadium": "Allianz Arena", "colors": {"primary": "#dc052d", "secondary": "#ffffff"}, "stature": 5},
+    {"name": "Borussia Dortmund", "shortName": "Dortmund", "city": "Dortmund", "province": "Renania del Norte-Westfalia", "affiliation": "directa", "stadium": "Signal Iduna Park", "colors": {"primary": "#fde100", "secondary": "#000000"}, "stature": 4},
+    {"name": "Bayer 04 Leverkusen", "shortName": "Leverkusen", "city": "Leverkusen", "province": "Renania del Norte-Westfalia", "affiliation": "directa", "stadium": "BayArena", "colors": {"primary": "#e32221", "secondary": "#000000"}, "stature": 4},
+    {"name": "RB Leipzig", "shortName": "Leipzig", "city": "Leipzig", "province": "Sajonia", "affiliation": "directa", "stadium": "Red Bull Arena", "colors": {"primary": "#dd0741", "secondary": "#ffffff"}, "stature": 4},
+    {"name": "Eintracht Frankfurt", "shortName": "Frankfurt", "city": "Fráncfort del Meno", "province": "Hesse", "affiliation": "directa", "stadium": "Deutsche Bank Park", "colors": {"primary": "#e1000f", "secondary": "#000000"}, "stature": 4},
+    {"name": "VfB Stuttgart", "shortName": "Stuttgart", "city": "Stuttgart", "province": "Baden-Wurtemberg", "affiliation": "directa", "stadium": "MHPArena", "colors": {"primary": "#ffffff", "secondary": "#e32219"}, "stature": 3},
+    {"name": "SC Freiburg", "shortName": "Freiburg", "city": "Friburgo de Brisgovia", "province": "Baden-Wurtemberg", "affiliation": "directa", "stadium": "Europa-Park Stadion", "colors": {"primary": "#000000", "secondary": "#e2001a"}, "stature": 3},
+    {"name": "SV Werder Bremen", "shortName": "Werder", "city": "Bremen", "province": "Bremen", "affiliation": "directa", "stadium": "Weserstadion", "colors": {"primary": "#1d9053", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "Borussia Mönchengladbach", "shortName": "Gladbach", "city": "Mönchengladbach", "province": "Renania del Norte-Westfalia", "affiliation": "directa", "stadium": "Borussia-Park", "colors": {"primary": "#ffffff", "secondary": "#000000"}, "stature": 3},
+    {"name": "TSG 1899 Hoffenheim", "shortName": "Hoffenheim", "city": "Sinsheim", "province": "Baden-Wurtemberg", "affiliation": "directa", "stadium": "PreZero Arena", "colors": {"primary": "#1961b5", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "1. FSV Mainz 05", "shortName": "Mainz", "city": "Maguncia", "province": "Renania-Palatinado", "affiliation": "directa", "stadium": "MEWA Arena", "colors": {"primary": "#c3141e", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "FC Augsburg", "shortName": "Augsburg", "city": "Augsburgo", "province": "Baviera", "affiliation": "directa", "stadium": "WWK Arena", "colors": {"primary": "#ba3733", "secondary": "#46714d"}, "stature": 2},
+    {"name": "1. FC Union Berlin", "shortName": "Union Berlin", "city": "Berlín", "province": "Berlín", "affiliation": "directa", "stadium": "Stadion An der Alten Försterei", "colors": {"primary": "#eb1923", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "Hamburger SV", "shortName": "Hamburgo", "city": "Hamburgo", "province": "Hamburgo", "affiliation": "directa", "stadium": "Volksparkstadion", "colors": {"primary": "#ffffff", "secondary": "#0a3f86"}, "stature": 3},
+    {"name": "1. FC Köln", "shortName": "Köln", "city": "Colonia", "province": "Renania del Norte-Westfalia", "affiliation": "directa", "stadium": "RheinEnergieStadion", "colors": {"primary": "#ffffff", "secondary": "#ed1c24"}, "stature": 3},
+    {"name": "FC Schalke 04", "shortName": "Schalke", "city": "Gelsenkirchen", "province": "Renania del Norte-Westfalia", "affiliation": "directa", "stadium": "Veltins-Arena", "colors": {"primary": "#004d9d", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "SC Paderborn 07", "shortName": "Paderborn", "city": "Paderborn", "province": "Renania del Norte-Westfalia", "affiliation": "directa", "stadium": "Home Deluxe Arena", "colors": {"primary": "#005ca9", "secondary": "#000000"}, "stature": 1},
+    {"name": "SV 07 Elversberg", "shortName": "Elversberg", "city": "Spiesen-Elversberg", "province": "Sarre", "affiliation": "directa", "stadium": "Waldstadion an der Kaiserlinde", "colors": {"primary": "#000000", "secondary": "#ffffff"}, "stature": 1}
+  ]
+}

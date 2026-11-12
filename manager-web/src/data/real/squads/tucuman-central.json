@@ -1,0 +1,159 @@
+{
+  "club": "Tucumán Central",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Tucum%C3%A1n_Central"
+  ],
+  "players": [
+    {
+      "name": "Daniel Moyano",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Néstor Tonini",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Alderete",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Smith",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Barrera",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Martínez",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Duarte",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Damián Ovejero",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Bedmar",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Ríos",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcelo Krupoviesa",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Herrera",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julio Escobar",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Perdigón",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "César Abregú",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Smith",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Sánchez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Abregú",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Juárez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Farías",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Montenegro",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Víctor Castaño",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Bustos",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Cisneros",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Flores",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Benjamín Ruiz Rodríguez",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Daniel Gómez",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Estrada",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ronaldo Romero",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brahian Collante",
+      "position": "DC",
+      "nationality": "ARG"
+    }
+  ]
+}

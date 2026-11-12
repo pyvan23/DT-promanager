@@ -1,0 +1,171 @@
+{
+  "club": "Central Córdoba (SdE)",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Central_C%C3%B3rdoba_(Santiago_del_Estero)"
+  ],
+  "players": [
+    {
+      "name": "Alan Aguerre",
+      "position": "ARQ",
+      "birthDate": "1990-08-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Javier Vallejos",
+      "position": "ARQ",
+      "birthDate": "2003-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Máximo Alvarez",
+      "position": "ARQ",
+      "birthDate": "2005-03-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Maciel",
+      "position": "DFC",
+      "birthDate": "1997-04-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Marchi",
+      "position": "DFC",
+      "birthDate": "1996-09-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Mansilla",
+      "position": "DFC",
+      "birthDate": "1999-02-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "José Gómez",
+      "position": "DFC",
+      "birthDate": "2000-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yuri Casermeiro",
+      "position": "DFC",
+      "birthDate": "2002-03-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Martínez",
+      "position": "DFC",
+      "birthDate": "2000-07-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Bernabeu",
+      "position": "DFC",
+      "birthDate": "2004-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Moyano",
+      "position": "DFC",
+      "birthDate": "1997-09-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo Pignani",
+      "position": "DFC",
+      "birthDate": "2001-07-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Aguilar",
+      "position": "DFC",
+      "birthDate": "1993-01-20",
+      "nationality": "COL"
+    },
+    {
+      "name": "Tiago Cravero",
+      "position": "MC",
+      "birthDate": "2002-10-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Juárez",
+      "position": "MC",
+      "birthDate": "1998-08-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marco Iacobellis",
+      "position": "MC",
+      "birthDate": "1999-12-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas González",
+      "position": "MC",
+      "birthDate": "2000-06-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Vera",
+      "position": "MC",
+      "birthDate": "1995-10-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cardozo",
+      "position": "MC",
+      "birthDate": "2004-02-24",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Diego Barrera",
+      "position": "DC",
+      "birthDate": "2004-06-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Varaldo",
+      "position": "DC",
+      "birthDate": "2002-02-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Horacio Tijanovich",
+      "position": "DC",
+      "birthDate": "1996-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Naya",
+      "position": "DC",
+      "birthDate": "2001-08-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Michael Santos",
+      "position": "DC",
+      "birthDate": "1993-03-13",
+      "nationality": "URY"
+    },
+    {
+      "name": "Joaquín Flores",
+      "position": "DC",
+      "birthDate": "2005-05-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Daian Laprida",
+      "position": "DC",
+      "birthDate": "2004-09-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bautista Gerez",
+      "position": "DC",
+      "birthDate": "2007-01-13",
+      "nationality": "ARG"
+    }
+  ]
+}

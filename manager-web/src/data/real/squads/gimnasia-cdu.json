@@ -1,0 +1,172 @@
+{
+  "club": "Gimnasia (CdU)",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Gimnasia-y-Esgrima-1038.html",
+    "https://www.analisisdigital.com.ar/deportes/2026/09/13/gimnasia-gano-sobre-el-final-y-clasifico-la-segunda-rueda"
+  ],
+  "players": [
+    {
+      "name": "Ramiro Baro",
+      "position": "ARQ",
+      "birthDate": "1999-04-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emilio Rébora",
+      "position": "ARQ",
+      "birthDate": "1987-08-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Arraigada",
+      "position": "DFC",
+      "birthDate": "2005-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan Benítez",
+      "position": "DFC",
+      "birthDate": "1997-04-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Chiapella",
+      "position": "DFC",
+      "birthDate": "2004-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Gómez",
+      "position": "DFC",
+      "birthDate": "1997-02-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ariel González",
+      "position": "DFC",
+      "birthDate": "2001-07-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Laumann",
+      "position": "DFC",
+      "birthDate": "1990-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Román Olague",
+      "position": "DFC",
+      "birthDate": "2006-04-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Rocca",
+      "position": "DFC",
+      "birthDate": "2003-10-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Suárez",
+      "position": "DFC",
+      "birthDate": "1998-11-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Altamirano",
+      "position": "MC",
+      "birthDate": "2001-05-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Martín Casares",
+      "position": "MC",
+      "birthDate": "2007-09-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Dening",
+      "position": "MC",
+      "birthDate": "2005-04-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Favre",
+      "position": "MC",
+      "birthDate": "1998-07-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Lebus",
+      "position": "MC",
+      "birthDate": "1996-07-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Márquez",
+      "position": "MC",
+      "birthDate": "2004-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Músico",
+      "position": "MC",
+      "birthDate": "1993-08-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Palladino",
+      "position": "MC",
+      "birthDate": "2001-07-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Manuel Rodríguez",
+      "position": "MC",
+      "birthDate": "1996-01-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Damián Baltore",
+      "position": "DC",
+      "birthDate": "2000-04-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Micael Bogado",
+      "position": "DC",
+      "birthDate": "2001-01-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emilio García",
+      "position": "DC",
+      "birthDate": "1997-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Germanier",
+      "position": "DC",
+      "birthDate": "1997-09-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Augusto Sonzogni",
+      "position": "DC",
+      "birthDate": "1998-02-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Valle",
+      "position": "DC",
+      "birthDate": "2005-03-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luis Vila",
+      "position": "DC",
+      "birthDate": "1992-03-06",
+      "nationality": "ARG"
+    }
+  ]
+}

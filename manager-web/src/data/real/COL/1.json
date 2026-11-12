@@ -1,0 +1,277 @@
+{
+  "division": "COL-1",
+  "country": "COL",
+  "name": "Liga BetPlay DIMAYOR",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Categor%C3%ADa_Primera_A_season",
+    "https://dimayor.com.co/liga-betplay-dimayor/"
+  ],
+  "formatNotes": "20 equipos. Dos torneos cortos por año: Apertura (todos contra todos a 19 fechas; los 8 primeros a play-offs eliminatorios de cuartos, semis y final) y Finalización (19 fechas con localías invertidas; los 8 primeros a dos cuadrangulares semifinales, cuyos ganadores juegan la final). Descienden 2 por tabla de promedios de las 3 últimas temporadas (2024-2026) al Torneo BetPlay; ascendidos 2026: Cúcuta Deportivo y Jaguares (descendieron Envigado y Unión Magdalena). Copa Libertadores: campeones de Apertura y Finalización (fase de grupos) + los 2 mejores de la reclasificación no campeones (fase 2). Copa Sudamericana: los 3 siguientes de la reclasificación (+ cupo vinculado a la Copa Colombia según reglamento).",
+  "domesticCup": {
+    "name": "Copa BetPlay (Copa Colombia)",
+    "formatNotes": "Eliminatorias a doble partido entre clubes de Primera A y Primera B; los clubes en torneos Conmebol entran en fases avanzadas; final ida y vuelta. Campeón con cupo internacional Conmebol y a la Superliga."
+  },
+  "clubs": [
+    {
+      "name": "Águilas Doradas Rionegro",
+      "shortName": "Águilas Doradas",
+      "city": "Medellín",
+      "province": "Antioquia",
+      "affiliation": "directa",
+      "stadium": "Cincuentenario",
+      "colors": {
+        "primary": "#F2C200",
+        "secondary": "#1C1C1C"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Alianza Fútbol Club",
+      "shortName": "Alianza",
+      "city": "Valledupar",
+      "province": "Cesar",
+      "affiliation": "directa",
+      "stadium": "Armando Maestre Pavajeau",
+      "colors": {
+        "primary": "#FFD200",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "América de Cali",
+      "shortName": "América",
+      "city": "Cali",
+      "province": "Valle del Cauca",
+      "affiliation": "directa",
+      "stadium": "Pascual Guerrero",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Atlético Bucaramanga",
+      "shortName": "Bucaramanga",
+      "city": "Bucaramanga",
+      "province": "Santander",
+      "affiliation": "directa",
+      "stadium": "Américo Montanini",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#00843D"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Atlético Nacional",
+      "shortName": "Nacional",
+      "city": "Medellín",
+      "province": "Antioquia",
+      "affiliation": "directa",
+      "stadium": "Atanasio Girardot",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Boyacá Chicó Fútbol Club",
+      "shortName": "Chicó",
+      "city": "Tunja",
+      "province": "Boyacá",
+      "affiliation": "directa",
+      "stadium": "La Independencia",
+      "colors": {
+        "primary": "#0047AB",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Cúcuta Deportivo",
+      "shortName": "Cúcuta",
+      "city": "Cúcuta",
+      "province": "Norte de Santander",
+      "affiliation": "directa",
+      "stadium": "General Santander",
+      "colors": {
+        "primary": "#B22222",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Deportes Tolima",
+      "shortName": "Tolima",
+      "city": "Ibagué",
+      "province": "Tolima",
+      "affiliation": "directa",
+      "stadium": "Manuel Murillo Toro",
+      "colors": {
+        "primary": "#7A1F2B",
+        "secondary": "#FFD100"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Deportivo Cali",
+      "shortName": "Dep. Cali",
+      "city": "Palmira",
+      "province": "Valle del Cauca",
+      "affiliation": "directa",
+      "stadium": "Estadio Deportivo Cali",
+      "colors": {
+        "primary": "#007A33",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Deportivo Pasto",
+      "shortName": "Pasto",
+      "city": "Pasto",
+      "province": "Nariño",
+      "affiliation": "directa",
+      "stadium": "Departamental Libertad",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#003DA5"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Deportivo Pereira",
+      "shortName": "Pereira",
+      "city": "Pereira",
+      "province": "Risaralda",
+      "affiliation": "directa",
+      "stadium": "Hernán Ramírez Villegas",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#C8102E"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Fortaleza CEIF",
+      "shortName": "Fortaleza",
+      "city": "Bogotá",
+      "province": "Bogotá D.C.",
+      "affiliation": "directa",
+      "stadium": "Metropolitano de Techo",
+      "colors": {
+        "primary": "#F26522",
+        "secondary": "#0A2240"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Independiente Medellín",
+      "shortName": "Medellín",
+      "city": "Medellín",
+      "province": "Antioquia",
+      "affiliation": "directa",
+      "stadium": "Atanasio Girardot",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#003DA5"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Internacional de Bogotá",
+      "shortName": "Inter Bogotá",
+      "city": "Bogotá",
+      "province": "Bogotá D.C.",
+      "affiliation": "directa",
+      "stadium": "Metropolitano de Techo",
+      "colors": {
+        "primary": "#002F6C",
+        "secondary": "#C8102E"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Jaguares de Córdoba",
+      "shortName": "Jaguares",
+      "city": "Montería",
+      "province": "Córdoba",
+      "affiliation": "directa",
+      "stadium": "Jaraguay",
+      "colors": {
+        "primary": "#006847",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Junior de Barranquilla",
+      "shortName": "Junior",
+      "city": "Barranquilla",
+      "province": "Atlántico",
+      "affiliation": "directa",
+      "stadium": "Metropolitano Roberto Meléndez",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#003DA5"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Llaneros Fútbol Club",
+      "shortName": "Llaneros",
+      "city": "Villavicencio",
+      "province": "Meta",
+      "affiliation": "directa",
+      "stadium": "Bello Horizonte – Rey Pelé",
+      "colors": {
+        "primary": "#006341",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Millonarios Fútbol Club",
+      "shortName": "Millonarios",
+      "city": "Bogotá",
+      "province": "Bogotá D.C.",
+      "affiliation": "directa",
+      "stadium": "Nemesio Camacho El Campín",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Once Caldas",
+      "shortName": "Once Caldas",
+      "city": "Manizales",
+      "province": "Caldas",
+      "affiliation": "directa",
+      "stadium": "Palogrande",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Independiente Santa Fe",
+      "shortName": "Santa Fe",
+      "city": "Bogotá",
+      "province": "Bogotá D.C.",
+      "affiliation": "directa",
+      "stadium": "Nemesio Camacho El Campín",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    }
+  ]
+}

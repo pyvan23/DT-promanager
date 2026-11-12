@@ -1,0 +1,201 @@
+{
+  "club": "Ciudad de Bolívar",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Ciudad_de_Bol%C3%ADvar"
+  ],
+  "players": [
+    {
+      "name": "Agustín Rufinetti",
+      "position": "ARQ",
+      "birthDate": "2000-01-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Álvarez",
+      "position": "ARQ",
+      "birthDate": "2000-05-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jorge Ruiz",
+      "position": "ARQ",
+      "birthDate": "2004-06-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Navarro",
+      "position": "DFC",
+      "birthDate": "2001-07-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Paredes",
+      "position": "DFC",
+      "birthDate": "2001-09-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías Martínez",
+      "position": "DFC",
+      "birthDate": "1994-05-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Peralta",
+      "position": "DFC",
+      "birthDate": "2001-12-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tobías Fernández",
+      "position": "DFC",
+      "birthDate": "2001-03-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Áxel Carrión",
+      "position": "DFC",
+      "birthDate": "2004-05-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joel Ledesma",
+      "position": "DFC",
+      "birthDate": "2003-07-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Ihitz",
+      "position": "DFC",
+      "birthDate": "1995-07-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Quintana",
+      "position": "MC",
+      "birthDate": "2002-07-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Yeri",
+      "position": "MC",
+      "birthDate": "1991-09-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Arnaldo González",
+      "position": "MC",
+      "birthDate": "1989-05-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Rodríguez",
+      "position": "MC",
+      "birthDate": "2004-08-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alex Díaz",
+      "position": "MC",
+      "birthDate": "1999-07-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Mucignat",
+      "position": "MC",
+      "birthDate": "1999-06-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Gutiérrez",
+      "position": "MC",
+      "birthDate": "1997-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Sotelo",
+      "position": "MC",
+      "birthDate": "2005-07-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías Romero",
+      "position": "MC",
+      "birthDate": "2005-02-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Guiacobini",
+      "position": "MC",
+      "birthDate": "2004-05-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Gridel",
+      "position": "MC",
+      "birthDate": "2000-08-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Sánchez",
+      "position": "DC",
+      "birthDate": "1995-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Khalil Caraballo",
+      "position": "DC",
+      "birthDate": "1999-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Rambert",
+      "position": "DC",
+      "birthDate": "2004-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Duarte",
+      "position": "DC",
+      "birthDate": "1999-06-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Villegas",
+      "position": "DC",
+      "birthDate": "1996-09-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Díaz",
+      "position": "DC",
+      "birthDate": "2003-01-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan Maciel",
+      "position": "DC",
+      "birthDate": "1994-02-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Beretta",
+      "position": "DC",
+      "birthDate": "2001-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Ilarregui",
+      "position": "DC",
+      "birthDate": "1997-05-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Pedraza",
+      "position": "DC",
+      "birthDate": "2006-03-07",
+      "nationality": "ARG"
+    }
+  ]
+}

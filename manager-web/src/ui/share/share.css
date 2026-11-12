@@ -1,0 +1,67 @@
+/* Celebration card and its share buttons (overlay, public page and Logros section). */
+.ach-share { display: grid; justify-items: center; gap: 12px; width: 100%; }
+.ach-share__card {
+  /* 4:5 card that fits the viewport height, leaving room for the buttons. */
+  width: min(100%, calc((100dvh - 150px) * 0.8), 560px);
+  aspect-ratio: 4 / 5;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 24px 70px rgb(0 0 0 / 0.55);
+  animation: ach-pop 0.45s cubic-bezier(0.2, 1.4, 0.4, 1);
+}
+.achievement-card { display: block; width: 100%; height: 100%; }
+.ach-share__actions { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+.ach-share__status { min-height: 1.2em; font-size: 0.85rem; color: #f2e9c9; }
+@keyframes ach-pop {
+  from { transform: scale(0.86) rotate(-1.5deg); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ach-share__card { animation: none; }
+}
+
+/* Full-screen holder: event overlay and the public page. */
+.ach-stage {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  overflow: auto;
+  background:
+    radial-gradient(ellipse at 50% 30%, rgb(242 183 5 / 0.18), transparent 60%),
+    rgb(4 8 16 / 0.9);
+  backdrop-filter: blur(3px);
+}
+.ach-stage--page { position: static; min-height: 100dvh; background: radial-gradient(ellipse at 50% 20%, #1b2c47, #070d18 70%); }
+.ach-stage__inner { display: grid; justify-items: center; gap: 10px; width: min(560px, 100%); }
+.ach-stage__note { color: #c9d3e2; font-size: 0.9rem; text-align: center; margin: 0; }
+
+/* Logros section */
+.logros-total { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.logros-total b { font-family: var(--font-display); font-size: 2.4rem; line-height: 1; color: var(--amber); }
+.logros-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.logros-item {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 10px;
+  align-items: center;
+  padding: 8px 10px;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--ci-accent, var(--amber));
+  border-radius: var(--radius);
+  background: var(--surface-2);
+}
+.logros-item__info { display: grid; gap: 2px; min-width: 0; }
+.logros-item__info b { font-family: var(--font-cond); font-size: 1.05rem; text-transform: uppercase; }
+.logros-item__side { display: grid; justify-items: end; gap: 4px; }
+.logros-item__pts { font-family: var(--font-display); font-size: 1.4rem; color: var(--amber); line-height: 1; }
+.logros-kind { font-family: var(--font-cond); font-weight: 700; font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.logros-rules { margin: 0; padding-left: 18px; display: grid; gap: 4px; }
+.ranking-table tr.is-mine td { background: var(--mine); font-weight: 700; }
+.ranking-table td:nth-child(2) { text-align: left; }
+@media (max-width: 560px) {
+  .logros-item { grid-template-columns: auto 1fr; }
+  .logros-item__side { grid-column: 1 / -1; grid-auto-flow: column; justify-content: space-between; align-items: center; }
+}

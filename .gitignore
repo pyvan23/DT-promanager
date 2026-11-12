@@ -1,0 +1,16 @@
+# Material original de PC Fútbol 2001 (con derechos, pesado): fuera del repositorio
+pcf2001_iso/
+pcf2001_instalado/
+pcf2001_bin/
+ghidra_project/
+decomp/
+*.iso
+
+# Secretos y build
+.env
+.env.*
+node_modules/
+dist/
+dev-dist/
+*.log
+.DS_Store

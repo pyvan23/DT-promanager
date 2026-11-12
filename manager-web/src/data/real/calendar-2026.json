@@ -1,0 +1,113 @@
+{
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Anexo:Torneo_Apertura_2026_(Argentina)",
+    "https://es.wikipedia.org/wiki/Anexo:Torneo_Clausura_2026_(Argentina)",
+    "https://es.wikipedia.org/wiki/Campeonato_de_Primera_División_2026_(Argentina)",
+    "https://en.wikipedia.org/wiki/2026_Argentine_Primera_División",
+    "https://442.perfil.com/noticias/futbol/cuadro-de-octavos-de-final-del-clausura-2026-todos-los-cruces-de-los-playoffs.phtml",
+    "https://diariopanorama.com/noticia/572294/se-definieron-octavos-final-torneo-clausura-2026-todos-cruces-cuando-se-juegan",
+    "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Nacional_2026",
+    "https://elgrafico.com.ar/articulo/1111/103773/con-nicolas-ramirez-como-arbitro-la-afa-anuncio-el-dia-horario-y-estadio-de-la-final-de-la-primera-nacional",
+    "https://diariopanorama.com/noticia/571503/primera-nacional-confirmaron-cuando-se-jugara-final-ascenso-entre-godoy-cruz-tristan-suarez",
+    "https://es.wikipedia.org/wiki/Copa_Argentina_2026",
+    "https://es.wikipedia.org/wiki/Copa_Libertadores_2026",
+    "https://es.wikipedia.org/wiki/Copa_Sudamericana_2026",
+    "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_Série_A",
+    "https://valorfinal.com.br/brasileirao/2026",
+    "https://www.netvasco.com.br/n/375001/cbf-divulga-a-tabela-basica-do-brasileiro-2026-vasco-estreia-em-28-ou-2901-fora-de-casa-contra-o-mirassol",
+    "https://www.uefa.com/uefachampionsleague/news/02a6-20d57cfcd03e-407c22a7f465-1000--2026-27-champions-league-teams-dates-draws-format-final/",
+    "https://en.wikipedia.org/wiki/2026–27_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+  ],
+  "notes": "Cada jornada lleva su día principal, en orden de jornada. ARGENTINA: en el Apertura, la fecha 6 es la interzonal completa; la fecha 9 se postergó (original 5-8 mar) y se jugó del 2 al 4 de mayo, después de la fecha 16, así que no sigue el orden cronológico. En el Clausura, la fecha 6 es la interzonal completa (21-24 ago). Los playoffs de la LPF son a partido único; el campeón del Clausura juega el Trofeo de Campeones contra Belgrano (campeón del Apertura) el 2026-12-19. La final del Clausura está programada para el 2026-12-12 en La Plata. PRIMERA NACIONAL: 36 fechas (2 zonas de 18; interzonales en las fechas 7 y 25). Final por el 1er ascenso (Godoy Cruz-Tristán Suárez) el 2026-11-15. Reducido: octavos (1a fase) a partido único el 14-nov, cuartos ida el 21-nov y final el 19-dic. COPA ARGENTINA: las rondas tempranas se extienden varios meses; la fecha es representativa de cada ronda. LIBERTADORES/SUDAMERICANA: calendario planificado de CONMEBOL, sujeto a cambios; final de la Libertadores 2026-11-28, final de la Sudamericana 2026-11-21 (Barranquilla). BRASILEIRAO: tabla básica de la CBF, primer día de cada rodada; parón por el Mundial entre las rodadas 18 y 19; última rodada 2026-12-02. CHAMPIONS LEAGUE 2026-27: cruza a 2027 (MD7, MD8, todo el knockout y la final del 2027-06-05 en el Metropolitano de Madrid); fechas de UEFA sujetas a cambio, con el día principal de cada ventana. MUNDIAL 2026: del 2026-06-11 al 2026-07-19. FECHAS ESTIMADAS POR ID -> lpf-clausura: octavos 2026-11-22, cuartos 2026-11-29, semifinales 2026-12-06 (fines de semana anunciados por la prensa, sin fixture oficial con días); nacional: fase regular fecha 4 2026-03-07 (fin de semana original; algún partido se reprogramó al 21-jun), fecha 27 2026-08-29, reducido cuartos vuelta 2026-11-28, reducido semifinales 2026-12-05 y 2026-12-12; copa-argentina: treintaidosavos 2026-03-25 y dieciseisavos 2026-05-20 (fechas representativas de rondas dispersas), final 2026-12-02 (tomada del fin de la competición según Wikipedia); bra-1: las fechas de rodada son las de la tabla básica, sin las reprogramaciones posteriores."
+,
+  "competitions": {
+    "lpf-apertura": {
+      "name": "Torneo Apertura 2026 (Liga Profesional)",
+      "stages": [
+        {"stage": "fase de zonas", "dates": ["2026-01-24","2026-01-27","2026-02-01","2026-02-08","2026-02-14","2026-02-21","2026-02-25","2026-03-01","2026-05-03","2026-03-11","2026-03-15","2026-03-22","2026-04-04","2026-04-11","2026-04-19","2026-04-25"]},
+        {"stage": "octavos", "dates": ["2026-05-09"]},
+        {"stage": "cuartos", "dates": ["2026-05-12"]},
+        {"stage": "semifinales", "dates": ["2026-05-16"]},
+        {"stage": "final", "dates": ["2026-05-24"]}
+      ]
+    },
+    "lpf-clausura": {
+      "name": "Torneo Clausura 2026 (Liga Profesional)",
+      "stages": [
+        {"stage": "fase de zonas", "dates": ["2026-07-25","2026-07-29","2026-08-02","2026-08-09","2026-08-15","2026-08-22","2026-08-29","2026-09-06","2026-09-13","2026-09-20","2026-10-04","2026-10-11","2026-10-17","2026-10-25","2026-11-01","2026-11-07"]},
+        {"stage": "octavos", "dates": ["2026-11-22"]},
+        {"stage": "cuartos", "dates": ["2026-11-29"]},
+        {"stage": "semifinales", "dates": ["2026-12-06"]},
+        {"stage": "final", "dates": ["2026-12-12"]}
+      ]
+    },
+    "nacional": {
+      "name": "Primera Nacional 2026",
+      "stages": [
+        {"stage": "fase regular", "dates": ["2026-02-14","2026-02-21","2026-03-01","2026-03-07","2026-03-14","2026-03-21","2026-03-29","2026-04-04","2026-04-12","2026-04-18","2026-04-26","2026-05-03","2026-05-10","2026-05-17","2026-05-24","2026-05-31","2026-06-07","2026-06-14","2026-07-05","2026-07-11","2026-07-17","2026-07-26","2026-08-02","2026-08-09","2026-08-16","2026-08-22","2026-08-29","2026-09-05","2026-09-13","2026-09-20","2026-09-26","2026-10-04","2026-10-11","2026-10-18","2026-10-24","2026-10-31"]},
+        {"stage": "final", "dates": ["2026-11-15"]},
+        {"stage": "reducido octavos", "dates": ["2026-11-14"]},
+        {"stage": "reducido cuartos", "dates": ["2026-11-21","2026-11-28"]},
+        {"stage": "reducido semifinales", "dates": ["2026-12-05","2026-12-12"]},
+        {"stage": "reducido final", "dates": ["2026-12-19"]}
+      ]
+    },
+    "copa-argentina": {
+      "name": "Copa Argentina 2026",
+      "stages": [
+        {"stage": "treintaidosavos", "dates": ["2026-03-25"]},
+        {"stage": "dieciseisavos", "dates": ["2026-05-20"]},
+        {"stage": "octavos", "dates": ["2026-08-19"]},
+        {"stage": "cuartos", "dates": ["2026-09-16"]},
+        {"stage": "semifinales", "dates": ["2026-10-28"]},
+        {"stage": "final", "dates": ["2026-12-02"]}
+      ]
+    },
+    "copa-libertadores": {
+      "name": "Copa Libertadores 2026",
+      "stages": [
+        {"stage": "fase de grupos", "dates": ["2026-04-08","2026-04-15","2026-04-29","2026-05-06","2026-05-20","2026-05-27"]},
+        {"stage": "octavos", "dates": ["2026-08-12","2026-08-19"]},
+        {"stage": "cuartos", "dates": ["2026-09-09","2026-09-16"]},
+        {"stage": "semifinales", "dates": ["2026-10-14","2026-10-21"]},
+        {"stage": "final", "dates": ["2026-11-28"]}
+      ]
+    },
+    "copa-sudamericana": {
+      "name": "Copa Sudamericana 2026",
+      "stages": [
+        {"stage": "fase de grupos", "dates": ["2026-04-08","2026-04-15","2026-04-29","2026-05-06","2026-05-20","2026-05-27"]},
+        {"stage": "play-offs de octavos", "dates": ["2026-07-22","2026-07-29"]},
+        {"stage": "octavos", "dates": ["2026-08-13","2026-08-20"]},
+        {"stage": "cuartos", "dates": ["2026-09-10","2026-09-17"]},
+        {"stage": "semifinales", "dates": ["2026-10-13","2026-10-20"]},
+        {"stage": "final", "dates": ["2026-11-21"]}
+      ]
+    },
+    "bra-1": {
+      "name": "Campeonato Brasileiro Série A 2026",
+      "stages": [
+        {"stage": "liga", "dates": ["2026-01-28","2026-02-04","2026-02-11","2026-02-25","2026-03-11","2026-03-14","2026-03-18","2026-03-21","2026-04-01","2026-04-04","2026-04-11","2026-04-18","2026-04-25","2026-05-02","2026-05-09","2026-05-16","2026-05-23","2026-05-30","2026-07-16","2026-07-25","2026-07-29","2026-08-08","2026-08-15","2026-08-22","2026-08-29","2026-09-05","2026-09-12","2026-09-19","2026-10-07","2026-10-10","2026-10-16","2026-10-23","2026-10-28","2026-11-02","2026-11-14","2026-11-21","2026-11-24","2026-12-02"]}
+      ]
+    },
+    "champions-league": {
+      "name": "UEFA Champions League 2026-27",
+      "stages": [
+        {"stage": "fase de liga", "dates": ["2026-09-09","2026-10-13","2026-10-20","2026-11-03","2026-11-24","2026-12-08","2027-01-19","2027-01-27"]},
+        {"stage": "play-offs", "dates": ["2027-02-16","2027-02-23"]},
+        {"stage": "octavos", "dates": ["2027-03-09","2027-03-16"]},
+        {"stage": "cuartos", "dates": ["2027-04-06","2027-04-13"]},
+        {"stage": "semifinales", "dates": ["2027-04-27","2027-05-04"]},
+        {"stage": "final", "dates": ["2027-06-05"]}
+      ]
+    },
+    "mundial-2026": {
+      "name": "Copa Mundial de la FIFA 2026",
+      "stages": [
+        {"stage": "torneo", "dates": ["2026-06-11","2026-07-19"]}
+      ]
+    }
+  }
+}

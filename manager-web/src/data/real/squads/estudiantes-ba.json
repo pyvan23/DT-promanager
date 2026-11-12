@@ -1,0 +1,213 @@
+{
+  "club": "Estudiantes (BA)",
+  "season": 2026,
+  "sources": [
+    "https://canchallena.lanacion.com.ar/equipo/estudiantes-ba-2lhnnnznvg2eqxnsxjw5zk9m7/"
+  ],
+  "players": [
+    {
+      "name": "Facundo Vila",
+      "position": "ARQ",
+      "birthDate": "2003-05-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Lungarzo",
+      "position": "ARQ",
+      "birthDate": "1992-12-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Fumo",
+      "position": "ARQ",
+      "birthDate": "2001-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Andrés Berizovsky",
+      "position": "DFC",
+      "birthDate": "2004-10-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Balthazar Bernardi",
+      "position": "DFC",
+      "birthDate": "2001-08-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Ardiles",
+      "position": "DFC",
+      "birthDate": "1998-09-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Quinteros",
+      "position": "DFC",
+      "birthDate": "1998-10-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Barca",
+      "position": "DFC",
+      "birthDate": "2007-01-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Bonus",
+      "position": "DFC",
+      "birthDate": "2006-01-07",
+      "nationality": "USA"
+    },
+    {
+      "name": "Jorge Benítez",
+      "position": "DFC",
+      "birthDate": "1994-06-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Albarracín",
+      "position": "DFC",
+      "birthDate": "2000-07-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Caro Torres",
+      "position": "DFC",
+      "birthDate": "1995-05-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Núñez",
+      "position": "DFC",
+      "birthDate": "2002-06-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Squie",
+      "position": "DFC",
+      "birthDate": "1998-08-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bautista Degregorio",
+      "position": "MC",
+      "birthDate": "2004-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Acosta",
+      "position": "MC",
+      "birthDate": "1996-11-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Duré",
+      "position": "MC",
+      "birthDate": "1996-12-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Sena",
+      "position": "MC",
+      "birthDate": "1997-05-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Silva",
+      "position": "MC",
+      "birthDate": "2003-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Núñez",
+      "position": "MC",
+      "birthDate": "2009-06-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Sánchez",
+      "position": "MC",
+      "birthDate": "1999-07-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Giménez",
+      "position": "MC",
+      "birthDate": "2006-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Melo",
+      "position": "MC",
+      "birthDate": "1995-09-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Román Rodríguez",
+      "position": "MC",
+      "birthDate": "2003-09-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Camacho",
+      "position": "MC",
+      "birthDate": "1997-01-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Teo Cohen",
+      "position": "MC",
+      "birthDate": "2004-11-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tobías Salas",
+      "position": "MC",
+      "birthDate": "2005-03-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentino Pereyra",
+      "position": "MC",
+      "birthDate": "2003-06-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Darío Rostagno",
+      "position": "DC",
+      "birthDate": "2001-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Almirón",
+      "position": "DC",
+      "birthDate": "2002-08-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ian Vera",
+      "position": "DC",
+      "birthDate": "2004-11-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jorge Correa",
+      "position": "DC",
+      "birthDate": "1993-04-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Vergara",
+      "position": "DC",
+      "birthDate": "2005-10-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Acosta",
+      "position": "DC",
+      "birthDate": "1992-09-22",
+      "nationality": "ARG"
+    }
+  ]
+}

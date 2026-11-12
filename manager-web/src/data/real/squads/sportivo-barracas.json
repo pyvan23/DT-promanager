@@ -1,0 +1,112 @@
+{
+  "club": "Sportivo Barracas",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/sportivo-barracas/249",
+    "https://www.soloascenso.com.ar/sintesis/sacachispas-fc-sportivo-barracas/46173",
+    "https://www.soloascenso.com.ar/sintesis/sportivo-barracas-sacachispas-fc/46146",
+    "https://www.soloascenso.com.ar/sintesis/sportivo-barracas-leones-fc-rosario/46192"
+  ],
+  "players": [
+    {
+      "name": "Leonel Barrionuevo",
+      "position": "ARQ"
+    },
+    {
+      "name": "Ignacio Díaz Peyrous",
+      "position": "ARQ"
+    },
+    {
+      "name": "Franco Córdoba",
+      "position": "DFC"
+    },
+    {
+      "name": "Italo Portillo",
+      "position": "DFC"
+    },
+    {
+      "name": "Jorge Rosas Quintero",
+      "position": "DFC"
+    },
+    {
+      "name": "Agustín Titunik",
+      "position": "DFC"
+    },
+    {
+      "name": "Tomás Di Criscenzo",
+      "position": "MC"
+    },
+    {
+      "name": "Nahuel Durruty",
+      "position": "MC"
+    },
+    {
+      "name": "Felipe Estevez",
+      "position": "MC"
+    },
+    {
+      "name": "Lautaro Flores",
+      "position": "MC"
+    },
+    {
+      "name": "Santiago Gómez",
+      "position": "MC"
+    },
+    {
+      "name": "Mauro Romay",
+      "position": "MC"
+    },
+    {
+      "name": "Rodrigo Sequeira",
+      "position": "MC"
+    },
+    {
+      "name": "Nazareno Vidal",
+      "position": "MC"
+    },
+    {
+      "name": "Tomás Bellido",
+      "position": "DC"
+    },
+    {
+      "name": "Alen Boschi",
+      "position": "DC"
+    },
+    {
+      "name": "Nicolás Jorquera",
+      "position": "DC"
+    },
+    {
+      "name": "Lautaro Ortega",
+      "position": "DC"
+    },
+    {
+      "name": "Exequiel Ortiz",
+      "position": "DC"
+    },
+    {
+      "name": "Diego Perea",
+      "position": "DC"
+    },
+    {
+      "name": "Tobías Perrota",
+      "position": "DC"
+    },
+    {
+      "name": "Julián Rodríguez",
+      "position": "DC"
+    },
+    {
+      "name": "Iván Santa Cruz",
+      "position": "DC"
+    },
+    {
+      "name": "Santiago Sosa",
+      "position": "DC"
+    },
+    {
+      "name": "Ignacio Zanzi",
+      "position": "DC"
+    }
+  ]
+}

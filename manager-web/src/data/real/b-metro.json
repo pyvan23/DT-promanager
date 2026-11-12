@@ -1,0 +1,34 @@
+{
+  "division": "b-metro",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Campeonato_de_Primera_B_2026_(Argentina)",
+    "https://www.soloascenso.com.ar/",
+    "https://rsssf.org/colours/argentina.html"
+  ],
+  "formatNotes": "22 equipos en zona única, todos contra todos a dos ruedas (42 fechas). El 1.º asciende directo a la Primera Nacional (campeón 2026: Excursionistas). El 2.º ascenso sale de un Torneo Reducido por eliminación directa, a doble partido, entre los puestos 2.º a 9.º (cruces 2-9, 3-8, 4-7, 5-6). Los dos últimos de la tabla (21.º y 22.º: UAI Urquiza e Ituzaingó) descienden a la Primera C. Clasifican a la Copa Argentina 2027 el campeón, el ganador del reducido y los mejores ubicados del 2.º al 4.º no clasificados.",
+  "clubs": [
+    {"name": "Club Atlético Argentino (Merlo)", "shortName": "Argentino de Merlo", "city": "Merlo", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Juan Carlos Brieva", "colors": {"primary": "#7dbeff", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Club Atlético Argentino de Quilmes", "shortName": "Argentino de Quilmes", "city": "Quilmes", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Argentino de Quilmes (Dr. Isidoro Iriarte)", "colors": {"primary": "#0199fc", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Arsenal Fútbol Club", "shortName": "Arsenal", "city": "Sarandí (Avellaneda)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Julio Humberto Grondona", "colors": {"primary": "#27bef8", "secondary": "#e30613"}, "stature": 3},
+    {"name": "Club Atlético Brown", "shortName": "Brown de Adrogué", "city": "Adrogué (Almirante Brown)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Lorenzo Arandilla", "colors": {"primary": "#7dbeff", "secondary": "#000000"}, "stature": 2},
+    {"name": "Club Comunicaciones", "shortName": "Comunicaciones", "city": "Agronomía", "province": "Ciudad Autónoma de Buenos Aires", "affiliation": "directa", "stadium": "Alfredo Ramos", "colors": {"primary": "#ffd700", "secondary": "#000000"}, "stature": 2},
+    {"name": "Club Atlético Defensores Unidos", "shortName": "Defensores Unidos", "city": "Zárate", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Mario Losinno", "colors": {"primary": "#4abbff", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Club Atlético Deportivo Armenio", "shortName": "Deportivo Armenio", "city": "Ingeniero Maschwitz (Escobar)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Armenia", "colors": {"primary": "#ffffff", "secondary": "#d90012"}, "stature": 2},
+    {"name": "Club Atlético Social y Deportivo Camioneros", "shortName": "Camioneros", "city": "9 de Abril (Esteban Echeverría)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Hugo Moyano", "colors": {"primary": "#008000", "secondary": "#ffffff"}, "stature": 1},
+    {"name": "Club Social y Cultural Deportivo Laferrere", "shortName": "Laferrere", "city": "Gregorio de Laferrere (La Matanza)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Ciudad de Laferrere", "colors": {"primary": "#008000", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Club Social y Deportivo Merlo", "shortName": "Deportivo Merlo", "city": "Parque San Martín (Merlo)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "José Manuel Moreno", "colors": {"primary": "#ffffff", "secondary": "#0033a0"}, "stature": 2},
+    {"name": "Club Sportivo Dock Sud", "shortName": "Dock Sud", "city": "Dock Sud (Avellaneda)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "De los Inmigrantes", "colors": {"primary": "#0033a0", "secondary": "#ffcc00"}, "stature": 2},
+    {"name": "Club Atlético Excursionistas", "shortName": "Excursionistas", "city": "Bajo Belgrano", "province": "Ciudad Autónoma de Buenos Aires", "affiliation": "directa", "stadium": "Excursionistas", "colors": {"primary": "#007744", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Club Social y Deportivo Flandria", "shortName": "Flandria", "city": "Jáuregui (Luján)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Carlos V", "colors": {"primary": "#ffff00", "secondary": "#000000"}, "stature": 2},
+    {"name": "Club Atlético Ituzaingó", "shortName": "Ituzaingó", "city": "Ituzaingó", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Carlos Sacaan", "colors": {"primary": "#008000", "secondary": "#ffffff"}, "stature": 1},
+    {"name": "Club Social y Deportivo Liniers", "shortName": "Liniers", "city": "San Justo (La Matanza)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Juan Antonio Arias", "colors": {"primary": "#7dbeff", "secondary": "#007fff"}, "stature": 1},
+    {"name": "Real Pilar Fútbol Club", "shortName": "Real Pilar", "city": "Pilar", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Municipal de Pilar Carlos Barraza", "colors": {"primary": "#000000", "secondary": "#ffffff"}, "stature": 1},
+    {"name": "Club Social y Deportivo San Martín", "shortName": "San Martín de Burzaco", "city": "Burzaco (Almirante Brown)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Francisco Boga", "colors": {"primary": "#000040", "secondary": "#ffffff"}, "stature": 1},
+    {"name": "Club Sportivo Italiano", "shortName": "Sportivo Italiano", "city": "Ciudad Evita (La Matanza)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "República de Italia", "colors": {"primary": "#0000ff", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Club Atlético Talleres (Remedios de Escalada)", "shortName": "Talleres (RdE)", "city": "Remedios de Escalada (Lanús)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Pablo Comelli", "colors": {"primary": "#ff0000", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Club Deportivo UAI Urquiza", "shortName": "UAI Urquiza", "city": "Villa Lynch (General San Martín)", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Monumental de Villa Lynch", "colors": {"primary": "#0099ff", "secondary": "#800000"}, "stature": 1},
+    {"name": "Club Villa Dálmine", "shortName": "Villa Dálmine", "city": "Campana", "province": "Buenos Aires", "affiliation": "directa", "stadium": "El Coliseo de Mitre y Puccini", "colors": {"primary": "#400080", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Club Atlético Villa San Carlos", "shortName": "Villa San Carlos", "city": "Berisso", "province": "Buenos Aires", "affiliation": "directa", "stadium": "Genacio Sálice", "colors": {"primary": "#87ceeb", "secondary": "#ffffff"}, "stature": 1}
+  ]
+}

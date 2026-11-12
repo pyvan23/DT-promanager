@@ -1,0 +1,206 @@
+{
+  "club": "Atlanta",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atlético_Atlanta"
+  ],
+  "players": [
+    {
+      "name": "Lautaro López Kaleniuk",
+      "position": "ARQ",
+      "birthDate": "2001-01-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rocco Pasquale",
+      "position": "ARQ",
+      "birthDate": "2005-02-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Rago",
+      "position": "ARQ",
+      "birthDate": "1988-10-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dylan Argüello",
+      "position": "DFC",
+      "birthDate": "2004-04-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Carbone",
+      "position": "DFC",
+      "birthDate": "2006-07-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Sosa",
+      "position": "DFC",
+      "birthDate": "1994-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martin Garcia",
+      "position": "DFC",
+      "birthDate": "1991-02-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Galeano",
+      "position": "DFC",
+      "birthDate": "2005-08-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Javier Ostachuk",
+      "position": "DFC",
+      "birthDate": "2000-07-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Román Herrera",
+      "position": "DFC",
+      "birthDate": "2005-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Moreira",
+      "position": "DFC",
+      "birthDate": "1996-07-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Rojas",
+      "position": "DFC",
+      "birthDate": "2002-05-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gustavo Mendoza",
+      "position": "DFC",
+      "birthDate": "1991-03-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Dramisino",
+      "position": "MC",
+      "birthDate": "2000-04-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Bisanz",
+      "position": "MC",
+      "birthDate": "2001-08-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Rivero",
+      "position": "MC",
+      "birthDate": "1996-02-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Romero",
+      "position": "MC",
+      "birthDate": "1999-03-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Cáceres",
+      "position": "MC",
+      "birthDate": "2000-01-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Vito Esmay",
+      "position": "MC",
+      "birthDate": "2004-02-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Castro Ponce",
+      "position": "MC",
+      "birthDate": "1988-10-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Previtali",
+      "position": "MC",
+      "birthDate": "1995-07-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Christian Bernardi",
+      "position": "MC",
+      "birthDate": "1990-03-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Ruiz",
+      "position": "MC",
+      "birthDate": "2004-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremias Rodríguez Puch",
+      "position": "MC",
+      "birthDate": "2001-06-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Urtasun",
+      "position": "MC",
+      "birthDate": "2004-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Ibarra",
+      "position": "MC",
+      "birthDate": "1994-05-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Morales",
+      "position": "DC",
+      "birthDate": "1999-02-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Frank Bogado",
+      "position": "DC",
+      "birthDate": "2006-00-00",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Rodriguez",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Quintana",
+      "position": "DC",
+      "birthDate": "2001-05-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Castro",
+      "position": "DC",
+      "birthDate": "2000-01-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Alvarez",
+      "position": "DC",
+      "birthDate": "2001-05-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Fedele",
+      "position": "DC",
+      "birthDate": "2001-07-14",
+      "nationality": "ARG"
+    }
+  ]
+}

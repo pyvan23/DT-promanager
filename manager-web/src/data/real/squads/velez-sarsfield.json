@@ -1,0 +1,141 @@
+{
+  "club": "Vélez Sarsfield",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield"
+  ],
+  "players": [
+    {
+      "name": "Tomás Marchiori",
+      "position": "ARQ",
+      "birthDate": "1995-06-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Álvaro Busso",
+      "position": "ARQ",
+      "birthDate": "2006-10-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Mammana",
+      "position": "DFC",
+      "birthDate": "1996-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías Gómez",
+      "position": "DFC",
+      "birthDate": "1994-06-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín García",
+      "position": "DFC",
+      "birthDate": "2001-08-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lisandro Magallán",
+      "position": "DFC",
+      "birthDate": "1993-09-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leo Cristaldo",
+      "position": "DFC",
+      "birthDate": "2009-01-12",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Jano Gordon",
+      "position": "DFC",
+      "birthDate": "2004-06-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Silvero",
+      "position": "DFC",
+      "birthDate": "2006-04-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Vaquero",
+      "position": "DFC",
+      "birthDate": "2003-04-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Claudio Baeza",
+      "position": "MC",
+      "birthDate": "1993-12-23",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Lucas Robertone",
+      "position": "MC",
+      "birthDate": "1997-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Valdés",
+      "position": "MC",
+      "birthDate": "1994-01-30",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Manuel Lanzini",
+      "position": "MC",
+      "birthDate": "1993-02-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Aliendro",
+      "position": "MC",
+      "birthDate": "1991-02-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Arias",
+      "position": "MC",
+      "birthDate": "2007-05-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luca Feler",
+      "position": "MC",
+      "birthDate": "2008-01-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Pellegrini",
+      "position": "DC",
+      "birthDate": "2000-03-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dilan Godoy",
+      "position": "DC",
+      "birthDate": "2006-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Álex Verón",
+      "position": "DC",
+      "birthDate": "2008-10-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Florián Monzón",
+      "position": "DC",
+      "birthDate": "2001-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Aguirre",
+      "position": "DC",
+      "birthDate": "2009-02-14",
+      "nationality": "ARG"
+    }
+  ]
+}

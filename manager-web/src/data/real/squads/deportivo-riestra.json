@@ -1,0 +1,201 @@
+{
+  "club": "Deportivo Riestra",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Deportivo_Riestra"
+  ],
+  "players": [
+    {
+      "name": "Ignacio Arce",
+      "position": "ARQ",
+      "birthDate": "1992-04-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván López",
+      "position": "ARQ",
+      "birthDate": "1996-02-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marino Arzamendia",
+      "position": "ARQ",
+      "birthDate": "1998-01-19",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Carlos Quintana",
+      "position": "DFC",
+      "birthDate": "1988-02-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Eric Tovo",
+      "position": "DFC",
+      "birthDate": "1992-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yeison Mena Murillo",
+      "position": "DFC",
+      "birthDate": "1993-11-15",
+      "nationality": "COL"
+    },
+    {
+      "name": "Pedro Ramírez",
+      "position": "DFC",
+      "birthDate": "2000-04-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Gariglio",
+      "position": "DFC",
+      "birthDate": "1998-04-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Gallo",
+      "position": "DFC",
+      "birthDate": "2000-11-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Sansotre",
+      "position": "DFC",
+      "birthDate": "1993-09-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Randazzo",
+      "position": "DFC",
+      "birthDate": "1994-10-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Paz",
+      "position": "DFC",
+      "birthDate": "1995-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Miño",
+      "position": "DFC",
+      "birthDate": "1999-10-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonatan Goitía",
+      "position": "DFC",
+      "birthDate": "1994-08-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mariano Bracamonte",
+      "position": "DFC",
+      "birthDate": "1999-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Alejo Duarte",
+      "position": "DFC",
+      "birthDate": "2005-10-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Milton Céliz",
+      "position": "MC",
+      "birthDate": "1992-06-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Sánchez",
+      "position": "MC",
+      "birthDate": "1993-06-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Monje",
+      "position": "MC",
+      "birthDate": "1997-02-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Watson",
+      "position": "MC",
+      "birthDate": "1998-05-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Benjamín Pérez",
+      "position": "MC",
+      "birthDate": "2006-06-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Lauro",
+      "position": "MC",
+      "birthDate": "2005-05-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Smarra",
+      "position": "MC",
+      "birthDate": "1999-04-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel Stringa",
+      "position": "MC",
+      "birthDate": "1996-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dariel Sánchez Ganly",
+      "position": "MC",
+      "birthDate": "2006-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Obredor",
+      "position": "MC",
+      "birthDate": "1997-01-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Antony Alonso",
+      "position": "DC",
+      "birthDate": "1998-05-11",
+      "nationality": "URY"
+    },
+    {
+      "name": "Nicolás Benegas",
+      "position": "DC",
+      "birthDate": "1996-03-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexander Díaz",
+      "position": "DC",
+      "birthDate": "2000-03-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel Almada",
+      "position": "DC",
+      "birthDate": "2000-09-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás González",
+      "position": "DC",
+      "birthDate": "2003-05-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Miguel Agustín Graneros",
+      "position": "DC",
+      "birthDate": "1996-04-28",
+      "nationality": "ARG"
+    }
+  ]
+}

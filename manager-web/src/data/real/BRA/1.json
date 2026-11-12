@@ -1,0 +1,277 @@
+{
+  "division": "BRA-1",
+  "country": "BRA",
+  "name": "Campeonato Brasileiro Série A",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Campeonato_Brasileiro_S%C3%A9rie_A",
+    "https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026"
+  ],
+  "formatNotes": "20 equipos, todos contra todos ida y vuelta (38 jornadas). Descienden los puestos 17-20 a la Série B. Ascendidos 2026: Coritiba, Athletico Paranaense, Chapecoense y Remo; descendidos 2025: Ceará, Fortaleza, Juventude y Sport. Libertadores: 1.º-5.º (1.º-4.º a fase de grupos, 5.º a fase previa) más campeón y subcampeón de la Copa do Brasil (si ya clasificados, la plaza pasa por liga al siguiente). Sudamericana: los seis siguientes mejor ubicados no clasificados a Libertadores.",
+  "domesticCup": {
+    "name": "Copa do Brasil",
+    "formatNotes": "Eliminatorias con clubes de todas las series y campeones estatales; primeras fases a partido único, luego doble partido; los clasificados a Libertadores entran en octavos. Final a doble partido. Campeón a la fase de grupos de la Libertadores y a la Supercopa do Brasil; el subcampeón también obtiene plaza de Libertadores desde 2026."
+  },
+  "clubs": [
+    {
+      "name": "Club Athletico Paranaense",
+      "shortName": "Athletico-PR",
+      "city": "Curitiba",
+      "province": "Paraná",
+      "affiliation": "directa",
+      "stadium": "Arena da Baixada",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#000000"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Clube Atlético Mineiro",
+      "shortName": "Atlético-MG",
+      "city": "Belo Horizonte",
+      "province": "Minas Gerais",
+      "affiliation": "directa",
+      "stadium": "Arena MRV",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Esporte Clube Bahia",
+      "shortName": "Bahia",
+      "city": "Salvador",
+      "province": "Bahia",
+      "affiliation": "directa",
+      "stadium": "Arena Fonte Nova",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#E30613"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Botafogo de Futebol e Regatas",
+      "shortName": "Botafogo",
+      "city": "Rio de Janeiro",
+      "province": "Rio de Janeiro",
+      "affiliation": "directa",
+      "stadium": "Estádio Nilton Santos",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Associação Chapecoense de Futebol",
+      "shortName": "Chapecoense",
+      "city": "Chapecó",
+      "province": "Santa Catarina",
+      "affiliation": "directa",
+      "stadium": "Arena Condá",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Sport Club Corinthians Paulista",
+      "shortName": "Corinthians",
+      "city": "São Paulo",
+      "province": "São Paulo",
+      "affiliation": "directa",
+      "stadium": "Neo Química Arena",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Coritiba Foot Ball Club",
+      "shortName": "Coritiba",
+      "city": "Curitiba",
+      "province": "Paraná",
+      "affiliation": "directa",
+      "stadium": "Couto Pereira",
+      "colors": {
+        "primary": "#00544D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Cruzeiro Esporte Clube",
+      "shortName": "Cruzeiro",
+      "city": "Belo Horizonte",
+      "province": "Minas Gerais",
+      "affiliation": "directa",
+      "stadium": "Mineirão",
+      "colors": {
+        "primary": "#003DA5",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Clube de Regatas do Flamengo",
+      "shortName": "Flamengo",
+      "city": "Rio de Janeiro",
+      "province": "Rio de Janeiro",
+      "affiliation": "directa",
+      "stadium": "Maracanã",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#000000"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Fluminense Football Club",
+      "shortName": "Fluminense",
+      "city": "Rio de Janeiro",
+      "province": "Rio de Janeiro",
+      "affiliation": "directa",
+      "stadium": "Maracanã",
+      "colors": {
+        "primary": "#7A1E3A",
+        "secondary": "#006747"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Grêmio Foot-Ball Porto Alegrense",
+      "shortName": "Grêmio",
+      "city": "Porto Alegre",
+      "province": "Rio Grande do Sul",
+      "affiliation": "directa",
+      "stadium": "Arena do Grêmio",
+      "colors": {
+        "primary": "#0D80BF",
+        "secondary": "#000000"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Sport Club Internacional",
+      "shortName": "Internacional",
+      "city": "Porto Alegre",
+      "province": "Rio Grande do Sul",
+      "affiliation": "directa",
+      "stadium": "Beira-Rio",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Mirassol Futebol Clube",
+      "shortName": "Mirassol",
+      "city": "Mirassol",
+      "province": "São Paulo",
+      "affiliation": "directa",
+      "stadium": "José Maria de Campos Maia",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#00843D"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Sociedade Esportiva Palmeiras",
+      "shortName": "Palmeiras",
+      "city": "São Paulo",
+      "province": "São Paulo",
+      "affiliation": "directa",
+      "stadium": "Nubank Parque (Allianz Parque)",
+      "colors": {
+        "primary": "#006437",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Red Bull Bragantino",
+      "shortName": "Bragantino",
+      "city": "Bragança Paulista",
+      "province": "São Paulo",
+      "affiliation": "directa",
+      "stadium": "Cícero de Souza Marques",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#D0021B"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Clube do Remo",
+      "shortName": "Remo",
+      "city": "Belém",
+      "province": "Pará",
+      "affiliation": "directa",
+      "stadium": "Mangueirão",
+      "colors": {
+        "primary": "#002B5C",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Santos Futebol Clube",
+      "shortName": "Santos",
+      "city": "Santos",
+      "province": "São Paulo",
+      "affiliation": "directa",
+      "stadium": "Vila Belmiro",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 4
+    },
+    {
+      "name": "São Paulo Futebol Clube",
+      "shortName": "São Paulo",
+      "city": "São Paulo",
+      "province": "São Paulo",
+      "affiliation": "directa",
+      "stadium": "MorumBIS",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#E30613"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Club de Regatas Vasco da Gama",
+      "shortName": "Vasco",
+      "city": "Rio de Janeiro",
+      "province": "Rio de Janeiro",
+      "affiliation": "directa",
+      "stadium": "São Januário",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Esporte Clube Vitória",
+      "shortName": "Vitória",
+      "city": "Salvador",
+      "province": "Bahia",
+      "affiliation": "directa",
+      "stadium": "Barradão",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    }
+  ]
+}

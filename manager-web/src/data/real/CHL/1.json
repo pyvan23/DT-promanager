@@ -1,0 +1,225 @@
+{
+  "division": "CHL-1",
+  "country": "CHL",
+  "name": "Liga de Primera",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Liga_de_Primera",
+    "https://www.campeonatochileno.cl/"
+  ],
+  "formatNotes": "16 equipos, torneo único ida y vuelta (30 fechas). Descienden los puestos 15 y 16 a la Liga de Ascenso. Ascendidos 2026: Universidad de Concepción (campeón Primera B) y Deportes Concepción (liguilla); descendidos 2025: Deportes Iquique y Unión Española. Libertadores: campeón y subcampeón a fase de grupos; el 3.º juega un partido único ante el campeón de la Copa Chile: el ganador va a la fase previa de Libertadores y el perdedor a Sudamericana. Sudamericana: 4.º-6.º más el perdedor de ese partido.",
+  "domesticCup": {
+    "name": "Copa Chile",
+    "formatNotes": "Fases regionales y eliminatorias con clubes de Primera, Ascenso y Segunda Profesional; final a partido único. El campeón disputa contra el 3.º de la liga un partido por la plaza de fase previa de Libertadores (perdedor a Sudamericana) y juega la Supercopa de Chile."
+  },
+  "clubs": [
+    {
+      "name": "Audax Club Sportivo Italiano",
+      "shortName": "Audax Italiano",
+      "city": "Santiago (La Florida)",
+      "province": "Región Metropolitana",
+      "affiliation": "directa",
+      "stadium": "Bicentenario de La Florida",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club de Deportes Cobresal",
+      "shortName": "Cobresal",
+      "city": "El Salvador",
+      "province": "Atacama",
+      "affiliation": "directa",
+      "stadium": "El Cobre",
+      "colors": {
+        "primary": "#FF6600",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Social y Deportivo Colo-Colo",
+      "shortName": "Colo-Colo",
+      "city": "Santiago (Macul)",
+      "province": "Región Metropolitana",
+      "affiliation": "directa",
+      "stadium": "Monumental David Arellano",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Club de Deportes Coquimbo Unido",
+      "shortName": "Coquimbo Unido",
+      "city": "Coquimbo",
+      "province": "Coquimbo",
+      "affiliation": "directa",
+      "stadium": "Francisco Sánchez Rumoroso",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Social y Deportivo Concepción",
+      "shortName": "Deportes Concepción",
+      "city": "Concepción",
+      "province": "Biobío",
+      "affiliation": "directa",
+      "stadium": "Ester Roa Rebolledo",
+      "colors": {
+        "primary": "#5B2C83",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club de Deportes La Serena",
+      "shortName": "La Serena",
+      "city": "La Serena",
+      "province": "Coquimbo",
+      "affiliation": "directa",
+      "stadium": "La Portada",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club de Deportes Limache",
+      "shortName": "Limache",
+      "city": "Limache",
+      "province": "Valparaíso",
+      "affiliation": "directa",
+      "stadium": "Lucio Fariña Fernández (Quillota)",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Everton de Viña del Mar",
+      "shortName": "Everton",
+      "city": "Viña del Mar",
+      "province": "Valparaíso",
+      "affiliation": "directa",
+      "stadium": "Sausalito",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFD700"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Deportivo Huachipato",
+      "shortName": "Huachipato",
+      "city": "Talcahuano",
+      "province": "Biobío",
+      "affiliation": "directa",
+      "stadium": "Huachipato-CAP Acero",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Deportivo Ñublense",
+      "shortName": "Ñublense",
+      "city": "Chillán",
+      "province": "Ñuble",
+      "affiliation": "directa",
+      "stadium": "Nelson Oyarzún Arenas",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo O'Higgins",
+      "shortName": "O'Higgins",
+      "city": "Rancagua",
+      "province": "O'Higgins",
+      "affiliation": "directa",
+      "stadium": "El Teniente",
+      "colors": {
+        "primary": "#87CEEB",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Deportivo Palestino",
+      "shortName": "Palestino",
+      "city": "Santiago (La Cisterna)",
+      "province": "Región Metropolitana",
+      "affiliation": "directa",
+      "stadium": "Municipal de La Cisterna",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#E30613"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Unión La Calera",
+      "shortName": "La Calera",
+      "city": "La Calera",
+      "province": "Valparaíso",
+      "affiliation": "directa",
+      "stadium": "Nicolás Chahuán Nazar",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo Universidad Católica",
+      "shortName": "U. Católica",
+      "city": "Santiago (Las Condes)",
+      "province": "Región Metropolitana",
+      "affiliation": "directa",
+      "stadium": "Claro Arena",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#0055A4"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Club Universidad de Chile",
+      "shortName": "U. de Chile",
+      "city": "Santiago (Ñuñoa)",
+      "province": "Región Metropolitana",
+      "affiliation": "directa",
+      "stadium": "Nacional Julio Martínez Prádanos",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#E30613"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Club Deportivo Universidad de Concepción",
+      "shortName": "U. de Concepción",
+      "city": "Concepción",
+      "province": "Biobío",
+      "affiliation": "directa",
+      "stadium": "Ester Roa Rebolledo",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#0055A4"
+      },
+      "stature": 2
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "club": "J. J. Urquiza",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/jj-urquiza/283",
+    "https://www.soloascenso.com.ar/sintesis/jj-urquiza-leandro-n-alem/45299",
+    "https://www.soloascenso.com.ar/sintesis/jj-urquiza-juventud-unida/45272",
+    "https://www.soloascenso.com.ar/sintesis/jj-urquiza-deportivo-paraguayo/45326",
+    "https://www.soloascenso.com.ar/sintesis/puerto-nuevo-jj-urquiza/45314"
+  ],
+  "players": [
+    {
+      "name": "Facundo Durán",
+      "position": "ARQ"
+    },
+    {
+      "name": "Mateo Figueroa",
+      "position": "ARQ"
+    },
+    {
+      "name": "Manuel Aiello",
+      "position": "DFC"
+    },
+    {
+      "name": "Patricio Díaz",
+      "position": "DFC"
+    },
+    {
+      "name": "Luca Fusca",
+      "position": "DFC"
+    },
+    {
+      "name": "Bautista García",
+      "position": "DFC"
+    },
+    {
+      "name": "Dylan Gauna",
+      "position": "DFC"
+    },
+    {
+      "name": "Leonardo Luna",
+      "position": "DFC"
+    },
+    {
+      "name": "Nehuén Montoya",
+      "position": "DFC"
+    },
+    {
+      "name": "Elías Quiroga",
+      "position": "DFC"
+    },
+    {
+      "name": "Leandro Benites",
+      "position": "MC"
+    },
+    {
+      "name": "Mateo Chade",
+      "position": "MC"
+    },
+    {
+      "name": "Joaquín Del Castillo",
+      "position": "MC"
+    },
+    {
+      "name": "Fabián Lucero",
+      "position": "MC"
+    },
+    {
+      "name": "Tomás Mendoza",
+      "position": "MC"
+    },
+    {
+      "name": "Axel Meridione",
+      "position": "MC"
+    },
+    {
+      "name": "Luciano Núñez",
+      "position": "MC"
+    },
+    {
+      "name": "Franco Núñez Rivas",
+      "position": "MC"
+    },
+    {
+      "name": "Marcos Ruanova",
+      "position": "MC"
+    },
+    {
+      "name": "Issa Jean Sane",
+      "position": "MC"
+    },
+    {
+      "name": "Joaquín Torres",
+      "position": "MC"
+    },
+    {
+      "name": "Thiago Urquiza",
+      "position": "MC"
+    },
+    {
+      "name": "Thiago Ventura",
+      "position": "MC"
+    },
+    {
+      "name": "Gastón Cueto",
+      "position": "DC"
+    },
+    {
+      "name": "Franco Ocampo",
+      "position": "DC"
+    },
+    {
+      "name": "Lautaro Racioppo",
+      "position": "DC"
+    },
+    {
+      "name": "Apolo Rapp",
+      "position": "DC"
+    },
+    {
+      "name": "Francisco Urquiza",
+      "position": "DC"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "club": "Acassuso",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Acassuso"
+  ],
+  "players": [
+    {
+      "name": "Mariano Monllor",
+      "position": "ARQ",
+      "birthDate": "1989-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Atamañuk",
+      "position": "ARQ",
+      "birthDate": "1996-04-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Bellatti",
+      "position": "DFC",
+      "birthDate": "2002-06-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Borges",
+      "position": "DFC",
+      "birthDate": "2002-10-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joel Ghirardello",
+      "position": "DFC",
+      "birthDate": "1995-09-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Dordoni",
+      "position": "DFC",
+      "birthDate": "1998-11-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Pioli",
+      "position": "DFC",
+      "birthDate": "2001-04-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Álex Ruiz",
+      "position": "DFC",
+      "birthDate": "2000-02-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Stepanovitch",
+      "position": "DFC",
+      "birthDate": "2004-02-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Cortés",
+      "position": "DFC",
+      "birthDate": "2002-07-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Natan Acosta",
+      "position": "DFC",
+      "birthDate": "2003-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Ponce de León",
+      "position": "DFC",
+      "birthDate": "2000-05-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Román Etcheverri",
+      "position": "DFC",
+      "birthDate": "2003-05-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Reynoso",
+      "position": "MC",
+      "birthDate": "1999-06-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Petillo",
+      "position": "MC",
+      "birthDate": "2001-10-16",
+      "nationality": "URY"
+    },
+    {
+      "name": "Joaquín Cancio",
+      "position": "MC",
+      "birthDate": "2003-04-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Patricio Pérez",
+      "position": "MC",
+      "birthDate": "2000-09-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Roberts",
+      "position": "MC",
+      "birthDate": "2001-05-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "David De Stéfano",
+      "position": "MC",
+      "birthDate": "2000-05-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Teo Santaliz",
+      "position": "MC",
+      "birthDate": "2002-06-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Dubini",
+      "position": "MC",
+      "birthDate": "1993-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan Raccio",
+      "position": "MC",
+      "birthDate": "2005-03-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Hermoso",
+      "position": "MC",
+      "birthDate": "2002-11-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Sena",
+      "position": "DC",
+      "birthDate": "2005-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Sanabria",
+      "position": "DC",
+      "birthDate": "2004-01-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Rey",
+      "position": "DC",
+      "birthDate": "1999-05-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lázaro Romero",
+      "position": "DC",
+      "birthDate": "1995-12-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "David Escalante",
+      "position": "DC",
+      "birthDate": "1991-05-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Schlotthauer",
+      "position": "DC",
+      "birthDate": "1999-09-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Senn",
+      "position": "DC",
+      "birthDate": "2001-03-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Rodríguez",
+      "position": "DC",
+      "birthDate": "2004-01-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Gónzalez Duarte",
+      "position": "DC",
+      "birthDate": "2004-10-12",
+      "nationality": "ARG"
+    }
+  ]
+}

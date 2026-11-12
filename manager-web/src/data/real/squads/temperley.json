@@ -1,0 +1,177 @@
+{
+  "club": "Temperley",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Temperley"
+  ],
+  "players": [
+    {
+      "name": "Valentín Díaz",
+      "position": "ARQ",
+      "birthDate": "2005-05-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Mastrolía",
+      "position": "ARQ",
+      "birthDate": "1991-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lisandro Morrone",
+      "position": "ARQ",
+      "birthDate": "2005-12-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jerónimo Pourtau",
+      "position": "ARQ",
+      "birthDate": "2000-01-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Aguiñagalde",
+      "position": "DFC",
+      "birthDate": "2004-10-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Calzón",
+      "position": "DFC",
+      "birthDate": "2005-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Mazur",
+      "position": "DFC",
+      "birthDate": "1992-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lorenzo Monti",
+      "position": "DFC",
+      "birthDate": "1998-03-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iago Iriarte",
+      "position": "DFC",
+      "birthDate": "2000-05-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Oswaldo Pacheco",
+      "position": "DFC",
+      "birthDate": "2000-10-29",
+      "nationality": "COL"
+    },
+    {
+      "name": "Lucas Angelini",
+      "position": "DFC",
+      "birthDate": "1995-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pedro Souto",
+      "position": "DFC",
+      "birthDate": "2000-05-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Adrián Arregui",
+      "position": "MC",
+      "birthDate": "1992-08-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Richarte",
+      "position": "MC",
+      "birthDate": "2004-11-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Nieto",
+      "position": "MC",
+      "birthDate": "1991-01-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Brandán",
+      "position": "MC",
+      "birthDate": "1990-03-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Carrasco",
+      "position": "MC",
+      "birthDate": "2002-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Grecco",
+      "position": "MC",
+      "birthDate": "2006-09-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mathías Lugo",
+      "position": "MC",
+      "birthDate": "2004-05-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Stocco",
+      "position": "MC",
+      "birthDate": "2006-08-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Díaz",
+      "position": "MC",
+      "birthDate": "2000-08-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gerónimo Tomasetti",
+      "position": "MC",
+      "birthDate": "2000-05-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Hauche",
+      "position": "DC",
+      "birthDate": "1986-11-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Melo",
+      "position": "DC",
+      "birthDate": "1996-01-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Benítez",
+      "position": "DC",
+      "birthDate": "2002-03-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Echeverría",
+      "position": "DC",
+      "birthDate": "2003-07-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Krüger",
+      "position": "DC",
+      "birthDate": "2000-06-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Silva",
+      "position": "DC",
+      "birthDate": "2005-04-29",
+      "nationality": "ARG"
+    }
+  ]
+}

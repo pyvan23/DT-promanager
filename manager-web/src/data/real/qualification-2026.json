@@ -1,0 +1,913 @@
+{
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Copa_Libertadores",
+    "https://en.wikipedia.org/wiki/2026_Copa_Libertadores_group_stage",
+    "https://en.wikipedia.org/wiki/2026_Copa_Sudamericana",
+    "https://en.wikipedia.org/wiki/2026_Copa_Sudamericana_group_stage",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_league_phase",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_league_phase",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Conference_League_league_phase",
+    "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2025_(Argentina)",
+    "https://es.wikipedia.org/wiki/Copa_Argentina_2025",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Bundesliga",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ligue_1",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Primeira_Liga",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Eredivisie",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Belgian_Pro_League",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Premiership",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_S%C3%BCper_Lig",
+    "https://en.wikipedia.org/wiki/2025_Campeonato_Brasileiro_S%C3%A9rie_A",
+    "https://en.wikipedia.org/wiki/2025_Liga_AUF_Uruguaya",
+    "https://en.wikipedia.org/wiki/2025_Paraguayan_Primera_Divisi%C3%B3n_season",
+    "https://en.wikipedia.org/wiki/2025_Chilean_Primera_Divisi%C3%B3n",
+    "https://en.wikipedia.org/wiki/2025_Categor%C3%ADa_Primera_A_season",
+    "https://en.wikipedia.org/wiki/2025_Liga_1_(Peru)",
+    "https://en.wikipedia.org/wiki/2025_Ecuadorian_Serie_A",
+    "https://en.wikipedia.org/wiki/2025_Bolivian_Primera_Divisi%C3%B3n_season",
+    "https://en.wikipedia.org/wiki/2025_Venezuelan_Primera_Divisi%C3%B3n_season"
+  ],
+  "notes": "Argentina 2025: Apertura = Platense, Clausura = Estudiantes (LP); 'Campeón de Liga' (tabla anual) = Rosario Central. Copa Argentina 2025: Independiente Rivadavia (final vs Argentinos Juniors). Libertadores/Sudamericana 2026: los 32 de fase de grupos (incluye ganadores de fases previas; en Libertadores: Medellín, Tolima, Sporting Cristal y Barcelona SC). Lanús (campeón Sudamericana 2025) jugó la fase de grupos de la Libertadores 2026. Paraguay 2025: Apertura Libertad, Clausura Cerro Porteño (se usa el Clausura). Colombia 2025: Apertura Santa Fe, Finalización Junior (se usa la Finalización). Venezuela 2025: UCV ganó Apertura y la Gran Final vs Carabobo. Copa do Brasil 2025: Corinthians. UEFA 2025-26: PSG bicampeón de Champions, Aston Villa Europa League, Crystal Palace Conference League (este último entra a la fase de liga de Europa League 2026-27). Man City ganó FA Cup y EFL Cup; Inter doblete Serie A + Coppa Italia; Bayern doblete Bundesliga + DFB-Pokal; Lens Coupe de France. Torreense (2.a división portuguesa, campeón de la Taça de Portugal 2025-26) no está en nuestros datos. Listas UEFA tomadas de las páginas 'league phase' de Wikipedia (orden por bombo). Clubes de ligas que no modelamos van con missing:true.",
+  "entrants": {
+    "copa-libertadores": [
+      {
+        "club": "Flamengo",
+        "country": "BRA"
+      },
+      {
+        "club": "Palmeiras",
+        "country": "BRA"
+      },
+      {
+        "club": "Boca Juniors",
+        "country": "ARG"
+      },
+      {
+        "club": "Peñarol",
+        "country": "URY"
+      },
+      {
+        "club": "Nacional",
+        "country": "URY"
+      },
+      {
+        "club": "LDU Quito",
+        "country": "ECU"
+      },
+      {
+        "club": "Fluminense",
+        "country": "BRA"
+      },
+      {
+        "club": "IDV",
+        "country": "ECU"
+      },
+      {
+        "club": "Lanús",
+        "country": "ARG"
+      },
+      {
+        "club": "Libertad",
+        "country": "PRY"
+      },
+      {
+        "club": "Estudiantes (LP)",
+        "country": "ARG"
+      },
+      {
+        "club": "Cerro Porteño",
+        "country": "PRY"
+      },
+      {
+        "club": "Corinthians",
+        "country": "BRA"
+      },
+      {
+        "club": "Bolívar",
+        "country": "BOL"
+      },
+      {
+        "club": "Cruzeiro",
+        "country": "BRA"
+      },
+      {
+        "club": "Universitario",
+        "country": "PER"
+      },
+      {
+        "club": "Junior",
+        "country": "COL"
+      },
+      {
+        "club": "U. Católica",
+        "country": "CHL"
+      },
+      {
+        "club": "Rosario Central",
+        "country": "ARG"
+      },
+      {
+        "club": "Santa Fe",
+        "country": "COL"
+      },
+      {
+        "club": "Always Ready",
+        "country": "BOL"
+      },
+      {
+        "club": "Coquimbo Unido",
+        "country": "CHL"
+      },
+      {
+        "club": "La Guaira",
+        "country": "VEN"
+      },
+      {
+        "club": "Cusco FC",
+        "country": "PER"
+      },
+      {
+        "club": "UCV",
+        "country": "VEN"
+      },
+      {
+        "club": "Platense",
+        "country": "ARG"
+      },
+      {
+        "club": "Independiente Rivadavia",
+        "country": "ARG"
+      },
+      {
+        "club": "Mirassol",
+        "country": "BRA"
+      },
+      {
+        "club": "Medellín",
+        "country": "COL"
+      },
+      {
+        "club": "Tolima",
+        "country": "COL"
+      },
+      {
+        "club": "Sporting Cristal",
+        "country": "PER"
+      },
+      {
+        "club": "Barcelona",
+        "country": "ECU"
+      }
+    ],
+    "copa-sudamericana": [
+      {
+        "club": "River Plate",
+        "country": "ARG"
+      },
+      {
+        "club": "Atlético-MG",
+        "country": "BRA"
+      },
+      {
+        "club": "São Paulo",
+        "country": "BRA"
+      },
+      {
+        "club": "Racing Club",
+        "country": "ARG"
+      },
+      {
+        "club": "Grêmio",
+        "country": "BRA"
+      },
+      {
+        "club": "Olimpia",
+        "country": "PRY"
+      },
+      {
+        "club": "Santos",
+        "country": "BRA"
+      },
+      {
+        "club": "América",
+        "country": "COL"
+      },
+      {
+        "club": "San Lorenzo",
+        "country": "ARG"
+      },
+      {
+        "club": "Bragantino",
+        "country": "BRA"
+      },
+      {
+        "club": "Palestino",
+        "country": "CHL"
+      },
+      {
+        "club": "Millonarios",
+        "country": "COL"
+      },
+      {
+        "club": "Caracas",
+        "country": "VEN"
+      },
+      {
+        "club": "Vasco",
+        "country": "BRA"
+      },
+      {
+        "club": "Cienciano",
+        "country": "PER"
+      },
+      {
+        "club": "Tigre",
+        "country": "ARG"
+      },
+      {
+        "club": "Audax Italiano",
+        "country": "CHL"
+      },
+      {
+        "club": "Blooming",
+        "country": "BOL"
+      },
+      {
+        "club": "Puerto Cabello",
+        "country": "VEN"
+      },
+      {
+        "club": "Boston River",
+        "country": "URY"
+      },
+      {
+        "club": "City Torque",
+        "country": "URY"
+      },
+      {
+        "club": "Dep. Cuenca",
+        "country": "ECU"
+      },
+      {
+        "club": "Independiente",
+        "country": "BOL"
+      },
+      {
+        "club": "Macará",
+        "country": "ECU"
+      },
+      {
+        "club": "Alianza Atlético",
+        "country": "PER"
+      },
+      {
+        "club": "Barracas Central",
+        "country": "ARG"
+      },
+      {
+        "club": "Deportivo Riestra",
+        "country": "ARG"
+      },
+      {
+        "club": "Recoleta",
+        "country": "PRY"
+      },
+      {
+        "club": "Juventud",
+        "country": "URY"
+      },
+      {
+        "club": "O'Higgins",
+        "country": "CHL"
+      },
+      {
+        "club": "Carabobo",
+        "country": "VEN"
+      },
+      {
+        "club": "Botafogo",
+        "country": "BRA"
+      }
+    ],
+    "champions-league": [
+      {
+        "club": "PSG",
+        "country": "FRA"
+      },
+      {
+        "club": "Bayern",
+        "country": "DEU"
+      },
+      {
+        "club": "Real Madrid",
+        "country": "ESP"
+      },
+      {
+        "club": "Liverpool",
+        "country": "ENG"
+      },
+      {
+        "club": "Inter",
+        "country": "ITA"
+      },
+      {
+        "club": "Man City",
+        "country": "ENG"
+      },
+      {
+        "club": "Arsenal",
+        "country": "ENG"
+      },
+      {
+        "club": "Barcelona",
+        "country": "ESP"
+      },
+      {
+        "club": "Atlético",
+        "country": "ESP"
+      },
+      {
+        "club": "Dortmund",
+        "country": "DEU"
+      },
+      {
+        "club": "Roma",
+        "country": "ITA"
+      },
+      {
+        "club": "Sporting CP",
+        "country": "PRT"
+      },
+      {
+        "club": "Aston Villa",
+        "country": "ENG"
+      },
+      {
+        "club": "Porto",
+        "country": "PRT"
+      },
+      {
+        "club": "Man United",
+        "country": "ENG"
+      },
+      {
+        "club": "Club Brugge",
+        "country": "BEL"
+      },
+      {
+        "club": "Betis",
+        "country": "ESP"
+      },
+      {
+        "club": "PSV",
+        "country": "NLD"
+      },
+      {
+        "club": "Feyenoord",
+        "country": "NLD"
+      },
+      {
+        "club": "Lille",
+        "country": "FRA"
+      },
+      {
+        "club": "Bodø/Glimt",
+        "country": "NOR",
+        "missing": true
+      },
+      {
+        "club": "Napoli",
+        "country": "ITA"
+      },
+      {
+        "club": "Leipzig",
+        "country": "DEU"
+      },
+      {
+        "club": "Villarreal",
+        "country": "ESP"
+      },
+      {
+        "club": "Fenerbahçe",
+        "country": "TUR"
+      },
+      {
+        "club": "Shakhtar Donetsk",
+        "country": "UKR",
+        "missing": true
+      },
+      {
+        "club": "Galatasaray",
+        "country": "TUR"
+      },
+      {
+        "club": "Slavia Praha",
+        "country": "CZE",
+        "missing": true
+      },
+      {
+        "club": "Slovan Bratislava",
+        "country": "SVK",
+        "missing": true
+      },
+      {
+        "club": "Stuttgart",
+        "country": "DEU"
+      },
+      {
+        "club": "AEK Athens",
+        "country": "GRC",
+        "missing": true
+      },
+      {
+        "club": "LASK",
+        "country": "AUT",
+        "missing": true
+      },
+      {
+        "club": "Como",
+        "country": "ITA"
+      },
+      {
+        "club": "Lens",
+        "country": "FRA"
+      },
+      {
+        "club": "Viking",
+        "country": "NOR",
+        "missing": true
+      },
+      {
+        "club": "Sabah",
+        "country": "AZE",
+        "missing": true
+      }
+    ],
+    "europa-league": [
+      {
+        "club": "Leverkusen",
+        "country": "DEU"
+      },
+      {
+        "club": "Benfica",
+        "country": "PRT"
+      },
+      {
+        "club": "Juventus",
+        "country": "ITA"
+      },
+      {
+        "club": "Milan",
+        "country": "ITA"
+      },
+      {
+        "club": "Lyon",
+        "country": "FRA"
+      },
+      {
+        "club": "AZ",
+        "country": "NLD"
+      },
+      {
+        "club": "Olympiacos",
+        "country": "GRC",
+        "missing": true
+      },
+      {
+        "club": "Real Sociedad",
+        "country": "ESP"
+      },
+      {
+        "club": "Marseille",
+        "country": "FRA"
+      },
+      {
+        "club": "Ferencváros",
+        "country": "HUN",
+        "missing": true
+      },
+      {
+        "club": "Viktoria Plzeň",
+        "country": "CZE",
+        "missing": true
+      },
+      {
+        "club": "Union SG",
+        "country": "BEL"
+      },
+      {
+        "club": "Dinamo Zagreb",
+        "country": "HRV",
+        "missing": true
+      },
+      {
+        "club": "Salzburg",
+        "country": "AUT",
+        "missing": true
+      },
+      {
+        "club": "Celtic",
+        "country": "SCO"
+      },
+      {
+        "club": "Sparta Praha",
+        "country": "CZE",
+        "missing": true
+      },
+      {
+        "club": "Rennes",
+        "country": "FRA"
+      },
+      {
+        "club": "Anderlecht",
+        "country": "BEL"
+      },
+      {
+        "club": "Sturm Graz",
+        "country": "AUT",
+        "missing": true
+      },
+      {
+        "club": "Lech Poznań",
+        "country": "POL",
+        "missing": true
+      },
+      {
+        "club": "Crystal Palace",
+        "country": "ENG"
+      },
+      {
+        "club": "Bournemouth",
+        "country": "ENG"
+      },
+      {
+        "club": "Sunderland",
+        "country": "ENG"
+      },
+      {
+        "club": "Celje",
+        "country": "SVN",
+        "missing": true
+      },
+      {
+        "club": "Jagiellonia",
+        "country": "POL",
+        "missing": true
+      },
+      {
+        "club": "Omonia",
+        "country": "CYP",
+        "missing": true
+      },
+      {
+        "club": "Celta",
+        "country": "ESP"
+      },
+      {
+        "club": "Hoffenheim",
+        "country": "DEU"
+      },
+      {
+        "club": "Beşiktaş",
+        "country": "TUR"
+      },
+      {
+        "club": "Torreense",
+        "country": "PRT",
+        "missing": true
+      },
+      {
+        "club": "Hapoel Be'er Sheva",
+        "country": "ISR",
+        "missing": true
+      },
+      {
+        "club": "NEC",
+        "country": "NLD"
+      },
+      {
+        "club": "OFI",
+        "country": "GRC",
+        "missing": true
+      },
+      {
+        "club": "Lillestrøm",
+        "country": "NOR",
+        "missing": true
+      },
+      {
+        "club": "Levski Sofia",
+        "country": "BGR",
+        "missing": true
+      },
+      {
+        "club": "Ararat-Armenia",
+        "country": "ARM",
+        "missing": true
+      }
+    ],
+    "conference-league": [
+      {
+        "club": "Atalanta",
+        "country": "ITA"
+      },
+      {
+        "club": "Braga",
+        "country": "PRT"
+      },
+      {
+        "club": "Ajax",
+        "country": "NLD"
+      },
+      {
+        "club": "Freiburg",
+        "country": "DEU"
+      },
+      {
+        "club": "Monaco",
+        "country": "FRA"
+      },
+      {
+        "club": "København",
+        "country": "DNK",
+        "missing": true
+      },
+      {
+        "club": "Midtjylland",
+        "country": "DNK",
+        "missing": true
+      },
+      {
+        "club": "Crvena zvezda",
+        "country": "SRB",
+        "missing": true
+      },
+      {
+        "club": "Gent",
+        "country": "BEL"
+      },
+      {
+        "club": "Panathinaikos",
+        "country": "GRC",
+        "missing": true
+      },
+      {
+        "club": "Pafos",
+        "country": "CYP",
+        "missing": true
+      },
+      {
+        "club": "Brighton",
+        "country": "ENG"
+      },
+      {
+        "club": "Lugano",
+        "country": "CHE",
+        "missing": true
+      },
+      {
+        "club": "Getafe",
+        "country": "ESP"
+      },
+      {
+        "club": "KuPS",
+        "country": "FIN",
+        "missing": true
+      },
+      {
+        "club": "Twente",
+        "country": "NLD"
+      },
+      {
+        "club": "Lincoln Red Imps",
+        "country": "GIB",
+        "missing": true
+      },
+      {
+        "club": "Borac Banja Luka",
+        "country": "BIH",
+        "missing": true
+      },
+      {
+        "club": "Sint-Truiden",
+        "country": "BEL"
+      },
+      {
+        "club": "Brann",
+        "country": "NOR",
+        "missing": true
+      },
+      {
+        "club": "Hearts",
+        "country": "SCO"
+      },
+      {
+        "club": "Kairat",
+        "country": "KAZ",
+        "missing": true
+      },
+      {
+        "club": "Trabzonspor",
+        "country": "TUR"
+      },
+      {
+        "club": "U. Craiova",
+        "country": "ROU",
+        "missing": true
+      },
+      {
+        "club": "Riga FC",
+        "country": "LVA",
+        "missing": true
+      },
+      {
+        "club": "Hajduk Split",
+        "country": "HRV",
+        "missing": true
+      },
+      {
+        "club": "Jablonec",
+        "country": "CZE",
+        "missing": true
+      },
+      {
+        "club": "Nordsjælland",
+        "country": "DNK",
+        "missing": true
+      },
+      {
+        "club": "AGF",
+        "country": "DNK",
+        "missing": true
+      },
+      {
+        "club": "Inter d'Escaldes",
+        "country": "AND",
+        "missing": true
+      },
+      {
+        "club": "Thun",
+        "country": "CHE",
+        "missing": true
+      },
+      {
+        "club": "CSKA Sofia",
+        "country": "BGR",
+        "missing": true
+      },
+      {
+        "club": "Kauno Žalgiris",
+        "country": "LTU",
+        "missing": true
+      },
+      {
+        "club": "Mjällby",
+        "country": "SWE",
+        "missing": true
+      },
+      {
+        "club": "Iberia 1999",
+        "country": "GEO",
+        "missing": true
+      },
+      {
+        "club": "Egnatia",
+        "country": "ALB",
+        "missing": true
+      }
+    ]
+  },
+  "champions2025": {
+    "lpf": {
+      "club": "Estudiantes (LP)",
+      "country": "ARG"
+    },
+    "copa-argentina": {
+      "club": "Independiente Rivadavia",
+      "country": "ARG"
+    },
+    "copa-libertadores": {
+      "club": "Flamengo",
+      "country": "BRA"
+    },
+    "copa-sudamericana": {
+      "club": "Lanús",
+      "country": "ARG"
+    },
+    "champions-league": {
+      "club": "PSG",
+      "country": "FRA"
+    },
+    "europa-league": {
+      "club": "Aston Villa",
+      "country": "ENG"
+    },
+    "conference-league": {
+      "club": "Crystal Palace",
+      "country": "ENG"
+    },
+    "eng-1": {
+      "club": "Arsenal",
+      "country": "ENG"
+    },
+    "esp-1": {
+      "club": "Barcelona",
+      "country": "ESP"
+    },
+    "ita-1": {
+      "club": "Inter",
+      "country": "ITA"
+    },
+    "deu-1": {
+      "club": "Bayern",
+      "country": "DEU"
+    },
+    "fra-1": {
+      "club": "PSG",
+      "country": "FRA"
+    },
+    "prt-1": {
+      "club": "Porto",
+      "country": "PRT"
+    },
+    "nld-1": {
+      "club": "PSV",
+      "country": "NLD"
+    },
+    "bel-1": {
+      "club": "Club Brugge",
+      "country": "BEL"
+    },
+    "sco-1": {
+      "club": "Celtic",
+      "country": "SCO"
+    },
+    "tur-1": {
+      "club": "Galatasaray",
+      "country": "TUR"
+    },
+    "bra-1": {
+      "club": "Flamengo",
+      "country": "BRA"
+    },
+    "ury-1": {
+      "club": "Nacional",
+      "country": "URY"
+    },
+    "pry-1": {
+      "club": "Cerro Porteño",
+      "country": "PRY"
+    },
+    "chl-1": {
+      "club": "Coquimbo Unido",
+      "country": "CHL"
+    },
+    "col-1": {
+      "club": "Junior",
+      "country": "COL"
+    },
+    "per-1": {
+      "club": "Universitario",
+      "country": "PER"
+    },
+    "ecu-1": {
+      "club": "IDV",
+      "country": "ECU"
+    },
+    "bol-1": {
+      "club": "Always Ready",
+      "country": "BOL"
+    },
+    "ven-1": {
+      "club": "UCV",
+      "country": "VEN"
+    },
+    "eng-cup": {
+      "club": "Man City",
+      "country": "ENG"
+    },
+    "esp-cup": {
+      "club": "Real Sociedad",
+      "country": "ESP"
+    },
+    "ita-cup": {
+      "club": "Inter",
+      "country": "ITA"
+    },
+    "deu-cup": {
+      "club": "Bayern",
+      "country": "DEU"
+    },
+    "fra-cup": {
+      "club": "Lens",
+      "country": "FRA"
+    },
+    "bra-cup": {
+      "club": "Corinthians",
+      "country": "BRA"
+    }
+  }
+}

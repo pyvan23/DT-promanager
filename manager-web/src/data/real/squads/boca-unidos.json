@@ -1,0 +1,185 @@
+{
+  "club": "Boca Unidos",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Template:Boca_Unidos_squad",
+    "https://en.wikipedia.org/wiki/Boca_Unidos"
+  ],
+  "players": [
+    {
+      "name": "Luis Ojeda",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Quijano",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Raúl Albornoz",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Fuyana",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Moreyra",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Sigel",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lisandro Ramírez",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gustavo Mbombaj",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Leani",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo De Olivera",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Pavón",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yasir Olivares",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bryan Mendoza",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Gómez",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías González",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ataliva Schweizer",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Navarro",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel Piz",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Ojeda",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Sánchez Paredes",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Méndez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Villanueva",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Esteban Orfano",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Claudio Alonso",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Saúl Abecasis",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Schweizer",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Ludueña",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucio Velazco",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Daniel Villalva",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Chávez",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Antonio Medina",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Osurak",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Alfano",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Andrés Rodríguez",
+      "position": "DC",
+      "nationality": "VEN"
+    },
+    {
+      "name": "Lautaro Mendoza",
+      "position": "DC",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "club": "Talleres (C)",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Talleres_(C%C3%B3rdoba)"
+  ],
+  "players": [
+    {
+      "name": "Santino Barbi",
+      "position": "ARQ",
+      "birthDate": "2005-06-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Florentín",
+      "position": "ARQ",
+      "birthDate": "2006-09-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Unsain",
+      "position": "ARQ",
+      "birthDate": "1995-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Timoteo Chamorro",
+      "position": "DFC",
+      "birthDate": "2006-02-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexandro Maidana",
+      "position": "DFC",
+      "birthDate": "2005-07-26",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Matías Catalán",
+      "position": "DFC",
+      "birthDate": "1992-02-19",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Román Riquelme",
+      "position": "DFC",
+      "birthDate": "2002-05-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Fascendini",
+      "position": "DFC",
+      "birthDate": "2003-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Augusto Schott",
+      "position": "DFC",
+      "birthDate": "2000-01-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Báez",
+      "position": "DFC",
+      "birthDate": "1995-07-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Fernández",
+      "position": "DFC",
+      "birthDate": "2005-03-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Olmos",
+      "position": "DFC",
+      "birthDate": "2005-01-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Galarza",
+      "position": "MC",
+      "birthDate": "2002-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Fattori",
+      "position": "MC",
+      "birthDate": "1992-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Giovanni Baroni",
+      "position": "MC",
+      "birthDate": "2009-01-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Sforza",
+      "position": "MC",
+      "birthDate": "2002-02-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Cristaldo",
+      "position": "MC",
+      "birthDate": "1996-08-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Gómez",
+      "position": "MC",
+      "birthDate": "2005-11-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Cáceres",
+      "position": "MC",
+      "birthDate": "2002-09-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Ortiz",
+      "position": "MC",
+      "birthDate": "2008-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Gallard",
+      "position": "MC",
+      "birthDate": "2004-04-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Valoyes",
+      "position": "DC",
+      "birthDate": "1996-09-22",
+      "nationality": "COL"
+    },
+    {
+      "name": "Agustín Álvarez Martínez",
+      "position": "DC",
+      "birthDate": "1996-09-22",
+      "nationality": "URY"
+    },
+    {
+      "name": "Valentín Depietri",
+      "position": "DC",
+      "birthDate": "2000-10-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Alastra",
+      "position": "DC",
+      "birthDate": "2007-10-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emiliano Chiavassa",
+      "position": "DC",
+      "birthDate": "2006-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rick",
+      "position": "DC",
+      "birthDate": "1999-09-02",
+      "nationality": "BRA"
+    },
+    {
+      "name": "Valentín Dávila",
+      "position": "DC",
+      "birthDate": "2007-01-19",
+      "nationality": "ARG"
+    }
+  ]
+}

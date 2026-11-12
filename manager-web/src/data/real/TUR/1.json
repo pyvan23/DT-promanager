@@ -1,0 +1,252 @@
+{
+  "division": "TUR-1",
+  "country": "TUR",
+  "name": "Süper Lig",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_S%C3%BCper_Lig",
+    "https://es.wikipedia.org/wiki/Superliga_de_Turqu%C3%ADa_2026-27",
+    "https://www.tff.org/"
+  ],
+  "formatNotes": "18 equipos, 34 jornadas. Descienden los puestos 16-18 a la TFF 1. Lig. Ascendidos 2026-27: Erzurumspor, Amedspor, Çorum FK; descendidos 2025-26: Antalyaspor, Kayserispor, Fatih Karagümrük. Europa: 1.º Champions League (fase liga), 2.º Champions League (ronda previa), 3.º Europa League (previa), 4.º Conference League (previa); campeón de Türkiye Kupası a Europa League (si termina entre los 2 primeros, su plaza pasa al 3.º y el 5.º va a Conference).",
+  "domesticCup": {
+    "name": "Türkiye Kupası",
+    "formatNotes": "Ziraat Türkiye Kupası: rondas previas a partido único con clubes de categorías inferiores, fase de grupos con clubes de Süper Lig y clasificados, después eliminatorias a partido único y final única. Campeón a Europa League y a la Supercopa de Turquía."
+  },
+  "clubs": [
+    {
+      "name": "Alanyaspor",
+      "shortName": "Alanyaspor",
+      "city": "Alanya",
+      "province": "Antalya",
+      "affiliation": "directa",
+      "stadium": "Alanya Oba Stadyumu",
+      "colors": {
+        "primary": "#F58220",
+        "secondary": "#00843D"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Amed Sportif Faaliyetler",
+      "shortName": "Amedspor",
+      "city": "Diyarbakır",
+      "province": "Diyarbakır",
+      "affiliation": "directa",
+      "stadium": "Diyarbakır Stadyumu",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#E2001A"
+      },
+      "stature": 2
+    },
+    {
+      "name": "İstanbul Başakşehir Futbol Kulübü",
+      "shortName": "Başakşehir",
+      "city": "Estambul (Başakşehir)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Başakşehir Fatih Terim Stadyumu",
+      "colors": {
+        "primary": "#F58220",
+        "secondary": "#1D3A6B"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Beşiktaş Jimnastik Kulübü",
+      "shortName": "Beşiktaş",
+      "city": "Estambul (Beşiktaş)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Tüpraş Stadyumu",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Çorum Futbol Kulübü",
+      "shortName": "Çorum",
+      "city": "Çorum",
+      "province": "Çorum",
+      "affiliation": "directa",
+      "stadium": "Çorum Şehir Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Erzurumspor Futbol Kulübü",
+      "shortName": "Erzurumspor",
+      "city": "Erzurum",
+      "province": "Erzurum",
+      "affiliation": "directa",
+      "stadium": "Kazım Karabekir Stadyumu",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Eyüpspor",
+      "shortName": "Eyüpspor",
+      "city": "Estambul (Eyüpsultan)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Esenyurt Necmi Kadıoğlu Stadyumu",
+      "colors": {
+        "primary": "#5B2C83",
+        "secondary": "#FFDD00"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Fenerbahçe Spor Kulübü",
+      "shortName": "Fenerbahçe",
+      "city": "Estambul (Kadıköy)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Chobani Stadyumu (Şükrü Saracoğlu)",
+      "colors": {
+        "primary": "#FFED00",
+        "secondary": "#002B5C"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Galatasaray Spor Kulübü",
+      "shortName": "Galatasaray",
+      "city": "Estambul (Sarıyer)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Rams Park",
+      "colors": {
+        "primary": "#A90432",
+        "secondary": "#FDB912"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Gaziantep Futbol Kulübü",
+      "shortName": "Gaziantep",
+      "city": "Gaziantep",
+      "province": "Gaziantep",
+      "affiliation": "directa",
+      "stadium": "Gaziantep Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Gençlerbirliği Spor Kulübü",
+      "shortName": "Gençlerbirliği",
+      "city": "Ankara",
+      "province": "Ankara",
+      "affiliation": "directa",
+      "stadium": "Eryaman Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Göztepe Spor Kulübü",
+      "shortName": "Göztepe",
+      "city": "Esmirna",
+      "province": "İzmir",
+      "affiliation": "directa",
+      "stadium": "Gürsel Aksel Stadyumu",
+      "colors": {
+        "primary": "#FFDD00",
+        "secondary": "#E2001A"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Kasımpaşa Spor Kulübü",
+      "shortName": "Kasımpaşa",
+      "city": "Estambul (Beyoğlu)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Recep Tayyip Erdoğan Stadyumu",
+      "colors": {
+        "primary": "#002B5C",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Kocaelispor",
+      "shortName": "Kocaelispor",
+      "city": "İzmit",
+      "province": "Kocaeli",
+      "affiliation": "directa",
+      "stadium": "Kocaeli Stadyumu",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Konyaspor",
+      "shortName": "Konyaspor",
+      "city": "Konya",
+      "province": "Konya",
+      "affiliation": "directa",
+      "stadium": "Konya Büyükşehir Belediye Stadyumu",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Çaykur Rizespor",
+      "shortName": "Rizespor",
+      "city": "Rize",
+      "province": "Rize",
+      "affiliation": "directa",
+      "stadium": "Rize Şehir Stadyumu",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#0055A4"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Samsunspor",
+      "shortName": "Samsunspor",
+      "city": "Samsun",
+      "province": "Samsun",
+      "affiliation": "directa",
+      "stadium": "Samsun 19 Mayıs Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Trabzonspor Kulübü",
+      "shortName": "Trabzonspor",
+      "city": "Trabzon",
+      "province": "Trabzon",
+      "affiliation": "directa",
+      "stadium": "Papara Park",
+      "colors": {
+        "primary": "#6C1D45",
+        "secondary": "#7CC4E8"
+      },
+      "stature": 4
+    }
+  ]
+}

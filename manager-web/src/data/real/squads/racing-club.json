@@ -1,0 +1,195 @@
+{
+  "club": "Racing Club",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Racing_Club"
+  ],
+  "players": [
+    {
+      "name": "Francisco Gómez",
+      "position": "ARQ",
+      "birthDate": "2004-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago De Bellis",
+      "position": "ARQ",
+      "birthDate": "2005-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Cambeses",
+      "position": "ARQ",
+      "birthDate": "1997-04-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Tagliamonte",
+      "position": "ARQ",
+      "birthDate": "1998-02-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Damián Pérez",
+      "position": "DFC",
+      "birthDate": "1999-03-03",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Marco Di Cesare",
+      "position": "DFC",
+      "birthDate": "2002-01-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Cannavo",
+      "position": "DFC",
+      "birthDate": "2002-06-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Barinaga",
+      "position": "DFC",
+      "birthDate": "2000-10-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Rodríguez",
+      "position": "DFC",
+      "birthDate": "2001-02-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nazareno Colombo",
+      "position": "DFC",
+      "birthDate": "1999-03-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Martínez",
+      "position": "DFC",
+      "birthDate": "2008-04-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Escudero",
+      "position": "DFC",
+      "birthDate": "2007-04-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Kranevitter",
+      "position": "MC",
+      "birthDate": "1993-05-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Forneris",
+      "position": "MC",
+      "birthDate": "2005-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matko Miljevic",
+      "position": "MC",
+      "birthDate": "2001-05-09",
+      "nationality": "USA"
+    },
+    {
+      "name": "Matías Zaracho",
+      "position": "MC",
+      "birthDate": "1998-03-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ulises Ortegoza",
+      "position": "MC",
+      "birthDate": "1997-04-19",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Gastón Lodico",
+      "position": "MC",
+      "birthDate": "1998-05-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Adrián Fernández",
+      "position": "MC",
+      "birthDate": "2001-05-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Pérez",
+      "position": "MC",
+      "birthDate": "2004-08-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santino Aguirre",
+      "position": "MC",
+      "birthDate": "2007-03-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Tello",
+      "position": "MC",
+      "birthDate": "2008-02-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Duván Vergara",
+      "position": "DC",
+      "birthDate": "1996-09-09",
+      "nationality": "COL"
+    },
+    {
+      "name": "Adrián Martínez",
+      "position": "DC",
+      "birthDate": "1992-07-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Conechny",
+      "position": "DC",
+      "birthDate": "1998-03-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Carboni",
+      "position": "DC",
+      "birthDate": "2005-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías Torres",
+      "position": "DC",
+      "birthDate": "2001-03-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Córdoba",
+      "position": "DC",
+      "birthDate": "2005-05-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Díaz",
+      "position": "DC",
+      "birthDate": "1998-05-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alberto Campo",
+      "position": "DC",
+      "birthDate": "2006-09-14",
+      "nationality": "ECU"
+    },
+    {
+      "name": "Francisco Fraga",
+      "position": "DC",
+      "birthDate": "2006-02-17",
+      "nationality": "ARG"
+    }
+  ]
+}

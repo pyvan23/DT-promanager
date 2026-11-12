@@ -1,0 +1,134 @@
+{
+  "club": "El Linqueño",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_El_Linque%C3%B1o"
+  ],
+  "players": [
+    {
+      "name": "Diego Pérez Díaz",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mariano Alcaraz",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Herrera",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Nardi",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Medina",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Borao",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Núñez",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Reynoso",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Alonso",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Redondo",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Vega",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Coria",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bautista Colombi",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Herrera",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Serrano",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan García Pereyra",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Olmos",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Manuel Rodríguez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Pavón Zárate",
+      "position": "DC",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Gianfranco Ottaviani",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Andrés Mc Cormick",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Ciotti",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rafael Ferro",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Borda",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Aita",
+      "position": "DC",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "club": "Aldosivi",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Aldosivi"
+  ],
+  "players": [
+    {
+      "name": "Ignacio Chicco",
+      "position": "ARQ",
+      "birthDate": "1996-06-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Acosta",
+      "position": "ARQ",
+      "birthDate": "1995-03-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Moyano",
+      "position": "ARQ",
+      "birthDate": "1990-08-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Sigali",
+      "position": "DFC",
+      "birthDate": "1987-05-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo González",
+      "position": "DFC",
+      "birthDate": "2000-04-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías López",
+      "position": "DFC",
+      "birthDate": "2000-07-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Laurelli",
+      "position": "DFC",
+      "birthDate": "2004-07-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Néstor Breitenbruch",
+      "position": "DFC",
+      "birthDate": "1995-09-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Moya",
+      "position": "DFC",
+      "birthDate": "2003-06-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Pombo",
+      "position": "DFC",
+      "birthDate": "2001-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Zalazar",
+      "position": "DFC",
+      "birthDate": "1997-01-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Rodríguez",
+      "position": "DFC",
+      "birthDate": "1993-09-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Enrique",
+      "position": "DFC",
+      "birthDate": "2000-02-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Cufré",
+      "position": "DFC",
+      "birthDate": "1996-12-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Linares",
+      "position": "MC",
+      "birthDate": "1996-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín García",
+      "position": "MC",
+      "birthDate": "2005-08-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Perruzzi",
+      "position": "MC",
+      "birthDate": "2001-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Castro",
+      "position": "MC",
+      "birthDate": "1989-04-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Leys",
+      "position": "MC",
+      "birthDate": "1993-10-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Roberto Bochi",
+      "position": "MC",
+      "birthDate": "1987-07-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Gino",
+      "position": "MC",
+      "birthDate": "1993-02-26",
+      "nationality": "URY"
+    },
+    {
+      "name": "Matías Morello",
+      "position": "MC",
+      "birthDate": "2001-02-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Chávez",
+      "position": "MC",
+      "birthDate": "2001-01-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Natanael Guzmán",
+      "position": "DC",
+      "birthDate": "1999-08-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Cordero",
+      "position": "DC",
+      "birthDate": "1999-04-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Gaitán",
+      "position": "DC",
+      "birthDate": "1988-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Blas Palavecino",
+      "position": "DC",
+      "birthDate": "2003-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bautista Dadín",
+      "position": "DC",
+      "birthDate": "2006-05-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Andrés Chávez",
+      "position": "DC",
+      "birthDate": "1991-03-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Godoy",
+      "position": "DC",
+      "birthDate": "2002-01-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Alejandro Sosa",
+      "position": "DC",
+      "birthDate": "2000-05-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Fernández",
+      "position": "DC",
+      "birthDate": "1998-02-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Andrés Vombergar",
+      "position": "DC",
+      "birthDate": "1994-11-20",
+      "nationality": "SVN"
+    }
+  ]
+}

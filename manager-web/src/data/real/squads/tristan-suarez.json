@@ -1,0 +1,225 @@
+{
+  "club": "Tristán Suárez",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Trist%C3%A1n_Su%C3%A1rez"
+  ],
+  "players": [
+    {
+      "name": "Joaquín Mendive",
+      "position": "ARQ",
+      "birthDate": "1996-08-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Daniel Monllor",
+      "position": "ARQ",
+      "birthDate": "1984-07-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Funes",
+      "position": "ARQ",
+      "birthDate": "1999-02-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Bigo",
+      "position": "ARQ",
+      "birthDate": "1998-07-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Luca Argeno",
+      "position": "ARQ",
+      "birthDate": "2007-09-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Fernández",
+      "position": "DFC",
+      "birthDate": "1995-06-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Guzmán",
+      "position": "DFC",
+      "birthDate": "1999-09-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Olguín",
+      "position": "DFC",
+      "birthDate": "2001-03-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Guillén",
+      "position": "DFC",
+      "birthDate": "2001-09-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Aguilar",
+      "position": "DFC",
+      "birthDate": "2003-04-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Molina",
+      "position": "DFC",
+      "birthDate": "1996-08-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ayrton Sánchez",
+      "position": "DFC",
+      "birthDate": "2000-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Mastrángelo",
+      "position": "DFC",
+      "birthDate": "2002-11-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Enrique",
+      "position": "MC",
+      "birthDate": "1999-12-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Del Priore",
+      "position": "MC",
+      "birthDate": "1996-08-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Colli",
+      "position": "MC",
+      "birthDate": "2002-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Becker",
+      "position": "MC",
+      "birthDate": "1997-11-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Sánchez",
+      "position": "MC",
+      "birthDate": "1992-02-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Luayza",
+      "position": "MC",
+      "birthDate": "2002-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustin Baldi",
+      "position": "MC",
+      "birthDate": "2002-05-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Álvarez",
+      "position": "MC",
+      "birthDate": "2002-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Máximo Ferulano",
+      "position": "MC",
+      "birthDate": "2004-10-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Aquino",
+      "position": "MC",
+      "birthDate": "2004-12-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Magnotta",
+      "position": "MC",
+      "birthDate": "2003-07-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiziano Noriega",
+      "position": "MC",
+      "birthDate": "2003-08-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Bustamante",
+      "position": "MC",
+      "birthDate": "2000-01-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "César Romero",
+      "position": "MC",
+      "birthDate": "2003-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Ramírez",
+      "position": "DC",
+      "birthDate": "2000-09-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Augusto Berrondo",
+      "position": "DC",
+      "birthDate": "2000-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Gallo",
+      "position": "DC",
+      "birthDate": "1999-02-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan Berón",
+      "position": "DC",
+      "birthDate": "2002-06-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Renzo Conechny",
+      "position": "DC",
+      "birthDate": "2001-03-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Álvarez",
+      "position": "DC",
+      "birthDate": "1996-10-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gianluca Banuera",
+      "position": "DC",
+      "birthDate": "2006-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Villalba",
+      "position": "DC",
+      "birthDate": "2007-07-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Romero",
+      "position": "DC",
+      "birthDate": "2006-03-13",
+      "nationality": "ARG"
+    }
+  ]
+}

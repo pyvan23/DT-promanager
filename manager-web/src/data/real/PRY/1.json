@@ -1,0 +1,173 @@
+{
+  "division": "PRY-1",
+  "country": "PRY",
+  "name": "Copa de Primera (División de Honor)",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Copa_de_Primera",
+    "https://www.apf.org.py/"
+  ],
+  "formatNotes": "12 equipos. Dos torneos cortos (Apertura y Clausura), cada uno a ida y vuelta (22 fechas) y con su propio campeón. Descienden 2 equipos por promedio de puntos de las tres últimas temporadas a la División Intermedia. Ascendidos 2026: Rubio Ñu y Sportivo San Lorenzo; descendidos 2025: General Caballero JLM y Tembetary. Libertadores (4): campeones de Apertura y Clausura a fase de grupos; los dos mejores de la tabla acumulada no campeones a fases previas. Sudamericana (4): los siguientes de la tabla acumulada (una plaza puede corresponder al campeón de la Copa Paraguay).",
+  "domesticCup": {
+    "name": "Copa Paraguay",
+    "formatNotes": "Eliminación directa a partido único con clubes de Primera, Intermedia, Primera B, C y ligas del interior (UFI). El campeón obtiene plaza en Copa Sudamericana y juega la Supercopa Paraguay."
+  },
+  "clubs": [
+    {
+      "name": "Club 2 de Mayo",
+      "shortName": "2 de Mayo",
+      "city": "Pedro Juan Caballero",
+      "province": "Amambay",
+      "affiliation": "directa",
+      "stadium": "Monumental Río Parapití",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Cerro Porteño",
+      "shortName": "Cerro Porteño",
+      "city": "Asunción",
+      "province": "Capital",
+      "affiliation": "directa",
+      "stadium": "General Pablo Rojas (La Nueva Olla)",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#E30613"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Club Guaraní",
+      "shortName": "Guaraní",
+      "city": "Asunción",
+      "province": "Capital",
+      "affiliation": "directa",
+      "stadium": "Rogelio Livieres",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Libertad",
+      "shortName": "Libertad",
+      "city": "Asunción",
+      "province": "Capital",
+      "affiliation": "directa",
+      "stadium": "La Huerta",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Club Nacional",
+      "shortName": "Nacional",
+      "city": "Asunción",
+      "province": "Capital",
+      "affiliation": "directa",
+      "stadium": "Arsenio Erico",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#0055A4"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Olimpia",
+      "shortName": "Olimpia",
+      "city": "Asunción",
+      "province": "Capital",
+      "affiliation": "directa",
+      "stadium": "Manuel Ferreira",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Club Recoleta",
+      "shortName": "Recoleta",
+      "city": "Asunción",
+      "province": "Capital",
+      "affiliation": "directa",
+      "stadium": "Ricardo Gregor",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#E30613"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Rubio Ñu",
+      "shortName": "Rubio Ñu",
+      "city": "Asunción",
+      "province": "Capital",
+      "affiliation": "directa",
+      "stadium": "La Arboleda",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Sportivo San Lorenzo",
+      "shortName": "San Lorenzo",
+      "city": "San Lorenzo",
+      "province": "Central",
+      "affiliation": "directa",
+      "stadium": "Gunther Vogel",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#0055A4"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Sportivo Ameliano",
+      "shortName": "Ameliano",
+      "city": "Asunción",
+      "province": "Capital",
+      "affiliation": "directa",
+      "stadium": "Ameliano (Villeta)",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Sportivo Luqueño",
+      "shortName": "Luqueño",
+      "city": "Luque",
+      "province": "Central",
+      "affiliation": "directa",
+      "stadium": "Feliciano Cáceres",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#0055A4"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Sportivo Trinidense",
+      "shortName": "Trinidense",
+      "city": "Asunción",
+      "province": "Capital",
+      "affiliation": "directa",
+      "stadium": "Martín Torres",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#00843D"
+      },
+      "stature": 2
+    }
+  ]
+}

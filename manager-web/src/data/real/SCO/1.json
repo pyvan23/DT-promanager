@@ -1,0 +1,26 @@
+{
+  "division": "SCO-1",
+  "country": "SCO",
+  "name": "Scottish Premiership",
+  "season": 2026,
+  "sources": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Premiership", "https://spfl.co.uk/"],
+  "formatNotes": "12 equipos. Fase 1: todos contra todos tres veces (33 jornadas). Fase 2 (split): los 6 primeros y los 6 últimos se separan y juegan una vez entre sí (5 jornadas, 38 en total). 12.º desciende directo a la Championship; 11.º juega la final del play-off de la Premiership contra el ganador del play-off de la Championship. 1.º a la segunda previa de Champions (ruta de campeones); 2.º a la segunda previa de Conference League (aprox.); el campeón de la Scottish Cup va a Europa League. Ascendido: St Johnstone; descendido 2025-26: Livingston.",
+  "domesticCup": {
+    "name": "Scottish Cup",
+    "formatNotes": "Eliminación directa a partido único con repetición en rondas tempranas; los de Premiership entran en cuarta ronda; semifinales y final en Hampden Park (Glasgow). El campeón va a Europa League. Existe además la Scottish League Cup (fase de grupos + eliminación directa)."
+  },
+  "clubs": [
+    {"name": "Celtic FC", "shortName": "Celtic", "city": "Glasgow", "province": "Glasgow", "affiliation": "directa", "stadium": "Celtic Park", "colors": {"primary": "#018749", "secondary": "#ffffff"}, "stature": 4},
+    {"name": "Rangers FC", "shortName": "Rangers", "city": "Glasgow", "province": "Glasgow", "affiliation": "directa", "stadium": "Ibrox Stadium", "colors": {"primary": "#1b458f", "secondary": "#ffffff"}, "stature": 4},
+    {"name": "Aberdeen FC", "shortName": "Aberdeen", "city": "Aberdeen", "province": "Aberdeen", "affiliation": "directa", "stadium": "Pittodrie Stadium", "colors": {"primary": "#e2001a", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "Heart of Midlothian FC", "shortName": "Hearts", "city": "Edimburgo", "province": "Edimburgo", "affiliation": "directa", "stadium": "Tynecastle Park", "colors": {"primary": "#7b1a33", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "Hibernian FC", "shortName": "Hibernian", "city": "Edimburgo", "province": "Edimburgo", "affiliation": "directa", "stadium": "Easter Road", "colors": {"primary": "#005a2b", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "Dundee United FC", "shortName": "Dundee United", "city": "Dundee", "province": "Dundee", "affiliation": "directa", "stadium": "Tannadice Park", "colors": {"primary": "#f47920", "secondary": "#000000"}, "stature": 2},
+    {"name": "Dundee FC", "shortName": "Dundee", "city": "Dundee", "province": "Dundee", "affiliation": "directa", "stadium": "Dens Park", "colors": {"primary": "#002d62", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Motherwell FC", "shortName": "Motherwell", "city": "Motherwell", "province": "North Lanarkshire", "affiliation": "directa", "stadium": "Fir Park", "colors": {"primary": "#f7a600", "secondary": "#8b1538"}, "stature": 2},
+    {"name": "Kilmarnock FC", "shortName": "Kilmarnock", "city": "Kilmarnock", "province": "East Ayrshire", "affiliation": "directa", "stadium": "Rugby Park", "colors": {"primary": "#004b98", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "St Mirren FC", "shortName": "St Mirren", "city": "Paisley", "province": "Renfrewshire", "affiliation": "directa", "stadium": "St Mirren Park", "colors": {"primary": "#000000", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "St Johnstone FC", "shortName": "St Johnstone", "city": "Perth", "province": "Perth and Kinross", "affiliation": "directa", "stadium": "McDiarmid Park", "colors": {"primary": "#0056a2", "secondary": "#ffffff"}, "stature": 1},
+    {"name": "Falkirk FC", "shortName": "Falkirk", "city": "Falkirk", "province": "Falkirk", "affiliation": "directa", "stadium": "Falkirk Stadium", "colors": {"primary": "#002f5f", "secondary": "#ffffff"}, "stature": 1}
+  ]
+}

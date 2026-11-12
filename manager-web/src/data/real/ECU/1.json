@@ -1,0 +1,226 @@
+{
+  "division": "ECU-1",
+  "country": "ECU",
+  "name": "LigaPro Serie A",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_LigaPro_Serie_A",
+    "https://www.primicias.ec/deportes/ligapro/ligapro-calendario-fixture-equipos-partidos-rivales-fechas-2026-115286/",
+    "https://ligapro.ec/"
+  ],
+  "formatNotes": "16 equipos. Primera fase a doble vuelta (30 fechas); los puntos se arrastran. Hexagonal final (1.º-6.º, ida y vuelta) define campeón, 3 cupos a Libertadores y 3 a Sudamericana; cuadrangular (7.º-10.º) por 1 cupo más a Sudamericana; hexagonal del descenso (11.º-16.º): bajan los 2 últimos a Serie B. Ascendidos 2026: Guayaquil City y Leones (Técnico Universitario se salvó por el descenso administrativo de El Nacional; bajó Vinotinto). Libertadores: 3 del hexagonal + campeón de Copa Ecuador. Sudamericana: 3 del hexagonal + 1 del cuadrangular. Desde 2027 se aprobó un formato con play-offs.",
+  "domesticCup": {
+    "name": "Copa Ecuador",
+    "formatNotes": "Eliminatorias con clubes de Serie A, Serie B y ligas de ascenso; final a partido único. El campeón obtiene un cupo a Copa Libertadores (si ya está clasificado pasa al mejor semifinalista eliminado)."
+  },
+  "clubs": [
+    {
+      "name": "Sociedad Deportiva Aucas",
+      "shortName": "Aucas",
+      "city": "Quito",
+      "province": "Pichincha",
+      "affiliation": "directa",
+      "stadium": "Cooprogreso Gonzalo Pozo Ripalda",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#C8102E"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Barcelona Sporting Club",
+      "shortName": "Barcelona",
+      "city": "Guayaquil",
+      "province": "Guayas",
+      "affiliation": "directa",
+      "stadium": "Monumental Banco Pichincha",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#000000"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Delfín Sporting Club",
+      "shortName": "Delfín",
+      "city": "Manta",
+      "province": "Manabí",
+      "affiliation": "directa",
+      "stadium": "Jocay",
+      "colors": {
+        "primary": "#FDDA24",
+        "secondary": "#003DA5"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Deportivo Cuenca",
+      "shortName": "Dep. Cuenca",
+      "city": "Cuenca",
+      "province": "Azuay",
+      "affiliation": "directa",
+      "stadium": "Alejandro Serrano Aguilar",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Sport Emelec",
+      "shortName": "Emelec",
+      "city": "Guayaquil",
+      "province": "Guayas",
+      "affiliation": "directa",
+      "stadium": "George Capwell",
+      "colors": {
+        "primary": "#003DA5",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Guayaquil City Fútbol Club",
+      "shortName": "Guayaquil City",
+      "city": "Guayaquil",
+      "province": "Guayas",
+      "affiliation": "directa",
+      "stadium": "Christian Benítez",
+      "colors": {
+        "primary": "#87CEEB",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Independiente del Valle",
+      "shortName": "IDV",
+      "city": "Quito",
+      "province": "Pichincha",
+      "affiliation": "directa",
+      "stadium": "Banco Guayaquil",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#0033A0"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Liga Deportiva Universitaria de Quito",
+      "shortName": "LDU Quito",
+      "city": "Quito",
+      "province": "Pichincha",
+      "affiliation": "directa",
+      "stadium": "Rodrigo Paz Delgado",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#002F6C"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Leones Fútbol Club",
+      "shortName": "Leones",
+      "city": "Atuntaqui",
+      "province": "Imbabura",
+      "affiliation": "directa",
+      "stadium": "Olímpico Jaime Terán",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Libertad Fútbol Club",
+      "shortName": "Libertad",
+      "city": "Loja",
+      "province": "Loja",
+      "affiliation": "directa",
+      "stadium": "Reina del Cisne",
+      "colors": {
+        "primary": "#003DA5",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Social y Deportivo Macará",
+      "shortName": "Macará",
+      "city": "Ambato",
+      "province": "Tungurahua",
+      "affiliation": "directa",
+      "stadium": "Bellavista",
+      "colors": {
+        "primary": "#6CACE4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Manta Fútbol Club",
+      "shortName": "Manta",
+      "city": "Manta",
+      "province": "Manabí",
+      "affiliation": "directa",
+      "stadium": "Jocay",
+      "colors": {
+        "primary": "#00A3E0",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Mushuc Runa Sporting Club",
+      "shortName": "Mushuc Runa",
+      "city": "Ambato",
+      "province": "Tungurahua",
+      "affiliation": "directa",
+      "stadium": "COAC Mushuc Runa",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Orense Sporting Club",
+      "shortName": "Orense",
+      "city": "Machala",
+      "province": "El Oro",
+      "affiliation": "directa",
+      "stadium": "9 de Mayo",
+      "colors": {
+        "primary": "#006B3F",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Técnico Universitario",
+      "shortName": "Técnico Universitario",
+      "city": "Ambato",
+      "province": "Tungurahua",
+      "affiliation": "directa",
+      "stadium": "Bellavista",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo Universidad Católica",
+      "shortName": "U. Católica",
+      "city": "Quito",
+      "province": "Pichincha",
+      "affiliation": "directa",
+      "stadium": "Olímpico Atahualpa",
+      "colors": {
+        "primary": "#00A3E0",
+        "secondary": "#002F6C"
+      },
+      "stature": 3
+    }
+  ]
+}

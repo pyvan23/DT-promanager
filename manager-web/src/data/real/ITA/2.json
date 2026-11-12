@@ -1,0 +1,273 @@
+{
+  "division": "ITA-2",
+  "country": "ITA",
+  "name": "Serie B",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_B",
+    "https://www.legab.it/"
+  ],
+  "formatNotes": "20 equipos, 38 jornadas. 1.º y 2.º ascienden directamente a Serie A; 3.º-8.º play-off (ronda preliminar a partido único 5.º-8.º y 6.º-7.º; semifinales y final a doble partido contra 3.º y 4.º; un ascenso; no se disputa si el 3.º saca 14 o más puntos al 4.º). Descienden directamente 18.º-20.º a Serie C; 16.º y 17.º juegan play-out a doble partido (el perdedor desciende). Llegan 2026-27: Cremonese, Hellas Verona, Pisa (de Serie A) y Vicenza, Arezzo, Benevento, Ascoli (de Serie C). Sin plazas europeas.",
+  "clubs": [
+    {
+      "name": "Società Sportiva Arezzo",
+      "shortName": "Arezzo",
+      "city": "Arezzo",
+      "province": "Toscana",
+      "affiliation": "directa",
+      "stadium": "Città di Arezzo",
+      "colors": {
+        "primary": "#7B1E3A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Ascoli Calcio 1898 FC",
+      "shortName": "Ascoli",
+      "city": "Ascoli Piceno",
+      "province": "Marcas",
+      "affiliation": "directa",
+      "stadium": "Cino e Lillo Del Duca",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Unione Sportiva Avellino 1912",
+      "shortName": "Avellino",
+      "city": "Avellino",
+      "province": "Campania",
+      "affiliation": "directa",
+      "stadium": "Partenio-Adriano Lombardi",
+      "colors": {
+        "primary": "#008C45",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Benevento Calcio",
+      "shortName": "Benevento",
+      "city": "Benevento",
+      "province": "Campania",
+      "affiliation": "directa",
+      "stadium": "Ciro Vigorito",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFDD00"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Carrarese Calcio 1908",
+      "shortName": "Carrarese",
+      "city": "Carrara",
+      "province": "Toscana",
+      "affiliation": "directa",
+      "stadium": "Stadio dei Marmi",
+      "colors": {
+        "primary": "#FFDD00",
+        "secondary": "#0055A4"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Unione Sportiva Catanzaro 1929",
+      "shortName": "Catanzaro",
+      "city": "Catanzaro",
+      "province": "Calabria",
+      "affiliation": "directa",
+      "stadium": "Nicola Ceravolo",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#C8102E"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Cesena Football Club",
+      "shortName": "Cesena",
+      "city": "Cesena",
+      "province": "Emilia-Romaña",
+      "affiliation": "directa",
+      "stadium": "Dino Manuzzi",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Unione Sportiva Cremonese",
+      "shortName": "Cremonese",
+      "city": "Cremona",
+      "province": "Lombardía",
+      "affiliation": "directa",
+      "stadium": "Giovanni Zini",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#808080"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Empoli Football Club",
+      "shortName": "Empoli",
+      "city": "Empoli",
+      "province": "Toscana",
+      "affiliation": "directa",
+      "stadium": "Carlo Castellani",
+      "colors": {
+        "primary": "#005CA9",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Hellas Verona Football Club",
+      "shortName": "Hellas Verona",
+      "city": "Verona",
+      "province": "Véneto",
+      "affiliation": "directa",
+      "stadium": "Marcantonio Bentegodi",
+      "colors": {
+        "primary": "#002F6C",
+        "secondary": "#FFDD00"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Società Sportiva Juve Stabia",
+      "shortName": "Juve Stabia",
+      "city": "Castellammare di Stabia",
+      "province": "Campania",
+      "affiliation": "directa",
+      "stadium": "Romeo Menti",
+      "colors": {
+        "primary": "#FFDD00",
+        "secondary": "#0055A4"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Mantova 1911",
+      "shortName": "Mantova",
+      "city": "Mantua",
+      "province": "Lombardía",
+      "affiliation": "directa",
+      "stadium": "Danilo Martelli",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#E2001A"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Modena Football Club 2018",
+      "shortName": "Modena",
+      "city": "Módena",
+      "province": "Emilia-Romaña",
+      "affiliation": "directa",
+      "stadium": "Alberto Braglia",
+      "colors": {
+        "primary": "#FFDD00",
+        "secondary": "#0055A4"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Calcio Padova",
+      "shortName": "Padova",
+      "city": "Padua",
+      "province": "Véneto",
+      "affiliation": "directa",
+      "stadium": "Euganeo",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#E2001A"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Palermo Football Club",
+      "shortName": "Palermo",
+      "city": "Palermo",
+      "province": "Sicilia",
+      "affiliation": "directa",
+      "stadium": "Renzo Barbera",
+      "colors": {
+        "primary": "#F7A8C5",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Pisa Sporting Club",
+      "shortName": "Pisa",
+      "city": "Pisa",
+      "province": "Toscana",
+      "affiliation": "directa",
+      "stadium": "Arena Garibaldi – Romeo Anconetani",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#0055A4"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Unione Calcio Sampdoria",
+      "shortName": "Sampdoria",
+      "city": "Génova",
+      "province": "Liguria",
+      "affiliation": "directa",
+      "stadium": "Luigi Ferraris",
+      "colors": {
+        "primary": "#1B5EA9",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Fußball Club Südtirol",
+      "shortName": "Südtirol",
+      "city": "Bolzano",
+      "province": "Trentino-Alto Adigio",
+      "affiliation": "directa",
+      "stadium": "Marco Druso",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#E2001A"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Lanerossi Vicenza Virtus",
+      "shortName": "Vicenza",
+      "city": "Vicenza",
+      "province": "Véneto",
+      "affiliation": "directa",
+      "stadium": "Romeo Menti",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Virtus Entella",
+      "shortName": "Entella",
+      "city": "Chiavari",
+      "province": "Liguria",
+      "affiliation": "directa",
+      "stadium": "Stadio Comunale",
+      "colors": {
+        "primary": "#78B7E5",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    }
+  ]
+}

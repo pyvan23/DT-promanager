@@ -1,0 +1,196 @@
+{
+  "club": "Los Andes",
+  "season": 2026,
+  "sources": [
+    "https://canchallena.lanacion.com.ar/equipo/los-andes-5efmp7x39v47kanemu8lcavd7/",
+    "https://es.wikipedia.org/wiki/Club_Atlético_Los_Andes"
+  ],
+  "players": [
+    {
+      "name": "Alexis González",
+      "position": "DFC",
+      "birthDate": "2005-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Aaron Sandoval",
+      "position": "MC",
+      "birthDate": "2005-08-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alex Chamorro",
+      "position": "DC",
+      "birthDate": "2006-06-13",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Brian Leizza",
+      "position": "DFC",
+      "birthDate": "2000-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Linares",
+      "position": "DFC",
+      "birthDate": "2008-03-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Camilo Viganoni",
+      "position": "DC",
+      "birthDate": "2003-12-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Daniel Franco",
+      "position": "DFC",
+      "birthDate": "1991-07-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Echevarría",
+      "position": "DC",
+      "birthDate": "2002-07-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Rodríguez",
+      "position": "MC",
+      "birthDate": "1999-09-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Sánchez",
+      "position": "DC",
+      "birthDate": "2006-04-17",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Franco Tisera",
+      "position": "DC",
+      "birthDate": "1989-10-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Villarreal",
+      "position": "MC",
+      "birthDate": "2005-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Cañete",
+      "position": "MC",
+      "birthDate": "1999-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Carrasco",
+      "position": "DFC",
+      "birthDate": "1997-03-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Cozzoni",
+      "position": "MC",
+      "birthDate": "1988-06-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Javier Bustillos",
+      "position": "ARQ",
+      "birthDate": "1997-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Navas",
+      "position": "DFC",
+      "birthDate": "1993-11-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Rodríguez",
+      "position": "DFC",
+      "birthDate": "2000-03-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Vázquez",
+      "position": "MC",
+      "birthDate": "1994-07-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Asenjo",
+      "position": "DC",
+      "birthDate": "1994-07-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marko Brey",
+      "position": "ARQ",
+      "birthDate": "2005-02-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mario Galeano",
+      "position": "DC",
+      "birthDate": "2002-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Gómez",
+      "position": "MC",
+      "birthDate": "2003-09-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías González",
+      "position": "DC",
+      "birthDate": "1999-07-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nazareno Fernández Colombo",
+      "position": "DFC",
+      "birthDate": "1997-01-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Peter Martínez Grance",
+      "position": "DFC",
+      "birthDate": "1999-12-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián López",
+      "position": "ARQ",
+      "birthDate": "1985-09-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sergio Ortíz",
+      "position": "MC",
+      "birthDate": "2001-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Blanco",
+      "position": "DC",
+      "birthDate": "1999-03-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Díaz",
+      "position": "MC",
+      "birthDate": "2001-05-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tobías Modlin",
+      "position": "DC",
+      "birthDate": "2005-10-14",
+      "nationality": "ARG"
+    }
+  ]
+}

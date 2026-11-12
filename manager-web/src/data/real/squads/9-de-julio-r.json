@@ -1,0 +1,219 @@
+{
+  "club": "9 de Julio (R)",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-9-de-Julio-1048.html"
+  ],
+  "players": [
+    {
+      "name": "Maximiliano Bruno",
+      "position": "ARQ",
+      "birthDate": "2003-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Cuevas",
+      "position": "ARQ",
+      "birthDate": "2003-02-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Gómez",
+      "position": "ARQ",
+      "birthDate": "2000-08-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mirko Zanoni",
+      "position": "ARQ",
+      "birthDate": "2003-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Acuña",
+      "position": "DFC",
+      "birthDate": "1999-03-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Androetto",
+      "position": "DFC",
+      "birthDate": "2000-06-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Bravo",
+      "position": "DFC",
+      "birthDate": "2002-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Ferlini",
+      "position": "DFC",
+      "birthDate": "2003-08-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Axel Grabenvarter",
+      "position": "DFC",
+      "birthDate": "2004-08-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gaetano Motta",
+      "position": "DFC",
+      "birthDate": "2004-10-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Querini",
+      "position": "DFC",
+      "birthDate": "2003-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Rosa",
+      "position": "DFC",
+      "birthDate": "2003-01-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Roullier",
+      "position": "DFC",
+      "birthDate": "2002-01-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Vanega",
+      "position": "DFC",
+      "birthDate": "2003-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Abondetto",
+      "position": "MC",
+      "birthDate": "2004-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Esnabella",
+      "position": "MC",
+      "birthDate": "2002-11-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo García",
+      "position": "MC",
+      "birthDate": "2003-05-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Larrea",
+      "position": "MC",
+      "birthDate": "1997-07-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Ludueña",
+      "position": "MC",
+      "birthDate": "2003-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel Molinari",
+      "position": "MC",
+      "birthDate": "2004-04-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Nazzi",
+      "position": "MC",
+      "birthDate": "2003-06-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Ocampo",
+      "position": "MC",
+      "birthDate": "2001-09-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Ramírez",
+      "position": "MC",
+      "birthDate": "2003-05-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Ramírez",
+      "position": "MC",
+      "birthDate": "2004-04-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alex Salcedo",
+      "position": "MC",
+      "birthDate": "2000-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Natanael Troncoso",
+      "position": "MC",
+      "birthDate": "2001-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Varela",
+      "position": "MC",
+      "birthDate": "2003-12-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Bonilla",
+      "position": "DC",
+      "birthDate": "1998-04-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Del Sole",
+      "position": "DC",
+      "birthDate": "1998-05-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Peralta",
+      "position": "DC",
+      "birthDate": "2002-10-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Salvucci",
+      "position": "DC",
+      "birthDate": "2004-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Sequeira",
+      "position": "DC",
+      "birthDate": "2003-12-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Solari",
+      "position": "DC",
+      "birthDate": "2002-02-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Renzo Sordi",
+      "position": "DC",
+      "birthDate": "2004-03-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Taborda",
+      "position": "DC",
+      "birthDate": "2004-01-14",
+      "nationality": "ARG"
+    }
+  ]
+}

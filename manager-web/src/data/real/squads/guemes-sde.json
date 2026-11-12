@@ -1,0 +1,139 @@
+{
+  "club": "Güemes (SdE)",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_G%C3%BCemes"
+  ],
+  "players": [
+    {
+      "name": "Laureano Martínez",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Finochietto",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Palleres",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Walter Juárez",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Óscar Vanegas",
+      "position": "DFC",
+      "nationality": "COL"
+    },
+    {
+      "name": "Facundo Melillán",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emilio Lazza",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Oneto",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Rizzi",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcelo Benítez",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Axel Bordón",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Arnay",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Bergés",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Juárez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Godoy",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gianfranco Baier",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Milton Gerez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maico Quiroz",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Farrera",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "David Véliz",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gianluca Pugliese",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thomas Amilivia",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Sánchez Sotelo",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Sala",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Mendoza",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Esposito",
+      "position": "DC",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "club": "Talleres (RdE)",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Talleres_(Remedios_de_Escalada)"
+  ],
+  "players": [
+    {
+      "name": "Lautaro Bursich",
+      "position": "ARQ",
+      "birthDate": "2002-09-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Casoli",
+      "position": "ARQ",
+      "birthDate": "2000-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Galván",
+      "position": "ARQ",
+      "birthDate": "2003-03-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Bazzi",
+      "position": "DFC",
+      "birthDate": "2001-02-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Del Pino",
+      "position": "DFC",
+      "birthDate": "2004-01-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Damián Gómez",
+      "position": "DFC",
+      "birthDate": "2002-10-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Infante",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Johnson",
+      "position": "DFC",
+      "birthDate": "2001-03-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Malvacio",
+      "position": "DFC",
+      "birthDate": "1999-11-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Abel Masuero",
+      "position": "DFC",
+      "birthDate": "1988-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Morellini",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Rodríguez",
+      "position": "DFC",
+      "birthDate": "1988-02-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Alvarez",
+      "position": "MC",
+      "birthDate": "2005-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Milton Cantero",
+      "position": "MC",
+      "birthDate": "2004-07-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Isaías Ciavarelli",
+      "position": "MC",
+      "birthDate": "2002-11-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Cortizo",
+      "position": "MC",
+      "birthDate": "1989-09-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Enrique",
+      "position": "MC",
+      "birthDate": "1985-09-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Gallardo",
+      "position": "MC",
+      "birthDate": "1999-06-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Román Lucena",
+      "position": "MC",
+      "birthDate": "2005-10-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Lucero",
+      "position": "MC",
+      "birthDate": "2003-04-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Claudio Mosca",
+      "position": "MC",
+      "birthDate": "1991-04-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Ponce",
+      "position": "MC",
+      "birthDate": "2001-08-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Zannier",
+      "position": "MC",
+      "birthDate": "2000-02-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo Arango",
+      "position": "DC",
+      "birthDate": "2005-05-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Axel Arce",
+      "position": "DC",
+      "birthDate": "1998-10-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Barrios",
+      "position": "DC",
+      "birthDate": "1993-09-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Belizán",
+      "position": "DC",
+      "birthDate": "2009-11-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Colombini",
+      "position": "DC",
+      "birthDate": "1992-05-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Martínez",
+      "position": "DC",
+      "birthDate": "1994-11-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Muñoz",
+      "position": "DC",
+      "birthDate": "2003-09-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Niklinski",
+      "position": "DC",
+      "birthDate": "2002-07-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Eugenio Olivera",
+      "position": "DC",
+      "birthDate": "2000-02-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Samaniego",
+      "position": "DC",
+      "birthDate": "1997-05-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Miguel Taborda",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Versaci",
+      "position": "DC",
+      "birthDate": "2002-02-16",
+      "nationality": "ARG"
+    }
+  ]
+}

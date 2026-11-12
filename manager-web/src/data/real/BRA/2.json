@@ -1,0 +1,273 @@
+{
+  "division": "BRA-2",
+  "country": "BRA",
+  "name": "Campeonato Brasileiro Série B",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Campeonato_Brasileiro_S%C3%A9rie_B",
+    "https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-b/2026"
+  ],
+  "formatNotes": "20 equipos, 38 jornadas ida y vuelta. Ascienden 4 a la Série A: desde 2026 los puestos 1.º-2.º directamente y otras dos plazas vía play-off entre los puestos 3.º-6.º; descienden los puestos 17-20 a la Série C. Llegados 2026: Ceará, Fortaleza, Juventude y Sport (descendidos de la Série A); Londrina, Náutico, Ponte Preta y São Bernardo (ascendidos de la Série C).",
+  "clubs": [
+    {
+      "name": "América Futebol Clube",
+      "shortName": "América-MG",
+      "city": "Belo Horizonte",
+      "province": "Minas Gerais",
+      "affiliation": "directa",
+      "stadium": "Arena Independência",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Athletic Club",
+      "shortName": "Athletic-MG",
+      "city": "São João del-Rei",
+      "province": "Minas Gerais",
+      "affiliation": "directa",
+      "stadium": "Arena Sicredi",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Atlético Clube Goianiense",
+      "shortName": "Atlético-GO",
+      "city": "Goiânia",
+      "province": "Goiás",
+      "affiliation": "directa",
+      "stadium": "Antônio Accioly",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Avaí Futebol Clube",
+      "shortName": "Avaí",
+      "city": "Florianópolis",
+      "province": "Santa Catarina",
+      "affiliation": "directa",
+      "stadium": "Ressacada",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Botafogo Futebol Clube",
+      "shortName": "Botafogo-SP",
+      "city": "Ribeirão Preto",
+      "province": "São Paulo",
+      "affiliation": "directa",
+      "stadium": "Santa Cruz",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Ceará Sporting Club",
+      "shortName": "Ceará",
+      "city": "Fortaleza",
+      "province": "Ceará",
+      "affiliation": "directa",
+      "stadium": "Castelão",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Clube de Regatas Brasil",
+      "shortName": "CRB",
+      "city": "Maceió",
+      "province": "Alagoas",
+      "affiliation": "directa",
+      "stadium": "Rei Pelé",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Criciúma Esporte Clube",
+      "shortName": "Criciúma",
+      "city": "Criciúma",
+      "province": "Santa Catarina",
+      "affiliation": "directa",
+      "stadium": "Heriberto Hülse",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Cuiabá Esporte Clube",
+      "shortName": "Cuiabá",
+      "city": "Cuiabá",
+      "province": "Mato Grosso",
+      "affiliation": "directa",
+      "stadium": "Arena Pantanal",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#00843D"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Fortaleza Esporte Clube",
+      "shortName": "Fortaleza",
+      "city": "Fortaleza",
+      "province": "Ceará",
+      "affiliation": "directa",
+      "stadium": "Castelão",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#E30613"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Goiás Esporte Clube",
+      "shortName": "Goiás",
+      "city": "Goiânia",
+      "province": "Goiás",
+      "affiliation": "directa",
+      "stadium": "Estádio da Serrinha",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Esporte Clube Juventude",
+      "shortName": "Juventude",
+      "city": "Caxias do Sul",
+      "province": "Rio Grande do Sul",
+      "affiliation": "directa",
+      "stadium": "Alfredo Jaconi",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Londrina Esporte Clube",
+      "shortName": "Londrina",
+      "city": "Londrina",
+      "province": "Paraná",
+      "affiliation": "directa",
+      "stadium": "Estádio do Café",
+      "colors": {
+        "primary": "#87CEEB",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Clube Náutico Capibaribe",
+      "shortName": "Náutico",
+      "city": "Recife",
+      "province": "Pernambuco",
+      "affiliation": "directa",
+      "stadium": "Aflitos",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Grêmio Novorizontino",
+      "shortName": "Novorizontino",
+      "city": "Novo Horizonte",
+      "province": "São Paulo",
+      "affiliation": "directa",
+      "stadium": "Jorge Ismael de Biasi",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Operário Ferroviário Esporte Clube",
+      "shortName": "Operário-PR",
+      "city": "Ponta Grossa",
+      "province": "Paraná",
+      "affiliation": "directa",
+      "stadium": "Germano Krüger",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Associação Atlética Ponte Preta",
+      "shortName": "Ponte Preta",
+      "city": "Campinas",
+      "province": "São Paulo",
+      "affiliation": "directa",
+      "stadium": "Moisés Lucarelli",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "São Bernardo Futebol Clube",
+      "shortName": "São Bernardo",
+      "city": "São Bernardo do Campo",
+      "province": "São Paulo",
+      "affiliation": "directa",
+      "stadium": "1º de Maio",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Sport Club do Recife",
+      "shortName": "Sport",
+      "city": "Recife",
+      "province": "Pernambuco",
+      "affiliation": "directa",
+      "stadium": "Ilha do Retiro",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Vila Nova Futebol Clube",
+      "shortName": "Vila Nova",
+      "city": "Goiânia",
+      "province": "Goiás",
+      "affiliation": "directa",
+      "stadium": "Onésio Brasileiro Alvarenga",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    }
+  ]
+}

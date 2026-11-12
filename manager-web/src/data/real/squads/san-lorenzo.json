@@ -1,0 +1,219 @@
+{
+  "club": "San Lorenzo",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro"
+  ],
+  "players": [
+    {
+      "name": "Mateo Clemente",
+      "position": "ARQ",
+      "birthDate": "2002-06-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Altamirano",
+      "position": "ARQ",
+      "birthDate": "1996-03-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "José Devecchi",
+      "position": "ARQ",
+      "birthDate": "1995-07-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Danilo Arboleda",
+      "position": "DFC",
+      "birthDate": "1995-05-11",
+      "nationality": "COL"
+    },
+    {
+      "name": "Teo Rodríguez Pagano",
+      "position": "DFC",
+      "birthDate": "2005-10-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mathías De Ritis",
+      "position": "DFC",
+      "birthDate": "2003-01-31",
+      "nationality": "URY"
+    },
+    {
+      "name": "Guzmán Corujo",
+      "position": "DFC",
+      "birthDate": "1996-08-02",
+      "nationality": "URY"
+    },
+    {
+      "name": "Emiliano Amor",
+      "position": "DFC",
+      "birthDate": "1995-05-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Hernández",
+      "position": "DFC",
+      "birthDate": "1998-01-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Arias",
+      "position": "DFC",
+      "birthDate": "2005-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Herrera",
+      "position": "DFC",
+      "birthDate": "2003-01-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Córdoba",
+      "position": "DFC",
+      "birthDate": "2004-05-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Daniel Herrera",
+      "position": "DFC",
+      "birthDate": "2004-02-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Lorenzón",
+      "position": "DFC",
+      "birthDate": "2001-03-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Perruzzi",
+      "position": "MC",
+      "birthDate": "2005-04-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Insaurralde",
+      "position": "MC",
+      "birthDate": "1999-01-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Gulli",
+      "position": "MC",
+      "birthDate": "2005-09-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Rattalino",
+      "position": "MC",
+      "birthDate": "2004-06-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Cardillo",
+      "position": "MC",
+      "birthDate": "2003-03-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Río",
+      "position": "MC",
+      "birthDate": "2001-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo Álvarez",
+      "position": "MC",
+      "birthDate": "1996-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Tripichio",
+      "position": "MC",
+      "birthDate": "1996-01-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Abrego",
+      "position": "MC",
+      "birthDate": "2000-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Zaballa",
+      "position": "MC",
+      "birthDate": "2006-05-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Alassia",
+      "position": "MC",
+      "birthDate": "2004-02-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Cerutti",
+      "position": "DC",
+      "birthDate": "1992-01-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Cuello",
+      "position": "DC",
+      "birthDate": "2000-02-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Ladstatter",
+      "position": "DC",
+      "birthDate": "2005-06-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Herazo",
+      "position": "DC",
+      "birthDate": "1996-04-14",
+      "nationality": "COL"
+    },
+    {
+      "name": "Gustavo del Prete",
+      "position": "DC",
+      "birthDate": "1996-06-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Barrios",
+      "position": "DC",
+      "birthDate": "1998-05-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Auzmendi",
+      "position": "DC",
+      "birthDate": "2001-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Perugini",
+      "position": "DC",
+      "birthDate": "2005-01-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Farías",
+      "position": "DC",
+      "birthDate": "2002-08-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Alan Salas",
+      "position": "DC",
+      "birthDate": "2006-10-22",
+      "nationality": "ARG"
+    }
+  ]
+}

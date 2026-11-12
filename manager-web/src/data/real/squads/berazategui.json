@@ -1,0 +1,164 @@
+{
+  "club": "Berazategui",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Asociación_Deportiva_Berazategui"
+  ],
+  "players": [
+    {
+      "name": "Federico Tursi",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Hernández",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Collazo",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ian Andrada",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo Serrizuela",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Derek Bentancor",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Héctor Villalba",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Robles",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ariel Vera",
+      "position": "DFC",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Giovanni Centurión",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ian Troilo",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Adrián Alfonzo",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Monzon",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Pereyra",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Santillán",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pedro Bormida",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Miranda",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Cuella",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Duarte",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Corrales",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bautista Hernández",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Quiroga",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Pombo",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emiliano Caballero",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Sánchez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Benítez",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Molina",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Miño",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gustavo Fernández",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Godoy",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Sanabria",
+      "position": "DC",
+      "nationality": "ARG"
+    }
+  ]
+}

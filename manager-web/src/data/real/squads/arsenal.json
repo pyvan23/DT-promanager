@@ -1,0 +1,195 @@
+{
+  "club": "Arsenal",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Arsenal_F%C3%BAtbol_Club"
+  ],
+  "players": [
+    {
+      "name": "Julián Lobelos",
+      "position": "ARQ",
+      "birthDate": "1999-06-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Mekbel",
+      "position": "ARQ",
+      "birthDate": "2004-08-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Pezzini",
+      "position": "ARQ",
+      "birthDate": "1996-11-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Brienzo",
+      "position": "DFC",
+      "birthDate": "1998-11-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Delvalle",
+      "position": "DFC",
+      "birthDate": "2001-05-17",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Iván Cabrera",
+      "position": "DFC",
+      "birthDate": "2003-02-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Cáceres",
+      "position": "DFC",
+      "birthDate": "2005-05-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Schiavulli",
+      "position": "DFC",
+      "birthDate": "2003-09-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Peralta",
+      "position": "DFC",
+      "birthDate": "2002-04-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Payes",
+      "position": "DFC",
+      "birthDate": "2005-02-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Damián Pérez",
+      "position": "DFC",
+      "birthDate": "1988-12-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Goncebat",
+      "position": "DFC",
+      "birthDate": "2006-08-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Serrano",
+      "position": "DFC",
+      "birthDate": "2004-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mariano Del Col",
+      "position": "DFC",
+      "birthDate": "1993-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Vega",
+      "position": "MC",
+      "birthDate": "1993-05-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Ochoa",
+      "position": "MC",
+      "birthDate": "1996-09-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Miño",
+      "position": "MC",
+      "birthDate": "2005-09-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Talo Colletta",
+      "position": "MC",
+      "birthDate": "2003-04-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Lucero",
+      "position": "MC",
+      "birthDate": "2004-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Frascone",
+      "position": "MC",
+      "birthDate": "2003-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matteo Trombini",
+      "position": "MC",
+      "birthDate": "2003-04-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Benítez",
+      "position": "MC",
+      "birthDate": "2006-02-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Vila",
+      "position": "MC",
+      "birthDate": "2000-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Uriel La Roza",
+      "position": "DC",
+      "birthDate": "2005-02-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luca Duarte",
+      "position": "DC",
+      "birthDate": "2005-04-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dylan Cabral",
+      "position": "DC",
+      "birthDate": "2006-01-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Sosa",
+      "position": "DC",
+      "birthDate": "2001-08-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Ledesma",
+      "position": "DC",
+      "birthDate": "2005-07-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ivo Kestler",
+      "position": "DC",
+      "birthDate": "1998-06-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luca Franco",
+      "position": "DC",
+      "birthDate": "2002-11-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Benicio Wilk",
+      "position": "DC",
+      "birthDate": "2007-10-06",
+      "nationality": "ARG"
+    }
+  ]
+}

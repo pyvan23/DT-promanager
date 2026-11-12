@@ -1,0 +1,219 @@
+{
+  "club": "Atlético Escobar",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Escobar-7478.html"
+  ],
+  "players": [
+    {
+      "name": "Lucas Alvarez",
+      "position": "ARQ",
+      "birthDate": "1994-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Della Torre",
+      "position": "ARQ",
+      "birthDate": "1998-11-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Sanchez",
+      "position": "ARQ",
+      "birthDate": "2001-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Osias Barreto",
+      "position": "DFC",
+      "birthDate": "2002-04-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Burgos",
+      "position": "DFC",
+      "birthDate": "1995-12-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Candia",
+      "position": "DFC",
+      "birthDate": "1998-01-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Cupolo",
+      "position": "DFC",
+      "birthDate": "2003-11-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Di Pietro",
+      "position": "DFC",
+      "birthDate": "2001-02-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Díaz",
+      "position": "DFC",
+      "birthDate": "1999-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Flores",
+      "position": "DFC",
+      "birthDate": "2002-04-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Stephane Aoudou Nwatsock",
+      "position": "DFC",
+      "birthDate": "2000-01-28",
+      "nationality": "CMR"
+    },
+    {
+      "name": "Hugo Paniagua",
+      "position": "DFC",
+      "birthDate": "1997-04-04",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Thiago Rodriguez",
+      "position": "DFC",
+      "birthDate": "2003-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Rodriguez",
+      "position": "DFC",
+      "birthDate": "1999-07-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dante Veron",
+      "position": "DFC",
+      "birthDate": "2000-06-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Eliseo Aguirre",
+      "position": "MC",
+      "birthDate": "1997-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel Benítez",
+      "position": "MC",
+      "birthDate": "2003-08-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Billordo",
+      "position": "MC",
+      "birthDate": "1996-09-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Omar Cerrillo",
+      "position": "MC",
+      "birthDate": "1992-03-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gustavo Gómez",
+      "position": "MC",
+      "birthDate": "1997-04-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Axel Juarez",
+      "position": "MC",
+      "birthDate": "1990-07-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Kilanowski",
+      "position": "MC",
+      "birthDate": "2004-03-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Matas",
+      "position": "MC",
+      "birthDate": "2001-07-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Mercado",
+      "position": "MC",
+      "birthDate": "2001-05-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Miño",
+      "position": "MC",
+      "birthDate": "2002-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Núñez",
+      "position": "MC",
+      "birthDate": "2002-08-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Esteban Pipino",
+      "position": "MC",
+      "birthDate": "1990-04-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Portillo",
+      "position": "MC",
+      "birthDate": "2003-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Szuchman",
+      "position": "MC",
+      "birthDate": "2001-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ricardo Lezcano",
+      "position": "DC",
+      "birthDate": "2001-01-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Piersigilli",
+      "position": "DC",
+      "birthDate": "1999-01-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gregorio Silva",
+      "position": "DC",
+      "birthDate": "1997-03-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Sosa",
+      "position": "DC",
+      "birthDate": "2004-05-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pedro Szeszurak",
+      "position": "DC",
+      "birthDate": "2004-02-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Manuel Vila",
+      "position": "DC",
+      "birthDate": "2003-02-08",
+      "nationality": "ARG"
+    }
+  ]
+}

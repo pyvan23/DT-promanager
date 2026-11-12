@@ -1,0 +1,183 @@
+{
+  "club": "Defensores de Belgrano",
+  "season": 2026,
+  "sources": [
+    "https://canchallena.lanacion.com.ar/equipo/defensores-de-belgrano-6jrn904p94yfyn6s5b6ij0jw8/"
+  ],
+  "players": [
+    {
+      "name": "Agustín Benítez",
+      "position": "MC",
+      "birthDate": "1999-10-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Medina",
+      "position": "ARQ",
+      "birthDate": "1986-12-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Gómez",
+      "position": "DC",
+      "birthDate": "1994-02-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dilan Acosta",
+      "position": "DC",
+      "birthDate": "2006-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego García",
+      "position": "MC",
+      "birthDate": "1986-06-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Magallanes",
+      "position": "DFC",
+      "birthDate": "1997-03-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Aguirre",
+      "position": "DC",
+      "birthDate": "1992-01-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo González",
+      "position": "DC",
+      "birthDate": "2000-09-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabián Sánchez",
+      "position": "MC",
+      "birthDate": "2001-08-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Tcherkaski",
+      "position": "DC",
+      "birthDate": "2005-09-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Aquilino Pintos",
+      "position": "DC",
+      "birthDate": "2000-02-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Gamarra",
+      "position": "MC",
+      "birthDate": "1997-06-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Gutiérrez",
+      "position": "MC",
+      "birthDate": "2002-05-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ian Pérez",
+      "position": "DFC",
+      "birthDate": "1999-05-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Ardaiz",
+      "position": "DC",
+      "birthDate": "1999-01-11",
+      "nationality": "URY"
+    },
+    {
+      "name": "Juan De Tomasso",
+      "position": "MC",
+      "birthDate": "1993-06-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Ciccolini",
+      "position": "MC",
+      "birthDate": "1995-04-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Daus",
+      "position": "ARQ",
+      "birthDate": "2004-02-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Gigli",
+      "position": "DFC",
+      "birthDate": "1990-12-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luis Jerez Silva",
+      "position": "MC",
+      "birthDate": "1989-02-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Landriel",
+      "position": "MC",
+      "birthDate": "1996-07-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Gomez",
+      "position": "MC",
+      "birthDate": "2008-05-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Rodríguez",
+      "position": "DFC",
+      "birthDate": "1998-05-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Borsotti",
+      "position": "MC",
+      "birthDate": "2005-10-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nehuen Fuentes",
+      "position": "DFC",
+      "birthDate": "2005-12-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Morro",
+      "position": "DFC",
+      "birthDate": "1997-08-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Nocetti",
+      "position": "ARQ",
+      "birthDate": "2000-08-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Patricio Moyano",
+      "position": "DFC",
+      "birthDate": "2003-07-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Pisacreta",
+      "position": "DFC",
+      "birthDate": "2000-02-21",
+      "nationality": "ARG"
+    }
+  ]
+}

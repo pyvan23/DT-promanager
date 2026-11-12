@@ -1,0 +1,326 @@
+{
+  "division": "ENG-2",
+  "country": "ENG",
+  "name": "EFL Championship",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_Championship",
+    "https://www.efl.com/",
+    "https://www.skysports.com/football/news/11711/13515549/championship-play-offs-efl-confirms-expansion-from-four-to-six-teams-from-2026-27-season-onwards"
+  ],
+  "formatNotes": "24 equipos, 46 jornadas. 1.º y 2.º ascienden directamente a la Premier League. Play-off ampliado a 6 equipos desde 2026-27 (puestos 3-8): eliminatorias previas a partido único 5.º-8.º y 6.º-7.º en casa del mejor clasificado; semifinales a doble partido contra 3.º y 4.º; final en Wembley; un ascenso. Descienden directamente los puestos 22-24 a League One. Llegan 2026-27: West Ham, Burnley, Wolves (de Premier) y Lincoln City, Cardiff City, Bolton Wanderers (de League One). Sin plazas europeas por liga.",
+  "clubs": [
+    {
+      "name": "Birmingham City Football Club",
+      "shortName": "Birmingham",
+      "city": "Birmingham",
+      "province": "West Midlands",
+      "affiliation": "directa",
+      "stadium": "St Andrew's",
+      "colors": {
+        "primary": "#0000FF",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Blackburn Rovers Football Club",
+      "shortName": "Blackburn",
+      "city": "Blackburn",
+      "province": "Lancashire",
+      "affiliation": "directa",
+      "stadium": "Ewood Park",
+      "colors": {
+        "primary": "#009EE0",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Bolton Wanderers Football Club",
+      "shortName": "Bolton",
+      "city": "Horwich (Bolton)",
+      "province": "Greater Manchester",
+      "affiliation": "directa",
+      "stadium": "Toughsheet Community Stadium",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#263C7E"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Bristol City Football Club",
+      "shortName": "Bristol City",
+      "city": "Bristol",
+      "province": "Bristol",
+      "affiliation": "directa",
+      "stadium": "Ashton Gate",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Burnley Football Club",
+      "shortName": "Burnley",
+      "city": "Burnley",
+      "province": "Lancashire",
+      "affiliation": "directa",
+      "stadium": "Turf Moor",
+      "colors": {
+        "primary": "#6C1D45",
+        "secondary": "#99D6EA"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Cardiff City Football Club",
+      "shortName": "Cardiff",
+      "city": "Cardiff",
+      "province": "Gales",
+      "affiliation": "directa",
+      "stadium": "Cardiff City Stadium",
+      "colors": {
+        "primary": "#0070B5",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Charlton Athletic Football Club",
+      "shortName": "Charlton",
+      "city": "Londres",
+      "province": "Gran Londres",
+      "affiliation": "directa",
+      "stadium": "The Valley",
+      "colors": {
+        "primary": "#D4021D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Derby County Football Club",
+      "shortName": "Derby",
+      "city": "Derby",
+      "province": "Derbyshire",
+      "affiliation": "directa",
+      "stadium": "Pride Park Stadium",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Lincoln City Football Club",
+      "shortName": "Lincoln",
+      "city": "Lincoln",
+      "province": "Lincolnshire",
+      "affiliation": "directa",
+      "stadium": "Sincil Bank",
+      "colors": {
+        "primary": "#E31B23",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Middlesbrough Football Club",
+      "shortName": "Middlesbrough",
+      "city": "Middlesbrough",
+      "province": "North Yorkshire",
+      "affiliation": "directa",
+      "stadium": "Riverside Stadium",
+      "colors": {
+        "primary": "#E11B22",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Millwall Football Club",
+      "shortName": "Millwall",
+      "city": "Londres",
+      "province": "Gran Londres",
+      "affiliation": "directa",
+      "stadium": "The Den",
+      "colors": {
+        "primary": "#001D5E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Norwich City Football Club",
+      "shortName": "Norwich",
+      "city": "Norwich",
+      "province": "Norfolk",
+      "affiliation": "directa",
+      "stadium": "Carrow Road",
+      "colors": {
+        "primary": "#FFF200",
+        "secondary": "#00A650"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Portsmouth Football Club",
+      "shortName": "Portsmouth",
+      "city": "Portsmouth",
+      "province": "Hampshire",
+      "affiliation": "directa",
+      "stadium": "Fratton Park",
+      "colors": {
+        "primary": "#001489",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Preston North End Football Club",
+      "shortName": "Preston",
+      "city": "Preston",
+      "province": "Lancashire",
+      "affiliation": "directa",
+      "stadium": "Deepdale",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#0A1F44"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Queens Park Rangers Football Club",
+      "shortName": "QPR",
+      "city": "Londres",
+      "province": "Gran Londres",
+      "affiliation": "directa",
+      "stadium": "Loftus Road",
+      "colors": {
+        "primary": "#1D5BA4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Sheffield United Football Club",
+      "shortName": "Sheffield United",
+      "city": "Sheffield",
+      "province": "South Yorkshire",
+      "affiliation": "directa",
+      "stadium": "Bramall Lane",
+      "colors": {
+        "primary": "#EE2737",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Southampton Football Club",
+      "shortName": "Southampton",
+      "city": "Southampton",
+      "province": "Hampshire",
+      "affiliation": "directa",
+      "stadium": "St Mary's Stadium",
+      "colors": {
+        "primary": "#D71920",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Stoke City Football Club",
+      "shortName": "Stoke",
+      "city": "Stoke-on-Trent",
+      "province": "Staffordshire",
+      "affiliation": "directa",
+      "stadium": "bet365 Stadium",
+      "colors": {
+        "primary": "#E03A3E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Swansea City Association Football Club",
+      "shortName": "Swansea",
+      "city": "Swansea",
+      "province": "Gales",
+      "affiliation": "directa",
+      "stadium": "Swansea.com Stadium",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Watford Football Club",
+      "shortName": "Watford",
+      "city": "Watford",
+      "province": "Hertfordshire",
+      "affiliation": "directa",
+      "stadium": "Vicarage Road",
+      "colors": {
+        "primary": "#FBEE23",
+        "secondary": "#ED2127"
+      },
+      "stature": 2
+    },
+    {
+      "name": "West Bromwich Albion Football Club",
+      "shortName": "West Brom",
+      "city": "West Bromwich",
+      "province": "West Midlands",
+      "affiliation": "directa",
+      "stadium": "The Hawthorns",
+      "colors": {
+        "primary": "#122F67",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "West Ham United Football Club",
+      "shortName": "West Ham",
+      "city": "Londres",
+      "province": "Gran Londres",
+      "affiliation": "directa",
+      "stadium": "London Stadium",
+      "colors": {
+        "primary": "#7A263A",
+        "secondary": "#1BB1E7"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Wolverhampton Wanderers Football Club",
+      "shortName": "Wolves",
+      "city": "Wolverhampton",
+      "province": "West Midlands",
+      "affiliation": "directa",
+      "stadium": "Molineux Stadium",
+      "colors": {
+        "primary": "#FDB913",
+        "secondary": "#231F20"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Wrexham Association Football Club",
+      "shortName": "Wrexham",
+      "city": "Wrexham",
+      "province": "Gales",
+      "affiliation": "directa",
+      "stadium": "Racecourse Ground",
+      "colors": {
+        "primary": "#D71A21",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "club": "San Martín (T)",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_San_Mart%C3%ADn_(Tucum%C3%A1n)"
+  ],
+  "players": [
+    {
+      "name": "Juan Jaime",
+      "position": "ARQ",
+      "birthDate": "1998-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Manganelli",
+      "position": "ARQ",
+      "birthDate": "2001-02-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Darío Sand",
+      "position": "ARQ",
+      "birthDate": "1988-02-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Ayala",
+      "position": "DFC",
+      "birthDate": "1994-08-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Chávez",
+      "position": "DFC",
+      "birthDate": "2003-11-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Gallardo",
+      "position": "DFC",
+      "birthDate": "1998-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Galván",
+      "position": "DFC",
+      "birthDate": "2001-10-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Parnisari",
+      "position": "DFC",
+      "birthDate": "1990-06-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Rodríguez",
+      "position": "DFC",
+      "birthDate": "2002-07-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Víctor Salazar",
+      "position": "DFC",
+      "birthDate": "1993-05-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martiniano Altamiranda",
+      "position": "MC",
+      "birthDate": "2004-01-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Briñone",
+      "position": "MC",
+      "birthDate": "1996-12-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Carabajal",
+      "position": "MC",
+      "birthDate": "1991-12-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Castro",
+      "position": "MC",
+      "birthDate": "1990-05-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Cisnero",
+      "position": "MC",
+      "birthDate": "2004-03-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías García",
+      "position": "MC",
+      "birthDate": "1991-10-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Ignacio García",
+      "position": "MC",
+      "birthDate": "1995-11-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Graneros",
+      "position": "MC",
+      "birthDate": "2001-05-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jorge Juárez",
+      "position": "MC",
+      "birthDate": "1996-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin López",
+      "position": "MC",
+      "birthDate": "2001-12-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Monroy",
+      "position": "MC",
+      "birthDate": "2000-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Aníbal Paz",
+      "position": "MC",
+      "birthDate": "2002-10-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tadeo Polli",
+      "position": "MC",
+      "birthDate": "2005-04-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Milton Ríos",
+      "position": "MC",
+      "birthDate": "2004-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Laureano Rodríguez",
+      "position": "MC",
+      "birthDate": "2002-11-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luca Arfaras",
+      "position": "DC",
+      "birthDate": "2006-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Cabrera",
+      "position": "DC",
+      "birthDate": "2003-05-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Diellos",
+      "position": "DC",
+      "birthDate": "1993-09-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Moreno",
+      "position": "DC",
+      "birthDate": "2001-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Ovando",
+      "position": "DC",
+      "birthDate": "2003-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Rodríguez",
+      "position": "DC",
+      "birthDate": "1990-09-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Bautista Valdez",
+      "position": "DC",
+      "birthDate": "2007-05-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Álvaro Veliez",
+      "position": "DC",
+      "birthDate": "1995-05-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Verón",
+      "position": "DC",
+      "birthDate": "1999-01-29",
+      "nationality": "ARG"
+    }
+  ]
+}

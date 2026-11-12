@@ -1,0 +1,171 @@
+{
+  "club": "Sarmiento (R)",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Sarmiento-99.html"
+  ],
+  "players": [
+    {
+      "name": "Enzo Acuña",
+      "position": "ARQ",
+      "birthDate": "2000-12-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego González",
+      "position": "ARQ",
+      "birthDate": "2003-04-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Ayala",
+      "position": "DFC",
+      "birthDate": "2002-05-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jorge Bejarano Gauna",
+      "position": "DFC",
+      "birthDate": "2007-04-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Domínguez",
+      "position": "DFC",
+      "birthDate": "1999-05-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Franco",
+      "position": "DFC",
+      "birthDate": "2001-09-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Danilo Gallardo",
+      "position": "DFC",
+      "birthDate": "2005-05-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Giménez",
+      "position": "DFC",
+      "birthDate": "1992-06-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Moreyra",
+      "position": "DFC",
+      "birthDate": "1995-12-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sergio Ulibarri",
+      "position": "DFC",
+      "birthDate": "2001-08-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nelson Acevedo",
+      "position": "MC",
+      "birthDate": "1988-07-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Alarcón",
+      "position": "MC",
+      "birthDate": "1995-06-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Almirón",
+      "position": "MC",
+      "birthDate": "1996-03-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lázaro Barlessi",
+      "position": "MC",
+      "birthDate": "2005-05-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Diego Derewicki",
+      "position": "MC",
+      "birthDate": "2002-10-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ivo Di Buo",
+      "position": "MC",
+      "birthDate": "2000-08-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Daniel Duarte",
+      "position": "MC",
+      "birthDate": "2007-12-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Galván",
+      "position": "MC",
+      "birthDate": "2000-10-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Maidana",
+      "position": "MC",
+      "birthDate": "1987-01-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Martínez",
+      "position": "MC",
+      "birthDate": "2007-02-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Martínez",
+      "position": "MC",
+      "birthDate": "2003-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Tomás Canesini",
+      "position": "DC",
+      "birthDate": "2006-12-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Genolet",
+      "position": "DC",
+      "birthDate": "2005-04-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Hugo González",
+      "position": "DC",
+      "birthDate": "1992-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Ibáñez",
+      "position": "DC",
+      "birthDate": "2000-05-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Molina",
+      "position": "DC",
+      "birthDate": "2003-06-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Max Pared",
+      "position": "DC",
+      "birthDate": "2000-03-01",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "club": "Leones FC",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/leones-fc-rosario/1228",
+    "https://www.soloascenso.com.ar/sintesis/sportivo-barracas-leones-fc-rosario/46192",
+    "https://www.soloascenso.com.ar/sintesis/leones-fc-rosario-mercedes/46171",
+    "https://www.soloascenso.com.ar/sintesis/mercedes-leones-fc-rosario/46151"
+  ],
+  "players": [
+    {
+      "name": "Lucas Alegre",
+      "position": "ARQ"
+    },
+    {
+      "name": "Nicolás Baleani",
+      "position": "ARQ"
+    },
+    {
+      "name": "Ezequiel Daniele",
+      "position": "ARQ"
+    },
+    {
+      "name": "Nicolás Giménez",
+      "position": "DFC"
+    },
+    {
+      "name": "Mario Senra",
+      "position": "DFC"
+    },
+    {
+      "name": "Valentino Stizza",
+      "position": "DFC"
+    },
+    {
+      "name": "Franco Tanneur",
+      "position": "DFC"
+    },
+    {
+      "name": "Lucas Zapata",
+      "position": "DFC"
+    },
+    {
+      "name": "Patricio Acevedo",
+      "position": "MC"
+    },
+    {
+      "name": "Marcos Benítez",
+      "position": "MC"
+    },
+    {
+      "name": "Galo Bernardini",
+      "position": "MC"
+    },
+    {
+      "name": "Cristian Bonesso",
+      "position": "MC"
+    },
+    {
+      "name": "Leandro Duarte",
+      "position": "MC"
+    },
+    {
+      "name": "Román Elsegood",
+      "position": "MC"
+    },
+    {
+      "name": "Alejo Fernández",
+      "position": "MC"
+    },
+    {
+      "name": "Gonzalo Gómez",
+      "position": "MC"
+    },
+    {
+      "name": "Sebastián Peñaloza",
+      "position": "MC"
+    },
+    {
+      "name": "Denis Rodríguez",
+      "position": "MC"
+    },
+    {
+      "name": "Gustavo Britos",
+      "position": "DC"
+    },
+    {
+      "name": "Kevin Collera",
+      "position": "DC"
+    },
+    {
+      "name": "Gonzalo González",
+      "position": "DC"
+    },
+    {
+      "name": "Lucas Manochi",
+      "position": "DC"
+    },
+    {
+      "name": "Cristian Ortigoza",
+      "position": "DC"
+    },
+    {
+      "name": "Lionel Segovia",
+      "position": "DC"
+    },
+    {
+      "name": "Juan Vieyra",
+      "position": "DC"
+    }
+  ]
+}

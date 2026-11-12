@@ -1,0 +1,207 @@
+{
+  "club": "Newell's Old Boys",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atlético_Newell's_Old_Boys"
+  ],
+  "players": [
+    {
+      "name": "Gabriel Arias",
+      "position": "ARQ",
+      "birthDate": "1987-09-13",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Josué Reinatti",
+      "position": "ARQ",
+      "birthDate": "2003-06-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Sciarini",
+      "position": "ARQ",
+      "birthDate": "2005-09-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ian Glavinovich",
+      "position": "DFC",
+      "birthDate": "2001-10-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Luciano",
+      "position": "DFC",
+      "birthDate": "2003-08-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Montero",
+      "position": "DFC",
+      "birthDate": "1998-05-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Ortega",
+      "position": "DFC",
+      "birthDate": "1999-08-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Saúl Salcedo",
+      "position": "DFC",
+      "birthDate": "1997-08-29",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Lucas Carrizo",
+      "position": "DFC",
+      "birthDate": "1997-05-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Giannetti",
+      "position": "DFC",
+      "birthDate": "1993-11-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Oscar Salomón",
+      "position": "DFC",
+      "birthDate": "1999-03-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Goitea",
+      "position": "DFC",
+      "birthDate": "1997-06-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Escobar",
+      "position": "DFC",
+      "birthDate": "1995-02-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Cabrera",
+      "position": "DFC",
+      "birthDate": "1997-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jerónimo Russo",
+      "position": "DFC",
+      "birthDate": "2005-05-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luca Regiardo",
+      "position": "MC",
+      "birthDate": "2006-10-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "David Sotelo",
+      "position": "MC",
+      "birthDate": "2003-07-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentino Acuña",
+      "position": "MC",
+      "birthDate": "2006-01-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Soñora",
+      "position": "MC",
+      "birthDate": "1998-08-03",
+      "nationality": "USA"
+    },
+    {
+      "name": "Mateo García",
+      "position": "MC",
+      "birthDate": "1996-09-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jerónimo Gómez Mattar",
+      "position": "MC",
+      "birthDate": "2008-08-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Guch",
+      "position": "MC",
+      "birthDate": "2007-01-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Herrera",
+      "position": "MC",
+      "birthDate": "2000-08-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Gómez",
+      "position": "MC",
+      "birthDate": "2004-06-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcelo Esponda",
+      "position": "MC",
+      "birthDate": "2003-01-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Blas Benedetto",
+      "position": "MC",
+      "birthDate": "2006-03-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Walter Mazzantti",
+      "position": "DC",
+      "birthDate": "1996-09-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Cóccaro",
+      "position": "DC",
+      "birthDate": "1997-11-15",
+      "nationality": "URY"
+    },
+    {
+      "name": "Santiago Solari",
+      "position": "DC",
+      "birthDate": "1998-01-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Walter Núñez",
+      "position": "DC",
+      "birthDate": "2003-02-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Scarpeccio",
+      "position": "DC",
+      "birthDate": "2006-01-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thomas Ríos",
+      "position": "DC",
+      "birthDate": "2006-09-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Ignacio Ramírez",
+      "position": "DC",
+      "birthDate": "1997-02-01",
+      "nationality": "URY"
+    }
+  ]
+}

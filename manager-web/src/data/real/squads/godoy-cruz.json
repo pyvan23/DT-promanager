@@ -1,0 +1,213 @@
+{
+  "club": "Godoy Cruz",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Deportivo_Godoy_Cruz_Antonio_Tomba"
+  ],
+  "players": [
+    {
+      "name": "Juan Strumia",
+      "position": "ARQ",
+      "birthDate": "1999-10-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Cláa",
+      "position": "ARQ",
+      "birthDate": "2004-08-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Roberto Ramírez",
+      "position": "ARQ",
+      "birthDate": "1996-07-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Sosa",
+      "position": "ARQ",
+      "birthDate": "2007-02-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Camilo Alessandria",
+      "position": "DFC",
+      "birthDate": "2000-04-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Viera",
+      "position": "DFC",
+      "birthDate": "1991-04-30",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Esteban Burgos",
+      "position": "DFC",
+      "birthDate": "1992-01-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Milo",
+      "position": "DFC",
+      "birthDate": "1992-01-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Gerometta",
+      "position": "DFC",
+      "birthDate": "1999-09-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Morán",
+      "position": "DFC",
+      "birthDate": "2006-07-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Quiroz",
+      "position": "DFC",
+      "birthDate": "2004-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Arce",
+      "position": "DFC",
+      "birthDate": "1997-08-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Funes",
+      "position": "DFC",
+      "birthDate": "2005-07-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Brunet",
+      "position": "DFC",
+      "birthDate": "2000-07-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Rossi",
+      "position": "DFC",
+      "birthDate": "1999-04-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Valverde",
+      "position": "MC",
+      "birthDate": "2002-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Villalobos",
+      "position": "MC",
+      "birthDate": "2003-06-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bautista Cejas",
+      "position": "MC",
+      "birthDate": "1998-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Benjamín Schamine",
+      "position": "MC",
+      "birthDate": "2003-10-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Exequiel Tejada",
+      "position": "MC",
+      "birthDate": "2005-01-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Cairus",
+      "position": "MC",
+      "birthDate": "2000-04-28",
+      "nationality": "URY"
+    },
+    {
+      "name": "Gastón Gil Romero",
+      "position": "MC",
+      "birthDate": "1993-05-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Andrada",
+      "position": "MC",
+      "birthDate": "1995-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Martínez",
+      "position": "MC",
+      "birthDate": "2004-01-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Vicente Poggi",
+      "position": "MC",
+      "birthDate": "2002-07-11",
+      "nationality": "URY"
+    },
+    {
+      "name": "Axel Rodríguez",
+      "position": "DC",
+      "birthDate": "1997-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Barrionuevo",
+      "position": "DC",
+      "birthDate": "2005-12-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Oviedo",
+      "position": "DC",
+      "birthDate": "2004-02-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Pino",
+      "position": "DC",
+      "birthDate": "1998-03-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Misael Sosa",
+      "position": "DC",
+      "birthDate": "2002-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Ulariaga",
+      "position": "DC",
+      "birthDate": "2002-03-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Oscar González",
+      "position": "DC",
+      "birthDate": "2006-01-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Fernández",
+      "position": "DC",
+      "birthDate": "2007-01-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Willian Riquelme",
+      "position": "DC",
+      "birthDate": "2002-02-15",
+      "nationality": "PRY"
+    }
+  ]
+}

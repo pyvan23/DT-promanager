@@ -1,0 +1,213 @@
+{
+  "club": "Independiente",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+  ],
+  "players": [
+    {
+      "name": "Joaquín Blázquez",
+      "position": "ARQ",
+      "birthDate": "2001-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Manuel Centurión",
+      "position": "ARQ",
+      "birthDate": "2008-06-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Rey",
+      "position": "ARQ",
+      "birthDate": "1991-03-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Mele",
+      "position": "ARQ",
+      "birthDate": "1997-09-06",
+      "nationality": "URY"
+    },
+    {
+      "name": "Franco Calderón",
+      "position": "DFC",
+      "birthDate": "1998-05-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan de Irastorza",
+      "position": "DFC",
+      "birthDate": "2005-08-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Arias",
+      "position": "DFC",
+      "birthDate": "1992-01-13",
+      "nationality": "COL"
+    },
+    {
+      "name": "Nahuel Banegas",
+      "position": "DFC",
+      "birthDate": "1996-10-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Fedorco",
+      "position": "DFC",
+      "birthDate": "2000-11-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Closter",
+      "position": "DFC",
+      "birthDate": "2008-07-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Zabala",
+      "position": "DFC",
+      "birthDate": "1999-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Godoy",
+      "position": "DFC",
+      "birthDate": "1995-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Bordón",
+      "position": "DFC",
+      "birthDate": "2005-06-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Valdéz",
+      "position": "DFC",
+      "birthDate": "1995-11-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Meza",
+      "position": "MC",
+      "birthDate": "1992-12-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Cabral",
+      "position": "MC",
+      "birthDate": "1995-04-26",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Imanol Machuca",
+      "position": "MC",
+      "birthDate": "2000-01-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Millán",
+      "position": "MC",
+      "birthDate": "2005-08-16",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Mateo Pérez Curci",
+      "position": "MC",
+      "birthDate": "2006-01-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Cruz",
+      "position": "MC",
+      "birthDate": "2006-05-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Marcone",
+      "position": "MC",
+      "birthDate": "1990-06-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Josías Palais",
+      "position": "MC",
+      "birthDate": "2006-04-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Parmo",
+      "position": "MC",
+      "birthDate": "2008-01-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "David Martínez",
+      "position": "MC",
+      "birthDate": "2004-06-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joel Medina",
+      "position": "MC",
+      "birthDate": "2007-07-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Chimy Ávila",
+      "position": "MC",
+      "birthDate": "1994-02-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Montiel",
+      "position": "DC",
+      "birthDate": "2000-11-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Morales",
+      "position": "DC",
+      "birthDate": "1999-07-29",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Santino Viollaz",
+      "position": "DC",
+      "birthDate": "2008-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Valdéz",
+      "position": "DC",
+      "birthDate": "2006-04-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Abaldo",
+      "position": "DC",
+      "birthDate": "2004-04-03",
+      "nationality": "URY"
+    },
+    {
+      "name": "Nahuel Junco",
+      "position": "DC",
+      "birthDate": "2005-09-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Tempone",
+      "position": "DC",
+      "birthDate": "2006-02-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Márquez",
+      "position": "DC",
+      "birthDate": "2002-02-15",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "club": "Gimnasia (Chivilcoy)",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Gimnasia-y-Esgrima-7321.html"
+  ],
+  "players": [
+    {
+      "name": "Nicolás Dormisch",
+      "position": "ARQ",
+      "birthDate": "1998-08-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Ilchischen",
+      "position": "ARQ",
+      "birthDate": "2001-07-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel D'Amelio",
+      "position": "DFC",
+      "birthDate": "2004-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mario Dauria",
+      "position": "DFC",
+      "birthDate": "1999-09-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fausto Fiol",
+      "position": "DFC",
+      "birthDate": "1995-08-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Flores",
+      "position": "DFC",
+      "birthDate": "1993-05-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Gallo",
+      "position": "DFC",
+      "birthDate": "1991-09-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Medina",
+      "position": "DFC",
+      "birthDate": "2002-03-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Robatto",
+      "position": "DFC",
+      "birthDate": "1999-06-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Samaniego",
+      "position": "DFC",
+      "birthDate": "2000-04-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Zarate",
+      "position": "DFC",
+      "birthDate": "1994-05-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Bassi",
+      "position": "MC",
+      "birthDate": "1992-12-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Caseres",
+      "position": "MC",
+      "birthDate": "1993-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Patricio Ferreira",
+      "position": "MC",
+      "birthDate": "2007-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Gutierrez",
+      "position": "MC",
+      "birthDate": "1999-01-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Martínez",
+      "position": "MC",
+      "birthDate": "1997-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Francisco Millan",
+      "position": "MC",
+      "birthDate": "2005-01-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel Pavone",
+      "position": "MC",
+      "birthDate": "2000-08-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucio Almada",
+      "position": "DC",
+      "birthDate": "2001-05-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Fernández",
+      "position": "DC",
+      "birthDate": "1999-12-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Giampaoli",
+      "position": "DC",
+      "birthDate": "1993-10-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Marfort",
+      "position": "DC",
+      "birthDate": "2002-09-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Morales",
+      "position": "DC",
+      "birthDate": "2000-05-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Ortiz",
+      "position": "DC",
+      "birthDate": "2001-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Axel Salinardi",
+      "position": "DC",
+      "birthDate": "2000-09-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Salvaggio",
+      "position": "DC",
+      "birthDate": "1995-08-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Visser",
+      "position": "DC",
+      "birthDate": "1994-04-21",
+      "nationality": "ARG"
+    }
+  ]
+}

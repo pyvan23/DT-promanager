@@ -1,0 +1,164 @@
+{
+  "club": "Cañuelas",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Cañuelas_Fútbol_Club"
+  ],
+  "players": [
+    {
+      "name": "Estefano Francesconi",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Uriel Rivero",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Adrian Marín",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Cano",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos A. Aguirre",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gianfranco Lillo Herdt",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Roberto Floris",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joel A. Morán",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago R. Pavón",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Battipiedi",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago A. Centurión",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian M. Guerrero Ruiz",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Guerrero",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alex G. Morales",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago T. Sosa",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan N. Palavecino",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego A. Pérez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan S. Ramírez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Ríos",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Josué A. Tunqui Farfán",
+      "position": "MC",
+      "nationality": "PER"
+    },
+    {
+      "name": "Mateo Mana",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos E. Abregú",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago N. Álvarez",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcelo E. Argüello",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías C. Fernández",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás A. Golomba",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bautista Hernández",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro N. López Bertoni",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Christian S. Montero",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel T. Morales",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "David A. Soria",
+      "position": "DC",
+      "nationality": "ARG"
+    }
+  ]
+}

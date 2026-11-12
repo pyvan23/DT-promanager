@@ -1,0 +1,207 @@
+{
+  "club": "Sarmiento (J)",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Sarmiento_(Jun%C3%ADn)"
+  ],
+  "players": [
+    {
+      "name": "Iván Arboleda",
+      "position": "ARQ",
+      "birthDate": "1996-04-21",
+      "nationality": "COL"
+    },
+    {
+      "name": "Thyago Ayala",
+      "position": "ARQ",
+      "birthDate": "2001-09-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Insaurralde",
+      "position": "DFC",
+      "birthDate": "1984-10-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Suárez",
+      "position": "DFC",
+      "birthDate": "1995-03-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Manuel Cabrera",
+      "position": "DFC",
+      "birthDate": "2000-03-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Arturia",
+      "position": "DFC",
+      "birthDate": "1999-10-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ulises Giménez",
+      "position": "DFC",
+      "birthDate": "2006-01-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Santamaría",
+      "position": "DFC",
+      "birthDate": "2003-04-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Díaz",
+      "position": "DFC",
+      "birthDate": "2000-04-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Seyral",
+      "position": "DFC",
+      "birthDate": "2005-01-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joel Godoy",
+      "position": "DFC",
+      "birthDate": "2005-02-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Renzo Orihuela",
+      "position": "DFC",
+      "birthDate": "2001-04-04",
+      "nationality": "URY"
+    },
+    {
+      "name": "Nicolás Pasquini",
+      "position": "DFC",
+      "birthDate": "1991-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Vallejos",
+      "position": "DFC",
+      "birthDate": "2003-04-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel García",
+      "position": "MC",
+      "birthDate": "1999-06-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Salle",
+      "position": "MC",
+      "birthDate": "2004-06-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Zabala",
+      "position": "MC",
+      "birthDate": "1998-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Martínez",
+      "position": "MC",
+      "birthDate": "1993-02-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Nadruz",
+      "position": "MC",
+      "birthDate": "1996-06-29",
+      "nationality": "URY"
+    },
+    {
+      "name": "Osmar Giménez",
+      "position": "MC",
+      "birthDate": "2007-03-25",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Julián Mavilla",
+      "position": "MC",
+      "birthDate": "2000-04-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elián Giménez",
+      "position": "MC",
+      "birthDate": "2004-03-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Villalba",
+      "position": "MC",
+      "birthDate": "1998-07-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Alaggia",
+      "position": "MC",
+      "birthDate": "2005-06-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Magnín",
+      "position": "DC",
+      "birthDate": "1990-04-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Churín",
+      "position": "DC",
+      "birthDate": "1989-12-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jhon Rentería",
+      "position": "DC",
+      "birthDate": "2005-10-24",
+      "nationality": "COL"
+    },
+    {
+      "name": "Gastón González",
+      "position": "DC",
+      "birthDate": "2001-06-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Contrera",
+      "position": "DC",
+      "birthDate": "2003-05-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan Herrera",
+      "position": "DC",
+      "birthDate": "1991-09-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yair Arismendi",
+      "position": "DC",
+      "birthDate": "1998-04-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Junior Marabel",
+      "position": "DC",
+      "birthDate": "1998-03-26",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Brandon Márquez",
+      "position": "DC",
+      "birthDate": "2005-02-22",
+      "nationality": "ARG"
+    }
+  ]
+}

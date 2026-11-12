@@ -1,0 +1,125 @@
+{
+  "club": "Juventud Unida",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/juventud-unida/284",
+    "https://www.soloascenso.com.ar/sintesis/victoriano-arenas-juventud-unida/45301",
+    "https://www.soloascenso.com.ar/sintesis/jj-urquiza-juventud-unida/45272",
+    "https://www.soloascenso.com.ar/sintesis/estrella-del-sur-alejandro-korn-juventud-unida/45325",
+    "https://www.soloascenso.com.ar/sintesis/juventud-unida-berazategui/45316"
+  ],
+  "players": [
+    {
+      "name": "Agustín Burlón",
+      "position": "ARQ"
+    },
+    {
+      "name": "Alessandro López",
+      "position": "ARQ"
+    },
+    {
+      "name": "Franco Cardozo",
+      "position": "DFC"
+    },
+    {
+      "name": "Juan Chiarantano",
+      "position": "DFC"
+    },
+    {
+      "name": "Mariano Di Franco",
+      "position": "DFC"
+    },
+    {
+      "name": "Ian Escobar",
+      "position": "DFC"
+    },
+    {
+      "name": "Esteban Fernández",
+      "position": "DFC"
+    },
+    {
+      "name": "Enzo Guzmán",
+      "position": "DFC"
+    },
+    {
+      "name": "Joaquín Iglesias",
+      "position": "DFC"
+    },
+    {
+      "name": "Lucio Ortiz",
+      "position": "DFC"
+    },
+    {
+      "name": "Maximiliano Paredes",
+      "position": "DFC"
+    },
+    {
+      "name": "Tomás Silveyra",
+      "position": "DFC"
+    },
+    {
+      "name": "Federico Vega",
+      "position": "DFC"
+    },
+    {
+      "name": "Enzo Arreguín",
+      "position": "MC"
+    },
+    {
+      "name": "Kevin Barrionuevo",
+      "position": "MC"
+    },
+    {
+      "name": "Duncan Hughes",
+      "position": "MC"
+    },
+    {
+      "name": "Mauro Peiro",
+      "position": "MC"
+    },
+    {
+      "name": "Alan Vega",
+      "position": "MC"
+    },
+    {
+      "name": "Nahuel Aiuto",
+      "position": "DC"
+    },
+    {
+      "name": "Alexis Albistur",
+      "position": "DC"
+    },
+    {
+      "name": "Luciano Brandán",
+      "position": "DC"
+    },
+    {
+      "name": "Lautaro Candia",
+      "position": "DC"
+    },
+    {
+      "name": "Diego Cardozo",
+      "position": "DC"
+    },
+    {
+      "name": "Braian Maidana",
+      "position": "DC"
+    },
+    {
+      "name": "Andrés Molinas",
+      "position": "DC"
+    },
+    {
+      "name": "Emiliano Ortíz",
+      "position": "DC"
+    },
+    {
+      "name": "Mateo Pedemonti",
+      "position": "DC"
+    },
+    {
+      "name": "Catriel Quinteros",
+      "position": "DC"
+    }
+  ]
+}

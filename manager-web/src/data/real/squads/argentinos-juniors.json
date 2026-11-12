@@ -1,0 +1,219 @@
+{
+  "club": "Argentinos Juniors",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors"
+  ],
+  "players": [
+    {
+      "name": "Agustín Mangiaut",
+      "position": "ARQ",
+      "birthDate": "2004-05-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Siri Payer",
+      "position": "ARQ",
+      "birthDate": "2003-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brayan Cortés",
+      "position": "ARQ",
+      "birthDate": "1995-03-11",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Valentín Catalán",
+      "position": "ARQ",
+      "birthDate": "2006-03-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Sánchez",
+      "position": "DFC",
+      "birthDate": "1994-01-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Érik Godoy",
+      "position": "DFC",
+      "birthDate": "1993-08-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Vázquez",
+      "position": "DFC",
+      "birthDate": "2005-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santino Gianini",
+      "position": "DFC",
+      "birthDate": "2008-09-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Álvarez",
+      "position": "DFC",
+      "birthDate": "2000-02-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Paredes",
+      "position": "DFC",
+      "birthDate": "1999-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Prieto",
+      "position": "DFC",
+      "birthDate": "1993-04-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Coronel",
+      "position": "DFC",
+      "birthDate": "2004-08-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Mendoza",
+      "position": "DFC",
+      "birthDate": "2004-11-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Claudio Bravo",
+      "position": "DFC",
+      "birthDate": "1997-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Núñez",
+      "position": "DFC",
+      "birthDate": "2004-10-01",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Thiago Gómez",
+      "position": "DFC",
+      "birthDate": "2006-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Silveira",
+      "position": "DFC",
+      "birthDate": "2008-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Yánez",
+      "position": "DFC",
+      "birthDate": "2008-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Carrizo",
+      "position": "MC",
+      "birthDate": "2007-05-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Hernán López Muñoz",
+      "position": "MC",
+      "birthDate": "2000-09-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Florentín",
+      "position": "MC",
+      "birthDate": "1999-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Oroz",
+      "position": "MC",
+      "birthDate": "1994-04-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Gutiérrez",
+      "position": "MC",
+      "birthDate": "1997-07-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Mancuello",
+      "position": "MC",
+      "birthDate": "1989-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Gho",
+      "position": "MC",
+      "birthDate": "2003-05-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emiliano Viveros",
+      "position": "MC",
+      "birthDate": "2002-09-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gino Infantino",
+      "position": "MC",
+      "birthDate": "2003-03-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gaston Bouhier",
+      "position": "MC",
+      "birthDate": "2008-01-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Porcel",
+      "position": "DC",
+      "birthDate": "2005-01-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Verón",
+      "position": "DC",
+      "birthDate": "2001-04-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Giménez Rojas",
+      "position": "DC",
+      "birthDate": "1999-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Molina",
+      "position": "DC",
+      "birthDate": "1995-04-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ryōga Kida",
+      "position": "DC",
+      "birthDate": "2005-07-15",
+      "nationality": "JPN"
+    },
+    {
+      "name": "Alan Alcaraz",
+      "position": "DC",
+      "birthDate": "2009-07-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Jainikoski",
+      "position": "DC",
+      "birthDate": "2008-03-15",
+      "nationality": "ARG"
+    }
+  ]
+}

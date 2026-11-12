@@ -1,0 +1,195 @@
+{
+  "club": "Barracas Central",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Barracas_Central"
+  ],
+  "players": [
+    {
+      "name": "Juan Espínola",
+      "position": "ARQ",
+      "birthDate": "1994-11-02",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Marcelo Miño",
+      "position": "ARQ",
+      "birthDate": "1997-08-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Insúa",
+      "position": "ARQ",
+      "birthDate": "2005-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Capraro",
+      "position": "DFC",
+      "birthDate": "1998-03-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Damián Martínez",
+      "position": "DFC",
+      "birthDate": "1990-01-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Insúa",
+      "position": "DFC",
+      "birthDate": "1997-12-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rafael Barrios",
+      "position": "DFC",
+      "birthDate": "1993-05-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Jappert",
+      "position": "DFC",
+      "birthDate": "2004-02-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yonatthan Rak",
+      "position": "DFC",
+      "birthDate": "1993-08-18",
+      "nationality": "URY"
+    },
+    {
+      "name": "Elías Pereyra",
+      "position": "DFC",
+      "birthDate": "1999-02-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Demartini",
+      "position": "DFC",
+      "birthDate": "1999-11-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Tobio",
+      "position": "DFC",
+      "birthDate": "1989-10-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Campi",
+      "position": "DFC",
+      "birthDate": "1991-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dardo Miloc",
+      "position": "MC",
+      "birthDate": "1990-10-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Porra",
+      "position": "MC",
+      "birthDate": "2004-01-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Tapia",
+      "position": "MC",
+      "birthDate": "1998-11-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Guaraz",
+      "position": "MC",
+      "birthDate": "2005-03-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Duarte",
+      "position": "MC",
+      "birthDate": "2001-08-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yeison Gordillo",
+      "position": "MC",
+      "birthDate": "1992-06-25",
+      "nationality": "COL"
+    },
+    {
+      "name": "Rodrigo Bogarín",
+      "position": "MC",
+      "birthDate": "1997-05-24",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Gonzalo Maroni",
+      "position": "MC",
+      "birthDate": "1999-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Lavezzi",
+      "position": "MC",
+      "birthDate": "2005-05-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Puig",
+      "position": "MC",
+      "birthDate": "2000-09-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Arce",
+      "position": "MC",
+      "birthDate": "1990-09-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Barbieri",
+      "position": "DC",
+      "birthDate": "1996-09-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Morales",
+      "position": "DC",
+      "birthDate": "2003-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Norberto Briasco",
+      "position": "DC",
+      "birthDate": "1996-02-29",
+      "nationality": "ARM"
+    },
+    {
+      "name": "Jhonatan Candia",
+      "position": "DC",
+      "birthDate": "1995-03-15",
+      "nationality": "URY"
+    },
+    {
+      "name": "Lucas Gamba",
+      "position": "DC",
+      "birthDate": "1987-06-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Wilfredo Rivera",
+      "position": "DC",
+      "birthDate": "2003-10-14",
+      "nationality": "PRI"
+    },
+    {
+      "name": "Enzo Taborda",
+      "position": "DC",
+      "birthDate": "2005-05-20",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "division": "ENG-1",
+  "country": "ENG",
+  "name": "Premier League",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+    "https://www.premierleague.com/clubs"
+  ],
+  "formatNotes": "20 equipos, 38 jornadas (ida y vuelta). Descienden directamente los puestos 18-20 a la EFL Championship. Ascendidos 2026-27: Coventry City, Ipswich Town, Hull City; descendidos 2025-26: West Ham, Burnley, Wolves. Europa: 1.º-4.º Champions League (fase liga; 5.º también si Inglaterra obtiene plaza extra por rendimiento europeo UEFA), 5.º Europa League; campeón de FA Cup a Europa League (si ya clasificado, pasa al 6.º); campeón de EFL Cup a Conference League (play-off) o al siguiente de la liga.",
+  "domesticCup": {
+    "name": "FA Cup",
+    "formatNotes": "Copa por eliminación directa a partido único abierta a cientos de clubes de la pirámide; los de Premier y Championship entran en la tercera ronda (enero); sin replays desde la primera ronda propia; semifinales y final en Wembley. Campeón a Europa League. Existe además la EFL Cup (Carabao Cup), cuyo campeón va a la Conference League."
+  },
+  "clubs": [
+    {
+      "name": "Arsenal Football Club",
+      "shortName": "Arsenal",
+      "city": "Londres",
+      "province": "Gran Londres",
+      "affiliation": "directa",
+      "stadium": "Emirates Stadium",
+      "colors": {
+        "primary": "#EF0107",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Aston Villa Football Club",
+      "shortName": "Aston Villa",
+      "city": "Birmingham",
+      "province": "West Midlands",
+      "affiliation": "directa",
+      "stadium": "Villa Park",
+      "colors": {
+        "primary": "#670E36",
+        "secondary": "#95BFE5"
+      },
+      "stature": 4
+    },
+    {
+      "name": "AFC Bournemouth",
+      "shortName": "Bournemouth",
+      "city": "Bournemouth",
+      "province": "Dorset",
+      "affiliation": "directa",
+      "stadium": "Vitality Stadium (Dean Court)",
+      "colors": {
+        "primary": "#DA291C",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Brentford Football Club",
+      "shortName": "Brentford",
+      "city": "Londres",
+      "province": "Gran Londres",
+      "affiliation": "directa",
+      "stadium": "Gtech Community Stadium",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Brighton & Hove Albion Football Club",
+      "shortName": "Brighton",
+      "city": "Brighton (Falmer)",
+      "province": "East Sussex",
+      "affiliation": "directa",
+      "stadium": "American Express Stadium",
+      "colors": {
+        "primary": "#0057B8",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Chelsea Football Club",
+      "shortName": "Chelsea",
+      "city": "Londres",
+      "province": "Gran Londres",
+      "affiliation": "directa",
+      "stadium": "Stamford Bridge",
+      "colors": {
+        "primary": "#034694",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Coventry City Football Club",
+      "shortName": "Coventry",
+      "city": "Coventry",
+      "province": "West Midlands",
+      "affiliation": "directa",
+      "stadium": "Coventry Building Society Arena",
+      "colors": {
+        "primary": "#5BC2E7",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Crystal Palace Football Club",
+      "shortName": "Crystal Palace",
+      "city": "Londres",
+      "province": "Gran Londres",
+      "affiliation": "directa",
+      "stadium": "Selhurst Park",
+      "colors": {
+        "primary": "#1B458F",
+        "secondary": "#C4122E"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Everton Football Club",
+      "shortName": "Everton",
+      "city": "Liverpool",
+      "province": "Merseyside",
+      "affiliation": "directa",
+      "stadium": "Hill Dickinson Stadium",
+      "colors": {
+        "primary": "#003399",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Fulham Football Club",
+      "shortName": "Fulham",
+      "city": "Londres",
+      "province": "Gran Londres",
+      "affiliation": "directa",
+      "stadium": "Craven Cottage",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Hull City Association Football Club",
+      "shortName": "Hull City",
+      "city": "Kingston upon Hull",
+      "province": "East Riding of Yorkshire",
+      "affiliation": "directa",
+      "stadium": "MKM Stadium",
+      "colors": {
+        "primary": "#F5A12D",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Ipswich Town Football Club",
+      "shortName": "Ipswich",
+      "city": "Ipswich",
+      "province": "Suffolk",
+      "affiliation": "directa",
+      "stadium": "Portman Road",
+      "colors": {
+        "primary": "#3A64A3",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Leeds United Football Club",
+      "shortName": "Leeds",
+      "city": "Leeds",
+      "province": "West Yorkshire",
+      "affiliation": "directa",
+      "stadium": "Elland Road",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#1D428A"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Liverpool Football Club",
+      "shortName": "Liverpool",
+      "city": "Liverpool",
+      "province": "Merseyside",
+      "affiliation": "directa",
+      "stadium": "Anfield",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Manchester City Football Club",
+      "shortName": "Man City",
+      "city": "Mánchester",
+      "province": "Greater Manchester",
+      "affiliation": "directa",
+      "stadium": "Etihad Stadium",
+      "colors": {
+        "primary": "#6CABDD",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Manchester United Football Club",
+      "shortName": "Man United",
+      "city": "Mánchester (Old Trafford)",
+      "province": "Greater Manchester",
+      "affiliation": "directa",
+      "stadium": "Old Trafford",
+      "colors": {
+        "primary": "#DA291C",
+        "secondary": "#000000"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Newcastle United Football Club",
+      "shortName": "Newcastle",
+      "city": "Newcastle upon Tyne",
+      "province": "Tyne and Wear",
+      "affiliation": "directa",
+      "stadium": "St James' Park",
+      "colors": {
+        "primary": "#241F20",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Nottingham Forest Football Club",
+      "shortName": "Nottingham Forest",
+      "city": "West Bridgford (Nottingham)",
+      "province": "Nottinghamshire",
+      "affiliation": "directa",
+      "stadium": "City Ground",
+      "colors": {
+        "primary": "#DD0000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Sunderland Association Football Club",
+      "shortName": "Sunderland",
+      "city": "Sunderland",
+      "province": "Tyne and Wear",
+      "affiliation": "directa",
+      "stadium": "Stadium of Light",
+      "colors": {
+        "primary": "#EB172B",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Tottenham Hotspur Football Club",
+      "shortName": "Tottenham",
+      "city": "Londres",
+      "province": "Gran Londres",
+      "affiliation": "directa",
+      "stadium": "Tottenham Hotspur Stadium",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#132257"
+      },
+      "stature": 4
+    }
+  ]
+}

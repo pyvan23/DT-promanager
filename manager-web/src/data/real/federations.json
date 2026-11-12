@@ -1,0 +1,140 @@
+{
+  "CONMEBOL": {
+    "file": "asociaciones/conmebol.png",
+    "source": "https://en.wikipedia.org/wiki/File:CONMEBOL_logo_(2017).svg",
+    "license": "Fair use",
+    "name": "CONMEBOL"
+  },
+  "UEFA": {
+    "file": "asociaciones/uefa.png",
+    "source": "https://en.wikipedia.org/wiki/File:UEFA_full_logo.svg",
+    "license": "Fair use",
+    "name": "UEFA"
+  },
+  "FIFA": {
+    "file": "asociaciones/fifa.png",
+    "source": "https://commons.wikimedia.org/wiki/File:FIFA_logo_without_slogan.svg",
+    "license": "Public domain",
+    "name": "FIFA"
+  },
+  "ARG": {
+    "file": "asociaciones/arg.png",
+    "source": "https://en.wikipedia.org/wiki/File:Asociaci%C3%B3n_del_F%C3%BAtbol_Argentino_(crest).svg",
+    "license": "Fair use",
+    "name": "Argentine Football Association"
+  },
+  "BRA": {
+    "file": "asociaciones/bra.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Brazilian_Football_Confederation_logo.svg",
+    "license": "Public domain",
+    "name": "Brazilian Football Confederation"
+  },
+  "PRY": {
+    "file": "asociaciones/pry.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol_logo.svg",
+    "license": "Public domain",
+    "name": "Paraguayan Football Association"
+  },
+  "CHL": {
+    "file": "asociaciones/chl.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg",
+    "license": "Public domain",
+    "name": "Football Federation of Chile"
+  },
+  "COL": {
+    "file": "asociaciones/col.png",
+    "source": "https://commons.wikimedia.org/wiki/File:FCF-Logo-2023.svg",
+    "license": "Public domain",
+    "name": "Colombian Football Federation"
+  },
+  "PER": {
+    "file": "asociaciones/per.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg",
+    "license": "PD",
+    "name": "Peruvian Football Federation"
+  },
+  "ECU": {
+    "file": "asociaciones/ecu.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol.svg",
+    "license": "Public domain",
+    "name": "Ecuadorian Football Federation"
+  },
+  "BOL": {
+    "file": "asociaciones/bol.png",
+    "source": "https://en.wikipedia.org/wiki/File:Bolivian_Football_Federation_logo.svg",
+    "license": "Fair use",
+    "name": "Bolivian Football Federation"
+  },
+  "VEN": {
+    "file": "asociaciones/ven.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logotipo_de_la_Federaci%C3%B3n_Venezolana_de_F%C3%BAtbol.svg",
+    "license": "Public domain",
+    "name": "Venezuelan Football Federation"
+  },
+  "ENG": {
+    "file": "asociaciones/eng.png",
+    "source": "https://en.wikipedia.org/wiki/File:FA_crest_2009.svg",
+    "license": "Fair use",
+    "name": "The Football Association"
+  },
+  "ESP": {
+    "file": "asociaciones/esp.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Royal_Spanish_Football_Federation_logo.svg",
+    "license": "Public domain",
+    "name": "Royal Spanish Football Federation"
+  },
+  "ITA": {
+    "file": "asociaciones/ita.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Federazione_Italiana_Giuoco_Calcio_-_2021.svg",
+    "license": "Public domain",
+    "name": "Italian Football Federation"
+  },
+  "DEU": {
+    "file": "asociaciones/deu.png",
+    "source": "https://commons.wikimedia.org/wiki/File:DFB-Logo_2025_(WB).svg",
+    "license": "Public domain",
+    "name": "German Football Association"
+  },
+  "FRA": {
+    "file": "asociaciones/fra.png",
+    "source": "https://en.wikipedia.org/wiki/File:French_Football_Federation_logo.svg",
+    "license": "Fair use",
+    "name": "French Football Federation"
+  },
+  "PRT": {
+    "file": "asociaciones/prt.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Federa%C3%A7%C3%A3o_Portuguesa_de_Futebol_logo_(2026).svg",
+    "license": "Public domain",
+    "name": "Portuguese Football Federation"
+  },
+  "NLD": {
+    "file": "asociaciones/nld.png",
+    "source": "https://en.wikipedia.org/wiki/File:Royal_Dutch_Football_Association_logo.svg",
+    "license": "Fair use",
+    "name": "Royal Dutch Football Association"
+  },
+  "BEL": {
+    "file": "asociaciones/bel.png",
+    "source": "https://en.wikipedia.org/wiki/File:Royal_Belgian_FA_logo_2019.svg",
+    "license": "PD",
+    "name": "Royal Belgian Football Association"
+  },
+  "SCO": {
+    "file": "asociaciones/sco.png",
+    "source": "https://en.wikipedia.org/wiki/File:Scottish_Football_Association_Logo.svg",
+    "license": "Fair use",
+    "name": "Scottish Football Association"
+  },
+  "TUR": {
+    "file": "asociaciones/tur.png",
+    "source": "https://en.wikipedia.org/wiki/File:Turkish_Football_Federation_crest.svg",
+    "license": "PD",
+    "name": "Turkish Football Federation"
+  },
+  "URY": {
+    "file": "asociaciones/ury.png",
+    "source": "https://en.wikipedia.org/wiki/File:Auf_association_body_logo.svg",
+    "license": "Fair use",
+    "name": "Asociación Uruguaya de Fútbol"
+  }
+}

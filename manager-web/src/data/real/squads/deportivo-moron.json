@@ -1,0 +1,213 @@
+{
+  "club": "Deportivo Morón",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Deportivo_Mor%C3%B3n"
+  ],
+  "players": [
+    {
+      "name": "Federico Díaz",
+      "position": "ARQ",
+      "birthDate": "1992-04-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julio Salvá",
+      "position": "ARQ",
+      "birthDate": "1987-05-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Máximo Casalnuovo",
+      "position": "ARQ",
+      "birthDate": "2007-12-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquin Mancuso",
+      "position": "ARQ",
+      "birthDate": "2006-03-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mariano Bíttolo",
+      "position": "DFC",
+      "birthDate": "1990-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Livera",
+      "position": "DFC",
+      "birthDate": "1999-09-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Ramírez",
+      "position": "DFC",
+      "birthDate": "2004-03-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Máximo Murcia",
+      "position": "DFC",
+      "birthDate": "2006-10-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Montenegro",
+      "position": "DFC",
+      "birthDate": "2007-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Cobo",
+      "position": "DFC",
+      "birthDate": "2006-11-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Vaquero",
+      "position": "DFC",
+      "birthDate": "2003-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Flores",
+      "position": "DFC",
+      "birthDate": "2002-01-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Salvareschi",
+      "position": "DFC",
+      "birthDate": "1999-04-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Cardozo",
+      "position": "DFC",
+      "birthDate": "2004-01-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Iñíguez",
+      "position": "DFC",
+      "birthDate": "1996-09-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emilio Lazza",
+      "position": "DFC",
+      "birthDate": "1994-07-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Burruchaga",
+      "position": "MC",
+      "birthDate": "1998-06-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías Contreras",
+      "position": "DC",
+      "birthDate": "1997-03-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emiliano Franco",
+      "position": "MC",
+      "birthDate": "1994-10-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón González",
+      "position": "MC",
+      "birthDate": "1988-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentino Huertas",
+      "position": "MC",
+      "birthDate": "2007-05-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Kubiszyn",
+      "position": "MC",
+      "birthDate": "2002-09-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Manuel Olivares",
+      "position": "MC",
+      "birthDate": "1990-07-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano González",
+      "position": "MC",
+      "birthDate": "1994-03-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Berterame",
+      "position": "MC",
+      "birthDate": "1996-07-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Badur",
+      "position": "DC",
+      "birthDate": "2005-02-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Cabrera",
+      "position": "DC",
+      "birthDate": "2007-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Esquivel",
+      "position": "DC",
+      "birthDate": "2000-08-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Fagúndez",
+      "position": "DC",
+      "birthDate": "1998-12-14",
+      "nationality": "URY"
+    },
+    {
+      "name": "Mateo Levato",
+      "position": "DC",
+      "birthDate": "1996-06-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Toloza",
+      "position": "DC",
+      "birthDate": "1994-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Zappacosta",
+      "position": "DC",
+      "birthDate": "2004-01-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Benítez",
+      "position": "DC",
+      "birthDate": "2000-11-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Schönfeld",
+      "position": "DC",
+      "birthDate": "2002-11-22",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "club": "Racing (C)",
+  "season": 2026,
+  "sources": [
+    "https://canchallena.lanacion.com.ar/equipo/racing-cordoba-9xktf8lmetaxahzxgafy9yyqk/",
+    "https://en.wikipedia.org/wiki/Racing_de_Córdoba",
+    "https://es.wikipedia.org/wiki/Club_Atlético_Racing"
+  ],
+  "players": [
+    {
+      "name": "Abel Bustos",
+      "position": "MC",
+      "birthDate": "1999-05-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Raúl Chamorro",
+      "position": "DFC",
+      "birthDate": "1999-04-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alfie James",
+      "position": "DC",
+      "birthDate": "2006-01-13",
+      "nationality": "AUS"
+    },
+    {
+      "name": "Alan Olinick",
+      "position": "DC",
+      "birthDate": "2000-07-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Ortíz",
+      "position": "DC",
+      "birthDate": "2003-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Rébola",
+      "position": "DFC",
+      "birthDate": "1988-07-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Olivera",
+      "position": "ARQ",
+      "birthDate": "1993-12-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Catriel Peña",
+      "position": "MC",
+      "birthDate": "2006-11-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ciro Emiliano Rivas",
+      "position": "DFC",
+      "birthDate": "2005-05-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Vega",
+      "position": "MC",
+      "birthDate": "1993-09-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Díaz",
+      "position": "DFC",
+      "birthDate": "2002-05-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Exequiel Oviedo",
+      "position": "MC",
+      "birthDate": "2006-02-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabrizio Ghiggia",
+      "position": "DFC",
+      "birthDate": "2003-12-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Martín",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Monticelli",
+      "position": "MC",
+      "birthDate": "2003-07-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Taborda",
+      "position": "DC",
+      "birthDate": "2001-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Tossen",
+      "position": "MC",
+      "birthDate": "2005-06-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Aranda",
+      "position": "DFC",
+      "birthDate": "2001-04-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gaspar Iñíguez",
+      "position": "MC",
+      "birthDate": "1994-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Laborda",
+      "position": "ARQ",
+      "birthDate": "1995-01-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guido Pache",
+      "position": "DFC",
+      "birthDate": "2004-09-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gaspar Vega",
+      "position": "MC",
+      "birthDate": "1992-06-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Valsangiacomo",
+      "position": "DC",
+      "birthDate": "1994-05-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan Bay",
+      "position": "DFC",
+      "birthDate": "1993-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Ávila",
+      "position": "MC",
+      "birthDate": "2006-09-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Flores",
+      "position": "DFC",
+      "birthDate": "2001-04-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Soto",
+      "position": "ARQ",
+      "birthDate": "1999-09-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Viano",
+      "position": "MC",
+      "birthDate": "2003-01-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcio Gómez",
+      "position": "DFC",
+      "birthDate": "2000-05-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Machado",
+      "position": "DFC",
+      "birthDate": "2001-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Sánchez",
+      "position": "DFC",
+      "birthDate": "1999-05-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Szumik",
+      "position": "MC",
+      "birthDate": "2004-02-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Chavarría",
+      "position": "DC",
+      "birthDate": "1988-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ricardo Centurión",
+      "position": "DC",
+      "birthDate": "1993-01-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sergio Fabián González",
+      "position": "DC",
+      "birthDate": "1995-04-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Rinaudo",
+      "position": "DFC",
+      "birthDate": "1998-04-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Kummer",
+      "position": "DFC",
+      "birthDate": "2004-11-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Dutruel",
+      "position": "ARQ",
+      "birthDate": "2003-09-03",
+      "nationality": "ARG"
+    }
+  ]
+}

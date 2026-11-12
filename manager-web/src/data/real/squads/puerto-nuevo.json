@@ -1,0 +1,137 @@
+{
+  "club": "Puerto Nuevo",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/puerto-nuevo/297"
+  ],
+  "players": [
+    {
+      "name": "Facundo Brito",
+      "position": "ARQ"
+    },
+    {
+      "name": "Thiago Ricalde",
+      "position": "ARQ"
+    },
+    {
+      "name": "Franco Coronel",
+      "position": "DFC"
+    },
+    {
+      "name": "Darío Ferreyra",
+      "position": "DFC"
+    },
+    {
+      "name": "Uriel Huarte",
+      "position": "DFC"
+    },
+    {
+      "name": "Octavio López Rinaldi",
+      "position": "DFC"
+    },
+    {
+      "name": "Juan Pablo López",
+      "position": "DFC"
+    },
+    {
+      "name": "Lisandro Mercuri",
+      "position": "DFC"
+    },
+    {
+      "name": "Yair Núñez",
+      "position": "DFC"
+    },
+    {
+      "name": "Santiago Olmos",
+      "position": "DFC"
+    },
+    {
+      "name": "Federico Aciar",
+      "position": "MC"
+    },
+    {
+      "name": "Lautaro Arellano",
+      "position": "MC"
+    },
+    {
+      "name": "Ignacio Cahiza",
+      "position": "MC"
+    },
+    {
+      "name": "Benjamín Ferreyra",
+      "position": "MC"
+    },
+    {
+      "name": "Ricardo Grance",
+      "position": "MC"
+    },
+    {
+      "name": "Ulises Mangiantini",
+      "position": "MC"
+    },
+    {
+      "name": "Rodrigo Martínez",
+      "position": "MC"
+    },
+    {
+      "name": "Maximiliano Monzón Dylan",
+      "position": "MC"
+    },
+    {
+      "name": "Carlos Ortiz",
+      "position": "MC"
+    },
+    {
+      "name": "Enzo Ritacco",
+      "position": "MC"
+    },
+    {
+      "name": "Ezequiel Sánchez",
+      "position": "MC"
+    },
+    {
+      "name": "Matías Sarmiento",
+      "position": "MC"
+    },
+    {
+      "name": "Tomás Schefer",
+      "position": "MC"
+    },
+    {
+      "name": "Valentín Umeres",
+      "position": "MC"
+    },
+    {
+      "name": "Ariel Valenzuela",
+      "position": "MC"
+    },
+    {
+      "name": "Mateo Escobar",
+      "position": "DC"
+    },
+    {
+      "name": "Facundo Esquivel",
+      "position": "DC"
+    },
+    {
+      "name": "Nicolás Pena",
+      "position": "DC"
+    },
+    {
+      "name": "Joaquín Pillwein",
+      "position": "DC"
+    },
+    {
+      "name": "Santiago Roldán",
+      "position": "DC"
+    },
+    {
+      "name": "Luciano Verón",
+      "position": "DC"
+    },
+    {
+      "name": "Jeremías Villarreal",
+      "position": "DC"
+    }
+  ]
+}

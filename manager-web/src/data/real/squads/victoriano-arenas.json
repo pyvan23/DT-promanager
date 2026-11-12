@@ -1,0 +1,109 @@
+{
+  "club": "Victoriano Arenas",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/victoriano-arenas/314",
+    "https://www.soloascenso.com.ar/sintesis/victoriano-arenas-juventud-unida/45301",
+    "https://www.soloascenso.com.ar/sintesis/victoriano-arenas-leandro-n-alem/45328",
+    "https://www.soloascenso.com.ar/sintesis/deportivo-espanol-victoriano-arenas/46168",
+    "https://www.soloascenso.com.ar/sintesis/victoriano-arenas-deportivo-espanol/46149"
+  ],
+  "players": [
+    {
+      "name": "Nicolás Baus",
+      "position": "ARQ"
+    },
+    {
+      "name": "Julián García",
+      "position": "ARQ"
+    },
+    {
+      "name": "Sebastián De Luca",
+      "position": "DFC"
+    },
+    {
+      "name": "Matías Gómez",
+      "position": "DFC"
+    },
+    {
+      "name": "Joaquín Grane Morrone",
+      "position": "DFC"
+    },
+    {
+      "name": "Matías Rodríguez",
+      "position": "DFC"
+    },
+    {
+      "name": "Alan Salmantón",
+      "position": "DFC"
+    },
+    {
+      "name": "Luciano Vargas",
+      "position": "DFC"
+    },
+    {
+      "name": "Leonel Duarte",
+      "position": "MC"
+    },
+    {
+      "name": "Isaías González",
+      "position": "MC"
+    },
+    {
+      "name": "Juan Cruz López",
+      "position": "MC"
+    },
+    {
+      "name": "Nicolás Mamberti",
+      "position": "MC"
+    },
+    {
+      "name": "Tobías Mercado Rusch",
+      "position": "MC"
+    },
+    {
+      "name": "Fabián Monserrat",
+      "position": "MC"
+    },
+    {
+      "name": "Lucas Pérez",
+      "position": "MC"
+    },
+    {
+      "name": "Román Pizzuti",
+      "position": "MC"
+    },
+    {
+      "name": "Ramiro Rivarola",
+      "position": "MC"
+    },
+    {
+      "name": "Emanuel Saporito",
+      "position": "MC"
+    },
+    {
+      "name": "Matías Sosa",
+      "position": "MC"
+    },
+    {
+      "name": "Axel Tisocco",
+      "position": "MC"
+    },
+    {
+      "name": "Uriel Parejas",
+      "position": "DC"
+    },
+    {
+      "name": "Facundo Rodríguez",
+      "position": "DC"
+    },
+    {
+      "name": "Santiago Soria",
+      "position": "DC"
+    },
+    {
+      "name": "Leandro Zacarías",
+      "position": "DC"
+    }
+  ]
+}

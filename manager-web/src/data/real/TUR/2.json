@@ -1,0 +1,273 @@
+{
+  "division": "TUR-2",
+  "country": "TUR",
+  "name": "TFF 1. Lig",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_TFF_1._Lig",
+    "https://www.tff.org/"
+  ],
+  "formatNotes": "20 equipos, 38 jornadas. Ascenso directo a la Süper Lig para el campeón (y el 2.º según el formato habitual) y play-off para la tercera plaza (según la tabla de Wikipedia: 3.º directo a la final, 4.º en adelante desde cuartos). Descienden los 4 últimos (17-20) a la TFF 2. Lig. Llegan 2026-27: Antalyaspor, Kayserispor, Fatih Karagümrük (de Süper Lig) y Bursaspor, Batman Petrolspor, Mardin 1969, Muğlaspor (de 2. Lig). Sin plazas europeas.",
+  "clubs": [
+    {
+      "name": "Antalyaspor",
+      "shortName": "Antalyaspor",
+      "city": "Antalya",
+      "province": "Antalya",
+      "affiliation": "directa",
+      "stadium": "Antalya Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Bandırmaspor",
+      "shortName": "Bandırmaspor",
+      "city": "Bandırma",
+      "province": "Balıkesir",
+      "affiliation": "directa",
+      "stadium": "17 Eylül Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#0055A4"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Batman Petrolspor",
+      "shortName": "Batman Petrolspor",
+      "city": "Batman",
+      "province": "Batman",
+      "affiliation": "directa",
+      "stadium": "Batman Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Bodrum Futbol Kulübü",
+      "shortName": "Bodrum",
+      "city": "Bodrum",
+      "province": "Muğla",
+      "affiliation": "directa",
+      "stadium": "Bodrum İlçe Stadyumu",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Boluspor",
+      "shortName": "Boluspor",
+      "city": "Bolu",
+      "province": "Bolu",
+      "affiliation": "directa",
+      "stadium": "Bolu Atatürk Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Bursaspor",
+      "shortName": "Bursaspor",
+      "city": "Bursa",
+      "province": "Bursa",
+      "affiliation": "directa",
+      "stadium": "Bursa Büyükşehir Belediye Stadyumu",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Esenler Erokspor",
+      "shortName": "Erokspor",
+      "city": "Esenler (Estambul)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Esenler Stadyumu",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFDD00"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Fatih Karagümrük Spor Kulübü",
+      "shortName": "Karagümrük",
+      "city": "Fatih (Estambul)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Atatürk Olimpiyat Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Iğdır Futbol Kulübü",
+      "shortName": "Iğdır",
+      "city": "Iğdır",
+      "province": "Iğdır",
+      "affiliation": "directa",
+      "stadium": "Iğdır Şehir Stadyumu",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "İstanbulspor",
+      "shortName": "İstanbulspor",
+      "city": "Büyükçekmece (Estambul)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Esenyurt Necmi Kadıoğlu Stadyumu",
+      "colors": {
+        "primary": "#FFDD00",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Kayserispor",
+      "shortName": "Kayserispor",
+      "city": "Kayseri",
+      "province": "Kayseri",
+      "affiliation": "directa",
+      "stadium": "Kadir Has Stadyumu",
+      "colors": {
+        "primary": "#FFDD00",
+        "secondary": "#E2001A"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Ankara Keçiörengücü Spor Kulübü",
+      "shortName": "Keçiörengücü",
+      "city": "Keçiören (Ankara)",
+      "province": "Ankara",
+      "affiliation": "directa",
+      "stadium": "Ankara Aktepe Stadyumu",
+      "colors": {
+        "primary": "#6C1D45",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Manisa Futbol Kulübü",
+      "shortName": "Manisa",
+      "city": "Manisa",
+      "province": "Manisa",
+      "affiliation": "directa",
+      "stadium": "Manisa 19 Mayıs Stadyumu",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Mardin 1969 Spor",
+      "shortName": "Mardin 1969",
+      "city": "Mardin",
+      "province": "Mardin",
+      "affiliation": "directa",
+      "stadium": "21 Kasım Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Muğlaspor",
+      "shortName": "Muğlaspor",
+      "city": "Muğla",
+      "province": "Muğla",
+      "affiliation": "directa",
+      "stadium": "Muğla Atatürk Stadyumu",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Pendikspor",
+      "shortName": "Pendikspor",
+      "city": "Pendik (Estambul)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Pendik Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Sarıyer Spor Kulübü",
+      "shortName": "Sarıyer",
+      "city": "Sarıyer (Estambul)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Yusuf Ziya Öniş Stadyumu",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Sivasspor",
+      "shortName": "Sivasspor",
+      "city": "Sivas",
+      "province": "Sivas",
+      "affiliation": "directa",
+      "stadium": "Yeni Sivas 4 Eylül Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Ümraniyespor",
+      "shortName": "Ümraniyespor",
+      "city": "Ümraniye (Estambul)",
+      "province": "Estambul",
+      "affiliation": "directa",
+      "stadium": "Ümraniye Belediyesi Şehir Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Vanspor Futbol Kulübü",
+      "shortName": "Vanspor",
+      "city": "Van",
+      "province": "Van",
+      "affiliation": "directa",
+      "stadium": "Van Atatürk Stadyumu",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    }
+  ]
+}

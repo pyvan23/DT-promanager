@@ -1,0 +1,195 @@
+{
+  "club": "San Martín (F)",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-San-Martin-1352.html"
+  ],
+  "players": [
+    {
+      "name": "Kevin Humeler",
+      "position": "ARQ",
+      "birthDate": "1997-04-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Patricio Morichi",
+      "position": "ARQ",
+      "birthDate": "2000-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Cuevas",
+      "position": "DFC",
+      "birthDate": "1997-05-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Denis",
+      "position": "DFC",
+      "birthDate": "1999-09-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Blas Finardi Niz",
+      "position": "DFC",
+      "birthDate": "2003-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Griego",
+      "position": "DFC",
+      "birthDate": "1995-02-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Leguizamón",
+      "position": "DFC",
+      "birthDate": "1993-11-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dylan Leiva",
+      "position": "DFC",
+      "birthDate": "1996-12-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Oscar Piris",
+      "position": "DFC",
+      "birthDate": "1989-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gianfranco Alegre",
+      "position": "MC",
+      "birthDate": "1995-02-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Aquino",
+      "position": "MC",
+      "birthDate": "2001-10-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Benítez",
+      "position": "MC",
+      "birthDate": "1986-10-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcelo Bobadilla",
+      "position": "MC",
+      "birthDate": "1995-06-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Calo Tizón",
+      "position": "MC",
+      "birthDate": "2000-06-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Oscar Chirquichano",
+      "position": "MC",
+      "birthDate": "1994-12-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Illanes",
+      "position": "MC",
+      "birthDate": "1996-07-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis López",
+      "position": "MC",
+      "birthDate": "1997-11-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Lucero",
+      "position": "MC",
+      "birthDate": "1999-04-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gervasio Núñez",
+      "position": "MC",
+      "birthDate": "1988-01-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Pérez",
+      "position": "MC",
+      "birthDate": "1994-04-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Bautista Sánchez de León",
+      "position": "MC",
+      "birthDate": "1999-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "César Suárez",
+      "position": "MC",
+      "birthDate": "1996-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Velazco",
+      "position": "MC",
+      "birthDate": "2003-06-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Ceratto",
+      "position": "DC",
+      "birthDate": "1992-03-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramón Ledesma",
+      "position": "DC",
+      "birthDate": "2001-05-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Monin",
+      "position": "DC",
+      "birthDate": "1998-08-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Peralta",
+      "position": "DC",
+      "birthDate": "1996-01-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Renzo Riquelme",
+      "position": "DC",
+      "birthDate": "1987-10-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Siergiejuk",
+      "position": "DC",
+      "birthDate": "1997-04-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ricardo Tapia",
+      "position": "DC",
+      "birthDate": "1988-05-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Orlando Vega",
+      "position": "DC",
+      "birthDate": "1997-08-05",
+      "nationality": "ARG"
+    }
+  ]
+}

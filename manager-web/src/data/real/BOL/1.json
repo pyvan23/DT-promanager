@@ -1,0 +1,226 @@
+{
+  "division": "BOL-1",
+  "country": "BOL",
+  "name": "División Profesional",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FBF_Divisi%C3%B3n_Profesional",
+    "https://correodelsur.com/deporte/20260723/la-copa-bolivia-arrancara-el-19-de-agosto-y-otorgara-dos-plazas-a-torneos-de-la-conmebol.html",
+    "https://fbf.com.bo/"
+  ],
+  "formatNotes": "16 equipos, torneo único todos contra todos a doble vuelta (30 fechas, abril-diciembre). El último desciende a las ligas regionales; el penúltimo juega promoción contra el subcampeón de la Copa Simón Bolívar. Ascendidos 2026: Real Potosí (campeón Copa Simón Bolívar) y ABB (promoción). Copa Libertadores: campeón y subcampeón (fase de grupos) + 3.º de liga y campeón de Copa Bolivia (fase previa). Copa Sudamericana: los 3 siguientes de la liga + subcampeón de Copa Bolivia.",
+  "domesticCup": {
+    "name": "Copa Bolivia (Copa de la División Profesional)",
+    "formatNotes": "Clubes de la División Profesional en fase de grupos y luego eliminatorias hasta la final (agosto-diciembre). Campeón a Copa Libertadores (Bolivia 3) y subcampeón a Copa Sudamericana."
+  },
+  "clubs": [
+    {
+      "name": "Academia del Balompié Boliviano",
+      "shortName": "ABB",
+      "city": "El Alto",
+      "province": "La Paz",
+      "affiliation": "directa",
+      "stadium": "Municipal de Villa Ingenio",
+      "colors": {
+        "primary": "#003DA5",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Always Ready",
+      "shortName": "Always Ready",
+      "city": "El Alto",
+      "province": "La Paz",
+      "affiliation": "directa",
+      "stadium": "Municipal de Villa Ingenio",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Aurora",
+      "shortName": "Aurora",
+      "city": "Cochabamba",
+      "province": "Cochabamba",
+      "affiliation": "directa",
+      "stadium": "Félix Capriles",
+      "colors": {
+        "primary": "#6CACE4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Blooming",
+      "shortName": "Blooming",
+      "city": "Santa Cruz de la Sierra",
+      "province": "Santa Cruz",
+      "affiliation": "directa",
+      "stadium": "Ramón Tahuichi Aguilera",
+      "colors": {
+        "primary": "#00AEEF",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Bolívar",
+      "shortName": "Bolívar",
+      "city": "La Paz",
+      "province": "La Paz",
+      "affiliation": "directa",
+      "stadium": "Hernando Siles",
+      "colors": {
+        "primary": "#7EC8E3",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Club Deportivo Guabirá",
+      "shortName": "Guabirá",
+      "city": "Montero",
+      "province": "Santa Cruz",
+      "affiliation": "directa",
+      "stadium": "Gilberto Parada",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club GV San José",
+      "shortName": "San José",
+      "city": "Oruro",
+      "province": "Oruro",
+      "affiliation": "directa",
+      "stadium": "Jesús Bermúdez",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Independiente Petrolero",
+      "shortName": "Independiente",
+      "city": "Sucre",
+      "province": "Chuquisaca",
+      "affiliation": "directa",
+      "stadium": "Olímpico Patria",
+      "colors": {
+        "primary": "#E4002B",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Nacional Potosí",
+      "shortName": "Nacional Potosí",
+      "city": "Potosí",
+      "province": "Potosí",
+      "affiliation": "directa",
+      "stadium": "Víctor Agustín Ugarte",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo Oriente Petrolero",
+      "shortName": "Oriente Petrolero",
+      "city": "Santa Cruz de la Sierra",
+      "province": "Santa Cruz",
+      "affiliation": "directa",
+      "stadium": "Ramón Tahuichi Aguilera",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Deportivo Real Oruro",
+      "shortName": "Real Oruro",
+      "city": "Oruro",
+      "province": "Oruro",
+      "affiliation": "directa",
+      "stadium": "Jesús Bermúdez",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Real Potosí",
+      "shortName": "Real Potosí",
+      "city": "Potosí",
+      "province": "Potosí",
+      "affiliation": "directa",
+      "stadium": "Víctor Agustín Ugarte",
+      "colors": {
+        "primary": "#5B2C83",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Real Tomayapo",
+      "shortName": "Tomayapo",
+      "city": "Tarija",
+      "province": "Tarija",
+      "affiliation": "directa",
+      "stadium": "IV Centenario",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFD100"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo San Antonio Bulo Bulo",
+      "shortName": "Bulo Bulo",
+      "city": "Entre Ríos",
+      "province": "Cochabamba",
+      "affiliation": "directa",
+      "stadium": "Carlos Villegas",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club The Strongest",
+      "shortName": "The Strongest",
+      "city": "La Paz",
+      "province": "La Paz",
+      "affiliation": "directa",
+      "stadium": "Hernando Siles",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#000000"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Club Universitario de Vinto",
+      "shortName": "Universitario Vinto",
+      "city": "Cochabamba",
+      "province": "Cochabamba",
+      "affiliation": "directa",
+      "stadium": "Félix Capriles",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    }
+  ]
+}

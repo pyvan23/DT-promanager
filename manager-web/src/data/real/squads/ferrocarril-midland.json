@@ -1,0 +1,218 @@
+{
+  "club": "Ferrocarril Midland",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Ferrocarril_Midland"
+  ],
+  "players": [
+    {
+      "name": "Mauro Leguiza",
+      "position": "ARQ",
+      "birthDate": "1993-08-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Escobar",
+      "position": "ARQ",
+      "birthDate": "2002-05-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Garcia Rossi",
+      "position": "ARQ",
+      "birthDate": "2004-11-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando González",
+      "position": "DFC",
+      "birthDate": "1988-09-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Casarico",
+      "position": "DFC",
+      "birthDate": "2001-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mariano Penepil",
+      "position": "DFC",
+      "birthDate": "2003-07-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Gigli",
+      "position": "DFC",
+      "birthDate": "1990-12-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Genaro Cepeda",
+      "position": "DFC",
+      "birthDate": "2001-08-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mirko Olavarría",
+      "position": "DFC",
+      "birthDate": "2004-12-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pedro Castorani",
+      "position": "DFC",
+      "birthDate": "2003-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Muia",
+      "position": "DFC",
+      "birthDate": "2004-01-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Figueroa",
+      "position": "DFC",
+      "birthDate": "2001-02-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emilio Porro",
+      "position": "DFC",
+      "birthDate": "1996-05-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joel Canalda",
+      "position": "DFC",
+      "birthDate": "2005-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Flores",
+      "position": "MC",
+      "birthDate": "2000-08-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Rogoski",
+      "position": "MC",
+      "birthDate": "1994-06-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Campana",
+      "position": "MC",
+      "birthDate": "1998-05-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Gargiulo",
+      "position": "MC",
+      "birthDate": "2001-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jesús Camaño",
+      "position": "MC",
+      "birthDate": "2002-01-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Díaz Laharque",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Violini",
+      "position": "MC",
+      "birthDate": "2000-06-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Abbruzzese",
+      "position": "MC",
+      "birthDate": "2001-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dylan Aguilar",
+      "position": "MC",
+      "birthDate": "2004-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Roseti",
+      "position": "MC",
+      "birthDate": "1997-08-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Frattini",
+      "position": "MC",
+      "birthDate": "1990-07-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elias Torancio",
+      "position": "MC",
+      "birthDate": "1996-09-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucio Garberi",
+      "position": "MC",
+      "birthDate": "2001-01-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Vega",
+      "position": "MC",
+      "birthDate": "1998-06-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Emanuel Gómez",
+      "position": "MC",
+      "birthDate": "2001-11-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Cao",
+      "position": "DC",
+      "birthDate": "2001-02-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Perales",
+      "position": "DC",
+      "birthDate": "2000-11-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Vico",
+      "position": "DC",
+      "birthDate": "1992-09-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentino Madalón",
+      "position": "DC",
+      "birthDate": "2005-05-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santino Primante",
+      "position": "DC",
+      "birthDate": "2004-12-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diago Guzmán",
+      "position": "DC",
+      "birthDate": "2005-10-12",
+      "nationality": "ARG"
+    }
+  ]
+}

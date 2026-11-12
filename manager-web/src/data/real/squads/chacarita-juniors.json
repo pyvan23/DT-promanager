@@ -1,0 +1,226 @@
+{
+  "club": "Chacarita Juniors",
+  "season": 2026,
+  "sources": [
+    "https://canchallena.lanacion.com.ar/equipo/chacarita-chgvt8f42t2hfrazb1sjxkutq/",
+    "https://es.wikipedia.org/wiki/Club_Atlético_Chacarita_Juniors"
+  ],
+  "players": [
+    {
+      "name": "Álvaro Cuello",
+      "position": "MC",
+      "birthDate": "1994-06-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Domínguez",
+      "position": "DC",
+      "birthDate": "1996-10-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "André Maldonado",
+      "position": "MC",
+      "birthDate": "2007-07-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Calderara",
+      "position": "DFC",
+      "birthDate": "1998-01-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Guanca",
+      "position": "MC",
+      "birthDate": "1993-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dylan Durán",
+      "position": "DFC",
+      "birthDate": "2004-10-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enrique Bologna",
+      "position": "ARQ",
+      "birthDate": "1982-02-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Exequiel Gerez",
+      "position": "DC",
+      "birthDate": "2005-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Moya",
+      "position": "DFC",
+      "birthDate": "2005-02-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Cristaldo",
+      "position": "DC",
+      "birthDate": "2004-05-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Facello",
+      "position": "DFC",
+      "birthDate": "2003-01-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Losas",
+      "position": "ARQ",
+      "birthDate": "2002-03-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Dell Aquila",
+      "position": "MC",
+      "birthDate": "2001-06-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Fernández",
+      "position": "ARQ",
+      "birthDate": "2000-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cuevas",
+      "position": "MC",
+      "birthDate": "1988-06-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Alfonzo",
+      "position": "MC",
+      "birthDate": "2008-04-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lorenzo Brun",
+      "position": "DC",
+      "birthDate": "2005-07-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Bustos",
+      "position": "MC",
+      "birthDate": "2005-03-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Perdomo",
+      "position": "MC",
+      "birthDate": "1996-09-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Barrios",
+      "position": "MC",
+      "birthDate": "2006-06-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Cuero",
+      "position": "DC",
+      "birthDate": "1993-01-28",
+      "nationality": "COL"
+    },
+    {
+      "name": "Misael Jaime",
+      "position": "DC",
+      "birthDate": "2004-01-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Milton Leyendeker",
+      "position": "DFC",
+      "birthDate": "1998-03-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Meléndez",
+      "position": "MC",
+      "birthDate": "2004-02-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Miguel Mellado",
+      "position": "MC",
+      "birthDate": "1993-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mario Sanabria",
+      "position": "MC",
+      "birthDate": "2002-07-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Cháves",
+      "position": "DFC",
+      "birthDate": "2001-07-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolas Pantaleone",
+      "position": "DFC",
+      "birthDate": "1993-02-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Ortiz",
+      "position": "DC",
+      "birthDate": "2007-05-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Acosta",
+      "position": "DFC",
+      "birthDate": "2005-10-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sergio Vittor",
+      "position": "DFC",
+      "birthDate": "1989-06-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Ezequiel dos Santos",
+      "position": "MC",
+      "birthDate": "2006-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Migliore",
+      "position": "DFC",
+      "birthDate": "2004-08-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Pérez Serra",
+      "position": "DFC",
+      "birthDate": "1998-11-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Zárate",
+      "position": "DC",
+      "birthDate": "2008-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yair Rouxel",
+      "position": "MC",
+      "birthDate": "2006-08-27",
+      "nationality": "ARG"
+    }
+  ]
+}

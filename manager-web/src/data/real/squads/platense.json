@@ -1,0 +1,219 @@
+{
+  "club": "Platense",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Platense"
+  ],
+  "players": [
+    {
+      "name": "Brian Bustos",
+      "position": "ARQ",
+      "birthDate": "1996-08-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Sumavil",
+      "position": "ARQ",
+      "birthDate": "1999-11-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo Cozzani",
+      "position": "ARQ",
+      "birthDate": "1998-10-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Silva",
+      "position": "DFC",
+      "birthDate": "2003-03-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Lagos",
+      "position": "DFC",
+      "birthDate": "2001-10-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Eugenio Raggio",
+      "position": "DFC",
+      "birthDate": "2001-08-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Vázquez",
+      "position": "DFC",
+      "birthDate": "1997-09-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Ignacio Saborido",
+      "position": "DFC",
+      "birthDate": "1998-04-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Víctor Cuesta",
+      "position": "DFC",
+      "birthDate": "1988-11-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Quirós",
+      "position": "DFC",
+      "birthDate": "2003-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Mendía",
+      "position": "DFC",
+      "birthDate": "2004-02-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Celías Ingenthron",
+      "position": "DFC",
+      "birthDate": "2008-06-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Goñi",
+      "position": "DFC",
+      "birthDate": "1998-08-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio López",
+      "position": "DFC",
+      "birthDate": "2002-11-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Gómez",
+      "position": "MC",
+      "birthDate": "1997-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Zapiola",
+      "position": "MC",
+      "birthDate": "2001-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Amarfil",
+      "position": "MC",
+      "birthDate": "2001-11-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Bussio",
+      "position": "MC",
+      "birthDate": "2004-06-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bautista Merlini",
+      "position": "MC",
+      "birthDate": "1995-07-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Heredia",
+      "position": "MC",
+      "birthDate": "1996-01-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Barrios",
+      "position": "MC",
+      "birthDate": "1999-01-24",
+      "nationality": "URY"
+    },
+    {
+      "name": "Pablo Ferreira",
+      "position": "MC",
+      "birthDate": "2004-10-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Dalmasso",
+      "position": "MC",
+      "birthDate": "2004-06-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Minerva",
+      "position": "MC",
+      "birthDate": "2006-01-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guido Mainero",
+      "position": "DC",
+      "birthDate": "1995-03-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Nasif",
+      "position": "DC",
+      "birthDate": "2004-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás López",
+      "position": "DC",
+      "birthDate": "1993-10-01",
+      "nationality": "URY"
+    },
+    {
+      "name": "Gastón Togni",
+      "position": "DC",
+      "birthDate": "1997-09-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Héctor Bobadilla",
+      "position": "DC",
+      "birthDate": "2001-06-08",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Luciano Giménez",
+      "position": "DC",
+      "birthDate": "2000-02-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Augusto Lotti",
+      "position": "DC",
+      "birthDate": "1996-06-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Tucker",
+      "position": "DC",
+      "birthDate": "2004-10-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Carlos Gauto",
+      "position": "DC",
+      "birthDate": "2004-06-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Retamar",
+      "position": "DC",
+      "birthDate": "1999-02-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Lencina",
+      "position": "DC",
+      "birthDate": "1997-10-18",
+      "nationality": "ARG"
+    }
+  ]
+}

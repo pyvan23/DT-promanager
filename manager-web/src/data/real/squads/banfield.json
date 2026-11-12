@@ -1,0 +1,219 @@
+{
+  "club": "Banfield",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Banfield"
+  ],
+  "players": [
+    {
+      "name": "Gino Santilli",
+      "position": "ARQ",
+      "birthDate": "2001-08-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Molina",
+      "position": "ARQ",
+      "birthDate": "2004-06-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Rodríguez",
+      "position": "ARQ",
+      "birthDate": "1989-06-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Daniele",
+      "position": "DFC",
+      "birthDate": "2005-11-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nehuén Paz",
+      "position": "DFC",
+      "birthDate": "1993-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Alfaro",
+      "position": "DFC",
+      "birthDate": "1999-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Meriano",
+      "position": "DFC",
+      "birthDate": "2000-11-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos López",
+      "position": "DFC",
+      "birthDate": "2006-10-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brandon Oviedo",
+      "position": "DFC",
+      "birthDate": "2005-01-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Cano",
+      "position": "DFC",
+      "birthDate": "2002-08-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Mendizabal",
+      "position": "DFC",
+      "birthDate": "2009-09-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Abraham",
+      "position": "DFC",
+      "birthDate": "2001-03-18",
+      "nationality": "SYR"
+    },
+    {
+      "name": "Renzo Malanca",
+      "position": "DFC",
+      "birthDate": "2003-05-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Esquivel",
+      "position": "MC",
+      "birthDate": "2004-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Ríos",
+      "position": "MC",
+      "birthDate": "2000-10-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Gómez",
+      "position": "MC",
+      "birthDate": "2003-08-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Favio Álvarez",
+      "position": "MC",
+      "birthDate": "1993-01-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Adoryán",
+      "position": "MC",
+      "birthDate": "2001-09-22",
+      "nationality": "ARM"
+    },
+    {
+      "name": "Lautaro Villegas",
+      "position": "MC",
+      "birthDate": "2003-12-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Palavecino",
+      "position": "MC",
+      "birthDate": "2003-10-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago López",
+      "position": "MC",
+      "birthDate": "1997-12-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Isaías Gutiérrez",
+      "position": "MC",
+      "birthDate": "2009-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Neyder Moreno",
+      "position": "MC",
+      "birthDate": "1997-02-09",
+      "nationality": "COL"
+    },
+    {
+      "name": "Ignacio Pais",
+      "position": "MC",
+      "birthDate": "2000-05-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Arteaga",
+      "position": "MC",
+      "birthDate": "1999-02-26",
+      "nationality": "COL"
+    },
+    {
+      "name": "Lisandro Piñero",
+      "position": "DC",
+      "birthDate": "2007-07-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Adrián Balboa",
+      "position": "DC",
+      "birthDate": "1994-01-19",
+      "nationality": "URY"
+    },
+    {
+      "name": "Jeremias Acosta",
+      "position": "DC",
+      "birthDate": "2008-01-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Medina",
+      "position": "DC",
+      "birthDate": "2001-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexander Machado",
+      "position": "DC",
+      "birthDate": "2002-05-28",
+      "nationality": "URY"
+    },
+    {
+      "name": "Matías Hernández",
+      "position": "DC",
+      "birthDate": "2005-01-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Anselmo",
+      "position": "DC",
+      "birthDate": "1994-06-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Gonzalez",
+      "position": "DC",
+      "birthDate": "2005-11-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "David Zalazar",
+      "position": "DC",
+      "birthDate": "2002-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thomas Rodríguez",
+      "position": "DC",
+      "birthDate": "1996-04-05",
+      "nationality": "CHL"
+    }
+  ]
+}

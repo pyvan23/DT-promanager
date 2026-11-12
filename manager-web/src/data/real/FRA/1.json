@@ -1,0 +1,251 @@
+{
+  "division": "FRA-1",
+  "country": "FRA",
+  "name": "Ligue 1",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+    "https://ligue1.com/"
+  ],
+  "formatNotes": "18 equipos, 34 jornadas. 16.º juega play-off de permanencia (ida y vuelta) contra el ganador del play-off de Ligue 2; 17.º y 18.º descienden directamente. Ascendidos 2026-27: Troyes, Le Mans; descendidos 2025-26: Metz, Nantes. Europa: 1.º-3.º Champions League (fase liga), 4.º Champions League (3.ª ronda previa), 5.º Europa League, 6.º Conference League (play-off); campeón de Coupe de France a Europa League (si ya clasificado, plazas corren al 6.º/7.º).",
+  "domesticCup": {
+    "name": "Coupe de France",
+    "formatNotes": "Copa abierta a miles de clubes amateurs y profesionales; eliminatorias a partido único (el club de menor categoría juega en casa); los de Ligue 1 entran en treintaidosavos (enero); final única en el Stade de France. Campeón a Europa League y al Trophée des Champions."
+  },
+  "clubs": [
+    {
+      "name": "Angers Sporting Club de l'Ouest",
+      "shortName": "Angers",
+      "city": "Angers",
+      "province": "Países del Loira",
+      "affiliation": "directa",
+      "stadium": "Raymond Kopa",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Association de la Jeunesse Auxerroise",
+      "shortName": "Auxerre",
+      "city": "Auxerre",
+      "province": "Borgoña-Franco Condado",
+      "affiliation": "directa",
+      "stadium": "Abbé-Deschamps",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#0055A4"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Stade Brestois 29",
+      "shortName": "Brest",
+      "city": "Brest",
+      "province": "Bretaña",
+      "affiliation": "directa",
+      "stadium": "Francis-Le Blé",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Le Havre Athletic Club",
+      "shortName": "Le Havre",
+      "city": "Le Havre",
+      "province": "Normandía",
+      "affiliation": "directa",
+      "stadium": "Stade Océane",
+      "colors": {
+        "primary": "#5BA3D9",
+        "secondary": "#002B5C"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Le Mans Football Club",
+      "shortName": "Le Mans",
+      "city": "Le Mans",
+      "province": "Países del Loira",
+      "affiliation": "directa",
+      "stadium": "Marie-Marvingt",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFDD00"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Racing Club de Lens",
+      "shortName": "Lens",
+      "city": "Lens",
+      "province": "Altos de Francia",
+      "affiliation": "directa",
+      "stadium": "Bollaert-Delelis",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#E2001A"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Lille Olympique Sporting Club",
+      "shortName": "Lille",
+      "city": "Villeneuve-d'Ascq",
+      "province": "Altos de Francia",
+      "affiliation": "directa",
+      "stadium": "Pierre-Mauroy",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#002B5C"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Football Club Lorient",
+      "shortName": "Lorient",
+      "city": "Lorient",
+      "province": "Bretaña",
+      "affiliation": "directa",
+      "stadium": "Stade du Moustoir",
+      "colors": {
+        "primary": "#F58220",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Olympique Lyonnais",
+      "shortName": "Lyon",
+      "city": "Décines-Charpieu",
+      "province": "Auvernia-Ródano-Alpes",
+      "affiliation": "directa",
+      "stadium": "Groupama Stadium",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#14387F"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Olympique de Marseille",
+      "shortName": "Marseille",
+      "city": "Marsella",
+      "province": "Provenza-Alpes-Costa Azul",
+      "affiliation": "directa",
+      "stadium": "Orange Vélodrome",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#2FAEE0"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Association Sportive de Monaco Football Club",
+      "shortName": "Monaco",
+      "city": "Mónaco",
+      "province": "Mónaco",
+      "affiliation": "directa",
+      "stadium": "Stade Louis II",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Olympique Gymnaste Club de Nice",
+      "shortName": "Nice",
+      "city": "Niza",
+      "province": "Provenza-Alpes-Costa Azul",
+      "affiliation": "directa",
+      "stadium": "Allianz Riviera",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Paris Football Club",
+      "shortName": "Paris FC",
+      "city": "París",
+      "province": "Isla de Francia",
+      "affiliation": "directa",
+      "stadium": "Stade Jean-Bouin",
+      "colors": {
+        "primary": "#1F2A44",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Paris Saint-Germain Football Club",
+      "shortName": "PSG",
+      "city": "París",
+      "province": "Isla de Francia",
+      "affiliation": "directa",
+      "stadium": "Parc des Princes",
+      "colors": {
+        "primary": "#004170",
+        "secondary": "#DA291C"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Stade Rennais Football Club",
+      "shortName": "Rennes",
+      "city": "Rennes",
+      "province": "Bretaña",
+      "affiliation": "directa",
+      "stadium": "Roazhon Park",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Racing Club de Strasbourg Alsace",
+      "shortName": "Strasbourg",
+      "city": "Estrasburgo",
+      "province": "Gran Este",
+      "affiliation": "directa",
+      "stadium": "Stade de la Meinau",
+      "colors": {
+        "primary": "#009FE3",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Toulouse Football Club",
+      "shortName": "Toulouse",
+      "city": "Toulouse",
+      "province": "Occitania",
+      "affiliation": "directa",
+      "stadium": "Stadium de Toulouse",
+      "colors": {
+        "primary": "#5B2C83",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Espérance Sportive Troyes Aube Champagne",
+      "shortName": "Troyes",
+      "city": "Troyes",
+      "province": "Gran Este",
+      "affiliation": "directa",
+      "stadium": "Stade de l'Aube",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    }
+  ]
+}

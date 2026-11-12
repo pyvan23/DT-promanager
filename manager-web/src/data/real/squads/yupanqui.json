@@ -1,0 +1,124 @@
+{
+  "club": "Yupanqui",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/yupanqui/317",
+    "https://www.soloascenso.com.ar/sintesis/yupanqui-lujan/45332",
+    "https://www.soloascenso.com.ar/sintesis/central-cordoba-rosario-yupanqui/45318",
+    "https://www.soloascenso.com.ar/sintesis/yupanqui-general-lamadrid/45304"
+  ],
+  "players": [
+    {
+      "name": "Nahuel Castro López",
+      "position": "ARQ"
+    },
+    {
+      "name": "Valentín Rodríguez",
+      "position": "ARQ"
+    },
+    {
+      "name": "Lucas Aguirre",
+      "position": "DFC"
+    },
+    {
+      "name": "Marcos Bale",
+      "position": "DFC"
+    },
+    {
+      "name": "Tobías Coria",
+      "position": "DFC"
+    },
+    {
+      "name": "Roberto Giménez",
+      "position": "DFC"
+    },
+    {
+      "name": "Lucas Portillo",
+      "position": "DFC"
+    },
+    {
+      "name": "Alan Sánchez",
+      "position": "DFC"
+    },
+    {
+      "name": "Pablo Vouga",
+      "position": "DFC"
+    },
+    {
+      "name": "Fernando Alarcón",
+      "position": "MC"
+    },
+    {
+      "name": "Mauro Álvarez",
+      "position": "MC"
+    },
+    {
+      "name": "Santino Colángelo",
+      "position": "MC"
+    },
+    {
+      "name": "Bruno Galeano",
+      "position": "MC"
+    },
+    {
+      "name": "Luciano Gallo",
+      "position": "MC"
+    },
+    {
+      "name": "Juan Cruz La Scaleia",
+      "position": "MC"
+    },
+    {
+      "name": "Lautaro Maside",
+      "position": "MC"
+    },
+    {
+      "name": "Agustín Meloño",
+      "position": "MC"
+    },
+    {
+      "name": "José Manuel Méndez",
+      "position": "MC"
+    },
+    {
+      "name": "Ignacio Perussia",
+      "position": "MC"
+    },
+    {
+      "name": "Jonathan Smith",
+      "position": "MC"
+    },
+    {
+      "name": "Alejo Torres",
+      "position": "MC"
+    },
+    {
+      "name": "Tomás Wandyk",
+      "position": "MC"
+    },
+    {
+      "name": "Santiago Brotzman",
+      "position": "DC"
+    },
+    {
+      "name": "Matías Cáceres",
+      "position": "DC"
+    },
+    {
+      "name": "Máximo Magallanes",
+      "position": "DC"
+    },
+    {
+      "name": "Juan Puppi",
+      "position": "DC"
+    },
+    {
+      "name": "Jean Rousseau",
+      "position": "DC"
+    },
+    {
+      "name": "Sergio Salomone",
+      "position": "DC"
+    }
+  ]
+}

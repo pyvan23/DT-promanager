@@ -1,0 +1,196 @@
+{
+  "club": "Independiente Rivadavia",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Sportivo_Independiente_Rivadavia",
+    "https://csir.com.ar/futbol?tab=plantel"
+  ],
+  "players": [
+    {
+      "name": "Ramiro Macagno",
+      "position": "ARQ",
+      "birthDate": "1997-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emmanuel Gómez Riga",
+      "position": "ARQ",
+      "birthDate": "2001-09-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Bolcato",
+      "position": "ARQ",
+      "birthDate": "2004-05-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonard Costa",
+      "position": "DFC",
+      "birthDate": "1998-08-24",
+      "nationality": "URY"
+    },
+    {
+      "name": "Juan Elordi",
+      "position": "DFC",
+      "birthDate": "1994-08-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Cena",
+      "position": "DFC",
+      "birthDate": "2005-03-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Osella",
+      "position": "DFC",
+      "birthDate": "2000-09-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Gómez",
+      "position": "DFC",
+      "birthDate": "1996-03-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Arena",
+      "position": "DFC",
+      "birthDate": "1998-06-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Bonifacio",
+      "position": "DFC",
+      "birthDate": "1994-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Villalba",
+      "position": "DFC",
+      "birthDate": "1995-01-19",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Sheyko Studer",
+      "position": "DFC",
+      "birthDate": "2002-11-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alex Vigo",
+      "position": "DFC",
+      "birthDate": "1999-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Bottari",
+      "position": "MC",
+      "birthDate": "2001-04-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Bucca",
+      "position": "MC",
+      "birthDate": "1999-03-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Fernández",
+      "position": "MC",
+      "birthDate": "2001-06-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Ríos",
+      "position": "MC",
+      "birthDate": "1999-01-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Atencio",
+      "position": "MC",
+      "birthDate": "2002-06-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alessandro Riep",
+      "position": "MC",
+      "birthDate": "2003-07-03",
+      "nationality": "CHL"
+    },
+    {
+      "name": "José Florentín",
+      "position": "MC",
+      "birthDate": "1996-07-05",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Kevin Vázquez",
+      "position": "MC",
+      "birthDate": "2001-03-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Stefano Moreyra",
+      "position": "MC",
+      "birthDate": "2001-01-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luis Sequeira",
+      "position": "MC",
+      "birthDate": "2003-01-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alex Aguado",
+      "position": "MC",
+      "birthDate": "2003-05-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Victorio Ramis",
+      "position": "DC",
+      "birthDate": "1994-07-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Álex Arce",
+      "position": "DC",
+      "birthDate": "1995-06-16",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Maximiliano Salas",
+      "position": "DC",
+      "birthDate": "1997-12-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luis Díaz",
+      "position": "DC",
+      "birthDate": "2004-04-24",
+      "nationality": "COL"
+    },
+    {
+      "name": "Diego Crego",
+      "position": "DC",
+      "birthDate": "1997-06-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabrizio Sartori",
+      "position": "DC",
+      "birthDate": "2002-07-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Sábato",
+      "position": "DC",
+      "birthDate": "2008-05-26",
+      "nationality": "ARG"
+    }
+  ]
+}

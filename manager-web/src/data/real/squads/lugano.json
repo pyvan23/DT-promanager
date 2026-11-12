@@ -1,0 +1,120 @@
+{
+  "club": "Lugano",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/lugano/289",
+    "https://www.soloascenso.com.ar/sintesis/canuelas-fc-lugano/46174",
+    "https://www.soloascenso.com.ar/sintesis/lugano-canuelas-fc/46147",
+    "https://www.soloascenso.com.ar/sintesis/lugano-argentino-de-rosario/45311"
+  ],
+  "players": [
+    {
+      "name": "Jonathan García Procopio",
+      "position": "ARQ"
+    },
+    {
+      "name": "Nazareno Gatas",
+      "position": "ARQ"
+    },
+    {
+      "name": "Matías Benardoni",
+      "position": "DFC"
+    },
+    {
+      "name": "Tomás Cagliari",
+      "position": "DFC"
+    },
+    {
+      "name": "Alan Caló",
+      "position": "DFC"
+    },
+    {
+      "name": "Braian Curbelo",
+      "position": "DFC"
+    },
+    {
+      "name": "Damián Fernández",
+      "position": "DFC"
+    },
+    {
+      "name": "Ignacio Gallo",
+      "position": "DFC"
+    },
+    {
+      "name": "Matías Gelpi",
+      "position": "DFC"
+    },
+    {
+      "name": "Juan Cruz Julián",
+      "position": "DFC"
+    },
+    {
+      "name": "Pablo Quiroga",
+      "position": "DFC"
+    },
+    {
+      "name": "Ian Schell",
+      "position": "DFC"
+    },
+    {
+      "name": "Jonathan Acuña",
+      "position": "MC"
+    },
+    {
+      "name": "Celso Báez",
+      "position": "MC"
+    },
+    {
+      "name": "Nicolás Campa",
+      "position": "MC"
+    },
+    {
+      "name": "Pedro Chozas Alzaga",
+      "position": "MC"
+    },
+    {
+      "name": "Dylan Galarza",
+      "position": "MC"
+    },
+    {
+      "name": "Luca Godoy",
+      "position": "MC"
+    },
+    {
+      "name": "Ángel Gómez",
+      "position": "MC"
+    },
+    {
+      "name": "Pablo Herrera",
+      "position": "MC"
+    },
+    {
+      "name": "Juan Cruz Iglesias",
+      "position": "MC"
+    },
+    {
+      "name": "José Montiel",
+      "position": "MC"
+    },
+    {
+      "name": "Rodrigo Moreno",
+      "position": "MC"
+    },
+    {
+      "name": "Rodrigo Soria",
+      "position": "MC"
+    },
+    {
+      "name": "Matías Coselli",
+      "position": "DC"
+    },
+    {
+      "name": "Nazareno Plaza",
+      "position": "DC"
+    },
+    {
+      "name": "Gabriel Urruchúa",
+      "position": "DC"
+    }
+  ]
+}

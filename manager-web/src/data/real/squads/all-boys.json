@@ -1,0 +1,183 @@
+{
+  "club": "All Boys",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_All_Boys"
+  ],
+  "players": [
+    {
+      "name": "Nicolás Carrizo",
+      "position": "ARQ",
+      "birthDate": "1991-07-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo Noce",
+      "position": "ARQ",
+      "birthDate": "1997-08-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Román Colo",
+      "position": "ARQ",
+      "birthDate": "2008-11-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Coronel",
+      "position": "DFC",
+      "birthDate": "2001-09-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Coronel",
+      "position": "DFC",
+      "birthDate": "1989-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yago De Vito",
+      "position": "DFC",
+      "birthDate": "2001-05-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Hernán Grana",
+      "position": "DFC",
+      "birthDate": "1985-04-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emiliano Purita",
+      "position": "DFC",
+      "birthDate": "1997-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Quiroz",
+      "position": "DFC",
+      "birthDate": "1998-03-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Rodríguez",
+      "position": "DFC",
+      "birthDate": "2001-01-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Tabares",
+      "position": "DFC",
+      "birthDate": "2001-06-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Zafarana",
+      "position": "DFC",
+      "birthDate": "1995-04-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Barrientos",
+      "position": "MC",
+      "birthDate": "1995-04-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Cáceres",
+      "position": "MC",
+      "birthDate": "2004-06-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Calone",
+      "position": "MC",
+      "birthDate": "2001-08-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lionel Jara",
+      "position": "MC",
+      "birthDate": "2006-12-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Leguizamón",
+      "position": "MC",
+      "birthDate": "2007-07-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Melo",
+      "position": "MC",
+      "birthDate": "2002-01-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Pucciarelli",
+      "position": "MC",
+      "birthDate": "2005-12-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gustavo Turraca",
+      "position": "MC",
+      "birthDate": "1995-07-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Ramírez",
+      "position": "MC",
+      "birthDate": "1995-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Rodríguez",
+      "position": "MC",
+      "birthDate": "1993-03-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Apa",
+      "position": "DC",
+      "birthDate": "2000-04-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Claudio Campostrini",
+      "position": "DC",
+      "birthDate": "1999-11-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Cano",
+      "position": "DC",
+      "birthDate": "1995-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ulices Delgado",
+      "position": "DC",
+      "birthDate": "2002-11-10",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Bruno Medina",
+      "position": "DC",
+      "birthDate": "1999-05-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Nouet",
+      "position": "DC",
+      "birthDate": "1993-01-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Palacio",
+      "position": "DC",
+      "birthDate": "2000-03-07",
+      "nationality": "ARG"
+    }
+  ]
+}

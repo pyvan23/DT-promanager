@@ -1,0 +1,219 @@
+{
+  "club": "Boca Juniors",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Boca_Juniors"
+  ],
+  "players": [
+    {
+      "name": "Álvaro Montero",
+      "position": "ARQ",
+      "birthDate": "1995-03-09",
+      "nationality": "COL"
+    },
+    {
+      "name": "Leandro Brey",
+      "position": "ARQ",
+      "birthDate": "2002-09-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Javier García",
+      "position": "ARQ",
+      "birthDate": "1987-01-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Marchesín",
+      "position": "ARQ",
+      "birthDate": "1988-03-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Di Lollo",
+      "position": "DFC",
+      "birthDate": "2004-03-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Blanco",
+      "position": "DFC",
+      "birthDate": "1999-02-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Figal",
+      "position": "DFC",
+      "birthDate": "1994-04-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Battaglia",
+      "position": "DFC",
+      "birthDate": "1991-07-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Lozano",
+      "position": "DFC",
+      "birthDate": "1998-12-19",
+      "nationality": "URY"
+    },
+    {
+      "name": "Dylan Gorosito",
+      "position": "DFC",
+      "birthDate": "2006-02-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marco Pellegrino",
+      "position": "DFC",
+      "birthDate": "2002-07-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Malcom Braida",
+      "position": "DFC",
+      "birthDate": "1997-05-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ayrton Costa",
+      "position": "DFC",
+      "birthDate": "1999-07-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Giménez",
+      "position": "DFC",
+      "birthDate": "2005-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Paredes",
+      "position": "MC",
+      "birthDate": "1994-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Palacios",
+      "position": "MC",
+      "birthDate": "2000-07-20",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Tomás Belmonte",
+      "position": "MC",
+      "birthDate": "1998-05-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Aranda",
+      "position": "MC",
+      "birthDate": "2007-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Williams Alarcón",
+      "position": "MC",
+      "birthDate": "2000-11-29",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Milton Delgado",
+      "position": "MC",
+      "birthDate": "2005-06-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Velasco",
+      "position": "MC",
+      "birthDate": "2002-07-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Camilo Rey Domenech",
+      "position": "MC",
+      "birthDate": "2006-03-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Ascacíbar",
+      "position": "MC",
+      "birthDate": "1997-02-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Márquez",
+      "position": "MC",
+      "birthDate": "2006-03-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Mendieta",
+      "position": "MC",
+      "birthDate": "2006-04-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Payal",
+      "position": "MC",
+      "birthDate": "2005-06-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Pérez",
+      "position": "MC",
+      "birthDate": "2008-09-27",
+      "nationality": "COL"
+    },
+    {
+      "name": "Matías Calegari",
+      "position": "MC",
+      "birthDate": "2006-01-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Milton Giménez",
+      "position": "DC",
+      "birthDate": "1996-08-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel Romero",
+      "position": "DC",
+      "birthDate": "1992-07-04",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Enner Valencia",
+      "position": "DC",
+      "birthDate": "1989-11-04",
+      "nationality": "ECU"
+    },
+    {
+      "name": "Miguel Merentiel",
+      "position": "DC",
+      "birthDate": "1996-02-16",
+      "nationality": "URY"
+    },
+    {
+      "name": "Leonel Flores",
+      "position": "DC",
+      "birthDate": "2007-02-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Villa",
+      "position": "DC",
+      "birthDate": "1996-05-19",
+      "nationality": "COL"
+    },
+    {
+      "name": "Adam Bareiro",
+      "position": "DC",
+      "birthDate": "1996-07-26",
+      "nationality": "PAR"
+    }
+  ]
+}

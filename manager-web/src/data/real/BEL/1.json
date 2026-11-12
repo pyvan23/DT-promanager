@@ -1,0 +1,32 @@
+{
+  "division": "BEL-1",
+  "country": "BEL",
+  "name": "Jupiler Pro League",
+  "season": 2026,
+  "sources": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_Belgian_Pro_League", "https://www.proleague.be/"],
+  "formatNotes": "18 equipos (ampliada desde 16), doble vuelta (34 jornadas) sin play-offs por el título: se abandona el sistema de Champions' Play-offs tras 17 temporadas. 17.º y 18.º descienden a la Challenger Pro League. 1.º a fase de liga de Champions, 2.º a tercera previa de Champions; 3.º a segunda previa de Europa League; 4.º a segunda previa de Conference League; el campeón de la Copa de Bélgica va a Europa League. Ascendidos: Beveren, Kortrijk y Lommel (play-off vs Dender).",
+  "domesticCup": {
+    "name": "Croky Cup (Copa de Bélgica)",
+    "formatNotes": "Eliminación directa a partido único con clubes amateurs y profesionales; semifinales a ida y vuelta; final en el Estadio Rey Balduino (Bruselas). El campeón va a Europa League y juega la Supercopa de Bélgica."
+  },
+  "clubs": [
+    {"name": "Club Brugge KV", "shortName": "Club Brugge", "city": "Brujas", "province": "Flandes Occidental", "affiliation": "directa", "stadium": "Jan Breydelstadion", "colors": {"primary": "#0078c8", "secondary": "#000000"}, "stature": 4},
+    {"name": "RSC Anderlecht", "shortName": "Anderlecht", "city": "Anderlecht (Bruselas)", "province": "Bruselas-Capital", "affiliation": "directa", "stadium": "Lotto Park (Constant Vanden Stock)", "colors": {"primary": "#4b2a7b", "secondary": "#ffffff"}, "stature": 4},
+    {"name": "Royale Union Saint-Gilloise", "shortName": "Union SG", "city": "Forest (Bruselas)", "province": "Bruselas-Capital", "affiliation": "directa", "stadium": "Stade Joseph Marien", "colors": {"primary": "#ffd200", "secondary": "#003a8c"}, "stature": 4},
+    {"name": "KRC Genk", "shortName": "Genk", "city": "Genk", "province": "Limburgo", "affiliation": "directa", "stadium": "Cegeka Arena", "colors": {"primary": "#0047ab", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "KAA Gent", "shortName": "Gent", "city": "Gante", "province": "Flandes Oriental", "affiliation": "directa", "stadium": "Planet Group Arena", "colors": {"primary": "#0057b8", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "Royal Antwerp FC", "shortName": "Antwerp", "city": "Amberes", "province": "Amberes", "affiliation": "directa", "stadium": "Bosuilstadion", "colors": {"primary": "#e30613", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "Standard de Liège", "shortName": "Standard", "city": "Lieja", "province": "Lieja", "affiliation": "directa", "stadium": "Stade Maurice Dufrasne (Sclessin)", "colors": {"primary": "#e30613", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "Royal Charleroi SC", "shortName": "Charleroi", "city": "Charleroi", "province": "Henao", "affiliation": "directa", "stadium": "Stade du Pays de Charleroi", "colors": {"primary": "#000000", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "KV Mechelen", "shortName": "Mechelen", "city": "Malinas", "province": "Amberes", "affiliation": "directa", "stadium": "AFAS-stadion Achter de Kazerne", "colors": {"primary": "#ffd200", "secondary": "#e30613"}, "stature": 2},
+    {"name": "Cercle Brugge KSV", "shortName": "Cercle Brugge", "city": "Brujas", "province": "Flandes Occidental", "affiliation": "directa", "stadium": "Jan Breydelstadion", "colors": {"primary": "#00843d", "secondary": "#000000"}, "stature": 2},
+    {"name": "Oud-Heverlee Leuven", "shortName": "OH Leuven", "city": "Lovaina", "province": "Brabante Flamenco", "affiliation": "directa", "stadium": "Den Dreef", "colors": {"primary": "#ffffff", "secondary": "#e30613"}, "stature": 2},
+    {"name": "Sint-Truidense VV", "shortName": "Sint-Truiden", "city": "Sint-Truiden", "province": "Limburgo", "affiliation": "directa", "stadium": "Stayen", "colors": {"primary": "#ffd200", "secondary": "#0033a0"}, "stature": 2},
+    {"name": "KVC Westerlo", "shortName": "Westerlo", "city": "Westerlo", "province": "Amberes", "affiliation": "directa", "stadium": "Het Kuipje", "colors": {"primary": "#ffd200", "secondary": "#0055a5"}, "stature": 2},
+    {"name": "SV Zulte Waregem", "shortName": "Zulte Waregem", "city": "Waregem", "province": "Flandes Occidental", "affiliation": "directa", "stadium": "Regenboogstadion", "colors": {"primary": "#e30613", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "RAAL La Louvière", "shortName": "La Louvière", "city": "La Louvière", "province": "Henao", "affiliation": "directa", "stadium": "Easi Arena", "colors": {"primary": "#00843d", "secondary": "#ffffff"}, "stature": 1},
+    {"name": "SK Beveren", "shortName": "Beveren", "city": "Beveren", "province": "Flandes Oriental", "affiliation": "directa", "stadium": "Freethiel Stadion", "colors": {"primary": "#ffd200", "secondary": "#0033a0"}, "stature": 1},
+    {"name": "KV Kortrijk", "shortName": "Kortrijk", "city": "Cortrique", "province": "Flandes Occidental", "affiliation": "directa", "stadium": "Guldensporen Stadion", "colors": {"primary": "#e30613", "secondary": "#ffffff"}, "stature": 1},
+    {"name": "Lommel SK", "shortName": "Lommel", "city": "Lommel", "province": "Limburgo", "affiliation": "directa", "stadium": "Soevereinstadion", "colors": {"primary": "#00843d", "secondary": "#ffffff"}, "stature": 1}
+  ]
+}

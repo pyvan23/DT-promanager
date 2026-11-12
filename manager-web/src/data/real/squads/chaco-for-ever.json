@@ -1,0 +1,201 @@
+{
+  "club": "Chaco For Ever",
+  "season": 2026,
+  "sources": [
+    "https://canchallena.lanacion.com.ar/equipo/chaco-for-ever-693gcfr20m03571ihcw6vy2i1/"
+  ],
+  "players": [
+    {
+      "name": "Eduardo Garcete",
+      "position": "ARQ",
+      "birthDate": "1999-05-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Canuto",
+      "position": "ARQ",
+      "birthDate": "1988-07-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Caprio",
+      "position": "ARQ",
+      "birthDate": "1989-05-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Luque",
+      "position": "DFC",
+      "birthDate": "1999-02-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bahiano García",
+      "position": "DFC",
+      "birthDate": "2000-12-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "David Valdez",
+      "position": "DFC",
+      "birthDate": "1993-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Molina",
+      "position": "DFC",
+      "birthDate": "2004-05-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Moreno",
+      "position": "DFC",
+      "birthDate": "2001-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Melgarejo",
+      "position": "DFC",
+      "birthDate": "2001-04-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jorge Zules Caicedo",
+      "position": "DFC",
+      "birthDate": "1991-02-14",
+      "nationality": "COL"
+    },
+    {
+      "name": "Lucas Mihovilcevich",
+      "position": "DFC",
+      "birthDate": "2004-01-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Pruzzo",
+      "position": "DFC",
+      "birthDate": "1994-07-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mathías Silvera",
+      "position": "DFC",
+      "birthDate": "1999-03-20",
+      "nationality": "URY"
+    },
+    {
+      "name": "Ricardo Garay",
+      "position": "DFC",
+      "birthDate": "1997-03-07",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Andrés Lioi",
+      "position": "MC",
+      "birthDate": "1997-03-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Ojeda",
+      "position": "MC",
+      "birthDate": "2001-07-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Guerra",
+      "position": "MC",
+      "birthDate": "1996-02-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Nievas",
+      "position": "MC",
+      "birthDate": "1998-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Gaggi",
+      "position": "MC",
+      "birthDate": "1998-01-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Pacheco",
+      "position": "MC",
+      "birthDate": "2002-12-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Carrizo",
+      "position": "MC",
+      "birthDate": "2000-11-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Jara",
+      "position": "MC",
+      "birthDate": "2003-02-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Valenzuela",
+      "position": "MC",
+      "birthDate": "2001-09-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Villalba",
+      "position": "MC",
+      "birthDate": "2004-02-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Chamorro",
+      "position": "MC",
+      "birthDate": "2005-06-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Zabaleta",
+      "position": "DC",
+      "birthDate": "2002-04-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cerrudo",
+      "position": "DC",
+      "birthDate": "2004-01-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lisandro Alfonso",
+      "position": "DC",
+      "birthDate": "2008-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Fernández",
+      "position": "DC",
+      "birthDate": "1995-01-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Díaz Chaves",
+      "position": "DC",
+      "birthDate": "2003-09-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Romero",
+      "position": "DC",
+      "birthDate": "1994-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauricio Tévez",
+      "position": "DC",
+      "birthDate": "1996-07-31",
+      "nationality": "ARG"
+    }
+  ]
+}

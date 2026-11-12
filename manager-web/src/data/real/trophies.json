@@ -1,0 +1,149 @@
+{
+  "copa-libertadores": {
+    "file": "trofeos/copa-libertadores.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Trof%C3%A9u_Copa_Libertadores_2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Humates1996",
+    "title": "Troféu Copa Libertadores 2019.jpg"
+  },
+  "copa-sudamericana": {
+    "file": "trofeos/copa-sudamericana.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ta%C3%A7a_da_Copa_Sul-Americana_de_2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "ChapeTerror",
+    "title": "Taça da Copa Sul-Americana de 2016.jpg"
+  },
+  "champions-league": {
+    "file": "trofeos/champions-league.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Trofeo_UEFA_Champions_League.jpg",
+    "license": "CC BY 2.0",
+    "author": "David Flores",
+    "title": "Trofeo UEFA Champions League.jpg"
+  },
+  "europa-league": {
+    "file": "trofeos/europa-league.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Europa_league_trophy.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Damine178",
+    "title": "Europa league trophy.jpg"
+  },
+  "conference-league": {
+    "file": "trofeos/conference-league.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:UEFA_Europa_Conference_League_Trophy.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Totti",
+    "title": "UEFA Europa Conference League Trophy.jpg"
+  },
+  "uefa-supercup": {
+    "file": "trofeos/uefa-supercup.png",
+    "source": "https://commons.wikimedia.org/wiki/File:UEFA_Super_Cup_trophy_is_in_Vodafone_Park_(2019).png",
+    "license": "CC BY 3.0",
+    "author": "beIN SPORTS Türkiye",
+    "title": "UEFA Super Cup trophy is in Vodafone Park (2019).png"
+  },
+  "eng-1": {
+    "file": "trofeos/eng-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Premier_League_Trophy_at_Manchester%27s_National_Football_Museum_(Ank_Kumar)_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Ank Kumar",
+    "title": "Premier League Trophy at Manchester's National Football Museum (Ank Kumar) 02.jpg"
+  },
+  "eng-cup": {
+    "file": "trofeos/eng-cup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:The_FA_Cup_Trophy.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Carlos yo",
+    "title": "The FA Cup Trophy.jpg"
+  },
+  "esp-cup": {
+    "file": "trofeos/esp-cup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Copa_del_Rey_de_f%C3%BAtbol_2018-19_-_Entrega_del_trofeo.jpeg",
+    "license": "CC BY-SA 2.0",
+    "author": "Junta de Andalucía",
+    "title": "Copa del Rey de fútbol 2018-19 - Entrega del trofeo.jpeg"
+  },
+  "deu-1": {
+    "file": "trofeos/deu-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Frankfurter_Buchmesse_2015_-_Meisterschale.JPG",
+    "license": "CC BY 3.0",
+    "author": "JCS",
+    "title": "Frankfurter Buchmesse 2015 - Meisterschale.JPG"
+  },
+  "fra-cup": {
+    "file": "trofeos/fra-cup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Finale_Coupe_de_France_1931_Troph%C3%A9e.jpg",
+    "license": "Public domain",
+    "author": "Agence Rol",
+    "title": "Finale Coupe de France 1931 Trophée.jpg"
+  },
+  "prt-cup": {
+    "file": "trofeos/prt-cup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:The_original_Ta%C3%A7a_de_Portugal.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Threeohsix",
+    "title": "The original Taça de Portugal.jpg"
+  },
+  "nld-cup": {
+    "file": "trofeos/nld-cup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Finale_KNVB-beker_Ajax_tegen_NAC_Aanvoerder_Henk_Groot_en_de_KNVB-beker,_Bestanddeelnr_912-5983.jpg",
+    "license": "CC0",
+    "author": "Harry Pot for Anefo",
+    "title": "Finale KNVB-beker Ajax tegen NAC Aanvoerder Henk Groot en de KNVB-beker, Bestanddeelnr 912-5983.jpg"
+  },
+  "bra-1": {
+    "file": "trofeos/bra-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Campeonato_Brasileiro_S%C3%A9rie_A_-_Copa_Brasil_(1975-1979).png",
+    "license": "CC BY-SA 4.0",
+    "author": "FutBox",
+    "title": "Campeonato Brasileiro Série A - Copa Brasil (1975-1979).png"
+  },
+  "bra-cup": {
+    "file": "trofeos/bra-cup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ta%C3%A7a_da_Copa_do_Brasil_2007.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Alexandre Magno Barreto Berwanger",
+    "title": "Taça da Copa do Brasil 2007.jpg"
+  },
+  "bel-1": {
+    "file": "trofeos/bel-1.png",
+    "source": "https://www.thesportsdb.com/league/4338",
+    "license": "TheSportsDB",
+    "author": "TheSportsDB"
+  },
+  "ita-1": {
+    "file": "trofeos/ita-1.png",
+    "source": "https://www.thesportsdb.com/league/4332",
+    "license": "TheSportsDB",
+    "author": "TheSportsDB"
+  },
+  "esp-1": {
+    "file": "trofeos/esp-1.png",
+    "source": "https://www.thesportsdb.com/league/4335",
+    "license": "TheSportsDB",
+    "author": "TheSportsDB"
+  },
+  "fra-1": {
+    "file": "trofeos/fra-1.png",
+    "source": "https://www.thesportsdb.com/league/4334",
+    "license": "TheSportsDB",
+    "author": "TheSportsDB"
+  },
+  "lpf": {
+    "file": "trofeos/lpf.png",
+    "source": "https://www.thesportsdb.com/league/4406",
+    "license": "TheSportsDB",
+    "author": "TheSportsDB"
+  },
+  "nacional": {
+    "file": "trofeos/nacional.png",
+    "source": "https://www.thesportsdb.com/league/4616",
+    "license": "TheSportsDB",
+    "author": "TheSportsDB"
+  },
+  "copa-argentina": {
+    "file": "trofeos/copa-argentina.png",
+    "source": "https://www.thesportsdb.com/league/4500",
+    "license": "TheSportsDB",
+    "author": "TheSportsDB"
+  }
+}

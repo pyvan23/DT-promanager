@@ -1,0 +1,225 @@
+{
+  "division": "URY-1",
+  "country": "URY",
+  "name": "Liga AUF Uruguaya",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Liga_AUF_Uruguaya",
+    "https://www.auf.org.uy/"
+  ],
+  "formatNotes": "16 equipos. Torneo Apertura (15 fechas), Torneo Intermedio (dos series de 8) y Torneo Clausura (15 fechas); la Tabla Anual suma los tres torneos. Campeonato Uruguayo: semifinal entre ganadores de Apertura y Clausura y final contra el líder de la Tabla Anual. Descienden 3 equipos por promedio de las dos últimas temporadas a la Segunda División. Ascendidos 2026: Albion, Central Español y Deportivo Maldonado; descendidos 2025: Plaza Colonia, Miramar Misiones y River Plate. Libertadores (4): campeón uruguayo y mejor de la Tabla Anual a fase de grupos, los dos siguientes de la Tabla Anual a fases previas. Sudamericana (4): ganador del Torneo Intermedio y los mejores de la Tabla Anual no clasificados a Libertadores.",
+  "domesticCup": {
+    "name": "Copa AUF Uruguay",
+    "formatNotes": "Copa nacional (desde 2022) a eliminación directa a partido único con clubes de Primera, Segunda, Primera Amateur y ligas del interior (OFI); el campeón juega la Supercopa Uruguaya ante el campeón uruguayo."
+  },
+  "clubs": [
+    {
+      "name": "Club Albion Football",
+      "shortName": "Albion",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Luis Franzini",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#0055A4"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Boston River",
+      "shortName": "Boston River",
+      "city": "Florida",
+      "province": "Florida",
+      "affiliation": "directa",
+      "stadium": "Campeones Olímpicos",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Central Español Fútbol Club",
+      "shortName": "Central Español",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Parque Palermo",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#0055A4"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Cerro",
+      "shortName": "Cerro",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Luis Tróccoli",
+      "colors": {
+        "primary": "#87CEEB",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo Cerro Largo",
+      "shortName": "Cerro Largo",
+      "city": "Melo",
+      "province": "Cerro Largo",
+      "affiliation": "directa",
+      "stadium": "Antonio Ubilla",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Danubio Fútbol Club",
+      "shortName": "Danubio",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Jardines del Hipódromo",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Defensor Sporting Club",
+      "shortName": "Defensor Sporting",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Luis Franzini",
+      "colors": {
+        "primary": "#5B2C83",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Deportivo Maldonado",
+      "shortName": "Deportivo Maldonado",
+      "city": "Maldonado",
+      "province": "Maldonado",
+      "affiliation": "directa",
+      "stadium": "Domingo Burgueño Miguel",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#00843D"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Juventud de Las Piedras",
+      "shortName": "Juventud",
+      "city": "Las Piedras",
+      "province": "Canelones",
+      "affiliation": "directa",
+      "stadium": "Parque Artigas",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Liverpool Fútbol Club",
+      "shortName": "Liverpool",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Belvedere",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#0055A4"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Montevideo City Torque",
+      "shortName": "City Torque",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Charrúa",
+      "colors": {
+        "primary": "#87CEEB",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Montevideo Wanderers Fútbol Club",
+      "shortName": "Wanderers",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Parque Alfredo Víctor Viera",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Nacional de Football",
+      "shortName": "Nacional",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Gran Parque Central",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#0055A4"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Club Atlético Peñarol",
+      "shortName": "Peñarol",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Campeón del Siglo",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#000000"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Club Atlético Progreso",
+      "shortName": "Progreso",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Abraham Paladino",
+      "colors": {
+        "primary": "#E30613",
+        "secondary": "#FFD700"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Racing Club de Montevideo",
+      "shortName": "Racing",
+      "city": "Montevideo",
+      "province": "Montevideo",
+      "affiliation": "directa",
+      "stadium": "Osvaldo Roberto",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    }
+  ]
+}

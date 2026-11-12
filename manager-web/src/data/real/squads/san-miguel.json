@@ -1,0 +1,208 @@
+{
+  "club": "San Miguel",
+  "season": 2026,
+  "sources": [
+    "https://canchallena.lanacion.com.ar/equipo/san-miguel-y1ln9hxdbuwu2k8xo4gqw5h7/",
+    "https://en.wikipedia.org/wiki/Club_Atlético_San_Miguel",
+    "https://es.wikipedia.org/wiki/Club_Atlético_San_Miguel"
+  ],
+  "players": [
+    {
+      "name": "Alexis Cruz",
+      "position": "DFC",
+      "birthDate": "1999-10-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Axel Melián de La Cruz",
+      "position": "DC",
+      "birthDate": "2005-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Desimone",
+      "position": "MC",
+      "birthDate": "2006-08-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Andrés Sosa",
+      "position": "ARQ",
+      "birthDate": "2005-04-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Nasta",
+      "position": "DC",
+      "birthDate": "1993-01-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Damián Adín",
+      "position": "DFC",
+      "birthDate": "1997-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Daniel Juárez",
+      "position": "DC",
+      "birthDate": "2001-07-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "David Müller",
+      "position": "MC",
+      "birthDate": "1994-07-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dixon Rentería",
+      "position": "DFC",
+      "birthDate": "1995-09-24",
+      "nationality": "COL"
+    },
+    {
+      "name": "Daniel Sappa",
+      "position": "ARQ",
+      "birthDate": "1995-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elian de la Cruz",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Aguirre",
+      "position": "DFC",
+      "birthDate": "2002-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Almeida",
+      "position": "MC",
+      "birthDate": "2001-10-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Cardozo",
+      "position": "DFC",
+      "birthDate": "1995-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Faustino Gerbaldo",
+      "position": "MC",
+      "birthDate": "2007-05-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gustavo Fernández",
+      "position": "DC",
+      "birthDate": "1990-08-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Ramírez",
+      "position": "MC",
+      "birthDate": "1990-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jorge Ferrero",
+      "position": "MC",
+      "birthDate": "1992-09-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Ceceri",
+      "position": "DFC",
+      "birthDate": "1996-02-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Brochero",
+      "position": "DC",
+      "birthDate": "1999-01-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Delgado",
+      "position": "DC",
+      "birthDate": "1995-03-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Desábato",
+      "position": "MC",
+      "birthDate": "1990-03-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Ortiz",
+      "position": "MC",
+      "birthDate": "2007-09-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucio Pérez",
+      "position": "DFC",
+      "birthDate": "1997-07-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matias Escobar",
+      "position": "ARQ",
+      "birthDate": "2003-02-14",
+      "nationality": "COL"
+    },
+    {
+      "name": "Máximo Osés",
+      "position": "DC",
+      "birthDate": "2005-08-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Reynoso",
+      "position": "ARQ",
+      "birthDate": "2003-11-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Serra",
+      "position": "MC",
+      "birthDate": "2004-05-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santino Bevilacqua",
+      "position": "MC",
+      "birthDate": "2005-10-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thomas Carosio",
+      "position": "MC",
+      "birthDate": "2003-11-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Díaz Grassano",
+      "position": "MC",
+      "birthDate": "1997-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Gordillo",
+      "position": "MC",
+      "birthDate": "2008-12-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Jerez",
+      "position": "DC",
+      "birthDate": "2003-12-18",
+      "nationality": "ARG"
+    }
+  ]
+}

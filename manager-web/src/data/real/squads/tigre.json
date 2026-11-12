@@ -1,0 +1,189 @@
+{
+  "club": "Tigre",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Tigre"
+  ],
+  "players": [
+    {
+      "name": "Felipe Zenobio",
+      "position": "ARQ",
+      "birthDate": "2000-05-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Morales",
+      "position": "ARQ",
+      "birthDate": "1999-12-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Laso",
+      "position": "DFC",
+      "birthDate": "1990-07-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Banegas",
+      "position": "DFC",
+      "birthDate": "1996-10-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Moreno",
+      "position": "DFC",
+      "birthDate": "2003-02-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángelo Marchese",
+      "position": "DFC",
+      "birthDate": "2004-08-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Soto",
+      "position": "DFC",
+      "birthDate": "1994-01-19",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Alan Barrionuevo",
+      "position": "DFC",
+      "birthDate": "1997-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Requena",
+      "position": "DFC",
+      "birthDate": "2003-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Álvarez",
+      "position": "DFC",
+      "birthDate": "1994-08-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Villalba",
+      "position": "DFC",
+      "birthDate": "2006-03-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Fernández",
+      "position": "DFC",
+      "birthDate": "2004-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Minniti",
+      "position": "DFC",
+      "birthDate": "2005-09-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramón Arias",
+      "position": "DFC",
+      "birthDate": "1992-07-27",
+      "nationality": "URY"
+    },
+    {
+      "name": "Bruno Leyes",
+      "position": "MC",
+      "birthDate": "2001-10-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Simón Rivero",
+      "position": "MC",
+      "birthDate": "2003-04-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Garay",
+      "position": "MC",
+      "birthDate": "1999-06-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jabes Saralegui",
+      "position": "MC",
+      "birthDate": "2003-04-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Serrago",
+      "position": "MC",
+      "birthDate": "2004-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Dubersarsky",
+      "position": "MC",
+      "birthDate": "2004-12-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Medina",
+      "position": "MC",
+      "birthDate": "2000-03-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago González",
+      "position": "MC",
+      "birthDate": "2003-05-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Martínez",
+      "position": "MC",
+      "birthDate": "1993-06-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías Cabrera",
+      "position": "MC",
+      "birthDate": "2000-10-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Fernández",
+      "position": "DC",
+      "birthDate": "2004-10-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alfio Oviedo",
+      "position": "DC",
+      "birthDate": "1995-12-18",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Santiago López",
+      "position": "DC",
+      "birthDate": "2006-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ian Subiabre",
+      "position": "DC",
+      "birthDate": "2007-01-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Russo",
+      "position": "DC",
+      "birthDate": "2000-12-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Méndez",
+      "position": "DC",
+      "birthDate": "1999-01-17",
+      "nationality": "URY"
+    }
+  ]
+}

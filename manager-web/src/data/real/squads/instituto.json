@@ -1,0 +1,171 @@
+{
+  "club": "Instituto",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Instituto_Atlético_Central_Córdoba"
+  ],
+  "players": [
+    {
+      "name": "Marcos Ledesma",
+      "position": "ARQ",
+      "birthDate": "1996-09-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Sittaro",
+      "position": "ARQ",
+      "birthDate": "1999-10-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Hernán de la Fuente",
+      "position": "DFC",
+      "birthDate": "1997-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Sosa",
+      "position": "DFC",
+      "birthDate": "1997-07-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Alarcón",
+      "position": "DFC",
+      "birthDate": "1994-06-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Massaccesi",
+      "position": "DFC",
+      "birthDate": "2002-09-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Andrés Meli",
+      "position": "DFC",
+      "birthDate": "2000-09-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Mosevich",
+      "position": "DFC",
+      "birthDate": "1997-02-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan Galván",
+      "position": "DFC",
+      "birthDate": "1992-06-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Bravo",
+      "position": "DFC",
+      "birthDate": "2001-05-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Giuliano Cerato",
+      "position": "DFC",
+      "birthDate": "1998-06-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Moyano",
+      "position": "MC",
+      "birthDate": "1997-09-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonás Acevedo",
+      "position": "MC",
+      "birthDate": "1997-02-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alex Luna",
+      "position": "MC",
+      "birthDate": "2004-03-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Ignacio Méndez",
+      "position": "MC",
+      "birthDate": "1997-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Gallardo",
+      "position": "MC",
+      "birthDate": "2003-11-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Lázaro",
+      "position": "MC",
+      "birthDate": "2004-06-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gustavo Abregú",
+      "position": "MC",
+      "birthDate": "1997-07-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Wílder Viera",
+      "position": "MC",
+      "birthDate": "2002-03-04",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Nicolás Guerra",
+      "position": "DC",
+      "birthDate": "1999-01-09",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Facundo Suárez",
+      "position": "DC",
+      "birthDate": "1994-07-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Fonseca",
+      "position": "DC",
+      "birthDate": "2001-03-12",
+      "nationality": "URY"
+    },
+    {
+      "name": "Matías Tissera",
+      "position": "DC",
+      "birthDate": "1996-09-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Sanseviero",
+      "position": "DC",
+      "birthDate": "2000-08-05",
+      "nationality": "URY"
+    },
+    {
+      "name": "Jhon Córdoba",
+      "position": "DC",
+      "birthDate": "2000-07-15",
+      "nationality": "COL"
+    },
+    {
+      "name": "Lorenzo Albarracín",
+      "position": "DC",
+      "birthDate": "2007-02-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luca Rafaelli",
+      "position": "DC",
+      "birthDate": "2008-08-21",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "club": "Gimnasia (J)",
+  "season": 2026,
+  "sources": [
+    "https://canchallena.lanacion.com.ar/equipo/gimn-jujuy-cfoocd4w2b1dia1gmaelkt13o/",
+    "https://espndeportes.espn.com/futbol/equipo/plantel/_/id/5263/gimnasia-y-esgrima-jujuy",
+    "https://www.todojujuy.com/jujuy/gimnasia-jujuy-plantel-definido-los-amistosos-y-renovacion-dematei-n284651",
+    "https://www.todojujuy.com/deportes/uno-uno-quienes-son-los-refuerzos-2026-gimnasia-jujuy-n284494"
+  ],
+  "players": [
+    {
+      "name": "Gonzalo Gómez",
+      "position": "ARQ",
+      "birthDate": "1986-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Milton Álvarez",
+      "position": "ARQ",
+      "birthDate": "1989-01-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Ramos Mingo",
+      "position": "ARQ",
+      "birthDate": "2000-08-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Delfor Minervino",
+      "position": "LD",
+      "birthDate": "1996-04-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Lazarte",
+      "position": "DFC",
+      "birthDate": "2005-09-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego López",
+      "position": "DFC",
+      "birthDate": "1992-05-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emiliano Endrizzi",
+      "position": "DFC",
+      "birthDate": "1994-03-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Camargo",
+      "position": "DFC",
+      "birthDate": "2000-09-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Maldonado",
+      "position": "DFC",
+      "birthDate": "2002-07-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Cosaro",
+      "position": "DFC",
+      "birthDate": "1989-03-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Villarreal",
+      "position": "DFC",
+      "birthDate": "1998-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo Córdoba",
+      "position": "DFC",
+      "altPositions": [
+        "MC"
+      ],
+      "birthDate": "2003-06-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Varela",
+      "position": "DFC",
+      "birthDate": "1997-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Dematei",
+      "position": "DFC",
+      "birthDate": "1987-11-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Sánchez",
+      "position": "DFC",
+      "birthDate": "1988-09-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Alonso",
+      "position": "MC",
+      "birthDate": "2001-01-23"
+    },
+    {
+      "name": "Claudio Pombo",
+      "position": "MC",
+      "birthDate": "1994-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emiliano Zambrano",
+      "position": "MC",
+      "birthDate": "2007-08-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Maidana",
+      "position": "MC",
+      "birthDate": "2001-12-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Molina",
+      "position": "MC",
+      "birthDate": "1990-10-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Paradela",
+      "position": "MC",
+      "birthDate": "2001-07-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Hugo Soria",
+      "position": "MC",
+      "birthDate": "1990-02-16",
+      "nationality": "URY"
+    },
+    {
+      "name": "Nahuel Denis",
+      "position": "MC",
+      "birthDate": "2003-08-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Zapatiel",
+      "position": "MC",
+      "birthDate": "2004-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Toledo",
+      "position": "MC",
+      "birthDate": "2005-02-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentino Arro",
+      "position": "MC",
+      "birthDate": "2005-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Abel Argañaraz",
+      "position": "DC",
+      "birthDate": "1998-07-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Leiva",
+      "position": "DC",
+      "birthDate": "2005-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Menéndez",
+      "position": "DC",
+      "birthDate": "1988-04-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "David Gallardo",
+      "position": "DC",
+      "altPositions": [
+        "MC"
+      ],
+      "birthDate": "1997-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Puntano",
+      "position": "DC",
+      "birthDate": "2004-07-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Franzoni",
+      "position": "DC",
+      "birthDate": "1999-10-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Cachi",
+      "position": "MCO",
+      "altPositions": [
+        "DC"
+      ],
+      "birthDate": "1998-08-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Casa",
+      "position": "DC",
+      "birthDate": "1993-02-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Octavio Bianchi",
+      "position": "DC",
+      "birthDate": "1995-10-05",
+      "nationality": "ARG"
+    }
+  ]
+}

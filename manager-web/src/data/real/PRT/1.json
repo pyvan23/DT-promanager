@@ -1,0 +1,32 @@
+{
+  "division": "PRT-1",
+  "country": "PRT",
+  "name": "Liga Portugal Betclic",
+  "season": 2026,
+  "sources": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga", "https://www.ligaportugal.pt/"],
+  "formatNotes": "18 equipos, doble vuelta (34 jornadas). 17.º y 18.º descienden directo a Liga Portugal 2; 16.º juega play-off ida y vuelta contra el 3.º de Liga Portugal 2. 1.º a fase de liga de Champions, 2.º a la tercera ronda previa de Champions (ruta de liga); 3.º a la segunda previa de Europa League; 4.º a la segunda previa de Conference League; el campeón de la Taça de Portugal va a la fase de liga de Europa League (se corren plazas si ya está clasificado). Ascendidos: Marítimo y Académico de Viseu; descendidos 2025-26: AVS y Tondela.",
+  "domesticCup": {
+    "name": "Taça de Portugal",
+    "formatNotes": "Copa abierta a clubes profesionales y amateurs, eliminación directa a partido único salvo semifinales a ida y vuelta; final en el Estádio Nacional (Jamor, Oeiras). El campeón va a Europa League y juega la Supertaça Cândido de Oliveira ante el campeón de liga. Existe además la Taça da Liga (copa de la liga, Final Four)."
+  },
+  "clubs": [
+    {"name": "Sport Lisboa e Benfica", "shortName": "Benfica", "city": "Lisboa", "province": "Lisboa", "affiliation": "directa", "stadium": "Estádio da Luz", "colors": {"primary": "#e83030", "secondary": "#ffffff"}, "stature": 4},
+    {"name": "FC Porto", "shortName": "Porto", "city": "Oporto", "province": "Oporto", "affiliation": "directa", "stadium": "Estádio do Dragão", "colors": {"primary": "#003893", "secondary": "#ffffff"}, "stature": 4},
+    {"name": "Sporting Clube de Portugal", "shortName": "Sporting CP", "city": "Lisboa", "province": "Lisboa", "affiliation": "directa", "stadium": "Estádio José Alvalade", "colors": {"primary": "#008057", "secondary": "#ffffff"}, "stature": 4},
+    {"name": "Sporting Clube de Braga", "shortName": "Braga", "city": "Braga", "province": "Braga", "affiliation": "directa", "stadium": "Estádio Municipal de Braga", "colors": {"primary": "#e2001a", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "Vitória Sport Clube", "shortName": "Vitória SC", "city": "Guimarães", "province": "Braga", "affiliation": "directa", "stadium": "Estádio D. Afonso Henriques", "colors": {"primary": "#ffffff", "secondary": "#000000"}, "stature": 3},
+    {"name": "Futebol Clube de Famalicão", "shortName": "Famalicão", "city": "Vila Nova de Famalicão", "province": "Braga", "affiliation": "directa", "stadium": "Estádio Municipal de Famalicão", "colors": {"primary": "#002f6c", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Gil Vicente FC", "shortName": "Gil Vicente", "city": "Barcelos", "province": "Braga", "affiliation": "directa", "stadium": "Estádio Cidade de Barcelos", "colors": {"primary": "#e30613", "secondary": "#002f6c"}, "stature": 2},
+    {"name": "Moreirense FC", "shortName": "Moreirense", "city": "Moreira de Cónegos (Guimarães)", "province": "Braga", "affiliation": "directa", "stadium": "Estádio Comendador Joaquim de Almeida Freitas", "colors": {"primary": "#008a3e", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Rio Ave FC", "shortName": "Rio Ave", "city": "Vila do Conde", "province": "Oporto", "affiliation": "directa", "stadium": "Estádio dos Arcos", "colors": {"primary": "#00843d", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "FC Arouca", "shortName": "Arouca", "city": "Arouca", "province": "Aveiro", "affiliation": "directa", "stadium": "Estádio Municipal de Arouca", "colors": {"primary": "#ffd700", "secondary": "#0033a0"}, "stature": 2},
+    {"name": "GD Estoril Praia", "shortName": "Estoril", "city": "Estoril (Cascais)", "province": "Lisboa", "affiliation": "directa", "stadium": "Estádio António Coimbra da Mota", "colors": {"primary": "#ffd200", "secondary": "#0054a6"}, "stature": 2},
+    {"name": "Casa Pia AC", "shortName": "Casa Pia", "city": "Lisboa", "province": "Lisboa", "affiliation": "directa", "stadium": "Estádio Municipal de Rio Maior", "colors": {"primary": "#000000", "secondary": "#ffffff"}, "stature": 1},
+    {"name": "CF Estrela da Amadora", "shortName": "Estrela", "city": "Amadora", "province": "Lisboa", "affiliation": "directa", "stadium": "Estádio José Gomes", "colors": {"primary": "#e30613", "secondary": "#00843d"}, "stature": 1},
+    {"name": "FC Alverca", "shortName": "Alverca", "city": "Alverca do Ribatejo", "province": "Lisboa", "affiliation": "directa", "stadium": "Complexo Desportivo FC Alverca", "colors": {"primary": "#e30613", "secondary": "#0033a0"}, "stature": 1},
+    {"name": "CD Santa Clara", "shortName": "Santa Clara", "city": "Ponta Delgada", "province": "Azores", "affiliation": "directa", "stadium": "Estádio de São Miguel", "colors": {"primary": "#e30613", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "CD Nacional", "shortName": "Nacional", "city": "Funchal", "province": "Madeira", "affiliation": "directa", "stadium": "Estádio da Madeira", "colors": {"primary": "#000000", "secondary": "#ffffff"}, "stature": 1},
+    {"name": "CS Marítimo", "shortName": "Marítimo", "city": "Funchal", "province": "Madeira", "affiliation": "directa", "stadium": "Estádio do Marítimo", "colors": {"primary": "#e30613", "secondary": "#00843d"}, "stature": 2},
+    {"name": "Académico de Viseu FC", "shortName": "Académico Viseu", "city": "Viseu", "province": "Viseu", "affiliation": "directa", "stadium": "Estádio Municipal do Fontelo", "colors": {"primary": "#000000", "secondary": "#ffffff"}, "stature": 1}
+  ]
+}

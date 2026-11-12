@@ -1,0 +1,430 @@
+{
+  "division": "regional",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Torneo_Regional_Federal_Amateur_2026",
+    "https://www.ascensodelinterior.com.ar/noticias/36922/los-cruces-de-la-cuarta-ronda-del-torneo-regional-federal-amateur/",
+    "https://www.diariopanorama.com/noticia/563603/como-se-juega-torneo-regional-federal-amateur-2026-27-todo-lo-hay-saber",
+    "https://www.diariopanorama.com/noticia/571659/cruces-cuarta-fase-torneo-regional-federal-amateur-tres-equipos-santiaguenos-carrera",
+    "https://misionesonline.net/2026/08/19/torneo-regional-amateur-2026-zonas-formato-y-fixture/"
+  ],
+  "formatNotes": "Edición 2026 (IX, en curso del 30/08 al 20/12/2026): 245 clubes indirectamente afiliados en 8 regiones (Norte 31, Litoral Norte 27, Litoral Sur 24, Centro 37, Cuyo 22, Bonaerense Pampeana Norte 40, Bonaerense Pampeana Sur 23, Patagónica 41). Primera ronda en zonas a dos ruedas; luego eliminación directa a doble partido hasta un campeón por región. Etapa final el 20/12/2026: los 8 campeones regionales juegan a partido único en cancha neutral; los 4 ganadores ascienden al Federal A 2027 y los 4 perdedores van al Torneo Argentino del Interior 2027 (categoría nueva); el resto vuelve a sus ligas (no hay descensos). Es la última edición como cuarta categoría. Criterio de los 32: al 09/11/2026 siguen vivos los 4 de la cuarta ronda (8 y 15/11) de Norte, Litoral Norte, Litoral Sur, Cuyo y Bonaerense Pampeana Sur, y 8 en Centro, Bonaerense Pampeana Norte y Patagónica (que tienen una ronda más); de estas tres regiones se tomó 1 equipo por llave según el resultado de la ida (si empataron, el que define de local).",
+  "clubs": [
+    {
+      "name": "Club Atlético Talleres",
+      "shortName": "Talleres (Perico)",
+      "city": "Perico",
+      "province": "Jujuy",
+      "affiliation": "indirecta",
+      "stadium": "Doctor Plinio Zabala",
+      "colors": {
+        "primary": "#0000CD",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Asociación Cultural y Deportiva Altos Hornos Zapla",
+      "shortName": "Altos Hornos Zapla",
+      "city": "Palpalá",
+      "province": "Jujuy",
+      "affiliation": "indirecta",
+      "stadium": "Emilio Fabrizzi",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Concepción Fútbol Club",
+      "shortName": "Concepción FC",
+      "city": "Concepción",
+      "province": "Tucumán",
+      "affiliation": "indirecta",
+      "stadium": "Antonio Guillén",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Deportivo Villa San Antonio",
+      "shortName": "Villa San Antonio",
+      "city": "Salta",
+      "province": "Salta",
+      "affiliation": "indirecta",
+      "stadium": "Estadio de la Liga Salteña de Fútbol",
+      "colors": {
+        "primary": "#191970",
+        "secondary": "#B22222"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Huracán Football Club",
+      "shortName": "Huracán (Goya)",
+      "city": "Goya",
+      "province": "Corrientes",
+      "affiliation": "indirecta",
+      "stadium": "Ramón \"Cacique\" Oviedo",
+      "colors": {
+        "primary": "#25C2FE",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético La Picada",
+      "shortName": "La Picada",
+      "city": "Posadas",
+      "province": "Misiones",
+      "affiliation": "indirecta",
+      "stadium": "Sin nombre (cancha propia)",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#1E3A8A"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Municipal de Laishí",
+      "shortName": "Municipal de Laishí",
+      "city": "San Francisco de Laishí",
+      "province": "Formosa",
+      "affiliation": "indirecta",
+      "stadium": "Polideportivo Municipal \"Fabián Lesme\"",
+      "colors": {
+        "primary": "#1E3A8A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Sportivo Cultural",
+      "shortName": "Sportivo Cultural (Castelli)",
+      "city": "Juan José Castelli",
+      "province": "Chaco",
+      "affiliation": "indirecta",
+      "stadium": "Sin nombre (cancha propia)",
+      "colors": {
+        "primary": "#008000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Deportivo Juventud Unida",
+      "shortName": "Juventud Unida (G)",
+      "city": "Gualeguaychú",
+      "province": "Entre Ríos",
+      "affiliation": "indirecta",
+      "stadium": "De los Eucaliptos",
+      "colors": {
+        "primary": "#6CACE4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Paraná",
+      "shortName": "Atlético Paraná",
+      "city": "Paraná",
+      "province": "Entre Ríos",
+      "affiliation": "indirecta",
+      "stadium": "Pedro Mutio",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#D50000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Sportivo Ben Hur",
+      "shortName": "Ben Hur",
+      "city": "Rafaela",
+      "province": "Santa Fe",
+      "affiliation": "indirecta",
+      "stadium": "Parque Barrio Ilolay",
+      "colors": {
+        "primary": "#172983",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Colón",
+      "shortName": "Colón (SJ)",
+      "city": "San Justo",
+      "province": "Santa Fe",
+      "affiliation": "indirecta",
+      "stadium": "Mercedes Alesso de Bieler",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#CF0200"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético General Paz Juniors",
+      "shortName": "General Paz Juniors",
+      "city": "Córdoba",
+      "province": "Córdoba",
+      "affiliation": "indirecta",
+      "stadium": "Carlos \"Lalo\" Lacasia",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#034EA2"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Defensores de La Boca",
+      "shortName": "Defensores de La Boca (LR)",
+      "city": "La Rioja",
+      "province": "La Rioja",
+      "affiliation": "indirecta",
+      "stadium": "Carlos Augusto Mercado Luna",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#FFD700"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Deportivo Américo Tesorieri",
+      "shortName": "Américo Tesorieri",
+      "city": "San Fernando del Valle de Catamarca",
+      "province": "Catamarca",
+      "affiliation": "indirecta",
+      "stadium": "Malvinas Argentinas",
+      "colors": {
+        "primary": "#FF0000",
+        "secondary": "#006699"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Central Argentino",
+      "shortName": "Central Argentino (LB)",
+      "city": "La Banda",
+      "province": "Santiago del Estero",
+      "affiliation": "indirecta",
+      "stadium": "Dr. Osvaldo Juárez",
+      "colors": {
+        "primary": "#0096FF",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Sport Club Pacífico",
+      "shortName": "Pacífico (GA)",
+      "city": "General Alvear",
+      "province": "Mendoza",
+      "affiliation": "indirecta",
+      "stadium": "Gigante de Cemento",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Argentino",
+      "shortName": "Argentino (M)",
+      "city": "San José (Guaymallén)",
+      "province": "Mendoza",
+      "affiliation": "indirecta",
+      "stadium": "Ingeniero Mauricio Serra",
+      "colors": {
+        "primary": "#009DF3",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Defensores de Belgrano",
+      "shortName": "Defensores de Belgrano (JD)",
+      "city": "Justo Daract",
+      "province": "San Luis",
+      "affiliation": "indirecta",
+      "stadium": "El Coliseo",
+      "colors": {
+        "primary": "#D50000",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Sportivo Desamparados",
+      "shortName": "Sportivo Desamparados",
+      "city": "San Juan",
+      "province": "San Juan",
+      "affiliation": "indirecta",
+      "stadium": "José Eduardo Nehin",
+      "colors": {
+        "primary": "#008000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Paraná",
+      "shortName": "Paraná (SN)",
+      "city": "San Nicolás de los Arroyos",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Atlético Paraná",
+      "colors": {
+        "primary": "#D50000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Chascomús",
+      "shortName": "Atlético Chascomús",
+      "city": "Chascomús",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Juan Silverio Oroz",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Academia Javier Mascherano",
+      "shortName": "Academia Mascherano",
+      "city": "Lincoln",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Edgar Aramburu",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#1E3A8A"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético 9 de Julio",
+      "shortName": "9 de Julio (Chacabuco)",
+      "city": "Chacabuco",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Aldo Carena",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#008000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Deportivo Norte",
+      "shortName": "Deportivo Norte",
+      "city": "Mar del Plata",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Carlos H. Miori",
+      "colors": {
+        "primary": "#008000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Racing Athletic Club",
+      "shortName": "Racing (Olavarría)",
+      "city": "Olavarría",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "José Buglione Martinese",
+      "colors": {
+        "primary": "#6CACE4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Huracán de Ingeniero White",
+      "shortName": "Huracán (IW)",
+      "city": "Ingeniero White",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Bruno Lentini",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#D50000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Ferro Carril Oeste",
+      "shortName": "Ferro (General Pico)",
+      "city": "General Pico",
+      "province": "La Pampa",
+      "affiliation": "indirecta",
+      "stadium": "El Coloso del Barrio Talleres",
+      "colors": {
+        "primary": "#008751",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Social y Atlético Jorge Newbery",
+      "shortName": "Jorge Newbery (CP)",
+      "city": "Carmen de Patagones",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Armando Sitanor Ballestrasse",
+      "colors": {
+        "primary": "#1E3A8A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Social y Deportivo Alianza de Cutral-Có",
+      "shortName": "Alianza (Cutral Có)",
+      "city": "Cutral Có",
+      "province": "Neuquén",
+      "affiliation": "indirecta",
+      "stadium": "Coloso del Ruca Quimey",
+      "colors": {
+        "primary": "#00ACF0",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Escorpión Fútbol Club",
+      "shortName": "Escorpión",
+      "city": "Río Gallegos",
+      "province": "Santa Cruz",
+      "affiliation": "indirecta",
+      "stadium": "Sin nombre (cancha propia)",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFD700"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Comisión de Actividades Infantiles",
+      "shortName": "CAI",
+      "city": "Comodoro Rivadavia",
+      "province": "Chubut",
+      "affiliation": "indirecta",
+      "stadium": "Municipal de Comodoro Rivadavia",
+      "colors": {
+        "primary": "#2266CC",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    }
+  ]
+}

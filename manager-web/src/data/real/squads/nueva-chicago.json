@@ -1,0 +1,231 @@
+{
+  "club": "Nueva Chicago",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Nueva_Chicago"
+  ],
+  "players": [
+    {
+      "name": "Lucas Berscé",
+      "position": "ARQ",
+      "birthDate": "2005-07-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Jachfe",
+      "position": "ARQ",
+      "birthDate": "2001-07-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Masuero",
+      "position": "ARQ",
+      "birthDate": "2000-05-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Arroyo",
+      "position": "DFC",
+      "birthDate": "2003-02-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Damián Díaz",
+      "position": "DFC",
+      "birthDate": "2005-01-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Ferracuti",
+      "position": "DFC",
+      "birthDate": "1991-02-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dylan Gissi",
+      "position": "DFC",
+      "birthDate": "1991-04-27",
+      "nationality": "CHE"
+    },
+    {
+      "name": "Federico Moreno",
+      "position": "DFC",
+      "birthDate": "2001-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Palazzo",
+      "position": "DFC",
+      "birthDate": "2000-11-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Paz",
+      "position": "DFC",
+      "birthDate": "1993-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Reta",
+      "position": "DFC",
+      "birthDate": "2002-12-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ian Silveira",
+      "position": "DFC",
+      "birthDate": "2006-02-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gerónimo Velozo",
+      "position": "DFC",
+      "birthDate": "2003-07-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Vera",
+      "position": "DFC",
+      "birthDate": "1998-08-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Román Zalazar",
+      "position": "DFC",
+      "birthDate": "2005-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Balbuena",
+      "position": "MC",
+      "birthDate": "2000-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Evelio Cardozo",
+      "position": "MC",
+      "birthDate": "2001-02-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo González",
+      "position": "MC",
+      "birthDate": "2007-05-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Germán Mansilla",
+      "position": "MC",
+      "birthDate": "1998-03-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emiliano Méndez",
+      "position": "MC",
+      "birthDate": "1989-02-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Javier Pereyra",
+      "position": "MC",
+      "birthDate": "2000-02-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Ramírez",
+      "position": "MC",
+      "birthDate": "2000-01-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Rodríguez",
+      "position": "MC",
+      "birthDate": "2002-02-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Ruiz",
+      "position": "MC",
+      "birthDate": "1993-08-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Sardinas",
+      "position": "MC",
+      "birthDate": "2006-06-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Toloza",
+      "position": "MC",
+      "birthDate": "2005-06-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Vega",
+      "position": "MC",
+      "birthDate": "2002-04-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Ambrogio",
+      "position": "DC",
+      "birthDate": "1999-07-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Barros",
+      "position": "DC",
+      "birthDate": "2005-11-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Bergara",
+      "position": "DC",
+      "birthDate": "2004-01-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Cocimano",
+      "position": "DC",
+      "birthDate": "2000-05-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Ocampo",
+      "position": "DC",
+      "birthDate": "2008-09-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Ortiz",
+      "position": "DC",
+      "birthDate": "2006-09-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Simón Pérez",
+      "position": "DC",
+      "birthDate": "2003-02-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nazareno Petrecca",
+      "position": "DC",
+      "birthDate": "2006-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Romero",
+      "position": "DC",
+      "birthDate": "1994-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Varela",
+      "position": "DC",
+      "birthDate": "2005-01-01",
+      "nationality": "ARG"
+    }
+  ]
+}

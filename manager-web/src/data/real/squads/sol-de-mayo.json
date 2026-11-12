@@ -1,0 +1,141 @@
+{
+  "club": "Sol de Mayo",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Sol_de_Mayo"
+  ],
+  "players": [
+    {
+      "name": "Juan Cruz Nadal",
+      "position": "ARQ",
+      "birthDate": "1998-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brandon Salinas",
+      "position": "ARQ",
+      "birthDate": "2004-12-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Agostinelli",
+      "position": "DFC",
+      "birthDate": "2006-06-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Lucena",
+      "position": "DFC",
+      "birthDate": "2000-05-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Míguez",
+      "position": "DFC",
+      "birthDate": "1998-06-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tamir Ortiz",
+      "position": "DFC",
+      "birthDate": "2003-07-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Preciado",
+      "position": "DFC",
+      "birthDate": "2004-01-10",
+      "nationality": "COL"
+    },
+    {
+      "name": "Rafael Ríos",
+      "position": "DFC",
+      "birthDate": "1996-08-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jorge Scolari",
+      "position": "DFC",
+      "birthDate": "1989-09-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Aldabe",
+      "position": "MC",
+      "birthDate": "2000-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Samuel Barry",
+      "position": "MC",
+      "birthDate": "2006-07-16",
+      "nationality": "AUS"
+    },
+    {
+      "name": "Valentino Benítez Digorado",
+      "position": "MC",
+      "birthDate": "2003-05-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Dietz",
+      "position": "MC",
+      "birthDate": "2003-05-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joel Martínez",
+      "position": "MC",
+      "birthDate": "1996-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Miqueas Martínez",
+      "position": "MC",
+      "birthDate": "2004-03-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Núñez",
+      "position": "MC",
+      "birthDate": "2002-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Pereira",
+      "position": "DC",
+      "birthDate": "2006-09-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Mazzola",
+      "position": "DC",
+      "birthDate": "1990-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Héctor Morales",
+      "position": "DC",
+      "birthDate": "1989-11-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alberto Reyes",
+      "position": "DC",
+      "birthDate": "1994-08-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Manuel Rubio",
+      "position": "DC",
+      "birthDate": "2005-09-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Valdebenito",
+      "position": "DC",
+      "birthDate": "1991-06-21",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "club": "Sportivo Belgrano",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Sportivo-Belgrano-1485.html",
+    "https://www.lavozdesanjusto.com.ar/sportivo-quiere-seguir-de-racha-en-escobar"
+  ],
+  "players": [
+    {
+      "name": "Pedro Bravo",
+      "position": "ARQ",
+      "birthDate": "2000-04-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Martina",
+      "position": "ARQ",
+      "birthDate": "1996-01-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Alessi",
+      "position": "DFC",
+      "birthDate": "2003-10-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Manuel Carballo",
+      "position": "DFC",
+      "birthDate": "2004-06-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gianfranco Ferrero",
+      "position": "DFC",
+      "birthDate": "1995-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Ferreyra",
+      "position": "DFC",
+      "birthDate": "1991-10-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Flores",
+      "position": "DFC",
+      "birthDate": "1990-02-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan Paíz",
+      "position": "DFC",
+      "birthDate": "1997-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Pennesi",
+      "position": "DFC",
+      "birthDate": "1998-07-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Vidal",
+      "position": "DFC",
+      "birthDate": "2007-08-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Beltrán",
+      "position": "MC",
+      "birthDate": "1990-08-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Ignacio Bono",
+      "position": "MC",
+      "birthDate": "2002-07-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Brener",
+      "position": "MC",
+      "birthDate": "1998-05-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan María Caviglia",
+      "position": "MC",
+      "birthDate": "1997-06-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Churchi",
+      "position": "MC",
+      "birthDate": "1998-08-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pedro Contreras",
+      "position": "MC",
+      "birthDate": "2006-12-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías Franceschi",
+      "position": "MC",
+      "birthDate": "2004-02-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mariano Gancedo",
+      "position": "MC",
+      "birthDate": "1998-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Giménez",
+      "position": "MC",
+      "birthDate": "2000-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Quaranta",
+      "position": "MC",
+      "birthDate": "2001-11-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mariano Sagristani",
+      "position": "MC",
+      "birthDate": "2001-10-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Ignacio Aróstegui",
+      "position": "DC",
+      "birthDate": "2006-02-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Máximo Forlín",
+      "position": "DC",
+      "birthDate": "2005-08-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alfio Lehmann",
+      "position": "DC",
+      "birthDate": "2002-07-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Germán Lesman",
+      "position": "DC",
+      "birthDate": "1990-08-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Mercado",
+      "position": "DC",
+      "birthDate": "1997-04-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Pastorelli",
+      "position": "DC",
+      "birthDate": "1997-09-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Tarifa",
+      "position": "DC",
+      "birthDate": "2000-12-18",
+      "nationality": "ARG"
+    }
+  ]
+}

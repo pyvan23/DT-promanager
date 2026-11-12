@@ -1,0 +1,183 @@
+{
+  "club": "Sarmiento (LB)",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Sarmiento-1944.html"
+  ],
+  "players": [
+    {
+      "name": "Sebastián Acuña",
+      "position": "ARQ",
+      "birthDate": "1993-01-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Ignacio Mendonça",
+      "position": "ARQ",
+      "birthDate": "1986-04-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Díaz",
+      "position": "DFC",
+      "birthDate": "1989-05-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Guzmán",
+      "position": "DFC",
+      "birthDate": "1989-11-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Molina",
+      "position": "DFC",
+      "birthDate": "1995-04-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos Núñez",
+      "position": "DFC",
+      "birthDate": "1997-07-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Axel Ochoa",
+      "position": "DFC",
+      "birthDate": "1996-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Sánchez",
+      "position": "DFC",
+      "birthDate": "1990-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Tevez",
+      "position": "DFC",
+      "birthDate": "1999-12-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramón Cansinos",
+      "position": "MC",
+      "birthDate": "2002-10-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Díaz Cantoni",
+      "position": "MC",
+      "birthDate": "2004-03-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Gerez",
+      "position": "MC",
+      "birthDate": "2006-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Gutiérrez",
+      "position": "MC",
+      "birthDate": "1986-05-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mario Juárez",
+      "position": "MC",
+      "birthDate": "1996-07-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Palavecino",
+      "position": "MC",
+      "birthDate": "2003-01-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luis Perrone",
+      "position": "MC",
+      "birthDate": "2000-01-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Pinto",
+      "position": "MC",
+      "birthDate": "1998-03-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alfredo Roldán",
+      "position": "MC",
+      "birthDate": "1990-10-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sergio Salto",
+      "position": "MC",
+      "birthDate": "1990-03-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Sánchez Arriola",
+      "position": "MC",
+      "birthDate": "2007-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Sánchez Arriola",
+      "position": "MC",
+      "birthDate": "1994-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Taboada",
+      "position": "MC",
+      "birthDate": "2007-07-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mario Valdez",
+      "position": "MC",
+      "birthDate": "1994-11-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Veliz",
+      "position": "MC",
+      "birthDate": "2002-07-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Zaineddin",
+      "position": "MC",
+      "birthDate": "2003-08-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Bernal",
+      "position": "DC",
+      "birthDate": "1993-07-17",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Iván Garzón",
+      "position": "DC",
+      "birthDate": "1995-01-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Saúl Toloza",
+      "position": "DC",
+      "birthDate": "1990-06-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gaspar Triverio",
+      "position": "DC",
+      "birthDate": "1995-01-06",
+      "nationality": "ARG"
+    }
+  ]
+}

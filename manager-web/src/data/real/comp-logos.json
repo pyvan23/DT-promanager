@@ -1,0 +1,337 @@
+{
+  "lpf": {
+    "file": "competiciones/lpf.png",
+    "source": "https://en.wikipedia.org/wiki/File:Liga_Profesional_de_F%C3%BAtbol_(Argentina)_logo.svg",
+    "license": "Fair use",
+    "article": "AFA Liga Profesional de Fútbol",
+    "image": "Liga_Profesional_de_Fútbol_(Argentina)_logo.svg"
+  },
+  "nacional": {
+    "file": "competiciones/nacional.png",
+    "source": "https://en.wikipedia.org/wiki/File:Primera_Nacional_Logo.svg",
+    "license": "Fair use",
+    "article": "Primera Nacional",
+    "image": "Primera_Nacional_Logo.svg"
+  },
+  "copa-argentina": {
+    "file": "competiciones/copa-argentina.png",
+    "source": "https://en.wikipedia.org/wiki/File:Copa_argentina_logo22.png",
+    "license": "Fair use",
+    "article": "Copa Argentina",
+    "image": "Copa_argentina_logo22.png"
+  },
+  "copa-libertadores": {
+    "file": "competiciones/copa-libertadores.png",
+    "source": "https://en.wikipedia.org/wiki/File:Copa_Libertadores_logo.svg",
+    "license": "Fair use",
+    "article": "Copa Libertadores",
+    "image": "Copa_Libertadores_logo.svg"
+  },
+  "copa-sudamericana": {
+    "file": "competiciones/copa-sudamericana.png",
+    "source": "https://en.wikipedia.org/wiki/File:CONMEBOL_Sudamericana_logo_(2017).svg",
+    "license": "Fair use",
+    "article": "Copa Sudamericana",
+    "image": "CONMEBOL_Sudamericana_logo_(2017).svg"
+  },
+  "champions-league": {
+    "file": "competiciones/champions-league.png",
+    "source": "https://en.wikipedia.org/wiki/File:UEFA_Champions_League.svg",
+    "license": "PD",
+    "article": "UEFA Champions League",
+    "image": "UEFA_Champions_League.svg"
+  },
+  "conference-league": {
+    "file": "competiciones/conference-league.png",
+    "source": "https://commons.wikimedia.org/wiki/File:UEFA_Conference_League_full_logo_(2024_version).svg",
+    "license": "Public domain",
+    "article": "UEFA Conference League",
+    "image": "UEFA_Conference_League_full_logo_(2024_version).svg"
+  },
+  "uefa-supercup": {
+    "file": "competiciones/uefa-supercup.png",
+    "source": "https://en.wikipedia.org/wiki/File:UEFA_Super_Cup_logo.svg",
+    "license": "Fair use",
+    "article": "UEFA Super Cup",
+    "image": "UEFA_Super_Cup_logo.svg"
+  },
+  "eng-2": {
+    "file": "competiciones/eng-2.png",
+    "source": "https://en.wikipedia.org/wiki/File:EFL_Championship_Logo.svg",
+    "license": "Fair use",
+    "article": "EFL Championship",
+    "image": "EFL_Championship_Logo.svg"
+  },
+  "eng-cup": {
+    "file": "competiciones/eng-cup.png",
+    "source": "https://en.wikipedia.org/wiki/File:FA_Cup_logo_(2020).svg",
+    "license": "Fair use",
+    "article": "FA Cup",
+    "image": "FA_Cup_logo_(2020).svg"
+  },
+  "esp-2": {
+    "file": "competiciones/esp-2.png",
+    "source": "https://commons.wikimedia.org/wiki/File:LaLiga_Hypermotion_2023_Vertical_Logo.svg",
+    "license": "Public domain",
+    "article": "Segunda División",
+    "image": "LaLiga_Hypermotion_2023_Vertical_Logo.svg"
+  },
+  "esp-cup": {
+    "file": "competiciones/esp-cup.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Copa_del_Rey_logo_(2021).svg",
+    "license": "Public domain",
+    "article": "Copa del Rey",
+    "image": "Copa_del_Rey_logo_(2021).svg"
+  },
+  "ita-1": {
+    "file": "competiciones/ita-1.png",
+    "source": "https://en.wikipedia.org/wiki/File:Serie_A_ENILIVE_logo.svg",
+    "license": "Fair use",
+    "article": "Serie A",
+    "image": "Serie_A_ENILIVE_logo.svg"
+  },
+  "ita-2": {
+    "file": "competiciones/ita-2.png",
+    "source": "https://en.wikipedia.org/wiki/File:Serie_BKT_logo.svg",
+    "license": "Fair use",
+    "article": "Serie B",
+    "image": "Serie_BKT_logo.svg"
+  },
+  "deu-1": {
+    "file": "competiciones/deu-1.png",
+    "source": "https://en.wikipedia.org/wiki/File:Bundesliga_logo_(2017).svg",
+    "license": "Fair use",
+    "article": "Bundesliga",
+    "image": "Bundesliga_logo_(2017).svg"
+  },
+  "deu-cup": {
+    "file": "competiciones/deu-cup.png",
+    "source": "https://en.wikipedia.org/wiki/File:DFB-Pokal_Logo_2026.svg",
+    "license": "Fair use",
+    "article": "DFB-Pokal",
+    "image": "DFB-Pokal_Logo_2026.svg"
+  },
+  "fra-2": {
+    "file": "competiciones/fra-2.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Ligue_2_BKT_2024.svg",
+    "license": "Public domain",
+    "article": "Ligue 2",
+    "image": "Logo_Ligue_2_BKT_2024.svg"
+  },
+  "fra-cup": {
+    "file": "competiciones/fra-cup.png",
+    "source": "https://en.wikipedia.org/wiki/File:Coupe_de_France_logo_(2022).svg",
+    "license": "Fair use",
+    "article": "Coupe de France",
+    "image": "Coupe_de_France_logo_(2022).svg"
+  },
+  "prt-1": {
+    "file": "competiciones/prt-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Liga_Portugal_Betclic_logo.svg",
+    "license": "Public domain",
+    "article": "Primeira Liga",
+    "image": "Liga_Portugal_Betclic_logo.svg"
+  },
+  "prt-cup": {
+    "file": "competiciones/prt-cup.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Ta%C3%A7a_de_Portugal_Trophy.svg",
+    "license": "CC BY-SA 4.0",
+    "article": "Taça de Portugal",
+    "image": "Taça_de_Portugal_Trophy.svg"
+  },
+  "nld-cup": {
+    "file": "competiciones/nld-cup.png",
+    "source": "https://en.wikipedia.org/wiki/File:KNVB_Cup_logo.png",
+    "license": "Fair use",
+    "article": "KNVB Cup",
+    "image": "KNVB_Cup_logo.png"
+  },
+  "bel-cup": {
+    "file": "competiciones/bel-cup.png",
+    "source": "https://en.wikipedia.org/wiki/File:Belgian_Cup,_Croky_Cup,_sponsored_logo_since_2022-23.png",
+    "license": "Fair use",
+    "article": "Belgian Cup",
+    "image": "Belgian_Cup,_Croky_Cup,_sponsored_logo_since_2022-23.png"
+  },
+  "sco-cup": {
+    "file": "competiciones/sco-cup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Scottish_cup.jpg",
+    "license": "CC BY-SA 3.0",
+    "article": "Scottish Cup",
+    "image": "Scottish_cup.jpg"
+  },
+  "tur-1": {
+    "file": "competiciones/tur-1.png",
+    "source": "https://en.wikipedia.org/wiki/File:Turkish_S%C3%BCper_Lig_logo_(2024).svg",
+    "license": "PD",
+    "article": "Süper Lig",
+    "image": "Turkish_Süper_Lig_logo_(2024).svg"
+  },
+  "tur-cup": {
+    "file": "competiciones/tur-cup.png",
+    "source": "https://en.wikipedia.org/wiki/File:Ziraat_Turkish_Cup_Vertical_Logo.png",
+    "license": "Fair use",
+    "article": "Turkish Cup",
+    "image": "Ziraat_Turkish_Cup_Vertical_Logo.png"
+  },
+  "bra-1": {
+    "file": "competiciones/bra-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Campeonato_Brasileiro_S%C3%A9rie_A_logo_(2026).svg",
+    "license": "Public domain",
+    "article": "Campeonato Brasileiro Série A",
+    "image": "Campeonato_Brasileiro_Série_A_logo_(2026).svg"
+  },
+  "bra-2": {
+    "file": "competiciones/bra-2.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Campeonato_Brasileiro_S%C3%A9rie_B_logo_(2025).svg",
+    "license": "Public domain",
+    "article": "Campeonato Brasileiro Série B",
+    "image": "Campeonato_Brasileiro_Série_B_logo_(2025).svg"
+  },
+  "bra-cup": {
+    "file": "competiciones/bra-cup.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Copa_do_Brasil_logo_(2018).svg",
+    "license": "Public domain",
+    "article": "Copa do Brasil",
+    "image": "Copa_do_Brasil_logo_(2018).svg"
+  },
+  "ury-cup": {
+    "file": "competiciones/ury-cup.png",
+    "source": "https://en.wikipedia.org/wiki/File:Copa_Uruguay.png",
+    "license": "Fair use",
+    "article": "Copa Uruguay",
+    "image": "Copa_Uruguay.png"
+  },
+  "pry-1": {
+    "file": "competiciones/pry-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo-division-de-honor.png",
+    "license": "CC BY-SA 4.0",
+    "article": "APF División de Honor",
+    "image": "Logo-division-de-honor.png"
+  },
+  "chl-1": {
+    "file": "competiciones/chl-1.png",
+    "source": "https://en.wikipedia.org/wiki/File:LigaPrimeraChile.png",
+    "license": "Fair use",
+    "article": "Liga de Primera",
+    "image": "LigaPrimeraChile.png"
+  },
+  "col-1": {
+    "file": "competiciones/col-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:BetPlay-Dimayor_logo.svg",
+    "license": "Public domain",
+    "article": "Liga DIMAYOR",
+    "image": "BetPlay-Dimayor_logo.svg"
+  },
+  "col-cup": {
+    "file": "competiciones/col-cup.png",
+    "source": "https://en.wikipedia.org/wiki/File:CopaColombia1.png",
+    "license": "Fair use",
+    "article": "Copa Colombia",
+    "image": "CopaColombia1.png"
+  },
+  "per-1": {
+    "file": "competiciones/per-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Liga_1_(Peru)_logo.svg",
+    "license": "Public domain",
+    "article": "Liga 1 (Peru)",
+    "image": "Liga_1_(Peru)_logo.svg"
+  },
+  "ven-1": {
+    "file": "competiciones/ven-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Liga_FUTVE_2023.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Liga FUTVE",
+    "image": "Liga_FUTVE_2023.png"
+  },
+  "europa-league": {
+    "file": "competiciones/europa-league.png",
+    "source": "https://commons.wikimedia.org/wiki/File:UEFA_Europa_League_logo_(2024_version).svg",
+    "license": "Public domain",
+    "article": "UEFA Europa League",
+    "image": "UEFA_Europa_League_logo_(2024_version).svg"
+  },
+  "ita-cup": {
+    "file": "competiciones/ita-cup.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_of_Coppa_Italia_Frecciarossa_(2024-2025).svg",
+    "license": "Public domain",
+    "article": "Coppa Italia",
+    "image": "Logo_of_Coppa_Italia_Frecciarossa_(2024-2025).svg"
+  },
+  "fra-1": {
+    "file": "competiciones/fra-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Ligue_1_McDonald%27s_2024.svg",
+    "license": "Public domain",
+    "article": "Ligue 1",
+    "image": "Logo_Ligue_1_McDonald's_2024.svg"
+  },
+  "nld-1": {
+    "file": "competiciones/nld-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:VriendenLoterij_Eredivisie_Logo.png",
+    "license": "Public domain",
+    "article": "Eredivisie",
+    "image": "VriendenLoterij_Eredivisie_Logo.png"
+  },
+  "ecu-1": {
+    "file": "competiciones/ecu-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Football_of_Ecuador_-_Liga_Pro_logo_(normal).svg",
+    "license": "Public domain",
+    "article": "LigaPro Serie A",
+    "image": "Football_of_Ecuador_-_Liga_Pro_logo_(normal).svg"
+  },
+  "eng-1": {
+    "file": "competiciones/eng-1.png",
+    "source": "https://en.wikipedia.org/wiki/File:Premier_League_Logo.svg",
+    "license": "Fair use",
+    "article": "Premier League",
+    "image": "Premier_League_Logo.svg"
+  },
+  "esp-1": {
+    "file": "competiciones/esp-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:LaLiga_EA_Sports_2023_Vertical_Logo.svg",
+    "license": "Public domain",
+    "article": "La Liga",
+    "image": "LaLiga_EA_Sports_2023_Vertical_Logo.svg"
+  },
+  "sco-1": {
+    "file": "competiciones/sco-1.png",
+    "source": "https://en.wikipedia.org/wiki/File:Scottish_Premiership_logo.svg",
+    "license": "Fair use",
+    "article": "Scottish Premiership",
+    "image": "Scottish_Premiership_logo.svg"
+  },
+  "tur-2": {
+    "file": "competiciones/tur-2.png",
+    "source": "https://en.wikipedia.org/wiki/File:TFF_1.Lig_logo.png",
+    "license": "Fair use",
+    "article": "TFF 1. Lig",
+    "image": "TFF_1.Lig_logo.png"
+  },
+  "ury-1": {
+    "file": "competiciones/ury-1.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Liga_AUF_Uruguaya_-_logo_azul.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Liga AUF Uruguaya",
+    "image": "Liga_AUF_Uruguaya_-_logo_azul.png"
+  },
+  "bel-1": {
+    "file": "competiciones/bel-1.png",
+    "source": "https://www.thesportsdb.com/league/4338",
+    "license": "TheSportsDB (logo de la competición)"
+  },
+  "b-metro": {
+    "file": "competiciones/b-metro.png",
+    "source": "https://www.thesportsdb.com/league/5215",
+    "license": "TheSportsDB (logo de la competición)"
+  },
+  "federal-a": {
+    "file": "competiciones/federal-a.png",
+    "source": "https://www.thesportsdb.com/league/5523",
+    "license": "TheSportsDB (logo de la competición)"
+  },
+  "primera-c": {
+    "file": "competiciones/primera-c.png",
+    "source": "https://www.thesportsdb.com/league/5524",
+    "license": "TheSportsDB (logo de la competición)"
+  }
+}

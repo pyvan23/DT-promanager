@@ -1,0 +1,159 @@
+{
+  "club": "Sol de América (F)",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Sol-de-America-3173.html"
+  ],
+  "players": [
+    {
+      "name": "Matías Astrada",
+      "position": "ARQ",
+      "birthDate": "1997-06-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luis Rodriguez",
+      "position": "ARQ",
+      "birthDate": "1991-07-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gaston Giraudo",
+      "position": "DFC",
+      "birthDate": "1996-10-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel López Alba",
+      "position": "DFC",
+      "birthDate": "1993-04-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías Medeiro",
+      "position": "DFC",
+      "birthDate": "1998-03-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Axel Medina Aguayo",
+      "position": "DFC",
+      "birthDate": "1999-09-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Meza",
+      "position": "DFC",
+      "birthDate": "1985-09-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Ojeda",
+      "position": "DFC",
+      "birthDate": "1995-03-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Pardo",
+      "position": "DFC",
+      "birthDate": "1998-08-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Peña",
+      "position": "DFC",
+      "birthDate": "2004-09-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Rojas",
+      "position": "DFC",
+      "birthDate": "1999-12-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Alcaraz",
+      "position": "MC",
+      "birthDate": "1998-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Britez",
+      "position": "MC",
+      "birthDate": "2001-10-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "José Cabañas",
+      "position": "MC",
+      "birthDate": "1997-04-07",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Sebastián Jiménez",
+      "position": "MC",
+      "birthDate": "2000-07-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Mendoza",
+      "position": "MC",
+      "birthDate": "1999-05-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mariano Mendoza",
+      "position": "MC",
+      "birthDate": "1997-05-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Olmedo",
+      "position": "MC",
+      "birthDate": "2002-02-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Paredes",
+      "position": "MC",
+      "birthDate": "2003-07-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Pietkewicz",
+      "position": "MC",
+      "birthDate": "1996-09-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "José Romero",
+      "position": "MC",
+      "birthDate": "1985-05-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Di Martino",
+      "position": "DC",
+      "birthDate": "1999-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jesus Olmedo",
+      "position": "DC",
+      "birthDate": "2002-06-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Javier Sosa",
+      "position": "DC",
+      "birthDate": "2006-02-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Vega",
+      "position": "DC",
+      "birthDate": "2005-01-24",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "division": "ITA-1",
+  "country": "ITA",
+  "name": "Serie A",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://www.legaseriea.it/"
+  ],
+  "formatNotes": "20 equipos, 38 jornadas. Descienden directamente los puestos 18-20 a Serie B (empate a puntos en 1.º o 17.º se resuelve con partido de desempate). Ascendidos 2026-27: Venezia, Frosinone, Monza; descendidos 2025-26: Cremonese, Hellas Verona, Pisa. Europa: 1.º-4.º Champions League (5.º también si Italia logra plaza extra UEFA), 5.º Europa League, 6.º Conference League (play-off); campeón de Coppa Italia a Europa League (si termina entre los 5 primeros, el 6.º va a Europa League y el 7.º a Conference).",
+  "domesticCup": {
+    "name": "Coppa Italia",
+    "formatNotes": "Eliminación directa con clubes de Serie A, Serie B y algunos de Serie C; los mejores clasificados de Serie A entran en octavos; partido único hasta cuartos, semifinales a doble partido y final única en el Olímpico de Roma. Campeón a Europa League y a la Supercoppa."
+  },
+  "clubs": [
+    {
+      "name": "Atalanta Bergamasca Calcio",
+      "shortName": "Atalanta",
+      "city": "Bérgamo",
+      "province": "Lombardía",
+      "affiliation": "directa",
+      "stadium": "New Balance Arena",
+      "colors": {
+        "primary": "#1E71B8",
+        "secondary": "#000000"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Bologna Football Club 1909",
+      "shortName": "Bologna",
+      "city": "Bolonia",
+      "province": "Emilia-Romaña",
+      "affiliation": "directa",
+      "stadium": "Renato Dall'Ara",
+      "colors": {
+        "primary": "#A21C26",
+        "secondary": "#1A2F48"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Cagliari Calcio",
+      "shortName": "Cagliari",
+      "city": "Cagliari",
+      "province": "Cerdeña",
+      "affiliation": "directa",
+      "stadium": "Unipol Domus",
+      "colors": {
+        "primary": "#B5121B",
+        "secondary": "#002350"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Como 1907",
+      "shortName": "Como",
+      "city": "Como",
+      "province": "Lombardía",
+      "affiliation": "directa",
+      "stadium": "Giuseppe Sinigaglia",
+      "colors": {
+        "primary": "#1F4E9A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "ACF Fiorentina",
+      "shortName": "Fiorentina",
+      "city": "Florencia",
+      "province": "Toscana",
+      "affiliation": "directa",
+      "stadium": "Artemio Franchi",
+      "colors": {
+        "primary": "#482E92",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Frosinone Calcio",
+      "shortName": "Frosinone",
+      "city": "Frosinone",
+      "province": "Lacio",
+      "affiliation": "directa",
+      "stadium": "Benito Stirpe",
+      "colors": {
+        "primary": "#FFDD00",
+        "secondary": "#003399"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Genoa Cricket and Football Club",
+      "shortName": "Genoa",
+      "city": "Génova",
+      "province": "Liguria",
+      "affiliation": "directa",
+      "stadium": "Luigi Ferraris",
+      "colors": {
+        "primary": "#A6192E",
+        "secondary": "#002D72"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Football Club Internazionale Milano",
+      "shortName": "Inter",
+      "city": "Milán",
+      "province": "Lombardía",
+      "affiliation": "directa",
+      "stadium": "San Siro (Giuseppe Meazza)",
+      "colors": {
+        "primary": "#0068A8",
+        "secondary": "#000000"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Juventus Football Club",
+      "shortName": "Juventus",
+      "city": "Turín",
+      "province": "Piamonte",
+      "affiliation": "directa",
+      "stadium": "Allianz Stadium",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Società Sportiva Lazio",
+      "shortName": "Lazio",
+      "city": "Roma",
+      "province": "Lacio",
+      "affiliation": "directa",
+      "stadium": "Stadio Olimpico",
+      "colors": {
+        "primary": "#87D8F7",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Unione Sportiva Lecce",
+      "shortName": "Lecce",
+      "city": "Lecce",
+      "province": "Apulia",
+      "affiliation": "directa",
+      "stadium": "Via del Mare",
+      "colors": {
+        "primary": "#FFE600",
+        "secondary": "#E2001A"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Associazione Calcio Milan",
+      "shortName": "Milan",
+      "city": "Milán",
+      "province": "Lombardía",
+      "affiliation": "directa",
+      "stadium": "San Siro (Giuseppe Meazza)",
+      "colors": {
+        "primary": "#FB090B",
+        "secondary": "#000000"
+      },
+      "stature": 5
+    },
+    {
+      "name": "Associazione Calcio Monza",
+      "shortName": "Monza",
+      "city": "Monza",
+      "province": "Lombardía",
+      "affiliation": "directa",
+      "stadium": "Stadio Brianteo (U-Power Stadium)",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Società Sportiva Calcio Napoli",
+      "shortName": "Napoli",
+      "city": "Nápoles",
+      "province": "Campania",
+      "affiliation": "directa",
+      "stadium": "Diego Armando Maradona",
+      "colors": {
+        "primary": "#12A0D7",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Parma Calcio 1913",
+      "shortName": "Parma",
+      "city": "Parma",
+      "province": "Emilia-Romaña",
+      "affiliation": "directa",
+      "stadium": "Ennio Tardini",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Associazione Sportiva Roma",
+      "shortName": "Roma",
+      "city": "Roma",
+      "province": "Lacio",
+      "affiliation": "directa",
+      "stadium": "Stadio Olimpico",
+      "colors": {
+        "primary": "#8E1F2F",
+        "secondary": "#F0BC42"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Unione Sportiva Sassuolo Calcio",
+      "shortName": "Sassuolo",
+      "city": "Reggio Emilia",
+      "province": "Emilia-Romaña",
+      "affiliation": "directa",
+      "stadium": "Mapei Stadium – Città del Tricolore",
+      "colors": {
+        "primary": "#00A752",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Torino Football Club",
+      "shortName": "Torino",
+      "city": "Turín",
+      "province": "Piamonte",
+      "affiliation": "directa",
+      "stadium": "Olimpico Grande Torino",
+      "colors": {
+        "primary": "#881F19",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Udinese Calcio",
+      "shortName": "Udinese",
+      "city": "Udine",
+      "province": "Friuli-Venecia Julia",
+      "affiliation": "directa",
+      "stadium": "Bluenergy Stadium",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Venezia Football Club",
+      "shortName": "Venezia",
+      "city": "Venecia",
+      "province": "Véneto",
+      "affiliation": "directa",
+      "stadium": "Pier Luigi Penzo",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FF6600"
+      },
+      "stature": 2
+    }
+  ]
+}

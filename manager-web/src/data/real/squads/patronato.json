@@ -1,0 +1,201 @@
+{
+  "club": "Patronato",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Patronato_de_la_Juventud_Cat%C3%B3lica"
+  ],
+  "players": [
+    {
+      "name": "Matías Caballero",
+      "position": "ARQ",
+      "birthDate": "2004-03-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Román Peralta",
+      "position": "ARQ",
+      "birthDate": "2004-06-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Rivasseau",
+      "position": "ARQ",
+      "birthDate": "1998-07-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Sosa",
+      "position": "ARQ",
+      "birthDate": "1996-04-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Díaz",
+      "position": "DFC",
+      "birthDate": "2001-06-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Díaz",
+      "position": "DFC",
+      "birthDate": "2003-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Evangelista",
+      "position": "DFC",
+      "birthDate": "1991-10-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Génez",
+      "position": "DFC",
+      "birthDate": "2003-06-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Lencinas",
+      "position": "DFC",
+      "birthDate": "2008-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Meritello",
+      "position": "DFC",
+      "birthDate": "1996-03-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Moreyra",
+      "position": "DFC",
+      "birthDate": "1990-08-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Piccioni",
+      "position": "DFC",
+      "birthDate": "2003-02-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Salas",
+      "position": "DFC",
+      "birthDate": "1999-04-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Barinaga",
+      "position": "MC",
+      "birthDate": "2000-06-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Benjamín Bravo",
+      "position": "MC",
+      "birthDate": "2003-06-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Bravo",
+      "position": "MC",
+      "birthDate": "1993-10-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brandon Cortés",
+      "position": "MC",
+      "birthDate": "2001-06-26",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Facundo Heredia",
+      "position": "MC",
+      "birthDate": "1999-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejo Miró",
+      "position": "MC",
+      "birthDate": "2005-02-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Pacco",
+      "position": "MC",
+      "birthDate": "2003-10-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Pereyra",
+      "position": "MC",
+      "birthDate": "2002-04-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Augusto Picco",
+      "position": "MC",
+      "birthDate": "2003-08-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Rueda",
+      "position": "MC",
+      "birthDate": "1997-12-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Salega",
+      "position": "MC",
+      "birthDate": "1999-07-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Strey",
+      "position": "MC",
+      "birthDate": "2008-08-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Villarreal",
+      "position": "MC",
+      "birthDate": "2004-11-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Attis",
+      "position": "DC",
+      "birthDate": "1999-10-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Barolín",
+      "position": "DC",
+      "birthDate": "2003-05-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Díaz",
+      "position": "DC",
+      "birthDate": "2002-01-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Renzo Reynaga",
+      "position": "DC",
+      "birthDate": "1999-06-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Hernán Rivero",
+      "position": "DC",
+      "birthDate": "1992-04-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Soldano",
+      "position": "DC",
+      "birthDate": "1994-09-14",
+      "nationality": "ARG"
+    }
+  ]
+}

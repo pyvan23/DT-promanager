@@ -1,0 +1,219 @@
+{
+  "club": "San Martín (SJ)",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_San_Mart%C3%ADn_(San_Juan)"
+  ],
+  "players": [
+    {
+      "name": "Maximiliano Velazco",
+      "position": "ARQ",
+      "birthDate": "1995-03-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Diaz Robles",
+      "position": "ARQ",
+      "birthDate": "2003-11-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Angel Garzon",
+      "position": "ARQ",
+      "birthDate": "2003-07-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Valenzuela",
+      "position": "ARQ",
+      "birthDate": "2004-10-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Murillo",
+      "position": "DFC",
+      "birthDate": "1997-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Álvarez",
+      "position": "DFC",
+      "birthDate": "1996-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Nadalín",
+      "position": "DFC",
+      "birthDate": "1996-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Hernán Zuliani",
+      "position": "DFC",
+      "birthDate": "2002-12-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Cocca",
+      "position": "DFC",
+      "birthDate": "2002-11-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julian Marchio",
+      "position": "DFC",
+      "birthDate": "2000-10-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Aguilera",
+      "position": "DFC",
+      "birthDate": "1989-06-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Orihuela",
+      "position": "DFC",
+      "birthDate": "1992-02-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Lucero",
+      "position": "DFC",
+      "birthDate": "2003-11-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Galván",
+      "position": "DFC",
+      "birthDate": "2003-07-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Pereyra",
+      "position": "DFC",
+      "birthDate": "2004-05-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Osores",
+      "position": "DFC",
+      "birthDate": "1997-02-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián González",
+      "position": "MC",
+      "birthDate": "1992-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Acosta",
+      "position": "MC",
+      "birthDate": "2004-04-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Jaurena",
+      "position": "MC",
+      "birthDate": "1999-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Rúmbolo",
+      "position": "MC",
+      "birthDate": "1995-09-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Mercado",
+      "position": "MC",
+      "birthDate": "1999-05-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Monje",
+      "position": "MC",
+      "birthDate": "1994-06-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Hachen",
+      "position": "MC",
+      "birthDate": "1990-03-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Acosta",
+      "position": "MC",
+      "birthDate": "1988-09-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Tejada",
+      "position": "MC",
+      "birthDate": "2004-02-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Sotomayor",
+      "position": "MC",
+      "birthDate": "2005-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Flores",
+      "position": "MC",
+      "birthDate": "2004-09-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Agüero",
+      "position": "MC",
+      "birthDate": "2005-02-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alex Salcedo",
+      "position": "DC",
+      "birthDate": "2000-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Juncos",
+      "position": "DC",
+      "birthDate": "2003-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlo Lattanzio",
+      "position": "DC",
+      "birthDate": "1998-06-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Genaro Rossi",
+      "position": "DC",
+      "birthDate": "2002-04-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Barrera",
+      "position": "DC",
+      "birthDate": "2004-12-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Jorquera",
+      "position": "DC",
+      "birthDate": "2003-09-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Iachetti",
+      "position": "DC",
+      "birthDate": "1999-05-04",
+      "nationality": "ARG"
+    }
+  ]
+}

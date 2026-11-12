@@ -1,0 +1,209 @@
+{
+  "club": "Mitre (SdE)",
+  "season": 2026,
+  "sources": [
+    "https://canchallena.lanacion.com.ar/equipo/mitre-santiago-d-estero-8zh96lpf1b10kgg50oqv32tc7/",
+    "https://en.wikipedia.org/wiki/Club_Atlético_Mitre",
+    "https://es.wikipedia.org/wiki/Club_Atlético_Mitre_(Santiago_del_Estero)"
+  ],
+  "players": [
+    {
+      "name": "Alan López",
+      "position": "MC",
+      "birthDate": "2002-05-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Ramírez",
+      "position": "DC",
+      "birthDate": "2000-05-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Mieres",
+      "position": "DFC",
+      "birthDate": "1995-07-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Daniel Abello",
+      "position": "DFC",
+      "birthDate": "1994-08-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Avaro",
+      "position": "DC",
+      "birthDate": "1999-05-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Favio Cabral",
+      "position": "DC",
+      "birthDate": "2001-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Ferrari",
+      "position": "DFC",
+      "birthDate": "1992-05-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Gorla",
+      "position": "DC",
+      "birthDate": "2005-05-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gianfranco Lillo Herdt",
+      "position": "DFC",
+      "birthDate": "1999-06-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Unrein",
+      "position": "ARQ",
+      "birthDate": "2004-07-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Valdivia",
+      "position": "DFC",
+      "birthDate": "2001-04-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Pietrobono",
+      "position": "ARQ",
+      "birthDate": "1991-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Alessandroni",
+      "position": "MC",
+      "birthDate": "1988-12-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Ledesma",
+      "position": "ARQ",
+      "birthDate": "1989-08-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Zárate",
+      "position": "DC",
+      "birthDate": "1991-02-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Correa",
+      "position": "DFC",
+      "birthDate": "2002-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Mendoza",
+      "position": "DC",
+      "birthDate": "2002-12-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Barraza",
+      "position": "MC",
+      "birthDate": "1996-05-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Máximo Burgos",
+      "position": "DC",
+      "birthDate": "2005-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Ferrari",
+      "position": "MC",
+      "birthDate": "1996-08-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Machado",
+      "position": "DC",
+      "birthDate": "2001-05-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Maldonado",
+      "position": "DFC",
+      "birthDate": "2005-08-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Montenegro",
+      "position": "MC",
+      "birthDate": "1998-08-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Romero",
+      "position": "DFC",
+      "birthDate": "1994-11-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Vázquez",
+      "position": "DFC",
+      "birthDate": "2003-01-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Oscar Garrido",
+      "position": "MC",
+      "birthDate": "1997-08-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Minissale",
+      "position": "DFC",
+      "birthDate": "2001-01-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo González",
+      "position": "DC",
+      "birthDate": "2000-07-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Lugones",
+      "position": "MC",
+      "birthDate": "2008-03-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Segundo Rodríguez",
+      "position": "DFC",
+      "birthDate": "2003-12-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Rosales",
+      "position": "DC",
+      "birthDate": "1995-03-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tobías Peralta",
+      "position": "DFC",
+      "birthDate": "2007-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yonathan Cabral",
+      "position": "DFC",
+      "birthDate": "1992-05-10",
+      "nationality": "ARG"
+    }
+  ]
+}

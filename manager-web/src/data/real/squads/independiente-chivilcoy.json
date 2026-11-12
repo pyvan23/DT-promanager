@@ -1,0 +1,195 @@
+{
+  "club": "Independiente (Chivilcoy)",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Independiente-1737.html"
+  ],
+  "players": [
+    {
+      "name": "Agustín Burello",
+      "position": "ARQ",
+      "birthDate": "2004-07-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Cordero",
+      "position": "ARQ",
+      "birthDate": "1995-07-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Acuña",
+      "position": "DFC",
+      "birthDate": "2005-09-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gianfranco Borgognoni",
+      "position": "DFC",
+      "birthDate": "2001-09-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Cáceres",
+      "position": "DFC",
+      "birthDate": "2005-04-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gerónimo Fernández",
+      "position": "DFC",
+      "birthDate": "2001-08-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Fevola",
+      "position": "DFC",
+      "birthDate": "2005-12-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe García",
+      "position": "DFC",
+      "birthDate": "2005-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Giménez",
+      "position": "DFC",
+      "birthDate": "2001-02-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Herrera",
+      "position": "DFC",
+      "birthDate": "1996-05-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Thiago Mast",
+      "position": "DFC",
+      "birthDate": "2004-02-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Matera",
+      "position": "DFC",
+      "birthDate": "2005-01-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Dardo Torres",
+      "position": "DFC",
+      "birthDate": "2001-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Vera",
+      "position": "DFC",
+      "birthDate": "1999-10-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Cisneros",
+      "position": "MC",
+      "birthDate": "1996-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás D'Annunzio",
+      "position": "MC",
+      "birthDate": "2004-08-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Elías",
+      "position": "MC",
+      "birthDate": "2004-04-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tenca Hernández",
+      "position": "MC",
+      "birthDate": "1995-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Darío Mendoza",
+      "position": "MC",
+      "birthDate": "2005-02-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lázaro Mercado",
+      "position": "MC",
+      "birthDate": "2004-07-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Uriel Ramírez",
+      "position": "MC",
+      "birthDate": "1999-08-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Rodríguez",
+      "position": "MC",
+      "birthDate": "2004-01-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Romero",
+      "position": "MC",
+      "birthDate": "2006-02-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Manuel Sánchez",
+      "position": "MC",
+      "birthDate": "2004-07-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Soriano",
+      "position": "MC",
+      "birthDate": "2001-05-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Bautista Berrutti",
+      "position": "DC",
+      "birthDate": "2004-06-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Funes",
+      "position": "DC",
+      "birthDate": "2001-11-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Pérez",
+      "position": "DC",
+      "birthDate": "1998-11-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Retamozo",
+      "position": "DC",
+      "birthDate": "2001-03-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Sanhueza",
+      "position": "DC",
+      "birthDate": "1996-11-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Valenti",
+      "position": "DC",
+      "birthDate": "1994-04-07",
+      "nationality": "ARG"
+    }
+  ]
+}

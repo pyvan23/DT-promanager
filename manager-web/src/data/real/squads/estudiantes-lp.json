@@ -1,0 +1,220 @@
+{
+  "club": "Estudiantes (LP)",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Estudiantes_de_La_Plata",
+    "https://estudiantesdelaplata.com/futbol-profesional"
+  ],
+  "players": [
+    {
+      "name": "Fabricio Iacovich",
+      "position": "ARQ",
+      "birthDate": "2002-01-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Borzone",
+      "position": "ARQ",
+      "birthDate": "2004-10-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Muslera",
+      "position": "ARQ",
+      "birthDate": "1986-06-16",
+      "nationality": "URY"
+    },
+    {
+      "name": "Máximo Desábato",
+      "position": "DFC",
+      "birthDate": "2005-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Núñez",
+      "position": "DFC",
+      "birthDate": "2000-04-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Rojo",
+      "position": "DFC",
+      "birthDate": "1990-03-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Benedetti",
+      "position": "DFC",
+      "birthDate": "2001-03-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro González Pírez",
+      "position": "DFC",
+      "birthDate": "1992-02-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Arzamendia",
+      "position": "DFC",
+      "birthDate": "1998-05-05",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Eric Meza",
+      "position": "DFC",
+      "birthDate": "1999-04-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Palacios",
+      "position": "DFC",
+      "birthDate": "2003-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Funes Mori",
+      "position": "DFC",
+      "birthDate": "1991-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Faustino Messina",
+      "position": "DFC",
+      "birthDate": "2006-05-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valente Pierani",
+      "position": "DFC",
+      "birthDate": "2006-02-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Pereyra",
+      "position": "DFC",
+      "birthDate": "2005-06-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Eros Mancuso",
+      "position": "DFC",
+      "birthDate": "1999-04-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "José Sosa",
+      "position": "MC",
+      "birthDate": "1985-06-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Neves",
+      "position": "MC",
+      "birthDate": "1997-08-11",
+      "nationality": "URY"
+    },
+    {
+      "name": "Tiago Palacios",
+      "position": "MC",
+      "birthDate": "2001-03-28",
+      "nationality": "URY"
+    },
+    {
+      "name": "Ezequiel Piovi",
+      "position": "MC",
+      "birthDate": "1992-08-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Castro",
+      "position": "MC",
+      "birthDate": "1994-10-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Baltasar Rodríguez",
+      "position": "MC",
+      "birthDate": "2003-07-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Miguel Monsalve",
+      "position": "MC",
+      "birthDate": "2004-02-27",
+      "nationality": "COL"
+    },
+    {
+      "name": "Franco Basualdo",
+      "position": "MC",
+      "birthDate": "2007-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jalil Elías",
+      "position": "MC",
+      "birthDate": "1996-04-25",
+      "nationality": "SYR"
+    },
+    {
+      "name": "Bautista Kociubinski",
+      "position": "MC",
+      "birthDate": "2001-04-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guido Carrillo",
+      "position": "DC",
+      "birthDate": "1991-05-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Tobio Burgos",
+      "position": "DC",
+      "birthDate": "2004-12-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Edwuin Cetré",
+      "position": "DC",
+      "birthDate": "1998-01-01",
+      "nationality": "COL"
+    },
+    {
+      "name": "Adolfo Gaich",
+      "position": "DC",
+      "birthDate": "1999-02-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Domínguez Ávila",
+      "position": "DC",
+      "birthDate": "2007-07-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Alario",
+      "position": "DC",
+      "birthDate": "1992-10-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Brian Aguirre",
+      "position": "DC",
+      "birthDate": "2003-01-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Pérez",
+      "position": "DC",
+      "birthDate": "2005-12-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Correa",
+      "position": "DC",
+      "birthDate": "1994-08-13",
+      "nationality": "ARG"
+    }
+  ]
+}

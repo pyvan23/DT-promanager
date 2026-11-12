@@ -1,0 +1,243 @@
+{
+  "club": "Almirante Brown",
+  "season": 2026,
+  "sources": [
+    "https://canchallena.lanacion.com.ar/equipo/almirante-brown-d5t5fote4vony6b4pnobpnber/"
+  ],
+  "players": [
+    {
+      "name": "Augusto Bottini",
+      "position": "ARQ",
+      "birthDate": "1998-10-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Galván",
+      "position": "ARQ",
+      "birthDate": "1994-05-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Dáttola",
+      "position": "DFC",
+      "birthDate": "1999-04-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Ramírez",
+      "position": "DFC",
+      "birthDate": "2007-05-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Cardozo",
+      "position": "DFC",
+      "birthDate": "2005-10-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gerardo Alegre",
+      "position": "DFC",
+      "birthDate": "1999-04-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gustavo Cabral",
+      "position": "DFC",
+      "birthDate": "1985-10-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Giovanni Ferraina",
+      "position": "DFC",
+      "birthDate": "2004-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Escalante",
+      "position": "DFC",
+      "birthDate": "2000-05-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Jara",
+      "position": "DFC",
+      "birthDate": "1991-05-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Máximo Levi",
+      "position": "DFC",
+      "birthDate": "1996-01-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Fernández",
+      "position": "DFC",
+      "birthDate": "1995-11-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Villalba",
+      "position": "DFC",
+      "birthDate": "1999-10-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Villoldo",
+      "position": "DFC",
+      "birthDate": "1995-05-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ulises Abreliano",
+      "position": "DFC",
+      "birthDate": "1998-04-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Quignón",
+      "position": "MC",
+      "birthDate": "1993-05-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Altamirano",
+      "position": "MC",
+      "birthDate": "2001-06-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Moreyra",
+      "position": "MC",
+      "birthDate": "1999-12-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Borja",
+      "position": "MC",
+      "birthDate": "2002-01-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan Goya",
+      "position": "MC",
+      "birthDate": "1989-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Ibáñez",
+      "position": "MC",
+      "birthDate": "1996-09-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Iglesias",
+      "position": "MC",
+      "birthDate": "2001-01-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Pascual",
+      "position": "MC",
+      "birthDate": "2004-06-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mariano Santiago",
+      "position": "MC",
+      "birthDate": "2001-05-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pedro Velurtas",
+      "position": "MC",
+      "birthDate": "2001-08-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Gauna",
+      "position": "MC",
+      "birthDate": "2003-04-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tobías Quinteros",
+      "position": "MC",
+      "birthDate": "2005-03-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Uriel Arena",
+      "position": "MC",
+      "birthDate": "2005-03-09",
+      "nationality": "ESP"
+    },
+    {
+      "name": "Facundo García",
+      "position": "DC",
+      "birthDate": "2005-02-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Flores",
+      "position": "DC",
+      "birthDate": "2002-02-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Ibáñez",
+      "position": "DC",
+      "birthDate": "2004-06-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián López",
+      "position": "DC",
+      "birthDate": "1997-06-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Javier Martínez",
+      "position": "DC",
+      "birthDate": "1998-11-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Vega",
+      "position": "DC",
+      "birthDate": "2004-05-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Belloso",
+      "position": "DC",
+      "birthDate": "2000-02-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Milton Zanotti",
+      "position": "DC",
+      "birthDate": "2003-07-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramón González",
+      "position": "DC",
+      "birthDate": "2002-03-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Almada",
+      "position": "DC",
+      "birthDate": "2002-01-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tobías Zárate",
+      "position": "DC",
+      "birthDate": "2000-07-07",
+      "nationality": "ARG"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "club": "Olimpo",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Olimpo"
+  ],
+  "players": [
+    {
+      "name": "Juan Pablo Lungarzo",
+      "position": "ARQ",
+      "birthDate": "1997-10-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Geist",
+      "position": "ARQ",
+      "birthDate": "1999-05-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Néstor Moiraghi",
+      "position": "DFC",
+      "birthDate": "1985-04-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Ferreyra",
+      "position": "DFC",
+      "birthDate": "1996-04-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Osinaga",
+      "position": "DFC",
+      "birthDate": "1998-06-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Hertel",
+      "position": "DFC",
+      "birthDate": "1996-12-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Lapetina",
+      "position": "DFC",
+      "birthDate": "1996-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Chimino",
+      "position": "DFC",
+      "birthDate": "1988-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Bellone",
+      "position": "DFC",
+      "birthDate": "1993-02-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Vega",
+      "position": "DFC",
+      "birthDate": "2000-12-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Ramírez",
+      "position": "MC",
+      "birthDate": "1992-08-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Amarilla",
+      "position": "MC",
+      "birthDate": "1993-11-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Coacci",
+      "position": "MC",
+      "birthDate": "1998-08-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Fernández",
+      "position": "MC",
+      "birthDate": "2000-09-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Stancato",
+      "position": "MC",
+      "birthDate": "1999-04-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Antú Hernández",
+      "position": "MC",
+      "birthDate": "1995-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Vargas",
+      "position": "MC",
+      "birthDate": "1998-02-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Espejo",
+      "position": "MC",
+      "birthDate": "2001-09-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Llanos",
+      "position": "MC",
+      "birthDate": "2005-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Guille",
+      "position": "DC",
+      "birthDate": "1997-07-31",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico González",
+      "position": "DC",
+      "birthDate": "1987-01-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Cristian Ibarra",
+      "position": "DC",
+      "birthDate": "1992-08-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcelo Olivera",
+      "position": "DC",
+      "birthDate": "1999-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Susvielles",
+      "position": "DC",
+      "birthDate": "1991-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Colmenares",
+      "position": "DC",
+      "birthDate": "2004-04-24",
+      "nationality": "ARG"
+    }
+  ]
+}

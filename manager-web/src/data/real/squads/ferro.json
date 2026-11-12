@@ -1,0 +1,207 @@
+{
+  "club": "Ferro",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+  ],
+  "players": [
+    {
+      "name": "Fernando Monetti",
+      "position": "ARQ",
+      "birthDate": "1989-02-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Ruiz",
+      "position": "ARQ",
+      "birthDate": "2002-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alfonso Álvarez",
+      "position": "ARQ",
+      "birthDate": "2007-04-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Misael Tarón",
+      "position": "DFC",
+      "birthDate": "2000-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Tévez",
+      "position": "DFC",
+      "birthDate": "1999-08-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gustavo Canto",
+      "position": "DFC",
+      "birthDate": "1994-02-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nazareno Kihm",
+      "position": "DFC",
+      "birthDate": "2005-05-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Orellana",
+      "position": "DFC",
+      "birthDate": "1997-05-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Peña Biafore",
+      "position": "DFC",
+      "birthDate": "2003-05-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Corda",
+      "position": "DFC",
+      "birthDate": "1995-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Torrent",
+      "position": "DFC",
+      "birthDate": "1991-10-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Zubowicz",
+      "position": "DFC",
+      "birthDate": "2003-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Pandiella",
+      "position": "DFC",
+      "birthDate": "2006-10-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Esidín",
+      "position": "MC",
+      "birthDate": "2006-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago García",
+      "position": "MC",
+      "birthDate": "2002-07-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gino Olguín",
+      "position": "MC",
+      "birthDate": "2000-03-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Obradovich",
+      "position": "MC",
+      "birthDate": "2006-12-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Gómez",
+      "position": "MC",
+      "birthDate": "1996-02-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Kabalin",
+      "position": "MC",
+      "birthDate": "1998-10-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Castellani",
+      "position": "MC",
+      "birthDate": "1987-08-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emiliano Ozuna",
+      "position": "MC",
+      "birthDate": "1996-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Hoyos",
+      "position": "MC",
+      "birthDate": "2000-05-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Laureano Marra",
+      "position": "MC",
+      "birthDate": "2003-03-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Francisco Cuzzani",
+      "position": "MC",
+      "birthDate": "2006-04-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Flores",
+      "position": "MC",
+      "birthDate": "2005-11-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco García",
+      "position": "DC",
+      "birthDate": "1998-05-30",
+      "nationality": "URY"
+    },
+    {
+      "name": "Agustín Lucero",
+      "position": "DC",
+      "birthDate": "2004-04-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Parisi",
+      "position": "DC",
+      "birthDate": "1994-03-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonathan Menéndez",
+      "position": "DC",
+      "birthDate": "1994-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel González",
+      "position": "DC",
+      "birthDate": "1994-05-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Dening",
+      "position": "DC",
+      "birthDate": "1988-12-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Pepe",
+      "position": "DC",
+      "birthDate": "2009-03-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Reniero",
+      "position": "DC",
+      "birthDate": "1995-03-18",
+      "nationality": "ARG"
+    }
+  ]
+}

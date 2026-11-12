@@ -1,0 +1,165 @@
+{
+  "club": "Colón",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Col%C3%B3n"
+  ],
+  "players": [
+    {
+      "name": "Matías Budiño",
+      "position": "ARQ",
+      "birthDate": "1995-07-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Giménez",
+      "position": "ARQ",
+      "birthDate": "1998-10-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Paredes",
+      "position": "ARQ",
+      "birthDate": "2004-01-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Rasmussen",
+      "position": "DFC",
+      "birthDate": "1992-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pier Barrios",
+      "position": "DFC",
+      "birthDate": "1990-07-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mauro Peinipil",
+      "position": "DFC",
+      "birthDate": "1999-04-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Conrado Ibarra",
+      "position": "DFC",
+      "birthDate": "2001-06-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Beltrán",
+      "position": "DFC",
+      "birthDate": "1995-03-25",
+      "nationality": "URY"
+    },
+    {
+      "name": "Leandro Allende",
+      "position": "DFC",
+      "birthDate": "1996-08-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Castet",
+      "position": "DFC",
+      "birthDate": "1998-09-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Olmedo",
+      "position": "DFC",
+      "birthDate": "2001-06-21",
+      "nationality": "PRY"
+    },
+    {
+      "name": "Nicolás Thaller",
+      "position": "DFC",
+      "birthDate": "1998-09-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Risso Patrón",
+      "position": "DFC",
+      "birthDate": "1995-11-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Antonio",
+      "position": "MC",
+      "birthDate": "1995-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Lértora",
+      "position": "MC",
+      "birthDate": "1990-07-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Marcioni",
+      "position": "MC",
+      "birthDate": "1998-03-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Toledo",
+      "position": "MC",
+      "birthDate": "2000-03-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Muñoz",
+      "position": "MC",
+      "birthDate": "1996-03-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Darío Sarmiento",
+      "position": "MC",
+      "birthDate": "2003-03-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco García",
+      "position": "MC",
+      "birthDate": "1997-06-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeronimo Buosi",
+      "position": "MC",
+      "birthDate": "2007-02-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Cardozo",
+      "position": "MC",
+      "birthDate": "2007-01-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Máximo Ingravidi",
+      "position": "MC",
+      "birthDate": "2006-07-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Lago",
+      "position": "DC",
+      "birthDate": "2002-08-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Bonansea",
+      "position": "DC",
+      "birthDate": "1996-05-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Garate",
+      "position": "DC",
+      "birthDate": "1993-09-02",
+      "nationality": "ARG"
+    }
+  ]
+}

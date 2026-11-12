@@ -1,0 +1,32 @@
+{
+  "division": "NLD-1",
+  "country": "NLD",
+  "name": "Eredivisie",
+  "season": 2026,
+  "sources": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_Eredivisie", "https://eredivisie.nl/"],
+  "formatNotes": "18 equipos, doble vuelta (34 jornadas). 17.º y 18.º descienden directo a la Eerste Divisie; 16.º va al play-off de promoción/descenso con equipos de la Eerste Divisie. 1.º a fase de liga de Champions, 2.º a tercera previa de Champions; 3.º a segunda previa de Europa League; 4.º a la previa de Conference League; 5.º-8.º (aprox.) juegan play-offs europeos por una plaza de Conference League. El campeón de la KNVB Beker va a Europa League. Ascendidos: ADO Den Haag, Cambuur, Willem II; descendidos 2025-26: Volendam, NAC Breda, Heracles.",
+  "domesticCup": {
+    "name": "KNVB Beker",
+    "formatNotes": "Eliminación directa a partido único con clubes profesionales y amateurs; final en De Kuip (Róterdam). El campeón va a Europa League y juega la Johan Cruijff Schaal ante el campeón de liga."
+  },
+  "clubs": [
+    {"name": "AFC Ajax", "shortName": "Ajax", "city": "Ámsterdam", "province": "Holanda Septentrional", "affiliation": "directa", "stadium": "Johan Cruijff ArenA", "colors": {"primary": "#d2122e", "secondary": "#ffffff"}, "stature": 4},
+    {"name": "PSV", "shortName": "PSV", "city": "Eindhoven", "province": "Brabante Septentrional", "affiliation": "directa", "stadium": "Philips Stadion", "colors": {"primary": "#ed1c24", "secondary": "#ffffff"}, "stature": 4},
+    {"name": "Feyenoord", "shortName": "Feyenoord", "city": "Róterdam", "province": "Holanda Meridional", "affiliation": "directa", "stadium": "De Kuip", "colors": {"primary": "#e3001b", "secondary": "#ffffff"}, "stature": 4},
+    {"name": "AZ", "shortName": "AZ", "city": "Alkmaar", "province": "Holanda Septentrional", "affiliation": "directa", "stadium": "AFAS Stadion", "colors": {"primary": "#db0021", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "FC Twente", "shortName": "Twente", "city": "Enschede", "province": "Overijssel", "affiliation": "directa", "stadium": "De Grolsch Veste", "colors": {"primary": "#e30613", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "FC Utrecht", "shortName": "Utrecht", "city": "Utrecht", "province": "Utrecht", "affiliation": "directa", "stadium": "Stadion Galgenwaard", "colors": {"primary": "#e30613", "secondary": "#ffffff"}, "stature": 3},
+    {"name": "sc Heerenveen", "shortName": "Heerenveen", "city": "Heerenveen", "province": "Frisia", "affiliation": "directa", "stadium": "Abe Lenstra Stadion", "colors": {"primary": "#0056a3", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "FC Groningen", "shortName": "Groningen", "city": "Groninga", "province": "Groninga", "affiliation": "directa", "stadium": "Euroborg", "colors": {"primary": "#008b45", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "NEC", "shortName": "NEC", "city": "Nimega", "province": "Güeldres", "affiliation": "directa", "stadium": "Goffertstadion", "colors": {"primary": "#e30613", "secondary": "#00843d"}, "stature": 2},
+    {"name": "Go Ahead Eagles", "shortName": "Go Ahead Eagles", "city": "Deventer", "province": "Overijssel", "affiliation": "directa", "stadium": "De Adelaarshorst", "colors": {"primary": "#e30613", "secondary": "#ffd200"}, "stature": 2},
+    {"name": "Sparta Rotterdam", "shortName": "Sparta", "city": "Róterdam", "province": "Holanda Meridional", "affiliation": "directa", "stadium": "Sparta Stadion Het Kasteel", "colors": {"primary": "#e30613", "secondary": "#ffffff"}, "stature": 2},
+    {"name": "Fortuna Sittard", "shortName": "Fortuna", "city": "Sittard", "province": "Limburgo", "affiliation": "directa", "stadium": "Fortuna Sittard Stadion", "colors": {"primary": "#ffd200", "secondary": "#00843d"}, "stature": 1},
+    {"name": "PEC Zwolle", "shortName": "PEC Zwolle", "city": "Zwolle", "province": "Overijssel", "affiliation": "directa", "stadium": "MAC³PARK stadion", "colors": {"primary": "#0058a3", "secondary": "#ffffff"}, "stature": 1},
+    {"name": "Excelsior Rotterdam", "shortName": "Excelsior", "city": "Róterdam", "province": "Holanda Meridional", "affiliation": "directa", "stadium": "Van Donge & De Roo Stadion", "colors": {"primary": "#e30613", "secondary": "#000000"}, "stature": 1},
+    {"name": "SC Telstar", "shortName": "Telstar", "city": "Velsen", "province": "Holanda Septentrional", "affiliation": "directa", "stadium": "BUKO Stadion", "colors": {"primary": "#ffffff", "secondary": "#0078c8"}, "stature": 1},
+    {"name": "ADO Den Haag", "shortName": "ADO", "city": "La Haya", "province": "Holanda Meridional", "affiliation": "directa", "stadium": "Werktalent Stadion", "colors": {"primary": "#ffd200", "secondary": "#00843d"}, "stature": 2},
+    {"name": "SC Cambuur", "shortName": "Cambuur", "city": "Leeuwarden", "province": "Frisia", "affiliation": "directa", "stadium": "Kooi Stadion", "colors": {"primary": "#ffd200", "secondary": "#0055a5"}, "stature": 1},
+    {"name": "Willem II", "shortName": "Willem II", "city": "Tilburg", "province": "Brabante Septentrional", "affiliation": "directa", "stadium": "Koning Willem II Stadion", "colors": {"primary": "#e30613", "secondary": "#0033a0"}, "stature": 2}
+  ]
+}

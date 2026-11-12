@@ -1,0 +1,199 @@
+{
+  "division": "VEN-1",
+  "country": "VEN",
+  "name": "Liga FUTVE",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Liga_FUTVE",
+    "https://www.ntn24.com/noticias-deportes/la-copa-venezuela-define-ocho-cruces-octavos-final-prepara-camino-hacia-titulo-estos-seran-encuentros-658633"
+  ],
+  "formatNotes": "14 equipos. Torneo Apertura y Clausura: fase regular, luego los 8 primeros en dos grupos de 4 y final entre ganadores de grupo; los campeones de Apertura y Clausura juegan la Gran Final por el título absoluto (si un club gana ambos, no hay Gran Final). Desciende el último de la tabla acumulada a Liga FUTVE 2 (2026: Anzoátegui); ascendido 2026: Trujillanos (descendió Yaracuyanos). Copa Libertadores: 4 cupos (campeón absoluto, subcampeón y mejores del acumulado). Copa Sudamericana: 4 cupos (subcampeón de Apertura y siguientes del acumulado).",
+  "domesticCup": {
+    "name": "Copa Venezuela",
+    "formatNotes": "Fase de grupos con clubes de Liga FUTVE 2 y otros; los 8 clasificados enfrentan en octavos a los 8 equipos de la fase final del Apertura; eliminatorias a partido único hasta la final. Campeón a la Supercopa de Venezuela."
+  },
+  "clubs": [
+    {
+      "name": "Academia Puerto Cabello",
+      "shortName": "Puerto Cabello",
+      "city": "Puerto Cabello",
+      "province": "Carabobo",
+      "affiliation": "directa",
+      "stadium": "La Bombonerita",
+      "colors": {
+        "primary": "#003DA5",
+        "secondary": "#FFD100"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Deportivo Anzoátegui",
+      "shortName": "Anzoátegui",
+      "city": "Puerto La Cruz",
+      "province": "Anzoátegui",
+      "affiliation": "directa",
+      "stadium": "José Antonio Anzoátegui",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#C8102E"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Carabobo Fútbol Club",
+      "shortName": "Carabobo",
+      "city": "Valencia",
+      "province": "Carabobo",
+      "affiliation": "directa",
+      "stadium": "Misael Delgado",
+      "colors": {
+        "primary": "#7A1F2B",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Caracas Fútbol Club",
+      "shortName": "Caracas",
+      "city": "Caracas",
+      "province": "Distrito Capital",
+      "affiliation": "directa",
+      "stadium": "Olímpico de la UCV",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Deportivo La Guaira",
+      "shortName": "La Guaira",
+      "city": "Caracas",
+      "province": "Distrito Capital",
+      "affiliation": "directa",
+      "stadium": "Olímpico de la UCV",
+      "colors": {
+        "primary": "#FF6600",
+        "secondary": "#002F6C"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Deportivo Táchira Fútbol Club",
+      "shortName": "Táchira",
+      "city": "San Cristóbal",
+      "province": "Táchira",
+      "affiliation": "directa",
+      "stadium": "Polideportivo de Pueblo Nuevo",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#000000"
+      },
+      "stature": 4
+    },
+    {
+      "name": "Estudiantes de Mérida Fútbol Club",
+      "shortName": "Estudiantes",
+      "city": "Mérida",
+      "province": "Mérida",
+      "affiliation": "directa",
+      "stadium": "Metropolitano de Mérida",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Metropolitanos Fútbol Club",
+      "shortName": "Metropolitanos",
+      "city": "Caracas",
+      "province": "Distrito Capital",
+      "affiliation": "directa",
+      "stadium": "Olímpico de la UCV",
+      "colors": {
+        "primary": "#7B2D8E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Monagas Sport Club",
+      "shortName": "Monagas",
+      "city": "Maturín",
+      "province": "Monagas",
+      "affiliation": "directa",
+      "stadium": "Monumental de Maturín",
+      "colors": {
+        "primary": "#003DA5",
+        "secondary": "#C8102E"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Portuguesa Fútbol Club",
+      "shortName": "Portuguesa",
+      "city": "Acarigua",
+      "province": "Portuguesa",
+      "affiliation": "directa",
+      "stadium": "General José Antonio Páez",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Rayo Zuliano",
+      "shortName": "Rayo Zuliano",
+      "city": "Maracaibo",
+      "province": "Zulia",
+      "affiliation": "directa",
+      "stadium": "José Pachencho Romero",
+      "colors": {
+        "primary": "#003DA5",
+        "secondary": "#FFD100"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Trujillanos Fútbol Club",
+      "shortName": "Trujillanos",
+      "city": "Valera",
+      "province": "Trujillo",
+      "affiliation": "directa",
+      "stadium": "José Alberto Pérez",
+      "colors": {
+        "primary": "#7A1F2B",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Universidad Central de Venezuela Fútbol Club",
+      "shortName": "UCV",
+      "city": "Caracas",
+      "province": "Distrito Capital",
+      "affiliation": "directa",
+      "stadium": "Olímpico de la UCV",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Zamora Fútbol Club",
+      "shortName": "Zamora",
+      "city": "Barinas",
+      "province": "Barinas",
+      "affiliation": "directa",
+      "stadium": "Agustín Tovar",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    }
+  ]
+}

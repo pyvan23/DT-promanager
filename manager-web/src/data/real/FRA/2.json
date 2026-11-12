@@ -1,0 +1,247 @@
+{
+  "division": "FRA-2",
+  "country": "FRA",
+  "name": "Ligue 2",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_2",
+    "https://ligue1.com/ligue2"
+  ],
+  "formatNotes": "18 equipos, 34 jornadas. 1.º y 2.º ascienden directamente a Ligue 1; 3.º-5.º play-off (5.º vs 4.º, el ganador vs 3.º, y el vencedor juega a doble partido contra el 16.º de Ligue 1). 16.º juega play-off de permanencia contra un club de tercera categoría; 17.º y 18.º descienden directamente. Llegan 2026-27: Metz, Nantes (de Ligue 1) y Dijon, Sochaux (de National). Sin plazas europeas.",
+  "clubs": [
+    {
+      "name": "Football Club d'Annecy",
+      "shortName": "Annecy",
+      "city": "Annecy",
+      "province": "Auvernia-Ródano-Alpes",
+      "affiliation": "directa",
+      "stadium": "Parc des Sports",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Union Sportive Boulogne Côte d'Opale",
+      "shortName": "Boulogne",
+      "city": "Boulogne-sur-Mer",
+      "province": "Altos de Francia",
+      "affiliation": "directa",
+      "stadium": "Stade de la Libération",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Clermont Foot 63",
+      "shortName": "Clermont",
+      "city": "Clermont-Ferrand",
+      "province": "Auvernia-Ródano-Alpes",
+      "affiliation": "directa",
+      "stadium": "Gabriel-Montpied",
+      "colors": {
+        "primary": "#9B1B30",
+        "secondary": "#0055A4"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Dijon Football Côte-d'Or",
+      "shortName": "Dijon",
+      "city": "Dijon",
+      "province": "Borgoña-Franco Condado",
+      "affiliation": "directa",
+      "stadium": "Gaston-Gérard",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Union Sportive du Littoral de Dunkerque",
+      "shortName": "Dunkerque",
+      "city": "Dunkerque",
+      "province": "Altos de Francia",
+      "affiliation": "directa",
+      "stadium": "Marcel-Tribut",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Grenoble Foot 38",
+      "shortName": "Grenoble",
+      "city": "Grenoble",
+      "province": "Auvernia-Ródano-Alpes",
+      "affiliation": "directa",
+      "stadium": "Stade des Alpes",
+      "colors": {
+        "primary": "#0055A4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "En Avant Guingamp",
+      "shortName": "Guingamp",
+      "city": "Guingamp",
+      "province": "Bretaña",
+      "affiliation": "directa",
+      "stadium": "Roudourou",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Stade Lavallois Mayenne Football Club",
+      "shortName": "Laval",
+      "city": "Laval",
+      "province": "Países del Loira",
+      "affiliation": "directa",
+      "stadium": "Francis-Le Basser",
+      "colors": {
+        "primary": "#F58220",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Football Club de Metz",
+      "shortName": "Metz",
+      "city": "Longeville-lès-Metz",
+      "province": "Gran Este",
+      "affiliation": "directa",
+      "stadium": "Saint-Symphorien",
+      "colors": {
+        "primary": "#8B1538",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Montpellier Hérault Sport Club",
+      "shortName": "Montpellier",
+      "city": "Montpellier",
+      "province": "Occitania",
+      "affiliation": "directa",
+      "stadium": "Stade de la Mosson",
+      "colors": {
+        "primary": "#F58220",
+        "secondary": "#002B5C"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Association Sportive Nancy-Lorraine",
+      "shortName": "Nancy",
+      "city": "Tomblaine (Nancy)",
+      "province": "Gran Este",
+      "affiliation": "directa",
+      "stadium": "Marcel-Picot",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Football Club de Nantes",
+      "shortName": "Nantes",
+      "city": "Nantes",
+      "province": "Países del Loira",
+      "affiliation": "directa",
+      "stadium": "Stade de la Beaujoire",
+      "colors": {
+        "primary": "#FFDD00",
+        "secondary": "#008C45"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Pau Football Club",
+      "shortName": "Pau",
+      "city": "Pau",
+      "province": "Nueva Aquitania",
+      "affiliation": "directa",
+      "stadium": "Nouste Camp",
+      "colors": {
+        "primary": "#FFDD00",
+        "secondary": "#0055A4"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Red Star Football Club",
+      "shortName": "Red Star",
+      "city": "Saint-Ouen-sur-Seine",
+      "province": "Isla de Francia",
+      "affiliation": "directa",
+      "stadium": "Stade Bauer",
+      "colors": {
+        "primary": "#00843D",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Stade de Reims",
+      "shortName": "Reims",
+      "city": "Reims",
+      "province": "Gran Este",
+      "affiliation": "directa",
+      "stadium": "Auguste-Delaune",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Rodez Aveyron Football",
+      "shortName": "Rodez",
+      "city": "Rodez",
+      "province": "Occitania",
+      "affiliation": "directa",
+      "stadium": "Paul-Lignon",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFDD00"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Association Sportive de Saint-Étienne",
+      "shortName": "Saint-Étienne",
+      "city": "Saint-Étienne",
+      "province": "Auvernia-Ródano-Alpes",
+      "affiliation": "directa",
+      "stadium": "Geoffroy-Guichard",
+      "colors": {
+        "primary": "#009639",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Football Club Sochaux-Montbéliard",
+      "shortName": "Sochaux",
+      "city": "Montbéliard",
+      "province": "Borgoña-Franco Condado",
+      "affiliation": "directa",
+      "stadium": "Auguste-Bonal",
+      "colors": {
+        "primary": "#FFDD00",
+        "secondary": "#003DA5"
+      },
+      "stature": 1
+    }
+  ]
+}

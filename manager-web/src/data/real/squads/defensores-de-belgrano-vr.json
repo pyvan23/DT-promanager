@@ -1,0 +1,207 @@
+{
+  "club": "Defensores de Belgrano (VR)",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Defensores-de-Belgrano-1858.html"
+  ],
+  "players": [
+    {
+      "name": "Juan Andres Santia",
+      "position": "ARQ",
+      "birthDate": "2004-08-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Velazquez",
+      "position": "ARQ",
+      "birthDate": "2001-08-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Vizgarra",
+      "position": "ARQ",
+      "birthDate": "2003-12-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeronimo Avalos",
+      "position": "DFC",
+      "birthDate": "2004-04-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Benítez",
+      "position": "DFC",
+      "birthDate": "2002-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Broglia",
+      "position": "DFC",
+      "birthDate": "1999-03-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Uziel Cabrera",
+      "position": "DFC",
+      "birthDate": "2004-02-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Gay",
+      "position": "DFC",
+      "birthDate": "1991-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Román Gómez",
+      "position": "DFC",
+      "birthDate": "2001-01-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Gorosito",
+      "position": "DFC",
+      "birthDate": "2003-10-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lionel Monzon",
+      "position": "DFC",
+      "birthDate": "1997-09-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ian Pezzani",
+      "position": "DFC",
+      "birthDate": "1997-01-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexandro Ponce",
+      "position": "DFC",
+      "birthDate": "2002-10-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Zaupa",
+      "position": "DFC",
+      "birthDate": "2003-01-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Bacas",
+      "position": "MC",
+      "birthDate": "2002-11-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Cartechini",
+      "position": "MC",
+      "birthDate": "1987-02-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Duarte",
+      "position": "MC",
+      "birthDate": "2001-09-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Gaitan",
+      "position": "MC",
+      "birthDate": "2005-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tobias Garro",
+      "position": "MC",
+      "birthDate": "2003-05-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Bruno Latof",
+      "position": "MC",
+      "birthDate": "2005-02-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gaston Medina",
+      "position": "MC",
+      "birthDate": "1999-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Principiano",
+      "position": "MC",
+      "birthDate": "2004-09-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Ramos",
+      "position": "MC",
+      "birthDate": "2004-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Eloy Roige",
+      "position": "MC",
+      "birthDate": "1999-05-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Abaca",
+      "position": "DC",
+      "birthDate": "2004-07-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Bertacin",
+      "position": "DC",
+      "birthDate": "2000-03-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Luna",
+      "position": "DC",
+      "birthDate": "2002-06-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nahuel Marnini",
+      "position": "DC",
+      "birthDate": "2005-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Milton Olego",
+      "position": "DC",
+      "birthDate": "2004-04-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Adrian Rodriguez",
+      "position": "DC",
+      "birthDate": "1997-02-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Rodriguez",
+      "position": "DC",
+      "birthDate": "2005-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Mateo Tuset",
+      "position": "DC",
+      "birthDate": "2003-02-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Edgar Villan",
+      "position": "DC",
+      "birthDate": "2002-06-26",
+      "nationality": "ARG"
+    }
+  ]
+}

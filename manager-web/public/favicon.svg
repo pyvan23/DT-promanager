@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs><clipPath id="pitch"><rect x="64" y="64" width="384" height="384" rx="28" /></clipPath></defs>
+  <rect width="512" height="512" rx="96" fill="#0a1220" />
+  <rect x="64" y="64" width="384" height="384" rx="28" fill="#1f6b3d" />
+  <g clip-path="url(#pitch)"><rect x="128" y="64" width="64" height="384" fill="#17512e" /><rect x="256" y="64" width="64" height="384" fill="#17512e" /><rect x="384" y="64" width="64" height="384" fill="#17512e" /></g>
+  <g fill="none" stroke="#f4f1e8" stroke-width="10" stroke-opacity="0.9">
+    <rect x="84" y="84" width="344" height="344" rx="8" />
+    <line x1="84" y1="256" x2="428" y2="256" />
+    <circle cx="256" cy="256" r="128" />
+  </g>
+  <rect x="64" y="64" width="384" height="384" rx="28" fill="none" stroke="#d7263d" stroke-width="8" />
+  <circle cx="256" cy="256" r="92" fill="#ffffff" stroke="#0a1220" stroke-width="8" />
+  <g stroke="#0a1220" stroke-width="7" stroke-linecap="round"><line x1="256" y1="217.36" x2="256" y2="165.19600000000003" /><line x1="292.74882378964475" y1="244.05958333735202" x2="342.35973590566516" y2="227.94002084277724" /><line x1="278.7120221485812" y1="287.26041666264797" x2="309.3732520491658" y2="329.46197915722274" /><line x1="233.28797785141884" y1="287.26041666264797" x2="202.62674795083427" y2="329.46197915722274" /><line x1="219.25117621035525" y1="244.05958333735202" x2="169.64026409433484" y2="227.94002084277724" /></g>
+  <polygon points="256,217.36 292.74882378964475,244.05958333735202 278.7120221485812,287.26041666264797 233.28797785141884,287.26041666264797 219.25117621035525,244.05958333735202" fill="#0a1220" />
+  <circle cx="404" cy="108" r="18" fill="#f5b942" />
+</svg>

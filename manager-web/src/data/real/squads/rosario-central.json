@@ -1,0 +1,219 @@
+{
+  "club": "Rosario Central",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Rosario_Central"
+  ],
+  "players": [
+    {
+      "name": "Axel Werner",
+      "position": "ARQ",
+      "birthDate": "1996-02-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jeremías Ledesma",
+      "position": "ARQ",
+      "birthDate": "1993-02-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Damián Fernández",
+      "position": "ARQ",
+      "birthDate": "2003-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Sebastián Zaracho",
+      "position": "DFC",
+      "birthDate": "1999-01-20",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Agustín Sández",
+      "position": "DFC",
+      "birthDate": "2001-01-16",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Juan Cruz Komar",
+      "position": "DFC",
+      "birthDate": "1996-08-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Ávila",
+      "position": "DFC",
+      "birthDate": "2001-11-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Mallo",
+      "position": "DFC",
+      "birthDate": "1995-01-16",
+      "nationality": "URY"
+    },
+    {
+      "name": "Juan Giménez",
+      "position": "DFC",
+      "birthDate": "2006-04-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emanuel Coronel",
+      "position": "DFC",
+      "birthDate": "1997-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Soto",
+      "position": "DFC",
+      "birthDate": "1992-10-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Álvaro Güich",
+      "position": "DFC",
+      "birthDate": "2009-03-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Ríos",
+      "position": "DFC",
+      "birthDate": "2006-11-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Elías Verón",
+      "position": "DFC",
+      "birthDate": "2007-07-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Ovando",
+      "position": "DFC",
+      "birthDate": "2007-06-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luca Raffin",
+      "position": "DFC",
+      "birthDate": "2006-01-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Ibarra",
+      "position": "MC",
+      "birthDate": "2001-04-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcelo Cabrera",
+      "position": "MC",
+      "birthDate": "2006-09-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jáminton Campaz",
+      "position": "MC",
+      "birthDate": "2000-05-24",
+      "nationality": "COL"
+    },
+    {
+      "name": "Franco Cervi",
+      "position": "MC",
+      "birthDate": "1994-05-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Fernández",
+      "position": "MC",
+      "birthDate": "2004-01-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Segovia",
+      "position": "MC",
+      "birthDate": "2007-03-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Vicente Pizarro",
+      "position": "MC",
+      "birthDate": "2002-11-05",
+      "nationality": "CHL"
+    },
+    {
+      "name": "Giovanni Cantizano",
+      "position": "MC",
+      "birthDate": "2007-03-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Fernández",
+      "position": "MC",
+      "birthDate": "1991-10-11",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico Navarro",
+      "position": "MC",
+      "birthDate": "2000-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Ramos",
+      "position": "MC",
+      "birthDate": "2006-01-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Gutiérrez",
+      "position": "MC",
+      "birthDate": "2006-01-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Rodríguez",
+      "position": "MC",
+      "birthDate": "2000-01-25",
+      "nationality": "URY"
+    },
+    {
+      "name": "Marco Ruben",
+      "position": "DC",
+      "birthDate": "1986-10-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel Di María",
+      "position": "DC",
+      "birthDate": "1988-02-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Badaloni",
+      "position": "DC",
+      "birthDate": "2000-05-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Copetti",
+      "position": "DC",
+      "birthDate": "1996-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gaspar Duarte",
+      "position": "DC",
+      "birthDate": "2003-01-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lisandro Duarte",
+      "position": "DC",
+      "birthDate": "2007-07-21",
+      "nationality": "ARG"
+    }
+  ]
+}

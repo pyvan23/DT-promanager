@@ -1,0 +1,201 @@
+{
+  "club": "Sportivo Las Parejas",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Sportivo-Las-Parejas-1420.html"
+  ],
+  "players": [
+    {
+      "name": "Agustín Lobos",
+      "position": "ARQ",
+      "birthDate": "2001-09-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe San Juan",
+      "position": "ARQ",
+      "birthDate": "2001-06-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Yair Bohnhoff",
+      "position": "DFC",
+      "birthDate": "2004-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Aarón Camos",
+      "position": "DFC",
+      "birthDate": "2005-03-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Gauna",
+      "position": "DFC",
+      "birthDate": "1995-03-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Pollacchi",
+      "position": "DFC",
+      "birthDate": "1995-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Schmidt",
+      "position": "DFC",
+      "birthDate": "2003-01-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Emilio Suárez",
+      "position": "DFC",
+      "birthDate": "2004-04-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucio Urquia",
+      "position": "DFC",
+      "birthDate": "2003-01-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Zanoni",
+      "position": "DFC",
+      "birthDate": "2001-08-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Marcos Fissore",
+      "position": "MC",
+      "birthDate": "1992-08-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Galeano",
+      "position": "MC",
+      "birthDate": "2004-03-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nadir Hadad",
+      "position": "MC",
+      "birthDate": "1999-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martiniano Irribarria",
+      "position": "MC",
+      "birthDate": "2003-03-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Laborie",
+      "position": "MC",
+      "birthDate": "2001-01-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alan Maciel",
+      "position": "MC",
+      "birthDate": "2002-02-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Aarón Martínez",
+      "position": "MC",
+      "birthDate": "2001-09-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Rolón",
+      "position": "MC",
+      "birthDate": "1995-01-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Taverna",
+      "position": "MC",
+      "birthDate": "1999-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Valenzuela",
+      "position": "MC",
+      "birthDate": "2000-03-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Guillermo Villalba",
+      "position": "MC",
+      "birthDate": "1996-01-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pedro Ardanaz",
+      "position": "DC",
+      "birthDate": "2004-03-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Teo Cantadori",
+      "position": "DC",
+      "birthDate": "2005-04-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio González",
+      "position": "DC",
+      "birthDate": "2000-08-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Braian Jiménez",
+      "position": "DC",
+      "birthDate": "1999-08-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentín Martínez",
+      "position": "DC",
+      "birthDate": "2003-02-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Moracci",
+      "position": "DC",
+      "birthDate": "2001-03-20",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Obregón",
+      "position": "DC",
+      "birthDate": "2004-01-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joel Piccinini",
+      "position": "DC",
+      "birthDate": "2000-03-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Valentino Roncarolo",
+      "position": "DC",
+      "birthDate": "2004-03-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Schonfeld",
+      "position": "DC",
+      "birthDate": "1997-12-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Villagra",
+      "position": "DC",
+      "birthDate": "2002-06-08",
+      "nationality": "ARG"
+    }
+  ]
+}

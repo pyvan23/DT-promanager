@@ -1,0 +1,495 @@
+{
+  "division": "federal-a",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Torneo_Federal_A_2026",
+    "https://www.cadena3.com/noticia/deportes/el-consejo-federal-definio-las-zonas-del-torneo-federal-a-2026_522548",
+    "https://www.losandes.com.ar/deportes/se-sorteo-el-fixture-y-el-formato-del-torneo-federal-a-y-los-mendocinos-ya-conocen-su-destino-n5982565",
+    "https://www.lavozdesanjusto.com.ar/sportivo-ya-conoce-su-grupo-en-el-federal-a-2026",
+    "https://elgrafico.com.ar/articulo/1111/103543/san-martin-se-consagro-campeon-del-federal-a-y-corto-una-racha-de-50-anios-para-formosa"
+  ],
+  "formatNotes": "Temporada 2026: 37 equipos (todos indirectamente afiliados) en 4 zonas geográficas (Zona 1 de 10, Zonas 2 a 4 de 9), todos contra todos a dos ruedas. Pasan 18 a la Segunda fase (5 de la zona de 10, 4 de cada zona de 9 y el mejor quinto); los 19 restantes van a la Primera etapa de la Reválida. Segunda fase: 2 zonas de 9 a una rueda; los 4 primeros de cada una juegan eliminación directa (cuartos y semis a doble partido, final a partido único en cancha neutral). Ascienden 2 a la Primera Nacional 2027: el campeón (San Martín de Formosa, 2-0 a Cipolletti el 25/10/2026 en San Francisco) y el ganador de la Reválida (en disputa; final prevista para diciembre de 2026). Descienden 4 (los dos últimos de cada zona de la Primera etapa de la Reválida: por promedio en la Zona A y por puntos en la Zona B) al nuevo Torneo Argentino del Interior 2027, no al Regional Amateur: Sarmiento (Resistencia), Tucumán Central, Sol de Mayo y Ramón Santamarina.",
+  "clubs": [
+    {
+      "name": "Club Atlético 9 de Julio",
+      "shortName": "9 de Julio (R)",
+      "city": "Rafaela",
+      "province": "Santa Fe",
+      "affiliation": "indirecta",
+      "stadium": "Germán Solterman",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#D50000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Atlético Escobar Fútbol Club",
+      "shortName": "Atlético Escobar",
+      "city": "Ingeniero Maschwitz",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Armenia",
+      "colors": {
+        "primary": "#5B2C83",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético y Social Defensores de Belgrano de Villa Ramallo",
+      "shortName": "Defensores de Belgrano (VR)",
+      "city": "Villa Ramallo",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Salomón Boeseldín",
+      "colors": {
+        "primary": "#800000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Douglas Haig",
+      "shortName": "Douglas Haig",
+      "city": "Pergamino",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Miguel Morales",
+      "colors": {
+        "primary": "#D50000",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Atlético El Linqueño",
+      "shortName": "El Linqueño",
+      "city": "Lincoln",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Leonardo Costa",
+      "colors": {
+        "primary": "#000099",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Social, Cultural y Deportivo Gimnasia y Esgrima de Chivilcoy",
+      "shortName": "Gimnasia (Chivilcoy)",
+      "city": "Chivilcoy",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "José María Paz",
+      "colors": {
+        "primary": "#008000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Gimnasia y Esgrima",
+      "shortName": "Gimnasia (CdU)",
+      "city": "Concepción del Uruguay",
+      "province": "Entre Ríos",
+      "affiliation": "indirecta",
+      "stadium": "Manuel y Ramón Núñez",
+      "colors": {
+        "primary": "#6CACE4",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Independiente",
+      "shortName": "Independiente (Chivilcoy)",
+      "city": "Chivilcoy",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Raúl Orlando Lungarzo",
+      "colors": {
+        "primary": "#D50000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Sportivo Belgrano",
+      "shortName": "Sportivo Belgrano",
+      "city": "San Francisco",
+      "province": "Córdoba",
+      "affiliation": "indirecta",
+      "stadium": "Juan Pablo Francia",
+      "colors": {
+        "primary": "#008000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Sportivo Atlético Club",
+      "shortName": "Sportivo Las Parejas",
+      "city": "Las Parejas",
+      "province": "Santa Fe",
+      "affiliation": "indirecta",
+      "stadium": "4 de Septiembre",
+      "colors": {
+        "primary": "#2E8B3E",
+        "secondary": "#D50000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Bartolomé Mitre",
+      "shortName": "Bartolomé Mitre",
+      "city": "Posadas",
+      "province": "Misiones",
+      "affiliation": "indirecta",
+      "stadium": "Ernesto \"Tito\" Cucchiaroni",
+      "colors": {
+        "primary": "#343C94",
+        "secondary": "#F3E354"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Boca Unidos",
+      "shortName": "Boca Unidos",
+      "city": "Corrientes",
+      "province": "Corrientes",
+      "affiliation": "indirecta",
+      "stadium": "Leoncio Benítez",
+      "colors": {
+        "primary": "#D50000",
+        "secondary": "#FFD700"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Defensores de Vilelas",
+      "shortName": "Defensores de Vilelas",
+      "city": "Puerto Vilelas",
+      "province": "Chaco",
+      "affiliation": "indirecta",
+      "stadium": "Pedro Álvarez",
+      "colors": {
+        "primary": "#009645",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Centro Juventud Antoniana",
+      "shortName": "Juventud Antoniana",
+      "city": "Salta",
+      "province": "Salta",
+      "affiliation": "indirecta",
+      "stadium": "Fray Honorato Pistoia",
+      "colors": {
+        "primary": "#00008B",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Sportivo General San Martín",
+      "shortName": "San Martín (F)",
+      "city": "Formosa",
+      "province": "Formosa",
+      "affiliation": "indirecta",
+      "stadium": "17 de Octubre",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#1E3A8A"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Sarmiento",
+      "shortName": "Sarmiento (LB)",
+      "city": "La Banda",
+      "province": "Santiago del Estero",
+      "affiliation": "indirecta",
+      "stadium": "Ciudad de La Banda",
+      "colors": {
+        "primary": "#003FBE",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Sarmiento",
+      "shortName": "Sarmiento (R)",
+      "city": "Resistencia",
+      "province": "Chaco",
+      "affiliation": "indirecta",
+      "stadium": "Centenario",
+      "colors": {
+        "primary": "#D50000",
+        "secondary": "#FFD700"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Sol de América",
+      "shortName": "Sol de América (F)",
+      "city": "Formosa",
+      "province": "Formosa",
+      "affiliation": "indirecta",
+      "stadium": "Sol de América",
+      "colors": {
+        "primary": "#0000FF",
+        "secondary": "#FFD700"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Tucumán Central",
+      "shortName": "Tucumán Central",
+      "city": "San Miguel de Tucumán",
+      "province": "Tucumán",
+      "affiliation": "indirecta",
+      "stadium": "Tucumán Central",
+      "colors": {
+        "primary": "#D50000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Deportivo Argentino",
+      "shortName": "Argentino (MM)",
+      "city": "Monte Maíz",
+      "province": "Córdoba",
+      "affiliation": "indirecta",
+      "stadium": "Modesto Marrone",
+      "colors": {
+        "primary": "#1E4FD8",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Sportivo y Biblioteca Atenas",
+      "shortName": "Atenas (RC)",
+      "city": "Río Cuarto",
+      "province": "Córdoba",
+      "affiliation": "indirecta",
+      "stadium": "9 de Julio",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#1E3A8A"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Cipolletti",
+      "shortName": "Cipolletti",
+      "city": "Cipolletti",
+      "province": "Río Negro",
+      "affiliation": "indirecta",
+      "stadium": "La Visera de Cemento",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club Atlético Costa Brava",
+      "shortName": "Costa Brava",
+      "city": "General Pico",
+      "province": "La Pampa",
+      "affiliation": "indirecta",
+      "stadium": "Nuevo Pacaembú",
+      "colors": {
+        "primary": "#D50000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Deportivo Rincón",
+      "shortName": "Deportivo Rincón",
+      "city": "Rincón de los Sauces",
+      "province": "Neuquén",
+      "affiliation": "indirecta",
+      "stadium": "Elías Moisés Gómez",
+      "colors": {
+        "primary": "#003399",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Fundación Amigos por el Deporte",
+      "shortName": "FADEP",
+      "city": "Russell (Maipú)",
+      "province": "Mendoza",
+      "affiliation": "indirecta",
+      "stadium": "Predio Social y Deportivo FADEP",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Huracán Las Heras",
+      "shortName": "Huracán Las Heras",
+      "city": "Las Heras",
+      "province": "Mendoza",
+      "affiliation": "indirecta",
+      "stadium": "General San Martín",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#D50000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Juventud Unida Universitario",
+      "shortName": "Juventud Unida Universitario",
+      "city": "San Luis",
+      "province": "San Luis",
+      "affiliation": "indirecta",
+      "stadium": "Mario Sebastián Diez",
+      "colors": {
+        "primary": "#0000FF",
+        "secondary": "#FFFF00"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Atlético Club San Martín",
+      "shortName": "San Martín (M)",
+      "city": "San Martín",
+      "province": "Mendoza",
+      "affiliation": "indirecta",
+      "stadium": "Libertador General San Martín",
+      "colors": {
+        "primary": "#FF0000",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Alvarado",
+      "shortName": "Alvarado",
+      "city": "Mar del Plata",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "José María Minella",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#172442"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Círculo Deportivo de Comandante Nicanor Otamendi",
+      "shortName": "Círculo Deportivo",
+      "city": "Comandante Nicanor Otamendi",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Guillermo Trama",
+      "colors": {
+        "primary": "#FF0000",
+        "secondary": "#008000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Atlético Germinal",
+      "shortName": "Germinal",
+      "city": "Rawson",
+      "province": "Chubut",
+      "affiliation": "indirecta",
+      "stadium": "El Fortín",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#009040"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Social y Atlético Guillermo Brown",
+      "shortName": "Guillermo Brown",
+      "city": "Puerto Madryn",
+      "province": "Chubut",
+      "affiliation": "indirecta",
+      "stadium": "Raúl Conti",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000040"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Atlético Kimberley",
+      "shortName": "Kimberley",
+      "city": "Mar del Plata",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "José Alberto Valle",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#008000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Olimpo",
+      "shortName": "Olimpo",
+      "city": "Bahía Blanca",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Roberto Natalio Carminatti",
+      "colors": {
+        "primary": "#FFD100",
+        "secondary": "#000000"
+      },
+      "stature": 3
+    },
+    {
+      "name": "Club y Biblioteca Ramón Santamarina",
+      "shortName": "Santamarina",
+      "city": "Tandil",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "Municipal General San Martín",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Social y Deportivo Sol de Mayo",
+      "shortName": "Sol de Mayo",
+      "city": "Viedma",
+      "province": "Río Negro",
+      "affiliation": "indirecta",
+      "stadium": "Sol de Mayo",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#87CEEB"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Club Villa Mitre",
+      "shortName": "Villa Mitre",
+      "city": "Bahía Blanca",
+      "province": "Buenos Aires",
+      "affiliation": "indirecta",
+      "stadium": "El Fortín",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#009E60"
+      },
+      "stature": 2
+    }
+  ]
+}

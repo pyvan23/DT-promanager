@@ -1,0 +1,2708 @@
+{
+  "bel-club-brugge": {
+    "file": "escudos/bel-club-brugge.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Brugge_KV_logo.svg",
+    "license": "Fair use",
+    "article": "Club Brugge KV"
+  },
+  "bel-union-sg": {
+    "file": "escudos/bel-union-sg.png",
+    "source": "https://en.wikipedia.org/wiki/File:Royale_Union_Saint-Gilloise_logo.svg",
+    "license": "Fair use",
+    "article": "Royale Union Saint-Gilloise"
+  },
+  "bel-genk": {
+    "file": "escudos/bel-genk.png",
+    "source": "https://en.wikipedia.org/wiki/File:KRC_Genk_logo.svg",
+    "license": "Fair use",
+    "article": "KRC Genk"
+  },
+  "bel-gent": {
+    "file": "escudos/bel-gent.png",
+    "source": "https://en.wikipedia.org/wiki/File:KAA_Gent_logo.svg",
+    "license": "Fair use",
+    "article": "KAA Gent"
+  },
+  "bel-standard": {
+    "file": "escudos/bel-standard.png",
+    "source": "https://en.wikipedia.org/wiki/File:Standard_Li%C3%A8ge_logo.svg",
+    "license": "Fair use",
+    "article": "Standard Liège"
+  },
+  "bel-charleroi": {
+    "file": "escudos/bel-charleroi.png",
+    "source": "https://en.wikipedia.org/wiki/File:Royal_Charleroi_Sporting_Club_logo.svg",
+    "license": "Fair use",
+    "article": "Royal Charleroi SC"
+  },
+  "bel-cercle-brugge": {
+    "file": "escudos/bel-cercle-brugge.png",
+    "source": "https://en.wikipedia.org/wiki/File:Cercle_Brugge_KSV_logo.svg",
+    "license": "Fair use",
+    "article": "Cercle Brugge KSV"
+  },
+  "bel-oh-leuven": {
+    "file": "escudos/bel-oh-leuven.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:OHLeuven-logo-vertical-color-rgb.jpg",
+    "license": "CC0",
+    "article": "Oud-Heverlee Leuven (women)"
+  },
+  "bel-sint-truiden": {
+    "file": "escudos/bel-sint-truiden.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sint-Truidense_VV_logo.svg",
+    "license": "Fair use",
+    "article": "Sint-Truidense VV"
+  },
+  "bel-westerlo": {
+    "file": "escudos/bel-westerlo.png",
+    "source": "https://en.wikipedia.org/wiki/File:KVC_Westerlo_logo.svg",
+    "license": "Fair use",
+    "article": "KVC Westerlo"
+  },
+  "bel-la-louviere": {
+    "file": "escudos/bel-la-louviere.png",
+    "source": "https://en.wikipedia.org/wiki/File:RAAL_La_Louvi%C3%A8re_logo.svg",
+    "license": "Fair use",
+    "article": "RAAL La Louvière"
+  },
+  "bel-beveren": {
+    "file": "escudos/bel-beveren.png",
+    "source": "https://en.wikipedia.org/wiki/File:SK_Beveren_logo.svg",
+    "license": "Fair use",
+    "article": "SK Beveren"
+  },
+  "bel-kortrijk": {
+    "file": "escudos/bel-kortrijk.png",
+    "source": "https://en.wikipedia.org/wiki/File:KV_Kortrijk_logo_2016.svg",
+    "license": "Fair use",
+    "article": "KV Kortrijk"
+  },
+  "deu-bayern": {
+    "file": "escudos/deu-bayern.png",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Bayern_M%C3%BCnchen_logo_(2024).svg",
+    "license": "Public domain",
+    "article": "FC Bayern Munich"
+  },
+  "deu-dortmund": {
+    "file": "escudos/deu-dortmund.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+    "license": "Public domain",
+    "article": "Borussia Dortmund"
+  },
+  "deu-leverkusen": {
+    "file": "escudos/deu-leverkusen.png",
+    "source": "https://en.wikipedia.org/wiki/File:Bayer_04_Leverkusen_logo.svg",
+    "license": "Fair use",
+    "article": "Bayer 04 Leverkusen"
+  },
+  "deu-leipzig": {
+    "file": "escudos/deu-leipzig.png",
+    "source": "https://en.wikipedia.org/wiki/File:RB_Leipzig_2014_logo.svg",
+    "license": "Fair use",
+    "article": "RB Leipzig"
+  },
+  "deu-frankfurt": {
+    "file": "escudos/deu-frankfurt.png",
+    "source": "https://en.wikipedia.org/wiki/File:Eintracht_Frankfurt_crest.svg",
+    "license": "Fair use",
+    "article": "Eintracht Frankfurt"
+  },
+  "deu-stuttgart": {
+    "file": "escudos/deu-stuttgart.png",
+    "source": "https://commons.wikimedia.org/wiki/File:VfB_Stuttgart_1893_Logo.svg",
+    "license": "Public domain",
+    "article": "VfB Stuttgart"
+  },
+  "deu-freiburg": {
+    "file": "escudos/deu-freiburg.png",
+    "source": "https://en.wikipedia.org/wiki/File:SC_Freiburg_logo.svg",
+    "license": "Fair use",
+    "article": "SC Freiburg"
+  },
+  "deu-gladbach": {
+    "file": "escudos/deu-gladbach.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Borussia_M%C3%B6nchengladbach_logo.svg",
+    "license": "Public domain",
+    "article": "Borussia Mönchengladbach"
+  },
+  "deu-hoffenheim": {
+    "file": "escudos/deu-hoffenheim.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_TSG_Hoffenheim.svg",
+    "license": "Public domain",
+    "article": "TSG 1899 Hoffenheim"
+  },
+  "deu-mainz": {
+    "file": "escudos/deu-mainz.png",
+    "source": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+    "license": "Public domain",
+    "article": "1. FSV Mainz 05"
+  },
+  "deu-augsburg": {
+    "file": "escudos/deu-augsburg.png",
+    "source": "https://en.wikipedia.org/wiki/File:FC_Augsburg_logo.svg",
+    "license": "Fair use",
+    "article": "FC Augsburg"
+  },
+  "deu-hamburgo": {
+    "file": "escudos/deu-hamburgo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+    "license": "Public domain",
+    "article": "Hamburger SV"
+  },
+  "deu-koln": {
+    "file": "escudos/deu-koln.png",
+    "source": "https://commons.wikimedia.org/wiki/File:1._FC_Koeln_Logo_2014%E2%80%93.svg",
+    "license": "CC BY-SA 4.0",
+    "article": "1. FC Köln"
+  },
+  "deu-schalke": {
+    "file": "escudos/deu-schalke.png",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Schalke_04_Logo.svg",
+    "license": "Public domain",
+    "article": "FC Schalke 04"
+  },
+  "deu-paderborn": {
+    "file": "escudos/deu-paderborn.png",
+    "source": "https://commons.wikimedia.org/wiki/File:SC_Paderborn_07_Logo_new.svg",
+    "license": "Public domain",
+    "article": "SC Paderborn 07"
+  },
+  "deu-elversberg": {
+    "file": "escudos/deu-elversberg.png",
+    "source": "https://commons.wikimedia.org/wiki/File:SV_Elversberg_Logo_2021.svg",
+    "license": "Public domain",
+    "article": "SV Elversberg"
+  },
+  "eng-arsenal": {
+    "file": "escudos/eng-arsenal.png",
+    "source": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+    "license": "Fair use",
+    "article": "Arsenal F.C."
+  },
+  "eng-bournemouth": {
+    "file": "escudos/eng-bournemouth.png",
+    "source": "https://en.wikipedia.org/wiki/File:AFC_Bournemouth_(2013).svg",
+    "license": "Fair use",
+    "article": "AFC Bournemouth"
+  },
+  "eng-brentford": {
+    "file": "escudos/eng-brentford.png",
+    "source": "https://en.wikipedia.org/wiki/File:Brentford_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Brentford F.C."
+  },
+  "eng-brighton": {
+    "file": "escudos/eng-brighton.png",
+    "source": "https://en.wikipedia.org/wiki/File:Brighton_and_Hove_Albion_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Brighton & Hove Albion F.C."
+  },
+  "eng-coventry": {
+    "file": "escudos/eng-coventry.png",
+    "source": "https://en.wikipedia.org/wiki/File:Coventry_City_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Coventry City F.C."
+  },
+  "eng-crystal-palace": {
+    "file": "escudos/eng-crystal-palace.png",
+    "source": "https://en.wikipedia.org/wiki/File:Crystal_Palace_FC_logo_(2022).svg",
+    "license": "Fair use",
+    "article": "Crystal Palace F.C."
+  },
+  "eng-everton": {
+    "file": "escudos/eng-everton.png",
+    "source": "https://en.wikipedia.org/wiki/File:Everton_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Everton F.C."
+  },
+  "eng-fulham": {
+    "file": "escudos/eng-fulham.png",
+    "source": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+    "license": "PD",
+    "article": "Fulham F.C."
+  },
+  "eng-hull-city": {
+    "file": "escudos/eng-hull-city.png",
+    "source": "https://en.wikipedia.org/wiki/File:Hull_City_A.F.C._logo.svg",
+    "license": "Fair use",
+    "article": "Hull City A.F.C."
+  },
+  "eng-ipswich": {
+    "file": "escudos/eng-ipswich.png",
+    "source": "https://en.wikipedia.org/wiki/File:Ipswich_Town.svg",
+    "license": "Fair use",
+    "article": "Ipswich Town F.C."
+  },
+  "eng-leeds": {
+    "file": "escudos/eng-leeds.png",
+    "source": "https://en.wikipedia.org/wiki/File:Leeds_United_F.C._logo.svg",
+    "license": "Fair use",
+    "article": "Leeds United F.C."
+  },
+  "eng-man-city": {
+    "file": "escudos/eng-man-city.png",
+    "source": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+    "license": "Fair use",
+    "article": "Manchester City F.C."
+  },
+  "eng-man-united": {
+    "file": "escudos/eng-man-united.png",
+    "source": "https://en.wikipedia.org/wiki/File:Manchester_United_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Manchester United F.C."
+  },
+  "eng-newcastle": {
+    "file": "escudos/eng-newcastle.png",
+    "source": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+    "license": "Fair use",
+    "article": "Newcastle United F.C."
+  },
+  "eng-sunderland": {
+    "file": "escudos/eng-sunderland.png",
+    "source": "https://en.wikipedia.org/wiki/File:Logo_Sunderland.svg",
+    "license": "Fair use",
+    "article": "Sunderland A.F.C."
+  },
+  "eng-tottenham": {
+    "file": "escudos/eng-tottenham.png",
+    "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+    "license": "Fair use",
+    "article": "Tottenham Hotspur F.C."
+  },
+  "eng-birmingham": {
+    "file": "escudos/eng-birmingham.png",
+    "source": "https://en.wikipedia.org/wiki/File:Birmingham_City_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Birmingham City F.C."
+  },
+  "eng-blackburn": {
+    "file": "escudos/eng-blackburn.png",
+    "source": "https://en.wikipedia.org/wiki/File:Blackburn_Rovers.svg",
+    "license": "Fair use",
+    "article": "Blackburn Rovers F.C."
+  },
+  "eng-bolton": {
+    "file": "escudos/eng-bolton.png",
+    "source": "https://en.wikipedia.org/wiki/File:Bolton_Wanderers_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Bolton Wanderers F.C."
+  },
+  "eng-bristol-city": {
+    "file": "escudos/eng-bristol-city.png",
+    "source": "https://en.wikipedia.org/wiki/File:Bristol_City_crest.svg",
+    "license": "Fair use",
+    "article": "Bristol City F.C."
+  },
+  "eng-burnley": {
+    "file": "escudos/eng-burnley.png",
+    "source": "https://en.wikipedia.org/wiki/File:Burnley_FC_Logo.svg",
+    "license": "Fair use",
+    "article": "Burnley F.C."
+  },
+  "eng-charlton": {
+    "file": "escudos/eng-charlton.png",
+    "source": "https://en.wikipedia.org/wiki/File:Charlton_Athletic_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Charlton Athletic F.C."
+  },
+  "eng-derby": {
+    "file": "escudos/eng-derby.png",
+    "source": "https://en.wikipedia.org/wiki/File:Derby_County_crest.svg",
+    "license": "Fair use",
+    "article": "Derby County F.C."
+  },
+  "eng-lincoln": {
+    "file": "escudos/eng-lincoln.png",
+    "source": "https://en.wikipedia.org/wiki/File:Lincoln_City_FC_2024_crest.svg",
+    "license": "Fair use",
+    "article": "Lincoln City F.C."
+  },
+  "eng-millwall": {
+    "file": "escudos/eng-millwall.png",
+    "source": "https://en.wikipedia.org/wiki/File:Millwall_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Millwall F.C."
+  },
+  "eng-norwich": {
+    "file": "escudos/eng-norwich.png",
+    "source": "https://en.wikipedia.org/wiki/File:Norwich_City_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Norwich City F.C."
+  },
+  "eng-portsmouth": {
+    "file": "escudos/eng-portsmouth.png",
+    "source": "https://en.wikipedia.org/wiki/File:Portsmouth_FC_logo.svg",
+    "license": "PD",
+    "article": "Portsmouth F.C."
+  },
+  "eng-preston": {
+    "file": "escudos/eng-preston.png",
+    "source": "https://en.wikipedia.org/wiki/File:Preston_North_End_FC.svg",
+    "license": "Fair use",
+    "article": "Preston North End F.C."
+  },
+  "eng-qpr": {
+    "file": "escudos/eng-qpr.png",
+    "source": "https://en.wikipedia.org/wiki/File:Queens_Park_Rangers_crest.svg",
+    "license": "PD",
+    "article": "Queens Park Rangers F.C."
+  },
+  "eng-sheffield-united": {
+    "file": "escudos/eng-sheffield-united.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sheffield_United_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Sheffield United F.C."
+  },
+  "eng-southampton": {
+    "file": "escudos/eng-southampton.png",
+    "source": "https://en.wikipedia.org/wiki/File:FC_Southampton.svg",
+    "license": "Fair use",
+    "article": "Southampton F.C."
+  },
+  "eng-swansea": {
+    "file": "escudos/eng-swansea.png",
+    "source": "https://en.wikipedia.org/wiki/File:Swansea_City_AFC_logo.svg",
+    "license": "Fair use",
+    "article": "Swansea City A.F.C."
+  },
+  "eng-watford": {
+    "file": "escudos/eng-watford.png",
+    "source": "https://en.wikipedia.org/wiki/File:Watford.svg",
+    "license": "Fair use",
+    "article": "Watford F.C."
+  },
+  "eng-west-brom": {
+    "file": "escudos/eng-west-brom.png",
+    "source": "https://en.wikipedia.org/wiki/File:West_Bromwich_Albion.svg",
+    "license": "Fair use",
+    "article": "West Bromwich Albion F.C."
+  },
+  "eng-wolves": {
+    "file": "escudos/eng-wolves.png",
+    "source": "https://en.wikipedia.org/wiki/File:Wolverhampton_Wanderers_FC_crest.svg",
+    "license": "PD",
+    "article": "Wolverhampton Wanderers F.C."
+  },
+  "eng-wrexham": {
+    "file": "escudos/eng-wrexham.png",
+    "source": "https://en.wikipedia.org/wiki/File:Wrexham_A.F.C._Logo.svg",
+    "license": "Fair use",
+    "article": "Wrexham A.F.C."
+  },
+  "esp-alaves": {
+    "file": "escudos/esp-alaves.png",
+    "source": "https://en.wikipedia.org/wiki/File:Deportivo_Alaves_logo_(2020).svg",
+    "license": "PD",
+    "article": "Deportivo Alavés"
+  },
+  "esp-athletic": {
+    "file": "escudos/esp-athletic.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Athletic_Bilbao_logo.svg",
+    "license": "Fair use",
+    "article": "Athletic Bilbao"
+  },
+  "esp-atletico": {
+    "file": "escudos/esp-atletico.png",
+    "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+    "license": "Fair use",
+    "article": "Atlético Madrid"
+  },
+  "esp-barcelona": {
+    "file": "escudos/esp-barcelona.png",
+    "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+    "license": "PD",
+    "article": "FC Barcelona"
+  },
+  "esp-deportivo": {
+    "file": "escudos/esp-deportivo.png",
+    "source": "https://en.wikipedia.org/wiki/File:RC_Deportivo_A_Coru%C3%B1a_logo_2026.svg",
+    "license": "Fair use",
+    "article": "Deportivo de A Coruña"
+  },
+  "esp-elche": {
+    "file": "escudos/esp-elche.png",
+    "source": "https://en.wikipedia.org/wiki/File:Elche_CF_logo.svg",
+    "license": "Fair use",
+    "article": "Elche CF"
+  },
+  "esp-espanyol": {
+    "file": "escudos/esp-espanyol.png",
+    "source": "https://en.wikipedia.org/wiki/File:RCD_Espanyol_crest.svg",
+    "license": "Fair use",
+    "article": "RCD Espanyol"
+  },
+  "esp-levante": {
+    "file": "escudos/esp-levante.png",
+    "source": "https://en.wikipedia.org/wiki/File:Levante_Uni%C3%B3n_Deportiva,_S.A.D._logo.svg",
+    "license": "Fair use",
+    "article": "Levante UD"
+  },
+  "esp-malaga": {
+    "file": "escudos/esp-malaga.png",
+    "source": "https://en.wikipedia.org/wiki/File:M%C3%A1laga_CF.svg",
+    "license": "Fair use",
+    "article": "Málaga CF"
+  },
+  "esp-osasuna": {
+    "file": "escudos/esp-osasuna.png",
+    "source": "https://en.wikipedia.org/wiki/File:CA_Osasuna_2024_crest.svg",
+    "license": "Fair use",
+    "article": "CA Osasuna"
+  },
+  "esp-racing": {
+    "file": "escudos/esp-racing.png",
+    "source": "https://en.wikipedia.org/wiki/File:Racing_de_Santander_logo.svg",
+    "license": "Fair use",
+    "article": "Racing de Santander"
+  },
+  "esp-rayo": {
+    "file": "escudos/esp-rayo.png",
+    "source": "https://en.wikipedia.org/wiki/File:Rayo_Vallecano_logo.svg",
+    "license": "Fair use",
+    "article": "Rayo Vallecano"
+  },
+  "esp-betis": {
+    "file": "escudos/esp-betis.png",
+    "source": "https://en.wikipedia.org/wiki/File:Real_Betis_2022_logo.svg",
+    "license": "Fair use",
+    "article": "Real Betis"
+  },
+  "esp-real-madrid": {
+    "file": "escudos/esp-real-madrid.png",
+    "source": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+    "license": "Fair use",
+    "article": "Real Madrid CF"
+  },
+  "esp-sevilla": {
+    "file": "escudos/esp-sevilla.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Sevilla FC"
+  },
+  "esp-valencia": {
+    "file": "escudos/esp-valencia.png",
+    "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+    "license": "Fair use",
+    "article": "Valencia CF"
+  },
+  "esp-villarreal": {
+    "file": "escudos/esp-villarreal.png",
+    "source": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+    "license": "Fair use",
+    "article": "Villarreal CF"
+  },
+  "esp-almeria": {
+    "file": "escudos/esp-almeria.png",
+    "source": "https://en.wikipedia.org/wiki/File:UD_Almeria_logo.svg",
+    "license": "PD",
+    "article": "UD Almería"
+  },
+  "esp-andorra": {
+    "file": "escudos/esp-andorra.png",
+    "source": "https://en.wikipedia.org/wiki/File:FC_Andorra_logo.svg",
+    "license": "Fair use",
+    "article": "FC Andorra"
+  },
+  "esp-burgos": {
+    "file": "escudos/esp-burgos.png",
+    "source": "https://en.wikipedia.org/wiki/File:Burgos_CF_logo.svg",
+    "license": "Fair use",
+    "article": "Burgos CF"
+  },
+  "esp-cadiz": {
+    "file": "escudos/esp-cadiz.png",
+    "source": "https://en.wikipedia.org/wiki/File:C%C3%A1diz_CF_logo.svg",
+    "license": "Fair use",
+    "article": "Cádiz CF"
+  },
+  "esp-celta-fortuna": {
+    "file": "escudos/esp-celta-fortuna.png",
+    "source": "https://en.wikipedia.org/wiki/File:RC_Celta_de_Vigo_logo.svg",
+    "license": "Fair use",
+    "article": "RC Celta Fortuna"
+  },
+  "esp-cordoba": {
+    "file": "escudos/esp-cordoba.png",
+    "source": "https://en.wikipedia.org/wiki/File:C%C3%B3rdoba_CF_logo.svg",
+    "license": "Fair use",
+    "article": "Córdoba CF"
+  },
+  "esp-eibar": {
+    "file": "escudos/esp-eibar.png",
+    "source": "https://en.wikipedia.org/wiki/File:SD_Eibar_logo_2016.svg",
+    "license": "PD",
+    "article": "SD Eibar"
+  },
+  "esp-eldense": {
+    "file": "escudos/esp-eldense.png",
+    "source": "https://en.wikipedia.org/wiki/File:CD_Eldense_logo.svg",
+    "license": "Fair use",
+    "article": "CD Eldense"
+  },
+  "esp-girona": {
+    "file": "escudos/esp-girona.png",
+    "source": "https://en.wikipedia.org/wiki/File:Girona_FC_Logo.svg",
+    "license": "Fair use",
+    "article": "Girona FC"
+  },
+  "esp-granada": {
+    "file": "escudos/esp-granada.png",
+    "source": "https://en.wikipedia.org/wiki/File:Logo_of_Granada_Club_de_F%C3%BAtbol.svg",
+    "license": "Fair use",
+    "article": "Granada CF"
+  },
+  "esp-leganes": {
+    "file": "escudos/esp-leganes.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Deportivo_Legan%C3%A9s_logo.svg",
+    "license": "Fair use",
+    "article": "CD Leganés"
+  },
+  "esp-mallorca": {
+    "file": "escudos/esp-mallorca.png",
+    "source": "https://en.wikipedia.org/wiki/File:Rcd_mallorca.svg",
+    "license": "Fair use",
+    "article": "RCD Mallorca"
+  },
+  "esp-oviedo": {
+    "file": "escudos/esp-oviedo.png",
+    "source": "https://en.wikipedia.org/wiki/File:Real_Oviedo_logo.svg",
+    "license": "Fair use",
+    "article": "Real Oviedo"
+  },
+  "esp-sabadell": {
+    "file": "escudos/esp-sabadell.png",
+    "source": "https://en.wikipedia.org/wiki/File:CE_Sabadell_FC_logo.svg",
+    "license": "Fair use",
+    "article": "CE Sabadell FC"
+  },
+  "esp-sporting": {
+    "file": "escudos/esp-sporting.png",
+    "source": "https://en.wikipedia.org/wiki/File:Real_Sporting_de_Gijon.svg",
+    "license": "Fair use",
+    "article": "Sporting de Gijón"
+  },
+  "esp-tenerife": {
+    "file": "escudos/esp-tenerife.png",
+    "source": "https://en.wikipedia.org/wiki/File:CD_Tenerife_emblem.svg",
+    "license": "Fair use",
+    "article": "CD Tenerife"
+  },
+  "esp-valladolid": {
+    "file": "escudos/esp-valladolid.png",
+    "source": "https://en.wikipedia.org/wiki/File:Real_Valladolid_CF_crest.svg",
+    "license": "Fair use",
+    "article": "Real Valladolid"
+  },
+  "fra-angers": {
+    "file": "escudos/fra-angers.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Angers_Sporting_Club_de_l%27Ouest_logo.svg",
+    "license": "Public domain",
+    "article": "Angers SCO"
+  },
+  "fra-brest": {
+    "file": "escudos/fra-brest.png",
+    "source": "https://en.wikipedia.org/wiki/File:Stade_Brestois_29_logo.svg",
+    "license": "Fair use",
+    "article": "Stade Brestois 29"
+  },
+  "fra-le-havre": {
+    "file": "escudos/fra-le-havre.png",
+    "source": "https://en.wikipedia.org/wiki/File:Le_Havre_AC_logo.svg",
+    "license": "Fair use",
+    "article": "Le Havre AC"
+  },
+  "fra-le-mans": {
+    "file": "escudos/fra-le-mans.png",
+    "source": "https://en.wikipedia.org/wiki/File:Le_Mans_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Le Mans FC"
+  },
+  "fra-lens": {
+    "file": "escudos/fra-lens.png",
+    "source": "https://en.wikipedia.org/wiki/File:RC_Lens_logo.svg",
+    "license": "Fair use",
+    "article": "RC Lens"
+  },
+  "fra-lorient": {
+    "file": "escudos/fra-lorient.png",
+    "source": "https://en.wikipedia.org/wiki/File:FC_Lorient_logo.svg",
+    "license": "Fair use",
+    "article": "FC Lorient"
+  },
+  "fra-lyon": {
+    "file": "escudos/fra-lyon.png",
+    "source": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+    "license": "Fair use",
+    "article": "Olympique Lyonnais"
+  },
+  "fra-marseille": {
+    "file": "escudos/fra-marseille.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+    "license": "Public domain",
+    "article": "Olympique de Marseille"
+  },
+  "fra-monaco": {
+    "file": "escudos/fra-monaco.png",
+    "source": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+    "license": "Fair use",
+    "article": "AS Monaco FC"
+  },
+  "fra-paris-fc": {
+    "file": "escudos/fra-paris-fc.png",
+    "source": "https://en.wikipedia.org/wiki/File:Paris_Football_Club_logo_(2024).svg",
+    "license": "PD",
+    "article": "Paris FC"
+  },
+  "fra-psg": {
+    "file": "escudos/fra-psg.png",
+    "source": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+    "license": "PD",
+    "article": "Paris Saint-Germain FC"
+  },
+  "fra-rennes": {
+    "file": "escudos/fra-rennes.png",
+    "source": "https://en.wikipedia.org/wiki/File:Stade_Rennais_FC.svg",
+    "license": "Fair use",
+    "article": "Stade Rennais FC"
+  },
+  "fra-toulouse": {
+    "file": "escudos/fra-toulouse.png",
+    "source": "https://en.wikipedia.org/wiki/File:Toulouse_FC_2018_logo.svg",
+    "license": "Fair use",
+    "article": "Toulouse FC"
+  },
+  "fra-troyes": {
+    "file": "escudos/fra-troyes.png",
+    "source": "https://commons.wikimedia.org/wiki/File:ESTAC_Troyes_Logo.svg",
+    "license": "Public domain",
+    "article": "ES Troyes AC"
+  },
+  "fra-annecy": {
+    "file": "escudos/fra-annecy.png",
+    "source": "https://en.wikipedia.org/wiki/File:FC_Annecy_logo.svg",
+    "license": "Fair use",
+    "article": "FC Annecy"
+  },
+  "fra-boulogne": {
+    "file": "escudos/fra-boulogne.png",
+    "source": "https://en.wikipedia.org/wiki/File:US_Boulogne_crest.svg",
+    "license": "Fair use",
+    "article": "US Boulogne"
+  },
+  "fra-clermont": {
+    "file": "escudos/fra-clermont.png",
+    "source": "https://en.wikipedia.org/wiki/File:Clermont_Foot_logo.svg",
+    "license": "Fair use",
+    "article": "Clermont Foot 63"
+  },
+  "fra-dunkerque": {
+    "file": "escudos/fra-dunkerque.png",
+    "source": "https://en.wikipedia.org/wiki/File:USL_Dunkerque_crest.svg",
+    "license": "Fair use",
+    "article": "USL Dunkerque"
+  },
+  "fra-grenoble": {
+    "file": "escudos/fra-grenoble.png",
+    "source": "https://en.wikipedia.org/wiki/File:Grenoble_Foot_38_logo.svg",
+    "license": "Fair use",
+    "article": "Grenoble Foot 38"
+  },
+  "fra-guingamp": {
+    "file": "escudos/fra-guingamp.png",
+    "source": "https://en.wikipedia.org/wiki/File:En_Avant_Guingamp_logo.svg",
+    "license": "Fair use",
+    "article": "En Avant Guingamp"
+  },
+  "fra-metz": {
+    "file": "escudos/fra-metz.png",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Metz_2021_Logo.svg",
+    "license": "Public domain",
+    "article": "FC Metz"
+  },
+  "fra-montpellier": {
+    "file": "escudos/fra-montpellier.png",
+    "source": "https://en.wikipedia.org/wiki/File:Montpellier_HSC_logo.svg",
+    "license": "Fair use",
+    "article": "Montpellier HSC"
+  },
+  "fra-nancy": {
+    "file": "escudos/fra-nancy.png",
+    "source": "https://en.wikipedia.org/wiki/File:AS_Nancy_logo.svg",
+    "license": "Fair use",
+    "article": "AS Nancy Lorraine"
+  },
+  "fra-nantes": {
+    "file": "escudos/fra-nantes.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_FC_Nantes_(avec_fond)_-_2019.svg",
+    "license": "Public domain",
+    "article": "FC Nantes"
+  },
+  "fra-pau": {
+    "file": "escudos/fra-pau.png",
+    "source": "https://en.wikipedia.org/wiki/File:Pau_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Pau FC"
+  },
+  "fra-reims": {
+    "file": "escudos/fra-reims.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Stade_de_Reims_logo.svg",
+    "license": "Public domain",
+    "article": "Stade de Reims"
+  },
+  "fra-rodez": {
+    "file": "escudos/fra-rodez.png",
+    "source": "https://en.wikipedia.org/wiki/File:Rodez_AF_logo.svg",
+    "license": "Fair use",
+    "article": "Rodez AF"
+  },
+  "fra-saint-etienne": {
+    "file": "escudos/fra-saint-etienne.png",
+    "source": "https://en.wikipedia.org/wiki/File:AS_Saint-%C3%89tienne_logo.svg",
+    "license": "Fair use",
+    "article": "AS Saint-Étienne"
+  },
+  "fra-sochaux": {
+    "file": "escudos/fra-sochaux.png",
+    "source": "https://en.wikipedia.org/wiki/File:FC_Sochaux-Montbeliard_logo.svg",
+    "license": "Fair use",
+    "article": "FC Sochaux-Montbéliard"
+  },
+  "ita-bologna": {
+    "file": "escudos/ita-bologna.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Bologna_F.C._1909_logo.svg",
+    "license": "Public domain",
+    "article": "Bologna FC 1909"
+  },
+  "ita-cagliari": {
+    "file": "escudos/ita-cagliari.png",
+    "source": "https://en.wikipedia.org/wiki/File:Cagliari_Calcio_1920.svg",
+    "license": "Fair use",
+    "article": "Cagliari Calcio"
+  },
+  "ita-como": {
+    "file": "escudos/ita-como.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Calcio_Como_-_logo_(Italy,_2019-).svg",
+    "license": "Public domain",
+    "article": "Como 1907"
+  },
+  "ita-fiorentina": {
+    "file": "escudos/ita-fiorentina.png",
+    "source": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina_-_logo_(Italy,_2022).svg",
+    "license": "Public domain",
+    "article": "ACF Fiorentina"
+  },
+  "ita-frosinone": {
+    "file": "escudos/ita-frosinone.png",
+    "source": "https://en.wikipedia.org/wiki/File:Frosinone_Calcio_logo.svg",
+    "license": "Fair use",
+    "article": "Frosinone Calcio"
+  },
+  "ita-genoa": {
+    "file": "escudos/ita-genoa.png",
+    "source": "https://en.wikipedia.org/wiki/File:Genoa_CFC_crest.svg",
+    "license": "Fair use",
+    "article": "Genoa CFC"
+  },
+  "ita-inter": {
+    "file": "escudos/ita-inter.png",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+    "license": "Public domain",
+    "article": "Inter Milan"
+  },
+  "ita-lazio": {
+    "file": "escudos/ita-lazio.png",
+    "source": "https://en.wikipedia.org/wiki/File:S.S._Lazio_badge.svg",
+    "license": "Fair use",
+    "article": "SS Lazio"
+  },
+  "ita-lecce": {
+    "file": "escudos/ita-lecce.png",
+    "source": "https://en.wikipedia.org/wiki/File:US_Lecce_crest.svg",
+    "license": "Fair use",
+    "article": "US Lecce"
+  },
+  "ita-milan": {
+    "file": "escudos/ita-milan.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+    "license": "Public domain",
+    "article": "AC Milan"
+  },
+  "ita-napoli": {
+    "file": "escudos/ita-napoli.png",
+    "source": "https://commons.wikimedia.org/wiki/File:SSC_Napoli_2025_(white_and_azure).svg",
+    "license": "Public domain",
+    "article": "SSC Napoli"
+  },
+  "ita-parma": {
+    "file": "escudos/ita-parma.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Parma_Calcio_1913_(adozione_2016).svg",
+    "license": "Public domain",
+    "article": "Parma Calcio 1913"
+  },
+  "ita-roma": {
+    "file": "escudos/ita-roma.png",
+    "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+    "license": "Fair use",
+    "article": "AS Roma"
+  },
+  "bel-anderlecht": {
+    "file": "escudos/bel-anderlecht.png",
+    "source": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+    "license": "Fair use",
+    "article": "RSC Anderlecht"
+  },
+  "bel-antwerp": {
+    "file": "escudos/bel-antwerp.png",
+    "source": "https://en.wikipedia.org/wiki/File:Royal_Antwerp_Football_Club_logo.svg",
+    "license": "Fair use",
+    "article": "Royal Antwerp FC"
+  },
+  "bel-mechelen": {
+    "file": "escudos/bel-mechelen.png",
+    "source": "https://en.wikipedia.org/wiki/File:KV_Mechelen_logo.svg",
+    "license": "Fair use",
+    "article": "KV Mechelen"
+  },
+  "bel-lommel": {
+    "file": "escudos/bel-lommel.png",
+    "source": "https://en.wikipedia.org/wiki/File:Lommel_SK_logo.svg",
+    "license": "Fair use",
+    "article": "Lommel SK"
+  },
+  "deu-werder": {
+    "file": "escudos/deu-werder.png",
+    "source": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+    "license": "Public domain",
+    "article": "SV Werder Bremen"
+  },
+  "deu-union-berlin": {
+    "file": "escudos/deu-union-berlin.png",
+    "source": "https://commons.wikimedia.org/wiki/File:1._FC_Union_Berlin_Logo.svg",
+    "license": "Public domain",
+    "article": "1. FC Union Berlin"
+  },
+  "eng-chelsea": {
+    "file": "escudos/eng-chelsea.png",
+    "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+    "license": "Fair use",
+    "article": "Chelsea F.C."
+  },
+  "eng-liverpool": {
+    "file": "escudos/eng-liverpool.png",
+    "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+    "license": "Fair use",
+    "article": "Liverpool F.C."
+  },
+  "eng-nottingham-forest": {
+    "file": "escudos/eng-nottingham-forest.png",
+    "source": "https://en.wikipedia.org/wiki/File:Nottingham_Forest_F.C._logo.svg",
+    "license": "Fair use",
+    "article": "Nottingham Forest F.C."
+  },
+  "eng-cardiff": {
+    "file": "escudos/eng-cardiff.png",
+    "source": "https://en.wikipedia.org/wiki/File:Cardiff_City_crest.svg",
+    "license": "Fair use",
+    "article": "Cardiff City F.C."
+  },
+  "eng-middlesbrough": {
+    "file": "escudos/eng-middlesbrough.png",
+    "source": "https://en.wikipedia.org/wiki/File:Middlesbrough_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Middlesbrough F.C."
+  },
+  "eng-stoke": {
+    "file": "escudos/eng-stoke.png",
+    "source": "https://en.wikipedia.org/wiki/File:Stoke_City_FC_crest_2026.svg",
+    "license": "Fair use",
+    "article": "Stoke City F.C."
+  },
+  "eng-west-ham": {
+    "file": "escudos/eng-west-ham.png",
+    "source": "https://en.wikipedia.org/wiki/File:West_Ham_United_FC_logo.svg",
+    "license": "Fair use",
+    "article": "West Ham United F.C."
+  },
+  "esp-celta": {
+    "file": "escudos/esp-celta.png",
+    "source": "https://en.wikipedia.org/wiki/File:RC_Celta_de_Vigo_logo.svg",
+    "license": "Fair use",
+    "article": "RC Celta de Vigo"
+  },
+  "esp-getafe": {
+    "file": "escudos/esp-getafe.png",
+    "source": "https://en.wikipedia.org/wiki/File:Getafe_logo.svg",
+    "license": "Fair use",
+    "article": "Getafe CF"
+  },
+  "esp-albacete": {
+    "file": "escudos/esp-albacete.png",
+    "source": "https://en.wikipedia.org/wiki/File:Albacete_balompie.svg",
+    "license": "Fair use",
+    "article": "Albacete Balompié"
+  },
+  "esp-castellon": {
+    "file": "escudos/esp-castellon.png",
+    "source": "https://en.wikipedia.org/wiki/File:Logo_of_CD_Castell%C3%B3n.svg",
+    "license": "Fair use",
+    "article": "CD Castellón"
+  },
+  "esp-las-palmas": {
+    "file": "escudos/esp-las-palmas.png",
+    "source": "https://en.wikipedia.org/wiki/File:UD_Las_Palmas_logo.svg",
+    "license": "Fair use",
+    "article": "UD Las Palmas"
+  },
+  "esp-real-sociedad-b": {
+    "file": "escudos/esp-real-sociedad-b.png",
+    "source": "https://en.wikipedia.org/wiki/File:Real_Sociedad_logo.svg",
+    "license": "Fair use",
+    "article": "Real Sociedad"
+  },
+  "fra-auxerre": {
+    "file": "escudos/fra-auxerre.png",
+    "source": "https://en.wikipedia.org/wiki/File:AJAuxerreLogo.svg",
+    "license": "Fair use",
+    "article": "AJ Auxerre"
+  },
+  "fra-lille": {
+    "file": "escudos/fra-lille.png",
+    "source": "https://en.wikipedia.org/wiki/File:Lille_OSC_2018_logo.svg",
+    "license": "Fair use",
+    "article": "Lille OSC"
+  },
+  "fra-strasbourg": {
+    "file": "escudos/fra-strasbourg.png",
+    "source": "https://en.wikipedia.org/wiki/File:Racing_Club_de_Strasbourg_logo.svg",
+    "license": "Fair use",
+    "article": "RC Strasbourg Alsace"
+  },
+  "fra-dijon": {
+    "file": "escudos/fra-dijon.png",
+    "source": "https://en.wikipedia.org/wiki/File:Dijon_FCO_logo.svg",
+    "license": "Fair use",
+    "article": "Dijon FCO"
+  },
+  "fra-red-star": {
+    "file": "escudos/fra-red-star.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_Star_FC_logo.svg",
+    "license": "Public domain",
+    "article": "Red Star FC"
+  },
+  "ita-atalanta": {
+    "file": "escudos/ita-atalanta.png",
+    "source": "https://en.wikipedia.org/wiki/File:Atalanta_BC_new_logo.svg",
+    "license": "Fair use",
+    "article": "Atalanta BC"
+  },
+  "ita-juventus": {
+    "file": "escudos/ita-juventus.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+    "license": "Public domain",
+    "article": "Juventus FC"
+  },
+  "ita-monza": {
+    "file": "escudos/ita-monza.png",
+    "source": "https://en.wikipedia.org/wiki/File:AC_Monza_logo_(2021).svg",
+    "license": "Fair use",
+    "article": "AC Monza"
+  },
+  "ita-sassuolo": {
+    "file": "escudos/ita-sassuolo.png",
+    "source": "https://en.wikipedia.org/wiki/File:US_Sassuolo_Calcio_logo.svg",
+    "license": "Fair use",
+    "article": "US Sassuolo Calcio"
+  },
+  "ita-torino": {
+    "file": "escudos/ita-torino.png",
+    "source": "https://en.wikipedia.org/wiki/File:Torino_FC_Logo.svg",
+    "license": "Fair use",
+    "article": "Torino FC"
+  },
+  "ita-udinese": {
+    "file": "escudos/ita-udinese.png",
+    "source": "https://en.wikipedia.org/wiki/File:Udinese_Calcio_logo.svg",
+    "license": "Fair use",
+    "article": "Udinese Calcio"
+  },
+  "ita-arezzo": {
+    "file": "escudos/ita-arezzo.png",
+    "source": "https://en.wikipedia.org/wiki/File:SS_Arezzo_crest.svg",
+    "license": "Fair use",
+    "article": "SS Arezzo"
+  },
+  "ita-ascoli": {
+    "file": "escudos/ita-ascoli.png",
+    "source": "https://en.wikipedia.org/wiki/File:Ascoli_Calcio_1898_logo.svg",
+    "license": "Fair use",
+    "article": "Ascoli Calcio 1898 FC"
+  },
+  "ita-benevento": {
+    "file": "escudos/ita-benevento.png",
+    "source": "https://en.wikipedia.org/wiki/File:Benevento_Calcio_logo.svg",
+    "license": "Fair use",
+    "article": "Benevento Calcio"
+  },
+  "ita-carrarese": {
+    "file": "escudos/ita-carrarese.png",
+    "source": "https://en.wikipedia.org/wiki/File:Carrarese_Calcio_1908_crest.svg",
+    "license": "Fair use",
+    "article": "Carrarese Calcio 1908"
+  },
+  "ita-catanzaro": {
+    "file": "escudos/ita-catanzaro.png",
+    "source": "https://en.wikipedia.org/wiki/File:US_Catanzaro_1929_crest.svg",
+    "license": "Fair use",
+    "article": "US Catanzaro 1929"
+  },
+  "ita-cesena": {
+    "file": "escudos/ita-cesena.png",
+    "source": "https://en.wikipedia.org/wiki/File:Cesena_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Cesena FC"
+  },
+  "ita-cremonese": {
+    "file": "escudos/ita-cremonese.png",
+    "source": "https://en.wikipedia.org/wiki/File:US_Cremonese_logo.svg",
+    "license": "Fair use",
+    "article": "US Cremonese"
+  },
+  "ita-empoli": {
+    "file": "escudos/ita-empoli.png",
+    "source": "https://en.wikipedia.org/wiki/File:Empoli_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Empoli FC"
+  },
+  "ita-juve-stabia": {
+    "file": "escudos/ita-juve-stabia.png",
+    "source": "https://en.wikipedia.org/wiki/File:SS_Juve_Stabia_crest.svg",
+    "license": "Fair use",
+    "article": "SS Juve Stabia"
+  },
+  "ita-mantova": {
+    "file": "escudos/ita-mantova.png",
+    "source": "https://en.wikipedia.org/wiki/File:Mantova_1911_crest.svg",
+    "license": "Fair use",
+    "article": "Mantova 1911"
+  },
+  "ita-modena": {
+    "file": "escudos/ita-modena.png",
+    "source": "https://en.wikipedia.org/wiki/File:Modena_FC_2018_crest.svg",
+    "license": "Fair use",
+    "article": "Modena FC 2018"
+  },
+  "ita-palermo": {
+    "file": "escudos/ita-palermo.png",
+    "source": "https://en.wikipedia.org/wiki/File:Palermo_Calcio_logo_(2019).svg",
+    "license": "Fair use",
+    "article": "Palermo FC"
+  },
+  "ita-pisa": {
+    "file": "escudos/ita-pisa.png",
+    "source": "https://en.wikipedia.org/wiki/File:Pisa_SC_crest.svg",
+    "license": "Fair use",
+    "article": "Pisa SC"
+  },
+  "ita-sampdoria": {
+    "file": "escudos/ita-sampdoria.png",
+    "source": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+    "license": "Fair use",
+    "article": "UC Sampdoria"
+  },
+  "ita-sudtirol": {
+    "file": "escudos/ita-sudtirol.png",
+    "source": "https://en.wikipedia.org/wiki/File:FC_Sudtirol_crest.svg",
+    "license": "Fair use",
+    "article": "FC Südtirol"
+  },
+  "ita-vicenza": {
+    "file": "escudos/ita-vicenza.png",
+    "source": "https://commons.wikimedia.org/wiki/File:LR_Vicenza_Virtus_(logo).svg",
+    "license": "Public domain",
+    "article": "LR Vicenza"
+  },
+  "nld-ajax": {
+    "file": "escudos/nld-ajax.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991,_2025-).png",
+    "license": "Public domain",
+    "article": "AFC Ajax"
+  },
+  "nld-psv": {
+    "file": "escudos/nld-psv.png",
+    "source": "https://en.wikipedia.org/wiki/File:PSV_Eindhoven.svg",
+    "license": "Fair use",
+    "article": "PSV Eindhoven"
+  },
+  "nld-az": {
+    "file": "escudos/nld-az.png",
+    "source": "https://commons.wikimedia.org/wiki/File:AZ_Alkmaar.svg",
+    "license": "Public domain",
+    "article": "AZ Alkmaar"
+  },
+  "nld-twente": {
+    "file": "escudos/nld-twente.png",
+    "source": "https://en.wikipedia.org/wiki/File:FC_Twente.svg",
+    "license": "Fair use",
+    "article": "FC Twente"
+  },
+  "nld-utrecht": {
+    "file": "escudos/nld-utrecht.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_FC_Utrecht.svg",
+    "license": "Public domain",
+    "article": "FC Utrecht"
+  },
+  "nld-heerenveen": {
+    "file": "escudos/nld-heerenveen.png",
+    "source": "https://en.wikipedia.org/wiki/File:SC_Heerenveen_logo.svg",
+    "license": "Fair use",
+    "article": "SC Heerenveen"
+  },
+  "nld-groningen": {
+    "file": "escudos/nld-groningen.png",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Groningen_logo.svg",
+    "license": "Public domain",
+    "article": "FC Groningen"
+  },
+  "nld-go-ahead-eagles": {
+    "file": "escudos/nld-go-ahead-eagles.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Go_Ahead_Eagles_logo.svg",
+    "license": "CC BY-SA 4.0",
+    "article": "Go Ahead Eagles"
+  },
+  "nld-sparta": {
+    "file": "escudos/nld-sparta.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sparta_Rotterdam_logo.svg",
+    "license": "Fair use",
+    "article": "Sparta Rotterdam"
+  },
+  "nld-fortuna": {
+    "file": "escudos/nld-fortuna.png",
+    "source": "https://en.wikipedia.org/wiki/File:Fortuna_Sittard_Logo.svg",
+    "license": "Fair use",
+    "article": "Fortuna Sittard"
+  },
+  "nld-excelsior": {
+    "file": "escudos/nld-excelsior.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Excelsior_Rotterdam_logo_2021.svg",
+    "license": "Public domain",
+    "article": "Excelsior Rotterdam"
+  },
+  "nld-telstar": {
+    "file": "escudos/nld-telstar.png",
+    "source": "https://en.wikipedia.org/wiki/File:SC_Telstar_logo.svg",
+    "license": "Fair use",
+    "article": "SC Telstar"
+  },
+  "nld-ado": {
+    "file": "escudos/nld-ado.png",
+    "source": "https://en.wikipedia.org/wiki/File:ADO_Den_Haag_logo.svg",
+    "license": "Fair use",
+    "article": "ADO Den Haag"
+  },
+  "nld-cambuur": {
+    "file": "escudos/nld-cambuur.png",
+    "source": "https://en.wikipedia.org/wiki/File:SC_Cambuur_logo.svg",
+    "license": "Fair use",
+    "article": "SC Cambuur"
+  },
+  "nld-willem-ii": {
+    "file": "escudos/nld-willem-ii.png",
+    "source": "https://en.wikipedia.org/wiki/File:Willem_II_logo.svg",
+    "license": "Fair use",
+    "article": "Willem II Tilburg"
+  },
+  "prt-porto": {
+    "file": "escudos/prt-porto.png",
+    "source": "https://en.wikipedia.org/wiki/File:FC_Porto.svg",
+    "license": "Fair use",
+    "article": "FC Porto"
+  },
+  "prt-braga": {
+    "file": "escudos/prt-braga.png",
+    "source": "https://en.wikipedia.org/wiki/File:S.C._Braga_logo.svg",
+    "license": "Fair use",
+    "article": "S.C. Braga"
+  },
+  "prt-famalicao": {
+    "file": "escudos/prt-famalicao.png",
+    "source": "https://en.wikipedia.org/wiki/File:F.C._Famalic%C3%A3o_logo.svg",
+    "license": "Fair use",
+    "article": "F.C. Famalicão"
+  },
+  "prt-gil-vicente": {
+    "file": "escudos/prt-gil-vicente.png",
+    "source": "https://en.wikipedia.org/wiki/File:Gil_Vicente_F.C._logo.svg",
+    "license": "Fair use",
+    "article": "Gil Vicente F.C."
+  },
+  "prt-moreirense": {
+    "file": "escudos/prt-moreirense.png",
+    "source": "https://en.wikipedia.org/wiki/File:Moreirense_Futebol_Clube_logo.svg",
+    "license": "Fair use",
+    "article": "Moreirense F.C."
+  },
+  "prt-rio-ave": {
+    "file": "escudos/prt-rio-ave.png",
+    "source": "https://en.wikipedia.org/wiki/File:Rio_Ave_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Rio Ave F.C."
+  },
+  "prt-arouca": {
+    "file": "escudos/prt-arouca.png",
+    "source": "https://en.wikipedia.org/wiki/File:F.C._Arouca_logo.svg",
+    "license": "Fair use",
+    "article": "F.C. Arouca"
+  },
+  "prt-estoril": {
+    "file": "escudos/prt-estoril.png",
+    "source": "https://en.wikipedia.org/wiki/File:GD_Estoril_Praia_logo.svg",
+    "license": "Fair use",
+    "article": "G.D. Estoril Praia"
+  },
+  "prt-casa-pia": {
+    "file": "escudos/prt-casa-pia.png",
+    "source": "https://en.wikipedia.org/wiki/File:Casa_Pia_A.C._logo.svg",
+    "license": "Fair use",
+    "article": "Casa Pia A.C."
+  },
+  "prt-alverca": {
+    "file": "escudos/prt-alverca.png",
+    "source": "https://en.wikipedia.org/wiki/File:F.C._Alverca_logo.svg",
+    "license": "Fair use",
+    "article": "F.C. Alverca"
+  },
+  "prt-santa-clara": {
+    "file": "escudos/prt-santa-clara.png",
+    "source": "https://en.wikipedia.org/wiki/File:C.D._Santa_Clara_logo.svg",
+    "license": "Fair use",
+    "article": "C.D. Santa Clara"
+  },
+  "prt-nacional": {
+    "file": "escudos/prt-nacional.png",
+    "source": "https://en.wikipedia.org/wiki/File:C.D._Nacional_logo.svg",
+    "license": "Fair use",
+    "article": "C.D. Nacional"
+  },
+  "prt-academico-viseu": {
+    "file": "escudos/prt-academico-viseu.png",
+    "source": "https://commons.wikimedia.org/wiki/File:A.C._Viseu.svg",
+    "license": "Public domain",
+    "article": "Académico de Viseu F.C."
+  },
+  "sco-celtic": {
+    "file": "escudos/sco-celtic.png",
+    "source": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Celtic F.C."
+  },
+  "sco-rangers": {
+    "file": "escudos/sco-rangers.png",
+    "source": "https://en.wikipedia.org/wiki/File:Rangers_FC.svg",
+    "license": "Fair use",
+    "article": "Rangers F.C."
+  },
+  "sco-aberdeen": {
+    "file": "escudos/sco-aberdeen.png",
+    "source": "https://en.wikipedia.org/wiki/File:Aberdeen_FC_stars_crest.svg",
+    "license": "Fair use",
+    "article": "Aberdeen F.C."
+  },
+  "sco-hearts": {
+    "file": "escudos/sco-hearts.png",
+    "source": "https://en.wikipedia.org/wiki/File:Heart_of_Midlothian_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Heart of Midlothian F.C."
+  },
+  "sco-hibernian": {
+    "file": "escudos/sco-hibernian.png",
+    "source": "https://en.wikipedia.org/wiki/File:Hibernian_FC_2026_crest.svg",
+    "license": "Fair use",
+    "article": "Hibernian F.C."
+  },
+  "sco-dundee-united": {
+    "file": "escudos/sco-dundee-united.png",
+    "source": "https://en.wikipedia.org/wiki/File:Dundee_United_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Dundee United F.C."
+  },
+  "sco-motherwell": {
+    "file": "escudos/sco-motherwell.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Motherwell_FC_crest.svg",
+    "license": "CC BY-SA 3.0",
+    "article": "Motherwell F.C."
+  },
+  "sco-kilmarnock": {
+    "file": "escudos/sco-kilmarnock.png",
+    "source": "https://en.wikipedia.org/wiki/File:Kilmarnock_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Kilmarnock F.C."
+  },
+  "sco-st-mirren": {
+    "file": "escudos/sco-st-mirren.png",
+    "source": "https://en.wikipedia.org/wiki/File:St_Mirren_FC_crest.svg",
+    "license": "Fair use",
+    "article": "St Mirren F.C."
+  },
+  "sco-falkirk": {
+    "file": "escudos/sco-falkirk.png",
+    "source": "https://en.wikipedia.org/wiki/File:Falkirk_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Falkirk F.C."
+  },
+  "tur-alanyaspor": {
+    "file": "escudos/tur-alanyaspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Alanyaspor_logo.svg",
+    "license": "Fair use",
+    "article": "Alanyaspor"
+  },
+  "tur-amedspor": {
+    "file": "escudos/tur-amedspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Amed_S.F.K._logo.svg",
+    "license": "Fair use",
+    "article": "Amed S.F.K."
+  },
+  "tur-basaksehir": {
+    "file": "escudos/tur-basaksehir.png",
+    "source": "https://en.wikipedia.org/wiki/File:%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_logo.svg",
+    "license": "Fair use",
+    "article": "İstanbul Başakşehir F.K."
+  },
+  "tur-corum": {
+    "file": "escudos/tur-corum.png",
+    "source": "https://en.wikipedia.org/wiki/File:%C3%87orum_F.K._crest.svg",
+    "license": "Fair use",
+    "article": "Çorum F.K."
+  },
+  "tur-erzurumspor": {
+    "file": "escudos/tur-erzurumspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Erzurumspor_logo.png",
+    "license": "Fair use",
+    "article": "Erzurumspor"
+  },
+  "tur-fenerbahce": {
+    "file": "escudos/tur-fenerbahce.png",
+    "source": "https://en.wikipedia.org/wiki/File:Fenerbah%C3%A7e.svg",
+    "license": "Fair use",
+    "article": "Fenerbahçe S.K."
+  },
+  "tur-galatasaray": {
+    "file": "escudos/tur-galatasaray.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Galatasaray_Sports_Club_Logo.svg",
+    "license": "Public domain",
+    "article": "Galatasaray S.K."
+  },
+  "tur-gaziantep": {
+    "file": "escudos/tur-gaziantep.png",
+    "source": "https://en.wikipedia.org/wiki/File:Gazi%C5%9Fehir_Gaziantep_logo.svg",
+    "license": "Fair use",
+    "article": "Gaziantep F.K."
+  },
+  "bel-zulte-waregem": {
+    "file": "escudos/bel-zulte-waregem.png",
+    "source": "https://en.wikipedia.org/wiki/File:Zulte-Waregem_logo.svg",
+    "license": "Fair use",
+    "article": "SV Zulte Waregem"
+  },
+  "eng-aston-villa": {
+    "file": "escudos/eng-aston-villa.png",
+    "source": "https://en.wikipedia.org/wiki/File:Aston_Villa_FC_new_crest.svg",
+    "license": "Fair use",
+    "article": "Aston Villa F.C."
+  },
+  "esp-real-sociedad": {
+    "file": "escudos/esp-real-sociedad.png",
+    "source": "https://en.wikipedia.org/wiki/File:Real_Sociedad_logo.svg",
+    "license": "Fair use",
+    "article": "Real Sociedad"
+  },
+  "esp-ceuta": {
+    "file": "escudos/esp-ceuta.png",
+    "source": "https://en.wikipedia.org/wiki/File:AD_Ceuta_FC_logo.svg",
+    "license": "Fair use",
+    "article": "AD Ceuta FC"
+  },
+  "fra-laval": {
+    "file": "escudos/fra-laval.png",
+    "source": "https://en.wikipedia.org/wiki/File:Stade_Lavallois_logo.svg",
+    "license": "Fair use",
+    "article": "Stade Lavallois"
+  },
+  "ita-venezia": {
+    "file": "escudos/ita-venezia.png",
+    "source": "https://en.wikipedia.org/wiki/File:Venezia_FC_crest.svg",
+    "license": "Fair use",
+    "article": "Venezia FC"
+  },
+  "ita-hellas-verona": {
+    "file": "escudos/ita-hellas-verona.png",
+    "source": "https://en.wikipedia.org/wiki/File:Hellas_Verona_FC_logo_(2020).svg",
+    "license": "Fair use",
+    "article": "Hellas Verona FC"
+  },
+  "ita-padova": {
+    "file": "escudos/ita-padova.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Calcio_Padova_logo.svg",
+    "license": "Public domain",
+    "article": "Calcio Padova"
+  },
+  "ita-entella": {
+    "file": "escudos/ita-entella.png",
+    "source": "https://en.wikipedia.org/wiki/File:Virtus_Entella_logo.svg",
+    "license": "Fair use",
+    "article": "Virtus Entella"
+  },
+  "nld-feyenoord": {
+    "file": "escudos/nld-feyenoord.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Feyenoord_logo_since_2024.svg",
+    "license": "Public domain",
+    "article": "Feyenoord"
+  },
+  "nld-nec": {
+    "file": "escudos/nld-nec.png",
+    "source": "https://en.wikipedia.org/wiki/File:NEC_Nijmegen_logo.svg",
+    "license": "Fair use",
+    "article": "NEC Nijmegen"
+  },
+  "prt-benfica": {
+    "file": "escudos/prt-benfica.png",
+    "source": "https://en.wikipedia.org/wiki/File:SL_Benfica_logo.svg",
+    "license": "Fair use",
+    "article": "S.L. Benfica"
+  },
+  "prt-vitoria-sc": {
+    "file": "escudos/prt-vitoria-sc.png",
+    "source": "https://en.wikipedia.org/wiki/File:Vit%C3%B3ria_Guimar%C3%A3es.svg",
+    "license": "Fair use",
+    "article": "Vitória S.C."
+  },
+  "prt-maritimo": {
+    "file": "escudos/prt-maritimo.png",
+    "source": "https://en.wikipedia.org/wiki/File:C.S._Mar%C3%ADtimo_logo.svg",
+    "license": "Fair use",
+    "article": "C.S. Marítimo"
+  },
+  "sco-dundee": {
+    "file": "escudos/sco-dundee.png",
+    "source": "https://en.wikipedia.org/wiki/File:Dundee_FC_2025_Crest.svg",
+    "license": "Fair use",
+    "article": "Dundee F.C."
+  },
+  "sco-st-johnstone": {
+    "file": "escudos/sco-st-johnstone.png",
+    "source": "https://en.wikipedia.org/wiki/File:St_Johnstone_FC_crest.svg",
+    "license": "Fair use",
+    "article": "St Johnstone F.C."
+  },
+  "tur-besiktas": {
+    "file": "escudos/tur-besiktas.png",
+    "source": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+    "license": "Public domain",
+    "article": "Beşiktaş J.K."
+  },
+  "tur-eyupspor": {
+    "file": "escudos/tur-eyupspor.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Ey%C3%BCpspor_Logosu.png",
+    "license": "CC BY 4.0",
+    "article": "Eyüpspor"
+  },
+  "tur-genclerbirligi": {
+    "file": "escudos/tur-genclerbirligi.png",
+    "source": "https://en.wikipedia.org/wiki/File:Gen%C3%A7lerbirli%C4%9Fi_S.K._crest.svg",
+    "license": "Fair use",
+    "article": "Gençlerbirliği S.K."
+  },
+  "tur-kasimpasa": {
+    "file": "escudos/tur-kasimpasa.png",
+    "source": "https://en.wikipedia.org/wiki/File:Kasimpasa_logo.svg",
+    "license": "Fair use",
+    "article": "Kasımpaşa S.K."
+  },
+  "tur-kocaelispor": {
+    "file": "escudos/tur-kocaelispor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Kocaelispor_logo.svg",
+    "license": "Fair use",
+    "article": "Kocaelispor"
+  },
+  "tur-konyaspor": {
+    "file": "escudos/tur-konyaspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Konyaspor_logo.svg",
+    "license": "Fair use",
+    "article": "Konyaspor"
+  },
+  "tur-samsunspor": {
+    "file": "escudos/tur-samsunspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Samsunspor_crest.svg",
+    "license": "Fair use",
+    "article": "Samsunspor"
+  },
+  "tur-trabzonspor": {
+    "file": "escudos/tur-trabzonspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Trabzonspor_Amblem.svg",
+    "license": "Fair use",
+    "article": "Trabzonspor"
+  },
+  "tur-antalyaspor": {
+    "file": "escudos/tur-antalyaspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Antalyaspor_logo.svg",
+    "license": "Fair use",
+    "article": "Antalyaspor"
+  },
+  "tur-bandirmaspor": {
+    "file": "escudos/tur-bandirmaspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Band%C4%B1rmaspor_logo.svg",
+    "license": "Fair use",
+    "article": "Bandırmaspor"
+  },
+  "tur-boluspor": {
+    "file": "escudos/tur-boluspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Boluspor_logo.svg",
+    "license": "Fair use",
+    "article": "Boluspor"
+  },
+  "tur-bursaspor": {
+    "file": "escudos/tur-bursaspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Bursaspor_logo.svg",
+    "license": "Fair use",
+    "article": "Bursaspor"
+  },
+  "tur-erokspor": {
+    "file": "escudos/tur-erokspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Esenler_Erokspor_logo.png",
+    "license": "Fair use",
+    "article": "Esenler Erokspor"
+  },
+  "tur-igdir": {
+    "file": "escudos/tur-igdir.png",
+    "source": "https://en.wikipedia.org/wiki/File:I%C4%9Fd%C4%B1r_F.K._crest.png",
+    "license": "Fair use",
+    "article": "Iğdır F.K."
+  },
+  "tur-istanbulspor": {
+    "file": "escudos/tur-istanbulspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Istanbulspor.svg",
+    "license": "Fair use",
+    "article": "İstanbulspor"
+  },
+  "tur-kayserispor": {
+    "file": "escudos/tur-kayserispor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Kayserispor_logo.svg",
+    "license": "Fair use",
+    "article": "Kayserispor"
+  },
+  "tur-keciorengucu": {
+    "file": "escudos/tur-keciorengucu.png",
+    "source": "https://en.wikipedia.org/wiki/File:Ankara_Ke%C3%A7i%C3%B6reng%C3%BCc%C3%BC_S.K._logo.png",
+    "license": "Fair use",
+    "article": "Ankara Keçiörengücü S.K."
+  },
+  "tur-manisa": {
+    "file": "escudos/tur-manisa.png",
+    "source": "https://en.wikipedia.org/wiki/File:Manisa_FK_logo.png",
+    "license": "Fair use",
+    "article": "Manisa F.K."
+  },
+  "tur-sariyer": {
+    "file": "escudos/tur-sariyer.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sar%C4%B1yer_SK_logo.svg",
+    "license": "Fair use",
+    "article": "Sarıyer S.K."
+  },
+  "tur-sivasspor": {
+    "file": "escudos/tur-sivasspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sivasspor_logo.svg",
+    "license": "Fair use",
+    "article": "Sivasspor"
+  },
+  "tur-umraniyespor": {
+    "file": "escudos/tur-umraniyespor.png",
+    "source": "https://en.wikipedia.org/wiki/File:%C3%9Cmraniyespor_logo.png",
+    "license": "Fair use",
+    "article": "Ümraniyespor"
+  },
+  "fra-nice": {
+    "file": "escudos/fra-nice.png",
+    "source": "https://en.wikipedia.org/wiki/File:OGC_Nice_logo.svg",
+    "license": "Fair use",
+    "article": "OGC Nice"
+  },
+  "ita-avellino": {
+    "file": "escudos/ita-avellino.png",
+    "source": "https://en.wikipedia.org/wiki/File:US_Avellino.svg",
+    "license": "Fair use",
+    "article": "US Avellino 1912"
+  },
+  "prt-estrela": {
+    "file": "escudos/prt-estrela.png",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%ADmbolo_Estrela_da_Amadora.svg",
+    "license": "Public domain",
+    "article": "C.F. Estrela da Amadora"
+  },
+  "tur-goztepe": {
+    "file": "escudos/tur-goztepe.png",
+    "source": "https://en.wikipedia.org/wiki/File:G%C3%B6ztepe_S.K._logo.svg",
+    "license": "Fair use",
+    "article": "Göztepe S.K."
+  },
+  "tur-rizespor": {
+    "file": "escudos/tur-rizespor.png",
+    "source": "https://en.wikipedia.org/wiki/File:%C3%87aykur_Rizespor_logo.svg",
+    "license": "Fair use",
+    "article": "Çaykur Rizespor"
+  },
+  "prt-sporting-cp": {
+    "file": "escudos/prt-sporting-cp.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sporting_Clube_de_Portugal_logo_(2026).svg",
+    "license": "Fair use",
+    "article": "Sporting CP"
+  },
+  "nld-pec-zwolle": {
+    "file": "escudos/nld-pec-zwolle.png",
+    "source": "https://en.wikipedia.org/wiki/File:PEC_Zwolle_logo.svg",
+    "license": "Fair use",
+    "article": "PEC Zwolle"
+  },
+  "tur-karagumruk": {
+    "file": "escudos/tur-karagumruk.png",
+    "source": "https://en.wikipedia.org/wiki/File:Fatih_Karag%C3%BCmr%C3%BCk_S.K..png",
+    "license": "Fair use",
+    "article": "Fatih Karagümrük S.K."
+  },
+  "tur-bodrum": {
+    "file": "escudos/tur-bodrum.png",
+    "source": "https://en.wikipedia.org/wiki/File:Bodrum_FK_crest.svg",
+    "license": "Fair use",
+    "article": "Bodrum F.K."
+  },
+  "tur-pendikspor": {
+    "file": "escudos/tur-pendikspor.jpg",
+    "source": "https://en.wikipedia.org/wiki/File:Pendikspor.JPG",
+    "license": "Fair use",
+    "article": "Pendikspor"
+  },
+  "bra-athletico-pr": {
+    "file": "escudos/bra-athletico-pr.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Athletico_Paranaense_(Logo_2019).svg",
+    "license": "Public domain",
+    "article": "Club Athletico Paranaense"
+  },
+  "bra-atletico-mg": {
+    "file": "escudos/bra-atletico-mg.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Clube_Atl%C3%A9tico_Mineiro_logo.svg",
+    "license": "Public domain",
+    "article": "Clube Atlético Mineiro"
+  },
+  "bra-bahia": {
+    "file": "escudos/bra-bahia.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Esporte_Clube_Bahia_logo.svg",
+    "license": "Public domain",
+    "article": "Esporte Clube Bahia"
+  },
+  "bra-botafogo": {
+    "file": "escudos/bra-botafogo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Botafogo_de_Futebol_e_Regatas_logo.svg",
+    "license": "Public domain",
+    "article": "Botafogo FR"
+  },
+  "bra-chapecoense": {
+    "file": "escudos/bra-chapecoense.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol.svg",
+    "license": "Public domain",
+    "article": "Associação Chapecoense de Futebol"
+  },
+  "bra-corinthians": {
+    "file": "escudos/bra-corinthians.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sport_Club_Corinthians_Paulista_crest.svg",
+    "license": "Fair use",
+    "article": "SC Corinthians Paulista"
+  },
+  "bra-coritiba": {
+    "file": "escudos/bra-coritiba.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Coritiba_Foot_Ball_Club_logo.svg",
+    "license": "Public domain",
+    "article": "Coritiba Foot Ball Club"
+  },
+  "bra-flamengo": {
+    "file": "escudos/bra-flamengo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Clube_de_Regatas_do_Flamengo_logo.svg",
+    "license": "Public domain",
+    "article": "CR Flamengo"
+  },
+  "bra-fluminense": {
+    "file": "escudos/bra-fluminense.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Fluminense_Football_Club.svg",
+    "license": "Public domain",
+    "article": "Fluminense FC"
+  },
+  "bra-gremio": {
+    "file": "escudos/bra-gremio.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Gremio_logo.svg",
+    "license": "Public domain",
+    "article": "Grêmio FBPA"
+  },
+  "bra-internacional": {
+    "file": "escudos/bra-internacional.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Sport_Club_Internacional_logo.svg",
+    "license": "Public domain",
+    "article": "SC Internacional"
+  },
+  "bra-mirassol": {
+    "file": "escudos/bra-mirassol.png",
+    "source": "https://en.wikipedia.org/wiki/File:Mirassol_Futebol_Clube.svg",
+    "license": "Fair use",
+    "article": "Mirassol Futebol Clube"
+  },
+  "bra-bragantino": {
+    "file": "escudos/bra-bragantino.png",
+    "source": "https://en.wikipedia.org/wiki/File:Red_Bull_Bragantino_logo.svg",
+    "license": "Fair use",
+    "article": "Red Bull Bragantino"
+  },
+  "bra-remo": {
+    "file": "escudos/bra-remo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Clube_do_Remo.svg",
+    "license": "Public domain",
+    "article": "Clube do Remo"
+  },
+  "bra-santos": {
+    "file": "escudos/bra-santos.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Santos_Futebol_Clube_logo_(with_two_stars_and_a_golden_crown).svg",
+    "license": "Public domain",
+    "article": "Santos FC"
+  },
+  "bra-sao-paulo": {
+    "file": "escudos/bra-sao-paulo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%A3o_Paulo_Futebol_Clube_logo_(2022).svg",
+    "license": "Public domain",
+    "article": "São Paulo FC"
+  },
+  "bra-vasco": {
+    "file": "escudos/bra-vasco.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_de_Regatas_Vasco_da_Gama_logo_(2021).svg",
+    "license": "Fair use",
+    "article": "CR Vasco da Gama"
+  },
+  "bra-vitoria": {
+    "file": "escudos/bra-vitoria.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Esporte_Clube_Vit%C3%B3ria_(2024).svg",
+    "license": "Public domain",
+    "article": "Esporte Clube Vitória"
+  },
+  "bra-america-mg": {
+    "file": "escudos/bra-america-mg.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Am%C3%A9rica_Futebol_Clube_(Belo_Horizonte,_Minas_Gerais)_logo.svg",
+    "license": "Public domain",
+    "article": "América Futebol Clube (MG)"
+  },
+  "bra-atletico-go": {
+    "file": "escudos/bra-atletico-go.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Atl%C3%A9tico_Clube_Goianiense_logo.svg",
+    "license": "Public domain",
+    "article": "Atlético Clube Goianiense"
+  },
+  "bra-avai": {
+    "file": "escudos/bra-avai.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Ava%C3%AD_Futebol_Clube_logo.svg",
+    "license": "Public domain",
+    "article": "Avaí FC"
+  },
+  "bra-botafogo-sp": {
+    "file": "escudos/bra-botafogo-sp.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Botafogo_Futebol_Clube.svg",
+    "license": "Public domain",
+    "article": "Botafogo Futebol Clube (SP)"
+  },
+  "bra-ceara": {
+    "file": "escudos/bra-ceara.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Cear%C3%A1_Sporting_Club_logo.svg",
+    "license": "Public domain",
+    "article": "Ceará Sporting Club"
+  },
+  "bra-crb": {
+    "file": "escudos/bra-crb.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Clube_de_Regatas_Brasil_logo.svg",
+    "license": "Public domain",
+    "article": "Clube de Regatas Brasil"
+  },
+  "bra-criciuma": {
+    "file": "escudos/bra-criciuma.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Crici%C3%BAma_EC_2025_crest.svg",
+    "license": "Public domain",
+    "article": "Criciúma Esporte Clube"
+  },
+  "bra-cuiaba": {
+    "file": "escudos/bra-cuiaba.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Cuiab%C3%A1_Esporte_Clube.svg",
+    "license": "Public domain",
+    "article": "Cuiabá Esporte Clube"
+  },
+  "bra-fortaleza": {
+    "file": "escudos/bra-fortaleza.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Fortaleza_Esporte_Clube_logo.svg",
+    "license": "Public domain",
+    "article": "Fortaleza Esporte Clube"
+  },
+  "bra-goias": {
+    "file": "escudos/bra-goias.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Goi%C3%A1s_Esporte_Clube_logo.svg",
+    "license": "Public domain",
+    "article": "Goiás Esporte Clube"
+  },
+  "bra-londrina": {
+    "file": "escudos/bra-londrina.png",
+    "source": "https://en.wikipedia.org/wiki/File:Londrina_Esporte_Clube_logo.svg",
+    "license": "Fair use",
+    "article": "Londrina Esporte Clube"
+  },
+  "bra-novorizontino": {
+    "file": "escudos/bra-novorizontino.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%AAmio_Novorizontino.svg",
+    "license": "Public domain",
+    "article": "Grêmio Novorizontino"
+  },
+  "bra-operario-pr": {
+    "file": "escudos/bra-operario-pr.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Oper%C3%A1rio_Ferrovi%C3%A1rio_Esporte_Clube_logo.svg",
+    "license": "Public domain",
+    "article": "Operário Ferroviário Esporte Clube"
+  },
+  "bra-ponte-preta": {
+    "file": "escudos/bra-ponte-preta.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_AA_Ponte_Preta.svg",
+    "license": "Public domain",
+    "article": "Associação Atlética Ponte Preta"
+  },
+  "bra-sao-bernardo": {
+    "file": "escudos/bra-sao-bernardo.png",
+    "source": "https://en.wikipedia.org/wiki/File:S%C3%A3o_Bernardo_Futebol_Clube_logo.svg",
+    "license": "Fair use",
+    "article": "São Bernardo FC"
+  },
+  "bra-sport": {
+    "file": "escudos/bra-sport.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sport_Club_Recife.svg",
+    "license": "Fair use",
+    "article": "Sport Club do Recife"
+  },
+  "chl-audax-italiano": {
+    "file": "escudos/chl-audax-italiano.png",
+    "source": "https://en.wikipedia.org/wiki/File:Audax_Italiano_logo.svg",
+    "license": "Fair use",
+    "article": "Audax Italiano"
+  },
+  "chl-cobresal": {
+    "file": "escudos/chl-cobresal.png",
+    "source": "https://en.wikipedia.org/wiki/File:Cobresal_logo.svg",
+    "license": "Fair use",
+    "article": "Cobresal"
+  },
+  "chl-colo-colo": {
+    "file": "escudos/chl-colo-colo.png",
+    "source": "https://en.wikipedia.org/wiki/File:Colo-Colo.svg",
+    "license": "Fair use",
+    "article": "Colo-Colo"
+  },
+  "chl-deportes-concepcion": {
+    "file": "escudos/chl-deportes-concepcion.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Oficial_Palestino.png",
+    "license": "Public domain",
+    "article": "Club Deportivo Palestino"
+  },
+  "chl-limache": {
+    "file": "escudos/chl-limache.png",
+    "source": "https://en.wikipedia.org/wiki/File:Deportes_Limache.svg",
+    "license": "Fair use",
+    "article": "Deportes Limache"
+  },
+  "chl-everton": {
+    "file": "escudos/chl-everton.png",
+    "source": "https://en.wikipedia.org/wiki/File:Everton_de_Vi%C3%B1a_del_Mar.svg",
+    "license": "Fair use",
+    "article": "Everton de Viña del Mar"
+  },
+  "chl-huachipato": {
+    "file": "escudos/chl-huachipato.png",
+    "source": "https://en.wikipedia.org/wiki/File:Huachipato_FC.svg",
+    "license": "Fair use",
+    "article": "Huachipato FC"
+  },
+  "chl-o-higgins": {
+    "file": "escudos/chl-o-higgins.png",
+    "source": "https://en.wikipedia.org/wiki/File:O%27Higgins_F.C.svg",
+    "license": "Fair use",
+    "article": "O'Higgins F.C."
+  },
+  "chl-palestino": {
+    "file": "escudos/chl-palestino.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Oficial_Palestino.png",
+    "license": "Public domain",
+    "article": "Club Deportivo Palestino"
+  },
+  "chl-la-calera": {
+    "file": "escudos/chl-la-calera.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Union_La_Calera.png",
+    "license": "CC BY-SA 3.0",
+    "article": "Unión La Calera"
+  },
+  "chl-u-de-chile": {
+    "file": "escudos/chl-u-de-chile.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Emblema_del_Club_Universidad_de_Chile.png",
+    "license": "Public domain",
+    "article": "Club Universidad de Chile"
+  },
+  "chl-u-de-concepcion": {
+    "file": "escudos/chl-u-de-concepcion.png",
+    "source": "https://en.wikipedia.org/wiki/File:C.D._Universidad_de_Concepci%C3%B3n.svg",
+    "license": "Fair use",
+    "article": "C.D. Universidad de Concepción"
+  },
+  "pry-2-de-mayo": {
+    "file": "escudos/pry-2-de-mayo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Oficial_del_Club_2_de_Mayo_de_Paraguay.svg",
+    "license": "Public domain",
+    "article": "Club 2 de Mayo"
+  },
+  "pry-cerro-porteno": {
+    "file": "escudos/pry-cerro-porteno.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Club_Cerro_Porte%C3%B1o_2023-Actual.svg",
+    "license": "CC0",
+    "article": "Cerro Porteño"
+  },
+  "pry-guarani": {
+    "file": "escudos/pry-guarani.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Guaran%C3%AD.svg",
+    "license": "Fair use",
+    "article": "Club Guaraní"
+  },
+  "pry-nacional": {
+    "file": "escudos/pry-nacional.png",
+    "source": "https://en.wikipedia.org/wiki/File:Nacional_Futebol_Clube.svg",
+    "license": "Fair use",
+    "article": "Nacional Futebol Clube"
+  },
+  "pry-olimpia": {
+    "file": "escudos/pry-olimpia.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Olimpia_logo.svg",
+    "license": "Fair use",
+    "article": "Club Olimpia"
+  },
+  "pry-rubio-nu": {
+    "file": "escudos/pry-rubio-nu.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Rubio_%C3%91u.svg",
+    "license": "Fair use",
+    "article": "Club Rubio Ñu"
+  },
+  "pry-san-lorenzo": {
+    "file": "escudos/pry-san-lorenzo.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Sportivo_San_Lorenzo.svg",
+    "license": "Fair use",
+    "article": "Club Sportivo San Lorenzo"
+  },
+  "pry-luqueno": {
+    "file": "escudos/pry-luqueno.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sportivo_Luque%C3%B1o.svg",
+    "license": "Fair use",
+    "article": "Sportivo Luqueño"
+  },
+  "pry-trinidense": {
+    "file": "escudos/pry-trinidense.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Sportivo_Trinidense.svg",
+    "license": "Public domain",
+    "article": "Sportivo Trinidense"
+  },
+  "ury-boston-river": {
+    "file": "escudos/ury-boston-river.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Boston_River_2019.png",
+    "license": "Public domain",
+    "article": "Boston River"
+  },
+  "ury-central-espanol": {
+    "file": "escudos/ury-central-espanol.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Central_Espa%C3%B1ol_2020.png",
+    "license": "Public domain",
+    "article": "Central Español"
+  },
+  "ury-cerro": {
+    "file": "escudos/ury-cerro.png",
+    "source": "https://en.wikipedia.org/wiki/File:C.A._Cerro.svg",
+    "license": "Fair use",
+    "article": "C.A. Cerro"
+  },
+  "ury-cerro-largo": {
+    "file": "escudos/ury-cerro-largo.png",
+    "source": "https://en.wikipedia.org/wiki/File:C.A._Cerro.svg",
+    "license": "Fair use",
+    "article": "C.A. Cerro"
+  },
+  "ury-defensor-sporting": {
+    "file": "escudos/ury-defensor-sporting.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Defensor_Sporting.svg",
+    "license": "CC BY-SA 4.0",
+    "article": "Defensor Sporting"
+  },
+  "ury-deportivo-maldonado": {
+    "file": "escudos/ury-deportivo-maldonado.png",
+    "source": "https://en.wikipedia.org/wiki/File:Deportivo_Maldonado.svg",
+    "license": "Fair use",
+    "article": "Deportivo Maldonado"
+  },
+  "ury-juventud": {
+    "file": "escudos/ury-juventud.png",
+    "source": "https://en.wikipedia.org/wiki/File:Juventud_de_Las_Piedras.svg",
+    "license": "Fair use",
+    "article": "Juventud de Las Piedras"
+  },
+  "ury-city-torque": {
+    "file": "escudos/ury-city-torque.png",
+    "source": "https://en.wikipedia.org/wiki/File:Montevideo_City_Torque_logo.svg",
+    "license": "Fair use",
+    "article": "Montevideo City Torque"
+  },
+  "ury-wanderers": {
+    "file": "escudos/ury-wanderers.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Montevideo_Wanderers_Futbol_Club.png",
+    "license": "Public domain",
+    "article": "Montevideo Wanderers F.C."
+  },
+  "ury-nacional": {
+    "file": "escudos/ury-nacional.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Nacional_de_Football_logo.svg",
+    "license": "Public domain",
+    "article": "Club Nacional de Football"
+  },
+  "ury-penarol": {
+    "file": "escudos/ury-penarol.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Pe%C3%B1arol.svg",
+    "license": "Public domain",
+    "article": "Peñarol"
+  },
+  "ury-progreso": {
+    "file": "escudos/ury-progreso.png",
+    "source": "https://en.wikipedia.org/wiki/File:C.A._Progreso.svg",
+    "license": "Fair use",
+    "article": "C.A. Progreso"
+  },
+  "ury-racing": {
+    "file": "escudos/ury-racing.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Racing_Club_Escudo.png",
+    "license": "Public domain",
+    "article": "Racing Club de Montevideo"
+  },
+  "bol-abb": {
+    "file": "escudos/bol-abb.png",
+    "source": "https://en.wikipedia.org/wiki/File:Academia_del_Balompi%C3%A9_Boliviano.svg",
+    "license": "Fair use",
+    "article": "Academia del Balompié Boliviano"
+  },
+  "bol-always-ready": {
+    "file": "escudos/bol-always-ready.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Always_Ready_logo.svg",
+    "license": "Public domain",
+    "article": "Club Always Ready"
+  },
+  "bol-aurora": {
+    "file": "escudos/bol-aurora.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Aurora.svg",
+    "license": "Fair use",
+    "article": "Club Aurora"
+  },
+  "bol-blooming": {
+    "file": "escudos/bol-blooming.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Blooming.svg",
+    "license": "Fair use",
+    "article": "Club Blooming"
+  },
+  "bol-bolivar": {
+    "file": "escudos/bol-bolivar.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Bol%C3%ADvar_logo.svg",
+    "license": "PD",
+    "article": "Club Bolívar"
+  },
+  "bol-guabira": {
+    "file": "escudos/bol-guabira.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Deportivo_Guabir%C3%A1.svg",
+    "license": "Fair use",
+    "article": "Club Deportivo Guabirá"
+  },
+  "bol-san-jose": {
+    "file": "escudos/bol-san-jose.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_GV_Club_Deportivo_San_Jos%C3%A9_PNG.png",
+    "license": "CC BY-SA 4.0",
+    "article": "GV San José"
+  },
+  "bol-independiente": {
+    "file": "escudos/bol-independiente.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Club_Independiente_Petrolero.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Independiente Petrolero"
+  },
+  "bol-nacional-potosi": {
+    "file": "escudos/bol-nacional-potosi.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Atletico_Nacional_Potosi.svg",
+    "license": "Public domain",
+    "article": "C.A. Nacional Potosí"
+  },
+  "bol-oriente-petrolero": {
+    "file": "escudos/bol-oriente-petrolero.png",
+    "source": "https://en.wikipedia.org/wiki/File:Oriente_Petrolero.svg",
+    "license": "Fair use",
+    "article": "Oriente Petrolero"
+  },
+  "bol-real-potosi": {
+    "file": "escudos/bol-real-potosi.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Real_Potos%C3%AD.svg",
+    "license": "Fair use",
+    "article": "Club Real Potosí"
+  },
+  "bol-tomayapo": {
+    "file": "escudos/bol-tomayapo.png",
+    "source": "https://en.wikipedia.org/wiki/File:C.D._Real_Tomayapo.svg",
+    "license": "Fair use",
+    "article": "C.D. Real Tomayapo"
+  },
+  "bol-the-strongest": {
+    "file": "escudos/bol-the-strongest.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_the_strongest_escudo_transparent_background_png_700px.png",
+    "license": "Public domain",
+    "article": "The Strongest"
+  },
+  "bol-universitario-vinto": {
+    "file": "escudos/bol-universitario-vinto.png",
+    "source": "https://en.wikipedia.org/wiki/File:F.C._Universitario_de_Vinto.svg",
+    "license": "Fair use",
+    "article": "F.C. Universitario de Vinto"
+  },
+  "bra-cruzeiro": {
+    "file": "escudos/bra-cruzeiro.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Cruzeiro_Esporte_Clube_(logo).svg",
+    "license": "Public domain",
+    "article": "Cruzeiro EC"
+  },
+  "bra-palmeiras": {
+    "file": "escudos/bra-palmeiras.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Sociedade_Esportiva_Palmeiras_logo_(1_red_star).svg",
+    "license": "Public domain",
+    "article": "SE Palmeiras"
+  },
+  "bra-juventude": {
+    "file": "escudos/bra-juventude.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Esporte_Clube_Juventude_logo.svg",
+    "license": "Public domain",
+    "article": "Esporte Clube Juventude"
+  },
+  "bra-vila-nova": {
+    "file": "escudos/bra-vila-nova.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Vila_Nova_Logo_Oficial.svg",
+    "license": "Public domain",
+    "article": "Vila Nova Futebol Clube"
+  },
+  "chl-coquimbo-unido": {
+    "file": "escudos/chl-coquimbo-unido.png",
+    "source": "https://en.wikipedia.org/wiki/File:Coquimbo_Unido.svg",
+    "license": "Fair use",
+    "article": "Coquimbo Unido"
+  },
+  "chl-la-serena": {
+    "file": "escudos/chl-la-serena.png",
+    "source": "https://en.wikipedia.org/wiki/File:Deportes_La_Serena.svg",
+    "license": "Fair use",
+    "article": "Deportes La Serena"
+  },
+  "chl-nublense": {
+    "file": "escudos/chl-nublense.png",
+    "source": "https://en.wikipedia.org/wiki/File:%C3%91ublense_logo.svg",
+    "license": "Fair use",
+    "article": "Ñublense"
+  },
+  "chl-u-catolica": {
+    "file": "escudos/chl-u-catolica.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg",
+    "license": "Public domain",
+    "article": "Club Deportivo Universidad Católica"
+  },
+  "col-aguilas-doradas": {
+    "file": "escudos/col-aguilas-doradas.png",
+    "source": "https://en.wikipedia.org/wiki/File:%C3%81guilas_Doradas.svg",
+    "license": "Fair use",
+    "article": "Águilas Doradas"
+  },
+  "col-america": {
+    "file": "escudos/col-america.png",
+    "source": "https://en.wikipedia.org/wiki/File:Am%C3%A9rica_de_Cali_logo.svg",
+    "license": "Fair use",
+    "article": "América de Cali"
+  },
+  "col-bucaramanga": {
+    "file": "escudos/col-bucaramanga.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Atl%C3%A9tico_Bucaramanga_logo.svg",
+    "license": "Fair use",
+    "article": "Atlético Bucaramanga"
+  },
+  "col-nacional": {
+    "file": "escudos/col-nacional.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Atletico_Nacional_Logo.svg",
+    "license": "Public domain",
+    "article": "Atlético Nacional"
+  },
+  "col-chico": {
+    "file": "escudos/col-chico.png",
+    "source": "https://en.wikipedia.org/wiki/File:Boyac%C3%A1_Chic%C3%B3_F.C.svg",
+    "license": "Fair use",
+    "article": "Boyacá Chicó F.C."
+  },
+  "col-cucuta": {
+    "file": "escudos/col-cucuta.png",
+    "source": "https://en.wikipedia.org/wiki/File:C%C3%BAcuta_Deportivo.svg",
+    "license": "Fair use",
+    "article": "Cúcuta Deportivo"
+  },
+  "col-dep-cali": {
+    "file": "escudos/col-dep-cali.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Deportivo_Cali.svg",
+    "license": "Public domain",
+    "article": "Deportivo Cali"
+  },
+  "col-pasto": {
+    "file": "escudos/col-pasto.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Deportivo_Pasto_2026.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Deportivo Pasto"
+  },
+  "col-fortaleza": {
+    "file": "escudos/col-fortaleza.png",
+    "source": "https://en.wikipedia.org/wiki/File:Fortaleza_F%C3%BAtbol_Club_(Centro_de_Entrenamiento_Integrado_para_el_F%C3%BAtbol)_logo.svg",
+    "license": "Fair use",
+    "article": "Fortaleza F.C."
+  },
+  "col-medellin": {
+    "file": "escudos/col-medellin.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Deportivo_Independiente_Medell%C3%ADn_logo_(2026,_official).svg",
+    "license": "Public domain",
+    "article": "Independiente Medellín"
+  },
+  "col-inter-bogota": {
+    "file": "escudos/col-inter-bogota.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Internacional_de_Bogot%C3%A1_logo.svg",
+    "license": "Fair use",
+    "article": "Internacional de Bogotá"
+  },
+  "col-jaguares": {
+    "file": "escudos/col-jaguares.png",
+    "source": "https://en.wikipedia.org/wiki/File:Jaguares_de_C%C3%B3rdoba.svg",
+    "license": "Fair use",
+    "article": "Jaguares de Córdoba"
+  },
+  "col-junior": {
+    "file": "escudos/col-junior.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Junior_Barranquilla_logo.svg",
+    "license": "Public domain",
+    "article": "Atlético Junior"
+  },
+  "col-llaneros": {
+    "file": "escudos/col-llaneros.png",
+    "source": "https://en.wikipedia.org/wiki/File:Llaneros_F.C.svg",
+    "license": "Fair use",
+    "article": "Llaneros F.C."
+  },
+  "col-millonarios": {
+    "file": "escudos/col-millonarios.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Millonarios_F%C3%BAtbol_Club_logo.svg",
+    "license": "Public domain",
+    "article": "Millonarios F.C."
+  },
+  "col-once-caldas": {
+    "file": "escudos/col-once-caldas.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Once_Caldas_logo.svg",
+    "license": "Public domain",
+    "article": "Once Caldas"
+  },
+  "col-santa-fe": {
+    "file": "escudos/col-santa-fe.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Independiente_Santa_Fe_logo.svg",
+    "license": "Public domain",
+    "article": "Independiente Santa Fe"
+  },
+  "ecu-barcelona": {
+    "file": "escudos/ecu-barcelona.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_Sporting_Club_(Guayaquil,_Ecuador)_logo.svg",
+    "license": "Public domain",
+    "article": "Barcelona S.C."
+  },
+  "ecu-delfin": {
+    "file": "escudos/ecu-delfin.png",
+    "source": "https://en.wikipedia.org/wiki/File:Delf%C3%ADn_S.C.svg",
+    "license": "Fair use",
+    "article": "Delfín S.C."
+  },
+  "ecu-dep-cuenca": {
+    "file": "escudos/ecu-dep-cuenca.png",
+    "source": "https://en.wikipedia.org/wiki/File:Deportivo_Cuenca.svg",
+    "license": "Fair use",
+    "article": "Deportivo Cuenca"
+  },
+  "ecu-idv": {
+    "file": "escudos/ecu-idv.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudoindependientedelvalle2023.png",
+    "license": "Public domain",
+    "article": "Independiente del Valle"
+  },
+  "ecu-ldu-quito": {
+    "file": "escudos/ecu-ldu-quito.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Liga_Deportiva_Universitaria_(Ecuador)_logo_(5_stars).svg",
+    "license": "Public domain",
+    "article": "LDU Quito"
+  },
+  "ecu-libertad": {
+    "file": "escudos/ecu-libertad.png",
+    "source": "https://en.wikipedia.org/wiki/File:Libertad_FC_Ecuador.svg",
+    "license": "Fair use",
+    "article": "Libertad F.C. (Ecuador)"
+  },
+  "ecu-macara": {
+    "file": "escudos/ecu-macara.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Deportivo_Macar%C3%A1.svg",
+    "license": "Fair use",
+    "article": "Club Deportivo Macará"
+  },
+  "ecu-manta": {
+    "file": "escudos/ecu-manta.png",
+    "source": "https://en.wikipedia.org/wiki/File:Manta_F.C.svg",
+    "license": "Fair use",
+    "article": "Manta F.C."
+  },
+  "ecu-mushuc-runa": {
+    "file": "escudos/ecu-mushuc-runa.png",
+    "source": "https://en.wikipedia.org/wiki/File:Mushuc_Runa.svg",
+    "license": "Fair use",
+    "article": "Mushuc Runa"
+  },
+  "ecu-tecnico-universitario": {
+    "file": "escudos/ecu-tecnico-universitario.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Rodillo_Rojo_TU.svg",
+    "license": "Public domain",
+    "article": "C.D. Técnico Universitario"
+  },
+  "per-adt": {
+    "file": "escudos/per-adt.png",
+    "source": "https://en.wikipedia.org/wiki/File:Asociaci%C3%B3n_Deportiva_Tarma.svg",
+    "license": "Fair use",
+    "article": "Asociación Deportiva Tarma"
+  },
+  "per-alianza-atletico": {
+    "file": "escudos/per-alianza-atletico.png",
+    "source": "https://en.wikipedia.org/wiki/File:Alianza_Atl%C3%A9tico.svg",
+    "license": "Fair use",
+    "article": "Alianza Atlético"
+  },
+  "per-alianza-lima": {
+    "file": "escudos/per-alianza-lima.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Alianza_Lima.svg",
+    "license": "Public domain",
+    "article": "Alianza Lima"
+  },
+  "per-atletico-grau": {
+    "file": "escudos/per-atletico-grau.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_club_atletico_grau.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Atlético Grau"
+  },
+  "per-cajamarca": {
+    "file": "escudos/per-cajamarca.png",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Cajamarca.svg",
+    "license": "Public domain",
+    "article": "FC Cajamarca"
+  },
+  "per-comerciantes-unidos": {
+    "file": "escudos/per-comerciantes-unidos.png",
+    "source": "https://en.wikipedia.org/wiki/File:Comerciantes_Unidos.svg",
+    "license": "Fair use",
+    "article": "Comerciantes Unidos"
+  },
+  "per-cusco-fc": {
+    "file": "escudos/per-cusco-fc.png",
+    "source": "https://en.wikipedia.org/wiki/File:Cusco_FC_logo.svg",
+    "license": "Fair use",
+    "article": "Cusco FC"
+  },
+  "per-garcilaso": {
+    "file": "escudos/per-garcilaso.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Deportivo_Garcilaso.svg",
+    "license": "Public domain",
+    "article": "Deportivo Garcilaso"
+  },
+  "per-moquegua": {
+    "file": "escudos/per-moquegua.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Deportivo_Moquegua.svg",
+    "license": "Fair use",
+    "article": "Club Deportivo Moquegua"
+  },
+  "per-juan-pablo-ii": {
+    "file": "escudos/per-juan-pablo-ii.png",
+    "source": "https://en.wikipedia.org/wiki/File:ADC_Juan_Pablo_II_College.svg",
+    "license": "Fair use",
+    "article": "ADC Juan Pablo II College"
+  },
+  "per-los-chankas": {
+    "file": "escudos/per-los-chankas.png",
+    "source": "https://en.wikipedia.org/wiki/File:Club_Deportivo_Los_Chankas.svg",
+    "license": "Fair use",
+    "article": "Club Deportivo Los Chankas"
+  },
+  "per-sport-boys": {
+    "file": "escudos/per-sport-boys.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Sport_Boys_del_Callao.svg",
+    "license": "Public domain",
+    "article": "Sport Boys"
+  },
+  "per-sport-huancayo": {
+    "file": "escudos/per-sport-huancayo.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sport_Huancayo.svg",
+    "license": "Fair use",
+    "article": "Sport Huancayo"
+  },
+  "per-sporting-cristal": {
+    "file": "escudos/per-sporting-cristal.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Sporting_Cristal_2025.svg",
+    "license": "Public domain",
+    "article": "Sporting Cristal"
+  },
+  "per-universitario": {
+    "file": "escudos/per-universitario.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_oficial_de_Universitario.svg",
+    "license": "Public domain",
+    "article": "Club Universitario de Deportes"
+  },
+  "per-utc": {
+    "file": "escudos/per-utc.png",
+    "source": "https://commons.wikimedia.org/wiki/File:UTC_Cajamarca.svg",
+    "license": "Public domain",
+    "article": "Universidad Técnica de Cajamarca"
+  },
+  "pry-ameliano": {
+    "file": "escudos/pry-ameliano.png",
+    "source": "https://en.wikipedia.org/wiki/File:Sportivo_Ameliano.svg",
+    "license": "Fair use",
+    "article": "Sportivo Ameliano"
+  },
+  "ury-albion": {
+    "file": "escudos/ury-albion.png",
+    "source": "https://en.wikipedia.org/wiki/File:Albion_fc_crest.svg",
+    "license": "Fair use",
+    "article": "Albion F.C."
+  },
+  "ury-danubio": {
+    "file": "escudos/ury-danubio.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_oficial_de_Danubio_FC.png",
+    "license": "Public domain",
+    "article": "Danubio F.C."
+  },
+  "ury-liverpool": {
+    "file": "escudos/ury-liverpool.png",
+    "source": "https://en.wikipedia.org/wiki/File:Liverpool_F.C._(Montevideo)_logo.svg",
+    "license": "Fair use",
+    "article": "Liverpool F.C. (Montevideo)"
+  },
+  "ven-puerto-cabello": {
+    "file": "escudos/ven-puerto-cabello.png",
+    "source": "https://en.wikipedia.org/wiki/File:Academia_Puerto_Cabello.svg",
+    "license": "Fair use",
+    "article": "Academia Puerto Cabello"
+  },
+  "ven-carabobo": {
+    "file": "escudos/ven-carabobo.png",
+    "source": "https://en.wikipedia.org/wiki/File:Carabobo_F.C.svg",
+    "license": "Fair use",
+    "article": "Carabobo F.C."
+  },
+  "ven-caracas": {
+    "file": "escudos/ven-caracas.png",
+    "source": "https://en.wikipedia.org/wiki/File:Caracas_F.C.svg",
+    "license": "Fair use",
+    "article": "Caracas F.C."
+  },
+  "ven-la-guaira": {
+    "file": "escudos/ven-la-guaira.png",
+    "source": "https://en.wikipedia.org/wiki/File:Deportivo_La_Guaira.svg",
+    "license": "Fair use",
+    "article": "Deportivo La Guaira F.C."
+  },
+  "ven-tachira": {
+    "file": "escudos/ven-tachira.png",
+    "source": "https://en.wikipedia.org/wiki/File:Deportivo_T%C3%A1chira_F.C.svg",
+    "license": "Fair use",
+    "article": "Deportivo Táchira F.C."
+  },
+  "ven-estudiantes": {
+    "file": "escudos/ven-estudiantes.png",
+    "source": "https://en.wikipedia.org/wiki/File:Estudiantes_de_M%C3%A9rida.svg",
+    "license": "Fair use",
+    "article": "Estudiantes de Mérida F.C."
+  },
+  "ven-metropolitanos": {
+    "file": "escudos/ven-metropolitanos.png",
+    "source": "https://en.wikipedia.org/wiki/File:Metropolitanos_F.C.svg",
+    "license": "Fair use",
+    "article": "Metropolitanos F.C."
+  },
+  "ven-monagas": {
+    "file": "escudos/ven-monagas.png",
+    "source": "https://en.wikipedia.org/wiki/File:Monagas_S.C.svg",
+    "license": "Fair use",
+    "article": "Monagas S.C."
+  },
+  "ven-rayo-zuliano": {
+    "file": "escudos/ven-rayo-zuliano.png",
+    "source": "https://en.wikipedia.org/wiki/File:Deportivo_Rayo_Zuliano.svg",
+    "license": "Fair use",
+    "article": "Deportivo Rayo Zuliano"
+  },
+  "ven-ucv": {
+    "file": "escudos/ven-ucv.png",
+    "source": "https://en.wikipedia.org/wiki/File:Universidad_Central_de_Venezuela_F.C.svg",
+    "license": "Fair use",
+    "article": "Universidad Central de Venezuela F.C."
+  },
+  "bra-athletic-mg": {
+    "file": "escudos/bra-athletic-mg.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Athletic_Club_(Minas_Gerais).svg",
+    "license": "Public domain",
+    "article": "Athletic Club (MG)"
+  },
+  "col-tolima": {
+    "file": "escudos/col-tolima.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Tolima_Campe%C3%B3n_2018.png",
+    "license": "Public domain",
+    "article": "Deportes Tolima"
+  },
+  "ecu-leones": {
+    "file": "escudos/ecu-leones.png",
+    "source": "https://en.wikipedia.org/wiki/File:Leones_FC_Ecuador.svg",
+    "license": "Fair use",
+    "article": "Leones F.C. (Ecuador)"
+  },
+  "pry-libertad": {
+    "file": "escudos/pry-libertad.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club_Libertad.png",
+    "license": "Public domain",
+    "article": "Club Libertad"
+  },
+  "ecu-u-catolica": {
+    "file": "escudos/ecu-u-catolica.png",
+    "source": "https://commons.wikimedia.org/wiki/File:UCat%C3%B3lica.png",
+    "license": "CC BY-SA 4.0",
+    "article": "C.D. Universidad Católica (Ecuador)"
+  },
+  "bra-nautico": {
+    "file": "escudos/bra-nautico.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Clube_N%C3%A1utico_Capibaribe_(2010).svg",
+    "license": "Public domain",
+    "article": "Clube Náutico Capibaribe"
+  },
+  "col-alianza": {
+    "file": "escudos/col-alianza.png",
+    "source": "https://en.wikipedia.org/wiki/File:Alianza_Valledupar_F.C.svg",
+    "license": "Fair use",
+    "article": "Alianza Valledupar F.C."
+  },
+  "col-pereira": {
+    "file": "escudos/col-pereira.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Deportivo_Pereira_logo.svg",
+    "license": "Public domain",
+    "article": "Deportivo Pereira"
+  },
+  "ecu-aucas": {
+    "file": "escudos/ecu-aucas.png",
+    "source": "https://en.wikipedia.org/wiki/File:S.D._Aucas.svg",
+    "license": "Fair use",
+    "article": "S.D. Aucas"
+  },
+  "ecu-emelec": {
+    "file": "escudos/ecu-emelec.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Club-Sport-Emelec2.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Club Sport Emelec"
+  },
+  "ecu-guayaquil-city": {
+    "file": "escudos/ecu-guayaquil-city.png",
+    "source": "https://en.wikipedia.org/wiki/File:Guayaquil_City_F.C.svg",
+    "license": "Fair use",
+    "article": "Guayaquil City F.C."
+  },
+  "ecu-orense": {
+    "file": "escudos/ecu-orense.png",
+    "source": "https://en.wikipedia.org/wiki/File:Orense_S.C.svg",
+    "license": "Fair use",
+    "article": "Orense S.C."
+  },
+  "per-cienciano": {
+    "file": "escudos/per-cienciano.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_Cienciano.png",
+    "license": "CC BY-SA 4.0",
+    "article": "Cienciano"
+  },
+  "per-melgar": {
+    "file": "escudos/per-melgar.png",
+    "source": "https://commons.wikimedia.org/wiki/File:FBC_Melgar_de_Arequipa.svg",
+    "license": "Public domain",
+    "article": "FBC Melgar"
+  },
+  "tur-vanspor": {
+    "file": "escudos/tur-vanspor.png",
+    "source": "https://en.wikipedia.org/wiki/File:Belediye_Vanspor.png",
+    "license": "Fair use",
+    "article": "Vanspor F.K."
+  },
+  "ven-anzoategui": {
+    "file": "escudos/ven-anzoategui.png",
+    "source": "https://en.wikipedia.org/wiki/File:Deportivo_Anzo%C3%A1tegui.png",
+    "license": "Fair use",
+    "article": "Deportivo Anzoátegui S.C."
+  },
+  "ven-portuguesa": {
+    "file": "escudos/ven-portuguesa.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Portuguesa_FC.png",
+    "license": "Public domain",
+    "article": "Portuguesa F.C."
+  },
+  "ven-trujillanos": {
+    "file": "escudos/ven-trujillanos.png",
+    "source": "https://en.wikipedia.org/wiki/File:Trujillanos_F.C.svg",
+    "license": "Fair use",
+    "article": "Trujillanos F.C."
+  },
+  "bol-real-oruro": {
+    "file": "escudos/bol-real-oruro.png",
+    "source": "https://www.thesportsdb.com/team/146967",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Real Oruro"
+  },
+  "bol-bulo-bulo": {
+    "file": "escudos/bol-bulo-bulo.png",
+    "source": "https://www.thesportsdb.com/team/148052",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:San Antonio Bulo Bulo"
+  },
+  "pry-recoleta": {
+    "file": "escudos/pry-recoleta.png",
+    "source": "https://www.thesportsdb.com/team/147065",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Recoleta"
+  },
+  "tur-batman-petrolspor": {
+    "file": "escudos/tur-batman-petrolspor.png",
+    "source": "https://www.thesportsdb.com/team/146459",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Batman Petrolspor"
+  },
+  "tur-mardin-1969": {
+    "file": "escudos/tur-mardin-1969.png",
+    "source": "https://www.thesportsdb.com/team/149636",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Mardin 1969"
+  },
+  "tur-muglaspor": {
+    "file": "escudos/tur-muglaspor.png",
+    "source": "https://www.thesportsdb.com/team/149661",
+    "license": "TheSportsDB (logo del club)",
+    "article": "tsdb:Muğlaspor"
+  }
+}

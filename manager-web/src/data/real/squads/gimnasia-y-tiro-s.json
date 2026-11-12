@@ -1,0 +1,191 @@
+{
+  "club": "Gimnasia y Tiro (S)",
+  "season": 2026,
+  "sources": [
+    "https://espndeportes.espn.com/futbol/equipo/plantel/_/id/10743",
+    "https://canchallena.lanacion.com.ar/equipo/club-de-gimnasia-y-tiro-de-salta-1ms8tznb9y9j6li5migxmipp2/",
+    "https://es.wikipedia.org/wiki/Club_de_Gimnasia_y_Tiro"
+  ],
+  "players": [
+    {
+      "name": "Federico Cosentino",
+      "position": "ARQ",
+      "birthDate": "1987-09-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Papaleo",
+      "position": "ARQ",
+      "birthDate": "1994-03-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Santiago Nogales",
+      "position": "ARQ",
+      "birthDate": "1997-12-27",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gonzalo Soto",
+      "position": "DFC",
+      "birthDate": "1990-04-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Díaz",
+      "position": "DFC",
+      "birthDate": "1989-10-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Oviedo",
+      "position": "DFC",
+      "birthDate": "2006-03-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Guanini",
+      "position": "DFC",
+      "birthDate": "1996-02-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Montoya",
+      "position": "DFC",
+      "birthDate": "1994-10-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Galetto",
+      "position": "DFC",
+      "birthDate": "1996-09-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Adolfo Tallura",
+      "position": "DFC",
+      "birthDate": "1987-04-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joel Gordillo",
+      "position": "DFC",
+      "birthDate": "2006-05-03",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rubén Villarreal",
+      "position": "MC",
+      "birthDate": "1991-02-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Birge",
+      "position": "MC",
+      "birthDate": "1989-01-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jonás Aguirre",
+      "position": "MC",
+      "birthDate": "1992-03-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Rinaldi",
+      "position": "MC",
+      "birthDate": "1993-08-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Walter Montoya",
+      "position": "MC",
+      "birthDate": "1993-07-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ivo Chaves",
+      "position": "MC",
+      "birthDate": "1993-06-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Sivetti",
+      "position": "MC",
+      "birthDate": "1998-05-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Banega",
+      "position": "MC",
+      "birthDate": "1999-07-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tiago Borquez",
+      "position": "MC",
+      "birthDate": "2006-07-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Batista",
+      "position": "MC",
+      "birthDate": "2007-05-02",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Rodríguez",
+      "position": "MC",
+      "birthDate": "2005-08-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Felipe Karabulut",
+      "position": "MC",
+      "birthDate": "2008-02-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Contín",
+      "position": "DC",
+      "birthDate": "1995-12-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Gordillo",
+      "position": "DC",
+      "birthDate": "1999-04-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Rocca",
+      "position": "DC",
+      "birthDate": "2000-04-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fabricio Rojas",
+      "position": "DC",
+      "birthDate": "2000-11-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Capano",
+      "position": "DC",
+      "birthDate": "2003-10-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Camilo Pantoja",
+      "position": "DC",
+      "birthDate": "2004-09-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Turletti",
+      "position": "DC",
+      "birthDate": "2005-02-23",
+      "nationality": "ARG"
+    }
+  ]
+}

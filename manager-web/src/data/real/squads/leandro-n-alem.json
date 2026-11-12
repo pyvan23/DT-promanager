@@ -1,0 +1,125 @@
+{
+  "club": "Leandro N. Alem",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/leandro-n-alem/285",
+    "https://www.soloascenso.com.ar/sintesis/jj-urquiza-leandro-n-alem/45299",
+    "https://www.soloascenso.com.ar/sintesis/victoriano-arenas-leandro-n-alem/45328",
+    "https://www.soloascenso.com.ar/sintesis/leandro-n-alem-centro-espanol/45313",
+    "https://www.soloascenso.com.ar/sintesis/leandro-n-alem-mercedes/45286"
+  ],
+  "players": [
+    {
+      "name": "Santiago Alstitud",
+      "position": "ARQ"
+    },
+    {
+      "name": "Juan Figueroa",
+      "position": "ARQ"
+    },
+    {
+      "name": "Lucas Rodríguez",
+      "position": "ARQ"
+    },
+    {
+      "name": "Jeremías Armua",
+      "position": "DFC"
+    },
+    {
+      "name": "Leandro Canton",
+      "position": "DFC"
+    },
+    {
+      "name": "Claudio Curima",
+      "position": "DFC"
+    },
+    {
+      "name": "Andrés Fortini",
+      "position": "DFC"
+    },
+    {
+      "name": "Iván Gauna",
+      "position": "DFC"
+    },
+    {
+      "name": "Lucas Maidana",
+      "position": "DFC"
+    },
+    {
+      "name": "Facundo Moreno",
+      "position": "DFC"
+    },
+    {
+      "name": "Gonzalo Ramírez",
+      "position": "DFC"
+    },
+    {
+      "name": "Cristian Seltzer",
+      "position": "DFC"
+    },
+    {
+      "name": "Ezequiel Abal",
+      "position": "MC"
+    },
+    {
+      "name": "Pedro Cristaldo",
+      "position": "MC"
+    },
+    {
+      "name": "Alan Cristeff",
+      "position": "MC"
+    },
+    {
+      "name": "Ciro Farias",
+      "position": "MC"
+    },
+    {
+      "name": "Nicolás Fortini",
+      "position": "MC"
+    },
+    {
+      "name": "Fernando Gutiérrez",
+      "position": "MC"
+    },
+    {
+      "name": "Tomás Lescano",
+      "position": "MC"
+    },
+    {
+      "name": "Matías Medina",
+      "position": "MC"
+    },
+    {
+      "name": "Ivo Oszust",
+      "position": "MC"
+    },
+    {
+      "name": "Tobías Pavón",
+      "position": "MC"
+    },
+    {
+      "name": "Lautaro Segovia",
+      "position": "MC"
+    },
+    {
+      "name": "Damián Vázquez",
+      "position": "MC"
+    },
+    {
+      "name": "Agustín Almirón",
+      "position": "DC"
+    },
+    {
+      "name": "Lautaro Leguizamón",
+      "position": "DC"
+    },
+    {
+      "name": "Diego Pertossi",
+      "position": "DC"
+    },
+    {
+      "name": "Brian Risso Patrón",
+      "position": "DC"
+    }
+  ]
+}

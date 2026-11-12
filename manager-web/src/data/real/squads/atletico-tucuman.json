@@ -1,0 +1,201 @@
+{
+  "club": "Atlético Tucumán",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Tucum%C3%A1n"
+  ],
+  "players": [
+    {
+      "name": "Luis Ingolotti",
+      "position": "ARQ",
+      "birthDate": "2000-01-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Patricio Albornoz",
+      "position": "ARQ",
+      "birthDate": "2000-04-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Durso",
+      "position": "ARQ",
+      "birthDate": "1999-02-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Paunero",
+      "position": "DFC",
+      "birthDate": "2005-03-14",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Villa",
+      "position": "DFC",
+      "birthDate": "1997-03-03",
+      "nationality": "URY"
+    },
+    {
+      "name": "Gianluca Ferrari",
+      "position": "DFC",
+      "birthDate": "1997-06-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Moisés Brandán",
+      "position": "DFC",
+      "birthDate": "2000-02-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gastón Suso",
+      "position": "DFC",
+      "birthDate": "1991-03-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ignacio Galván",
+      "position": "DFC",
+      "birthDate": "2002-09-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Di Plácido",
+      "position": "DFC",
+      "birthDate": "1994-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Clever Ferreira",
+      "position": "DFC",
+      "birthDate": "2003-02-20",
+      "nationality": "PAR"
+    },
+    {
+      "name": "Juan Infante",
+      "position": "DFC",
+      "birthDate": "1996-01-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Luciano Vallejo",
+      "position": "DFC",
+      "birthDate": "2004-05-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Martín Benítez",
+      "position": "MC",
+      "birthDate": "1994-06-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Ham",
+      "position": "MC",
+      "birthDate": "1994-03-10",
+      "nationality": "SYR"
+    },
+    {
+      "name": "Renzo Tesuri",
+      "position": "MC",
+      "birthDate": "1996-06-07",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonel Vega",
+      "position": "MC",
+      "birthDate": "2004-01-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Compagnucci",
+      "position": "MC",
+      "birthDate": "1991-08-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lautaro Godoy",
+      "position": "MC",
+      "birthDate": "2003-03-15",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Godoy",
+      "position": "MC",
+      "birthDate": "2003-10-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Kevin Ortiz",
+      "position": "MC",
+      "birthDate": "2000-09-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Julián Fernández",
+      "position": "MC",
+      "birthDate": "1995-03-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Díaz",
+      "position": "DC",
+      "birthDate": "1992-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Nicola",
+      "position": "DC",
+      "birthDate": "2002-04-18",
+      "nationality": "URY"
+    },
+    {
+      "name": "Ramiro Ruiz Rodríguez",
+      "position": "DC",
+      "birthDate": "2000-03-21",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Pimienta",
+      "position": "DC",
+      "birthDate": "2003-07-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Laméndola",
+      "position": "DC",
+      "birthDate": "1998-12-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Manuel Brondo",
+      "position": "DC",
+      "birthDate": "2002-02-25",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Lucas Román",
+      "position": "DC",
+      "birthDate": "2004-02-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gabriel Abeldaño",
+      "position": "DC",
+      "birthDate": "2005-04-09",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Rodrigo Granillo",
+      "position": "DC",
+      "birthDate": "2006-02-01",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexis Canelo",
+      "position": "DC",
+      "birthDate": "1992-02-23",
+      "nationality": "ARG"
+    }
+  ]
+}

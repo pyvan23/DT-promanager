@@ -1,0 +1,116 @@
+{
+  "club": "Muñiz",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/muniz/346",
+    "https://www.soloascenso.com.ar/sintesis/argentino-de-rosario-muniz/46152",
+    "https://www.soloascenso.com.ar/sintesis/muniz-claypole/45337",
+    "https://www.soloascenso.com.ar/sintesis/central-ballester-muniz/45320"
+  ],
+  "players": [
+    {
+      "name": "Agustín Di Biase",
+      "position": "ARQ"
+    },
+    {
+      "name": "Alexis Romano",
+      "position": "ARQ"
+    },
+    {
+      "name": "Gonzalo Soplan",
+      "position": "ARQ"
+    },
+    {
+      "name": "Juan Carabali",
+      "position": "DFC"
+    },
+    {
+      "name": "Ignacio Colman",
+      "position": "DFC"
+    },
+    {
+      "name": "Kevin Farías",
+      "position": "DFC"
+    },
+    {
+      "name": "Emiliano Fernández",
+      "position": "DFC"
+    },
+    {
+      "name": "Eric Giménez",
+      "position": "DFC"
+    },
+    {
+      "name": "Jason Taborda",
+      "position": "DFC"
+    },
+    {
+      "name": "Brandon Verón",
+      "position": "DFC"
+    },
+    {
+      "name": "Iván Bazán",
+      "position": "MC"
+    },
+    {
+      "name": "Facundo Berón",
+      "position": "MC"
+    },
+    {
+      "name": "Murilo Arrais",
+      "position": "MC"
+    },
+    {
+      "name": "Hernán González",
+      "position": "MC"
+    },
+    {
+      "name": "Agustín Gutiérrez",
+      "position": "MC"
+    },
+    {
+      "name": "Iván Malmoria",
+      "position": "MC"
+    },
+    {
+      "name": "Alexis Oviedo",
+      "position": "MC"
+    },
+    {
+      "name": "Brian Picca",
+      "position": "MC"
+    },
+    {
+      "name": "Ezequiel Ponce",
+      "position": "MC"
+    },
+    {
+      "name": "Lorenzo Risso",
+      "position": "MC"
+    },
+    {
+      "name": "Gonzalo Villafañe",
+      "position": "MC"
+    },
+    {
+      "name": "Dylan Albornoz",
+      "position": "DC"
+    },
+    {
+      "name": "Ignacio Corbo",
+      "position": "DC"
+    },
+    {
+      "name": "Lautaro López Bertoni",
+      "position": "DC"
+    },
+    {
+      "name": "Luca Ramírez",
+      "position": "DC"
+    },
+    {
+      "name": "Santiago Verdún",
+      "position": "DC"
+    }
+  ]
+}

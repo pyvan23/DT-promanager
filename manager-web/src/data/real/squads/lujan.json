@@ -1,0 +1,145 @@
+{
+  "club": "Luján",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/lujan/290",
+    "https://www.soloascenso.com.ar/notas/lujan/rojas-el-gran-capitan-del-lujan-campeon-de-la-primera-c/233967"
+  ],
+  "players": [
+    {
+      "name": "Valentín Alegre",
+      "position": "ARQ"
+    },
+    {
+      "name": "Matías Lescano",
+      "position": "ARQ"
+    },
+    {
+      "name": "Lucas Torlaschi",
+      "position": "ARQ"
+    },
+    {
+      "name": "Gastón Albornoz",
+      "position": "DFC"
+    },
+    {
+      "name": "Santiago Galván",
+      "position": "DFC"
+    },
+    {
+      "name": "Nahuel Icazatti",
+      "position": "DFC"
+    },
+    {
+      "name": "Diego Molina",
+      "position": "DFC"
+    },
+    {
+      "name": "Juan Moreno",
+      "position": "DFC"
+    },
+    {
+      "name": "Diógenes Notta",
+      "position": "DFC"
+    },
+    {
+      "name": "Maximiliano Piñeiro",
+      "position": "DFC"
+    },
+    {
+      "name": "Fermín Urtasun",
+      "position": "DFC"
+    },
+    {
+      "name": "Román Busto",
+      "position": "MC"
+    },
+    {
+      "name": "Leandro Coronel",
+      "position": "MC"
+    },
+    {
+      "name": "Santiago Díaz",
+      "position": "MC"
+    },
+    {
+      "name": "Martín Duna",
+      "position": "MC"
+    },
+    {
+      "name": "Tobías Ferrari",
+      "position": "MC"
+    },
+    {
+      "name": "Julián Ford",
+      "position": "MC",
+      "altPositions": [
+        "LD"
+      ]
+    },
+    {
+      "name": "Sebastián Gallo",
+      "position": "MC"
+    },
+    {
+      "name": "Tobías Luna",
+      "position": "MC"
+    },
+    {
+      "name": "Adrián Ocampo",
+      "position": "MC"
+    },
+    {
+      "name": "Enzo Oviedo",
+      "position": "MC"
+    },
+    {
+      "name": "Franco Pérez",
+      "position": "MC"
+    },
+    {
+      "name": "Facundo Rojas",
+      "position": "MC"
+    },
+    {
+      "name": "Tomás Serra",
+      "position": "MC"
+    },
+    {
+      "name": "Santiago Tríbulo",
+      "position": "MC"
+    },
+    {
+      "name": "Nisim Vergara",
+      "position": "MC"
+    },
+    {
+      "name": "Axel Abad",
+      "position": "DC"
+    },
+    {
+      "name": "Tomás Dopazo",
+      "position": "DC"
+    },
+    {
+      "name": "Lucas Gómez",
+      "position": "DC"
+    },
+    {
+      "name": "Gonzalo Ramírez",
+      "position": "DC"
+    },
+    {
+      "name": "Eladio Ramos",
+      "position": "DC"
+    },
+    {
+      "name": "Julián Rodríguez Seguer",
+      "position": "DC"
+    },
+    {
+      "name": "Aaron Villecco",
+      "position": "DC"
+    }
+  ]
+}

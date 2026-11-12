@@ -1,0 +1,189 @@
+{
+  "club": "Juventud Antoniana",
+  "season": 2026,
+  "sources": [
+    "https://www.bdfa.com.ar/plantel-Juventud-Antoniana-80.html"
+  ],
+  "players": [
+    {
+      "name": "Lionel Belizán",
+      "position": "DFC",
+      "birthDate": "2006-06-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Fernández",
+      "position": "DFC",
+      "birthDate": "2004-10-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ángel Gómez",
+      "position": "DFC",
+      "birthDate": "1996-08-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Jaramillo",
+      "position": "DFC",
+      "birthDate": "1999-05-04",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Carlos López",
+      "position": "DFC",
+      "birthDate": "2000-03-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Isaac Monti",
+      "position": "DFC",
+      "birthDate": "1998-01-30",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jorge Sanabria",
+      "position": "DFC",
+      "birthDate": "1989-12-29",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Abraham",
+      "position": "ARQ",
+      "birthDate": "1996-01-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Cruz Nadal",
+      "position": "ARQ",
+      "birthDate": "1998-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Juan Pablo Serrano",
+      "position": "ARQ",
+      "birthDate": "1997-09-26",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leandro Condori",
+      "position": "MC",
+      "birthDate": "2004-06-12",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Costilla",
+      "position": "MC",
+      "birthDate": "2005-04-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Humberto Esparza",
+      "position": "MC",
+      "birthDate": "1995-04-10",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pedro Flores",
+      "position": "MC",
+      "birthDate": "2006-10-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "José González",
+      "position": "MC",
+      "birthDate": "1999-02-24",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Iglesias",
+      "position": "MC",
+      "birthDate": "1997-05-08",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Joaquín Iturrieta",
+      "position": "MC",
+      "birthDate": "1988-09-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Martínez",
+      "position": "MC",
+      "birthDate": "2002-09-05",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Santángelo",
+      "position": "MC",
+      "birthDate": "1995-08-16",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Enzo Serrano",
+      "position": "MC",
+      "birthDate": "1998-01-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alejandro Taborda",
+      "position": "MC",
+      "birthDate": "1998-06-19",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Maximiliano Vargas",
+      "position": "MC",
+      "birthDate": "2002-06-06",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tomás Assennato",
+      "position": "DC",
+      "birthDate": "1983-07-23",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Genaro Bracamonte",
+      "position": "DC",
+      "birthDate": "2003-01-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Tadeo Marchiori",
+      "position": "DC",
+      "birthDate": "1999-10-18",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Mateo",
+      "position": "DC",
+      "birthDate": "2001-01-13",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pedro Mune",
+      "position": "DC",
+      "birthDate": "1997-11-17",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Jhon Palacios",
+      "position": "DC",
+      "birthDate": "1999-12-28",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pablo Palacios",
+      "position": "DC",
+      "birthDate": "1988-07-22",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Vicedo",
+      "position": "DC",
+      "birthDate": "1994-03-04",
+      "nationality": "ARG"
+    }
+  ]
+}

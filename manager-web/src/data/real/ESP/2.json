@@ -1,0 +1,300 @@
+{
+  "division": "ESP-2",
+  "country": "ESP",
+  "name": "LaLiga Hypermotion",
+  "season": 2026,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Segunda_Divisi%C3%B3n",
+    "https://es.wikipedia.org/wiki/Segunda_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27",
+    "https://www.laliga.com/laliga-hypermotion/clubes"
+  ],
+  "formatNotes": "22 equipos, 42 jornadas. 1.º y 2.º ascienden directamente a LaLiga EA Sports; 3.º-6.º juegan play-off de ascenso (semifinales y final a doble partido; un ascenso). Descienden los 4 últimos (19-22) a Primera Federación. Filiales no pueden ascender a la categoría del primer equipo. Llegan 2026-27: Mallorca, Girona, Real Oviedo (de Primera) y Tenerife, Eldense, Sabadell, Celta Fortuna (de Primera Federación). Sin plazas europeas.",
+  "clubs": [
+    {
+      "name": "Albacete Balompié",
+      "shortName": "Albacete",
+      "city": "Albacete",
+      "province": "Albacete (Castilla-La Mancha)",
+      "affiliation": "directa",
+      "stadium": "Carlos Belmonte",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Unión Deportiva Almería",
+      "shortName": "Almería",
+      "city": "Almería",
+      "province": "Almería (Andalucía)",
+      "affiliation": "directa",
+      "stadium": "UD Almería Stadium",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Fútbol Club Andorra",
+      "shortName": "Andorra",
+      "city": "Encamp",
+      "province": "Andorra",
+      "affiliation": "directa",
+      "stadium": "Nou Estadi Encamp",
+      "colors": {
+        "primary": "#1C3F94",
+        "secondary": "#FFD100"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Burgos Club de Fútbol",
+      "shortName": "Burgos",
+      "city": "Burgos",
+      "province": "Burgos (Castilla y León)",
+      "affiliation": "directa",
+      "stadium": "El Plantío",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Cádiz Club de Fútbol",
+      "shortName": "Cádiz",
+      "city": "Cádiz",
+      "province": "Cádiz (Andalucía)",
+      "affiliation": "directa",
+      "stadium": "Nuevo Mirandilla",
+      "colors": {
+        "primary": "#FFE600",
+        "secondary": "#0045A0"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo Castellón",
+      "shortName": "Castellón",
+      "city": "Castellón de la Plana",
+      "province": "Castellón (Comunidad Valenciana)",
+      "affiliation": "directa",
+      "stadium": "Castàlia",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Real Club Celta de Vigo B (Celta Fortuna)",
+      "shortName": "Celta Fortuna",
+      "city": "Vigo",
+      "province": "Pontevedra (Galicia)",
+      "affiliation": "directa",
+      "stadium": "Abanca Balaídos",
+      "colors": {
+        "primary": "#8AC3EE",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Agrupación Deportiva Ceuta Fútbol Club",
+      "shortName": "Ceuta",
+      "city": "Ceuta",
+      "province": "Ceuta",
+      "affiliation": "directa",
+      "stadium": "Alfonso Murube",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#000000"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Córdoba Club de Fútbol",
+      "shortName": "Córdoba",
+      "city": "Córdoba",
+      "province": "Córdoba (Andalucía)",
+      "affiliation": "directa",
+      "stadium": "Nuevo Arcángel",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#00843D"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Sociedad Deportiva Eibar",
+      "shortName": "Eibar",
+      "city": "Eibar",
+      "province": "Guipúzcoa (País Vasco)",
+      "affiliation": "directa",
+      "stadium": "Ipurua",
+      "colors": {
+        "primary": "#A50044",
+        "secondary": "#004D98"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo Eldense",
+      "shortName": "Eldense",
+      "city": "Elda",
+      "province": "Alicante (Comunidad Valenciana)",
+      "affiliation": "directa",
+      "stadium": "Pepico Amat",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#003DA5"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Girona Fútbol Club",
+      "shortName": "Girona",
+      "city": "Girona",
+      "province": "Girona (Cataluña)",
+      "affiliation": "directa",
+      "stadium": "Montilivi",
+      "colors": {
+        "primary": "#CD2534",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Granada Club de Fútbol",
+      "shortName": "Granada",
+      "city": "Granada",
+      "province": "Granada (Andalucía)",
+      "affiliation": "directa",
+      "stadium": "Nuevo Los Cármenes",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Unión Deportiva Las Palmas",
+      "shortName": "Las Palmas",
+      "city": "Las Palmas de Gran Canaria",
+      "province": "Las Palmas (Canarias)",
+      "affiliation": "directa",
+      "stadium": "Estadio de Gran Canaria",
+      "colors": {
+        "primary": "#FFE500",
+        "secondary": "#0055A5"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo Leganés",
+      "shortName": "Leganés",
+      "city": "Leganés",
+      "province": "Comunidad de Madrid",
+      "affiliation": "directa",
+      "stadium": "Butarque",
+      "colors": {
+        "primary": "#0047AB",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Real Club Deportivo Mallorca",
+      "shortName": "Mallorca",
+      "city": "Palma",
+      "province": "Islas Baleares",
+      "affiliation": "directa",
+      "stadium": "Son Moix",
+      "colors": {
+        "primary": "#E2001A",
+        "secondary": "#000000"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Real Oviedo",
+      "shortName": "Oviedo",
+      "city": "Oviedo",
+      "province": "Asturias",
+      "affiliation": "directa",
+      "stadium": "Carlos Tartiere",
+      "colors": {
+        "primary": "#003DA5",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Real Sociedad de Fútbol B",
+      "shortName": "Real Sociedad B",
+      "city": "San Sebastián",
+      "province": "Guipúzcoa (País Vasco)",
+      "affiliation": "directa",
+      "stadium": "Zubieta",
+      "colors": {
+        "primary": "#0067B1",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Centre d'Esports Sabadell Futbol Club",
+      "shortName": "Sabadell",
+      "city": "Sabadell",
+      "province": "Barcelona (Cataluña)",
+      "affiliation": "directa",
+      "stadium": "Nova Creu Alta",
+      "colors": {
+        "primary": "#0066B3",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 1
+    },
+    {
+      "name": "Real Sporting de Gijón",
+      "shortName": "Sporting",
+      "city": "Gijón",
+      "province": "Asturias",
+      "affiliation": "directa",
+      "stadium": "El Molinón-Enrique Castro \"Quini\"",
+      "colors": {
+        "primary": "#D2001F",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Club Deportivo Tenerife",
+      "shortName": "Tenerife",
+      "city": "Santa Cruz de Tenerife",
+      "province": "Santa Cruz de Tenerife (Canarias)",
+      "affiliation": "directa",
+      "stadium": "Heliodoro Rodríguez López",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#0046AD"
+      },
+      "stature": 2
+    },
+    {
+      "name": "Real Valladolid Club de Fútbol",
+      "shortName": "Valladolid",
+      "city": "Valladolid",
+      "province": "Valladolid (Castilla y León)",
+      "affiliation": "directa",
+      "stadium": "José Zorrilla",
+      "colors": {
+        "primary": "#6E2C8C",
+        "secondary": "#FFFFFF"
+      },
+      "stature": 2
+    }
+  ]
+}

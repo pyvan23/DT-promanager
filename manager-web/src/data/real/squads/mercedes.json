@@ -1,0 +1,149 @@
+{
+  "club": "Mercedes",
+  "season": 2026,
+  "sources": [
+    "https://www.soloascenso.com.ar/club/mercedes/438"
+  ],
+  "players": [
+    {
+      "name": "Iván Casco",
+      "position": "ARQ"
+    },
+    {
+      "name": "Rodrigo Nicasio",
+      "position": "ARQ"
+    },
+    {
+      "name": "Kevin Semeniuk",
+      "position": "ARQ"
+    },
+    {
+      "name": "Franco Tonatto",
+      "position": "ARQ"
+    },
+    {
+      "name": "Facundo Alani",
+      "position": "DFC"
+    },
+    {
+      "name": "Thomas Bentancor",
+      "position": "DFC"
+    },
+    {
+      "name": "Máximo Chan",
+      "position": "DFC"
+    },
+    {
+      "name": "Román Cruz",
+      "position": "DFC"
+    },
+    {
+      "name": "Román López",
+      "position": "DFC"
+    },
+    {
+      "name": "Emanuel Murillo",
+      "position": "DFC"
+    },
+    {
+      "name": "Hernán Pineda",
+      "position": "DFC"
+    },
+    {
+      "name": "Sabino Redondi",
+      "position": "DFC"
+    },
+    {
+      "name": "Felipe Ruíz Díaz",
+      "position": "DFC"
+    },
+    {
+      "name": "Franco Taborda",
+      "position": "DFC"
+    },
+    {
+      "name": "Rodrigo Torres",
+      "position": "DFC"
+    },
+    {
+      "name": "Martín Zuccaro",
+      "position": "DFC"
+    },
+    {
+      "name": "Lucas Calderón",
+      "position": "MC"
+    },
+    {
+      "name": "Gonzalo Cañete",
+      "position": "MC"
+    },
+    {
+      "name": "Tomás Chaparro",
+      "position": "MC"
+    },
+    {
+      "name": "Franco Cruz",
+      "position": "MC"
+    },
+    {
+      "name": "Juan Culio",
+      "position": "MC"
+    },
+    {
+      "name": "Ulises Antonio Dematei",
+      "position": "MC"
+    },
+    {
+      "name": "Dante Díaz",
+      "position": "MC"
+    },
+    {
+      "name": "Juan Román López",
+      "position": "MC"
+    },
+    {
+      "name": "Franco Ortigosa",
+      "position": "MC"
+    },
+    {
+      "name": "Maximiliano Pighin",
+      "position": "MC"
+    },
+    {
+      "name": "Santiago Romagnoli",
+      "position": "MC"
+    },
+    {
+      "name": "Tomás Ángel Acosta",
+      "position": "DC"
+    },
+    {
+      "name": "Leandro Amado",
+      "position": "DC"
+    },
+    {
+      "name": "Mateo Blanco",
+      "position": "DC"
+    },
+    {
+      "name": "Lautaro Lagos",
+      "position": "DC"
+    },
+    {
+      "name": "Arturo Mendoza",
+      "position": "DC"
+    },
+    {
+      "name": "Francisco Ruiz",
+      "position": "DC"
+    },
+    {
+      "name": "Lisandro Sánchez Olmos",
+      "position": "DC"
+    },
+    {
+      "name": "Juan Cruz Vera Borda",
+      "position": "DC"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "club": "Atlas",
+  "season": 2026,
+  "sources": [
+    "https://es.wikipedia.org/wiki/Club_Atlético_Atlas"
+  ],
+  "players": [
+    {
+      "name": "Thiago Rivero",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ricardo Grieger",
+      "position": "ARQ",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Gómez",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Gustavo Alcaraz",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Matías Gelpi",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Diego Gradicola",
+      "position": "DFC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Agustín Polito",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ezequiel Benigno Sánchez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Alexander Meza",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Vidal",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Gutiérrez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Facundo Leiva",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Iván Paredes",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nicolás Pérez",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Nisim Vergara",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Franco Ocampo",
+      "position": "MC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Leonardo Celín",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Simón Martínez",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Fernando Rodríguez",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Federico González",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Pedro Scally",
+      "position": "DC",
+      "nationality": "ARG"
+    },
+    {
+      "name": "Ramiro Retamar",
+      "position": "DC",
+      "nationality": "ARG"
+    }
+  ]
+}
