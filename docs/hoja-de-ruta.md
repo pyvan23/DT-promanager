@@ -22,6 +22,13 @@
   - Entre temporadas: evolución por edad, retiros, contratos vencidos/libres, cantera y promoción.
   - Goleadores y valla menos vencida.
 
+- Estilo visual "Clásico 2000" (por defecto, `src/retro.css`, botón *Estilo 2000 / Moderno*): ventanas en relieve,
+  menú de botones, tablas densas, marcador electrónico y pizarra de césped. Diseño propio que evoca los mánager
+  de PC de fines de los 90; no copia pantallas, arte ni paleta de ningún juego.
+- Selector de estilos en la barra superior: Clásico 2000, Oficina 98 (menú de íconos grandes de colores,
+  `src/oficina.css`), Consola (estilo de juego de consola actual: vidrio oscuro, neón, cortes en diagonal,
+  `src/consola.css`) y Moderno. Todos son diseños propios: no imitan íconos ni pantallas de PC Fútbol ni de EA FC.
+
 ## Próximo
 - Pantallas del juego día a día (en curso): calendario, previa, partido en vivo, mercado, finanzas, estadio,
   empleados, directiva, cantera, competiciones con goleadores.

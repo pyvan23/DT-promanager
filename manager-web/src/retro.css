@@ -1,0 +1,609 @@
+/* ==========================================================================
+   Skin "Clásico 2000": an original look that evokes PC managers of the late 90s
+   (bevelled window chrome, dense dark data wells, bitmap-like UI fonts).
+   It does not reproduce any specific game's screens, art or palette.
+   Active when <html data-skin="retro">; the modern skin stays untouched.
+   ========================================================================== */
+
+:root[data-skin='retro'] {
+  /* Chrome (window frames, buttons, headers) */
+  --r-face: #b8bec6;
+  --r-face-hi: #e9edf1;
+  --r-face-lo: #6c7480;
+  --r-face-dk: #23272d;
+  --r-title-a: #0b2f5c;
+  --r-title-b: #2b78b0;
+  --r-sel: #1f5aa0;
+  --r-yellow: #ffd23f;
+  --r-desk: #0b2230;
+
+  --font-display: 'Arial Black', 'Archivo Black', Impact, 'Arial Narrow Bold', sans-serif;
+  --font-cond: Tahoma, Verdana, 'Segoe UI', sans-serif;
+  --font-body: Tahoma, Verdana, 'Segoe UI', sans-serif;
+  --font-led: 'VT323', 'Lucida Console', 'Courier New', monospace;
+
+  /* Data wells: always "monitor dark" regardless of light/dark preference */
+  --bg: #0b2230;
+  --bg-deep: #071822;
+  --surface: #0f2433;
+  --surface-2: #14304a;
+  --surface-3: #1b3c5a;
+  --text: #eef3f7;
+  --muted: #9fb4c6;
+  --border: #2a4a66;
+  --border-strong: #46698a;
+  --accent: #5fc2ff;
+  --accent-contrast: #04121e;
+  --accent-soft: #1f4f86;
+  --amber: #ffd23f;
+  --up: #59e08f;
+  --up-soft: #123a26;
+  --down: #ff6f61;
+  --down-soft: #3e1a1a;
+  --mine: #4a4012;
+  --ink: #eef3f7;
+  --paper: #0f2433;
+  --shadow: none;
+  --radius: 0;
+  color-scheme: dark;
+  font-size: 14px;
+  -webkit-font-smoothing: auto;
+}
+
+/* Desktop background: fine dither over a deep blue-green */
+:root[data-skin='retro'] body {
+  background:
+    repeating-conic-gradient(rgb(255 255 255 / 0.025) 0 25%, transparent 0 50%) 0 0 / 4px 4px,
+    linear-gradient(180deg, #0d2b3d, var(--r-desk));
+  background-attachment: fixed;
+}
+
+/* --------------------------- Bevel helpers ------------------------------ */
+:root[data-skin='retro'] .btn,
+:root[data-skin='retro'] .topbar__theme,
+:root[data-skin='retro'] .topbar__skin,
+:root[data-skin='retro'] .chip,
+:root[data-skin='retro'] .division-list__item {
+  border-radius: 0;
+  border: 0;
+  background: var(--r-face);
+  color: #101418;
+  box-shadow:
+    inset -1px -1px 0 var(--r-face-dk),
+    inset 1px 1px 0 var(--r-face-hi),
+    inset -2px -2px 0 var(--r-face-lo),
+    inset 2px 2px 0 #fff;
+  text-shadow: none;
+}
+:root[data-skin='retro'] .btn {
+  font-family: var(--font-cond);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  font-size: 0.92rem;
+  padding: 7px 14px;
+  transition: none;
+}
+:root[data-skin='retro'] .btn:hover:not(:disabled) { background: #c9cfd6; }
+:root[data-skin='retro'] .btn:active:not(:disabled),
+:root[data-skin='retro'] .chip--active,
+:root[data-skin='retro'] .division-list__item.is-active {
+  transform: none;
+  box-shadow:
+    inset 1px 1px 0 var(--r-face-dk),
+    inset -1px -1px 0 var(--r-face-hi),
+    inset 2px 2px 0 var(--r-face-lo);
+}
+:root[data-skin='retro'] .btn:active:not(:disabled) { padding: 8px 13px 6px 15px; }
+:root[data-skin='retro'] .btn:disabled { opacity: 1; color: var(--r-face-lo); text-shadow: 1px 1px 0 #fff; }
+:root[data-skin='retro'] .btn:focus-visible { outline: 1px dotted #000; outline-offset: -5px; }
+:root[data-skin='retro'] .btn--primary {
+  background: linear-gradient(180deg, #3aa64e, #22803a);
+  color: #fff;
+  text-shadow: 1px 1px 0 #0b3d18;
+  box-shadow:
+    inset -1px -1px 0 #0a2a12,
+    inset 1px 1px 0 #9ae7a8,
+    inset -2px -2px 0 #145c26,
+    inset 2px 2px 0 #5cc96f;
+}
+:root[data-skin='retro'] .btn--primary:hover:not(:disabled) { background: linear-gradient(180deg, #45b55a, #278c40); }
+:root[data-skin='retro'] .btn--ghost {
+  background: transparent;
+  color: var(--text);
+  box-shadow: inset 0 0 0 1px var(--border-strong);
+}
+:root[data-skin='retro'] .btn--ghost:hover:not(:disabled) { background: var(--surface-2); }
+:root[data-skin='retro'] .btn--ghost:disabled { color: var(--muted); text-shadow: none; }
+
+:root[data-skin='retro'] .chip--active,
+:root[data-skin='retro'] .division-list__item.is-active { background: #9aa3ad; color: #000; }
+:root[data-skin='retro'] .division-list__count,
+:root[data-skin='retro'] .division-list__level { color: #2a323b; }
+
+/* Inputs: sunken white fields */
+:root[data-skin='retro'] input:not([type='checkbox']):not([type='radio']):not([type='range']),
+:root[data-skin='retro'] select {
+  border-radius: 0;
+  border: 0;
+  background: #fff;
+  color: #000;
+  box-shadow:
+    inset 1px 1px 0 var(--r-face-lo),
+    inset -1px -1px 0 var(--r-face-hi),
+    inset 2px 2px 0 var(--r-face-dk);
+  padding: 4px 6px;
+}
+
+/* ------------------------------- Shell ---------------------------------- */
+:root[data-skin='retro'] .topbar {
+  background: linear-gradient(90deg, var(--r-title-a), var(--r-title-b));
+  border-bottom: 2px solid var(--r-face-dk);
+  box-shadow: inset 0 -1px 0 #4f93c6;
+  padding: 5px 12px;
+  color: #fff;
+}
+:root[data-skin='retro'] .topbar__brand {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--r-yellow);
+  text-shadow: 2px 2px 0 #000;
+  letter-spacing: 0.02em;
+}
+:root[data-skin='retro'] .topbar__club { border-left: 1px solid rgb(255 255 255 / 0.25); }
+:root[data-skin='retro'] .topbar__club-name { font-family: var(--font-cond); font-weight: 700; color: #fff; }
+:root[data-skin='retro'] .topbar__club-div,
+:root[data-skin='retro'] .topbar__day { color: #cfe3f3; }
+:root[data-skin='retro'] .topbar__season { color: var(--r-yellow); font-family: var(--font-cond); letter-spacing: 0.04em; }
+:root[data-skin='retro'] .topbar__theme,
+:root[data-skin='retro'] .topbar__skin {
+  width: auto;
+  height: 26px;
+  padding: 0 8px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+:root[data-skin='retro'] .topbar__theme { display: none; }
+
+/* Status strip under the title bar, like a sunken status bar */
+:root[data-skin='retro'] .daybar {
+  background: var(--r-face);
+  color: #101418;
+  border-bottom: 2px solid var(--r-face-dk);
+  box-shadow: inset 0 1px 0 #fff;
+}
+:root[data-skin='retro'] .daybar__date,
+:root[data-skin='retro'] .daybar__next {
+  padding: 3px 8px;
+  background: #0a1a26;
+  color: var(--text);
+  box-shadow:
+    inset 1px 1px 0 var(--r-face-lo),
+    inset -1px -1px 0 var(--r-face-hi);
+}
+:root[data-skin='retro'] .daybar__date b { font-family: var(--font-led); font-size: 1.35rem; font-weight: 400; color: var(--r-yellow); letter-spacing: 0.04em; }
+:root[data-skin='retro'] .daybar__label { color: #8fd1ff; font-family: var(--font-cond); letter-spacing: 0.06em; }
+:root[data-skin='retro'] .daybar__match b { font-family: var(--font-cond); font-weight: 700; }
+:root[data-skin='retro'] .flag-strip { height: 6px; border-bottom: 1px solid #000; }
+
+/* Side menu: a column of bevelled buttons */
+:root[data-skin='retro'] .sidebar {
+  background: var(--r-face);
+  border-right: 2px solid var(--r-face-dk);
+  box-shadow: inset -1px 0 0 var(--r-face-lo), inset 1px 0 0 #fff;
+  padding: 6px;
+}
+:root[data-skin='retro'] .sidebar nav { gap: 2px; }
+:root[data-skin='retro'] .sidebar__item {
+  border: 0;
+  border-radius: 0;
+  padding: 6px 8px;
+  color: #101418;
+  font-family: var(--font-cond);
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 0;
+  background: var(--r-face);
+  box-shadow:
+    inset -1px -1px 0 var(--r-face-dk),
+    inset 1px 1px 0 #fff,
+    inset -2px -2px 0 var(--r-face-lo);
+}
+:root[data-skin='retro'] .sidebar__item:hover { background: #c9cfd6; color: #000; }
+:root[data-skin='retro'] .sidebar__item.is-active {
+  background: linear-gradient(90deg, var(--r-title-a), var(--r-sel));
+  color: #fff;
+  box-shadow:
+    inset 1px 1px 0 var(--r-face-dk),
+    inset -1px -1px 0 #fff;
+}
+:root[data-skin='retro'] .sidebar__item .nav-icon { color: #24425f; }
+:root[data-skin='retro'] .sidebar__item.is-active .nav-icon { color: var(--r-yellow); }
+:root[data-skin='retro'] .sidebar__foot { border-top: 1px solid var(--r-face-lo); box-shadow: 0 -1px 0 #fff inset; }
+:root[data-skin='retro'] .sidebar__dot { background: #ff2a2a; box-shadow: 0 0 0 1px #000; border-radius: 0; }
+
+/* Screen title: big italic heavy caps with hard shadow */
+:root[data-skin='retro'] .main { padding: 12px 14px 40px; }
+:root[data-skin='retro'] .main__title {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  font-size: 1.7rem;
+  color: var(--r-yellow);
+  text-shadow: 2px 2px 0 #000, 3px 3px 0 var(--r-title-a);
+  letter-spacing: 0.01em;
+}
+:root[data-skin='retro'] .main__hint { color: var(--muted); }
+:root[data-skin='retro'] .kicker { color: var(--r-yellow); font-family: var(--font-cond); letter-spacing: 0.08em; }
+
+/* ------------------------------ Windows --------------------------------- */
+:root[data-skin='retro'] .panel {
+  border-radius: 0;
+  border: 0;
+  background: var(--surface);
+  padding: 3px;
+  box-shadow:
+    inset -1px -1px 0 var(--r-face-dk),
+    inset 1px 1px 0 var(--r-face-hi),
+    inset -2px -2px 0 var(--r-face-lo),
+    inset 2px 2px 0 var(--r-face),
+    inset -3px -3px 0 var(--r-face),
+    inset 3px 3px 0 var(--r-face),
+    4px 4px 0 rgb(0 0 0 / 0.45);
+}
+:root[data-skin='retro'] .panel__head {
+  background: linear-gradient(90deg, var(--r-title-a), var(--r-title-b));
+  border-bottom: 0;
+  box-shadow: none;
+  padding: 3px 8px;
+  color: #fff;
+}
+:root[data-skin='retro'] .panel__title {
+  font-family: var(--font-cond);
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 0.03em;
+  color: #fff;
+}
+:root[data-skin='retro'] .panel__aside { color: #cfe3f3; }
+:root[data-skin='retro'] .panel__aside .link,
+:root[data-skin='retro'] .panel__head .link { color: var(--r-yellow); }
+:root[data-skin='retro'] .panel__body { padding: 8px; }
+:root[data-skin='retro'] .panel__body--flush { padding: 0; }
+
+/* Ornaments from the modern skin are hidden: the bevels are the ornament here */
+:root[data-skin='retro'] .filete-rule,
+:root[data-skin='retro'] .filete-corner { display: none; }
+:root[data-skin='retro'] .filete-frame { border: 0; padding: 0; }
+
+:root[data-skin='retro'] .notice {
+  border-radius: 0;
+  border: 1px solid #000;
+  border-left: 6px solid var(--down);
+  background: #3e1a1a;
+}
+
+/* ------------------------------ Tables ---------------------------------- */
+:root[data-skin='retro'] .table-wrap { background: #0a1a26; }
+:root[data-skin='retro'] .grid-table { font-size: 0.86rem; font-family: var(--font-body); }
+:root[data-skin='retro'] .grid-table th,
+:root[data-skin='retro'] .grid-table td { padding: 3px 6px; border-bottom: 1px solid #16324a; }
+:root[data-skin='retro'] .grid-table th {
+  background: var(--r-face);
+  color: #101418;
+  font-family: var(--font-cond);
+  font-weight: 700;
+  font-size: 0.76rem;
+  letter-spacing: 0.02em;
+  border-bottom: 0;
+  box-shadow:
+    inset -1px -1px 0 var(--r-face-dk),
+    inset 1px 1px 0 #fff;
+}
+:root[data-skin='retro'] .grid-table tbody tr:nth-child(even) { background: #10283c; }
+:root[data-skin='retro'] .grid-table tbody tr:nth-child(odd) { background: #0c1f2f; }
+:root[data-skin='retro'] .grid-table tbody tr.is-clickable:hover,
+:root[data-skin='retro'] .grid-table tbody tr.is-selected {
+  background: var(--r-sel) !important;
+  color: #fff;
+  box-shadow: none;
+}
+:root[data-skin='retro'] .grid-table tbody tr.is-clickable:hover .muted,
+:root[data-skin='retro'] .grid-table tbody tr.is-selected .muted { color: #d6e8f7; }
+:root[data-skin='retro'] .grid-table .row--up { background: #123a26 !important; }
+:root[data-skin='retro'] .grid-table .row--down { background: #3e1a1a !important; }
+:root[data-skin='retro'] .grid-table .row--mine { background: #4a4012 !important; color: var(--r-yellow); }
+:root[data-skin='retro'] .grid-table__group td { background: #1a3550; color: var(--r-yellow); font-family: var(--font-cond); letter-spacing: 0.06em; }
+:root[data-skin='retro'] .grid-table .pts { font-family: var(--font-led); font-size: 1.25rem; font-weight: 400; color: var(--r-yellow); }
+:root[data-skin='retro'] .th-btn__dir { color: #000; }
+:root[data-skin='retro'] .player-name { font-weight: 700; }
+
+/* Ratings and positions: flat blocks with a hard edge */
+:root[data-skin='retro'] .rating {
+  border-radius: 0;
+  font-family: var(--font-led);
+  font-weight: 400;
+  font-size: 1.15rem;
+  line-height: 1;
+  padding: 1px 4px;
+  box-shadow: inset -1px -1px 0 rgb(0 0 0 / 0.5), inset 1px 1px 0 rgb(255 255 255 / 0.35);
+}
+:root[data-skin='retro'] .rating--top { background: #13a04d; }
+:root[data-skin='retro'] .rating--good { background: #1f74c2; }
+:root[data-skin='retro'] .rating--mid { background: #c58e0b; }
+:root[data-skin='retro'] .rating--low { background: #c0392b; }
+:root[data-skin='retro'] .pos { border-radius: 0; font-family: var(--font-cond); box-shadow: inset -1px -1px 0 rgb(0 0 0 / 0.45); }
+
+/* Progress bars: segmented, like a VU meter */
+:root[data-skin='retro'] .bar {
+  border-radius: 0;
+  height: 9px;
+  background: #061018;
+  box-shadow: inset 1px 1px 0 #000, inset -1px -1px 0 var(--border-strong);
+}
+:root[data-skin='retro'] .bar__fill {
+  border-radius: 0;
+  -webkit-mask-image: repeating-linear-gradient(90deg, #000 0 5px, transparent 5px 7px);
+  mask-image: repeating-linear-gradient(90deg, #000 0 5px, transparent 5px 7px);
+}
+:root[data-skin='retro'] .bar--top .bar__fill { background: #2fe06a; }
+:root[data-skin='retro'] .bar--good .bar__fill { background: #4fb6ff; }
+:root[data-skin='retro'] .bar--mid .bar__fill { background: #ffd23f; }
+:root[data-skin='retro'] .bar--low .bar__fill { background: #ff4b3a; }
+
+:root[data-skin='retro'] .stars { color: var(--r-yellow); }
+:root[data-skin='retro'] .link { color: #8fd1ff; font-family: var(--font-cond); }
+:root[data-skin='retro'] .crest { filter: drop-shadow(1px 1px 0 rgb(0 0 0 / 0.7)); }
+
+/* ------------------------------ Title screen ---------------------------- */
+:root[data-skin='retro'] .home {
+  background:
+    repeating-conic-gradient(rgb(255 255 255 / 0.03) 0 25%, transparent 0 50%) 0 0 / 4px 4px,
+    radial-gradient(ellipse 60% 45% at 50% 105%, #1d6b39, transparent 70%),
+    linear-gradient(180deg, #06121c, #0b2a3c 60%, #0f3a2a);
+}
+:root[data-skin='retro'] .home__lights { opacity: 0.6; }
+:root[data-skin='retro'] .home__grass {
+  height: 90px;
+  opacity: 1;
+  background: repeating-linear-gradient(90deg, #1f7a3a 0 56px, #186630 56px 112px);
+  -webkit-mask-image: none;
+  mask-image: none;
+  border-top: 3px solid #e9f3ea;
+}
+:root[data-skin='retro'] .home__panel { backdrop-filter: none; background: var(--surface); }
+:root[data-skin='retro'] .home__kicker { color: #8fd1ff; font-family: var(--font-cond); letter-spacing: 0.1em; }
+:root[data-skin='retro'] .home__title {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  color: var(--r-yellow);
+  -webkit-text-stroke: 1px #000;
+  text-shadow: 3px 3px 0 #000, 6px 6px 0 var(--r-title-a);
+  letter-spacing: 0;
+}
+
+/* ------------------------- LED scoreboard digits ------------------------ */
+:root[data-skin='retro'] .ticket__title,
+:root[data-skin='retro'] .ticket__stub-value { font-family: var(--font-display); font-style: italic; }
+
+@media (max-width: 860px) {
+  :root[data-skin='retro'] .main__title { font-size: 1.35rem; }
+  :root[data-skin='retro'] .sidebar { box-shadow: 4px 0 0 rgb(0 0 0 / 0.5); }
+}
+
+/* ------------------- Generic: square corners, no float-ups --------------- */
+/* Everything is square in this skin, except things that are round by nature
+   (dots, icons, gauges and the players on the tactics board). */
+:root[data-skin='retro'] *:not(.sidebar__dot):not(.inbox__icon):not(.fed-logo--code):not([class*='token']):not([class*='dot']):not([class*='ball']):not([class*='avatar']):not(.crest--empty) {
+  border-radius: 0;
+}
+:root[data-skin='retro'] .panel,
+:root[data-skin='retro'] .persona-panel,
+:root[data-skin='retro'] .strip-stats,
+:root[data-skin='retro'] .previa-head,
+:root[data-skin='retro'] .diario__lead,
+:root[data-skin='retro'] .diario__item,
+:root[data-skin='retro'] .inbox__item { animation: none; }
+:root[data-skin='retro'] .setup__card:hover,
+:root[data-skin='retro'] .offer-list__item:hover,
+:root[data-skin='retro'] .diario__item:hover,
+:root[data-skin='retro'] .persona-panel:hover,
+:root[data-skin='retro'] .figure-list button:hover { transform: none; }
+
+/* Framed windows (title screen, setup) */
+:root[data-skin='retro'] .filete-frame {
+  border: 0;
+  outline: 0;
+  padding: 30px 32px 26px;
+  background: var(--surface);
+  box-shadow:
+    inset -1px -1px 0 var(--r-face-dk),
+    inset 1px 1px 0 var(--r-face-hi),
+    inset -2px -2px 0 var(--r-face-lo),
+    inset 2px 2px 0 var(--r-face),
+    inset -4px -4px 0 var(--r-face),
+    inset 4px 4px 0 var(--r-face),
+    6px 6px 0 rgb(0 0 0 / 0.5);
+}
+:root[data-skin='retro'] .filete-frame::before {
+  /* title bar of the window */
+  content: '';
+  position: absolute;
+  left: 4px;
+  right: 4px;
+  top: 4px;
+  height: 14px;
+  background: linear-gradient(90deg, var(--r-title-a), var(--r-title-b));
+}
+
+/* Selectable cards: raised grey tiles, sunken + blue when chosen */
+:root[data-skin='retro'] .setup__card,
+:root[data-skin='retro'] .offer-list__item {
+  border: 0;
+  background: #13293d;
+  color: var(--text);
+  transition: none;
+  box-shadow:
+    inset -1px -1px 0 #000,
+    inset 1px 1px 0 var(--border-strong),
+    inset -2px -2px 0 #0a1622;
+}
+:root[data-skin='retro'] .setup__card:hover { background: #183552; }
+:root[data-skin='retro'] .setup__card.is-on {
+  background: var(--r-sel);
+  box-shadow:
+    inset 1px 1px 0 #000,
+    inset -1px -1px 0 #7fb4e6,
+    0 0 0 1px var(--r-yellow);
+}
+:root[data-skin='retro'] .setup__card.is-on span { color: #dcecfa; }
+:root[data-skin='retro'] .setup__card b { color: var(--r-yellow); }
+:root[data-skin='retro'] .setup__title {
+  font-family: var(--font-cond);
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: #fff;
+  background: linear-gradient(90deg, var(--r-title-a), transparent);
+  padding: 2px 8px;
+}
+:root[data-skin='retro'] .setup__field span { color: #8fd1ff; }
+:root[data-skin='retro'] .setup__field input,
+:root[data-skin='retro'] .setup__field select { padding: 6px 8px; }
+:root[data-skin='retro'] .grid-table tbody tr,
+:root[data-skin='retro'] .bar__fill { transition: none; }
+
+/* Button sizes (the base .btn rule above is more specific than the modern size modifiers) */
+:root[data-skin='retro'] .btn--sm { padding: 5px 10px; font-size: 0.84rem; }
+:root[data-skin='retro'] .btn--xs { padding: 2px 7px; font-size: 0.72rem; }
+:root[data-skin='retro'] .btn--lg { padding: 10px 22px; font-size: 1.02rem; }
+:root[data-skin='retro'] .btn--xs:active:not(:disabled) { padding: 3px 6px 1px 8px; }
+:root[data-skin='retro'] .btn--sm:active:not(:disabled) { padding: 6px 9px 4px 11px; }
+:root[data-skin='retro'] .btn--lg:active:not(:disabled) { padding: 11px 21px 9px 23px; }
+:root[data-skin='retro'] .btn--on {
+  background: #ffd23f;
+  color: #000;
+  box-shadow:
+    inset 1px 1px 0 var(--r-face-dk),
+    inset -1px -1px 0 #fff4c2;
+}
+:root[data-skin='retro'] .grid-table .row-actions { flex-wrap: nowrap; gap: 2px; }
+
+/* ------------------------- Tactics: mown grass pitch -------------------- */
+:root[data-skin='retro'] .pizarra {
+  background: repeating-linear-gradient(180deg, #2a8a3e 0 7.14%, #237a35 7.14% 14.28%);
+  border: 0;
+  box-shadow:
+    0 0 0 3px #e9f3ea inset,
+    0 0 0 2px var(--r-face-dk),
+    inset -1px -1px 0 var(--r-face-dk);
+  outline: 3px solid var(--r-face);
+  outline-offset: 2px;
+}
+:root[data-skin='retro'] .pizarra__title {
+  font-family: var(--font-display);
+  transform: none;
+  color: var(--r-yellow);
+  text-shadow: 2px 2px 0 #000;
+  opacity: 1;
+}
+:root[data-skin='retro'] .pizarra__dot {
+  border: 2px solid #fff;
+  font-family: var(--font-led);
+  font-size: 1.2rem;
+  box-shadow: 2px 2px 0 rgb(0 0 0 / 0.55);
+}
+:root[data-skin='retro'] .pizarra__name {
+  font-family: var(--font-cond);
+  font-weight: 700;
+  font-size: 0.78rem;
+  color: #fff;
+  background: rgb(0 0 0 / 0.55);
+  padding: 0 3px;
+  text-shadow: none;
+}
+:root[data-skin='retro'] .pizarra__player:hover .pizarra__dot,
+:root[data-skin='retro'] .pizarra__player.is-selected .pizarra__dot { border-color: var(--r-yellow); }
+:root[data-skin='retro'] .mini-pitch__grass { fill: #2a8a3e; }
+:root[data-skin='retro'] .strip-stats b { font-family: var(--font-led); font-weight: 400; font-size: 1.6rem; color: var(--r-yellow); }
+
+/* ------------------- Match: electronic scoreboard + teletype ------------ */
+:root[data-skin='retro'] .scoreboard { background: #050b10; }
+:root[data-skin='retro'] .scoreboard--live { background: #050b10; }
+:root[data-skin='retro'] .scoreboard__club b {
+  font-family: var(--font-led);
+  font-weight: 400;
+  font-size: 1.7rem;
+  color: #ffb000;
+  letter-spacing: 0.06em;
+  text-shadow: 0 0 6px rgb(255 176 0 / 0.55);
+}
+:root[data-skin='retro'] .scoreboard__score {
+  font-family: var(--font-led);
+  font-size: 4.2rem;
+  color: #ff3b2f;
+  background: #000;
+  padding: 2px 18px;
+  text-shadow: 0 0 10px rgb(255 59 47 / 0.7);
+  box-shadow: inset 1px 1px 0 #333, inset -1px -1px 0 #111, 0 0 0 2px var(--r-face-lo);
+  background-image: radial-gradient(rgb(255 255 255 / 0.06) 1px, transparent 1.4px);
+  background-size: 4px 4px;
+}
+:root[data-skin='retro'] .scoreboard__score .muted { color: #7a1a14; }
+:root[data-skin='retro'] .scoreboard__clock { font-family: var(--font-led); font-size: 1.3rem; color: #9fffb0; }
+:root[data-skin='retro'] .scoreboard__clock b { font-size: 1.7rem; color: #59ff7a; text-shadow: 0 0 6px rgb(89 255 122 / 0.6); }
+
+:root[data-skin='retro'] .feed { background: #06121b; }
+:root[data-skin='retro'] .feed__item { border-bottom: 1px solid #10283c; padding: 4px 10px; font-size: 0.86rem; }
+:root[data-skin='retro'] .feed__min { font-family: var(--font-led); font-size: 1.15rem; color: #59ff7a; }
+:root[data-skin='retro'] .feed__item--goal,
+:root[data-skin='retro'] .feed__item--penalty-goal,
+:root[data-skin='retro'] .feed__item--own-goal { background: #1f4f86; color: #fff; }
+:root[data-skin='retro'] .feed__item--half-time,
+:root[data-skin='retro'] .feed__item--full-time,
+:root[data-skin='retro'] .feed__item--kickoff { background: var(--r-face); color: #000; font-family: var(--font-cond); font-weight: 700; }
+:root[data-skin='retro'] .feed__score { font-family: var(--font-led); font-size: 1.15rem; color: var(--r-yellow); }
+@media (max-width: 560px) {
+  :root[data-skin='retro'] .scoreboard__score { font-size: 2.8rem; padding: 2px 10px; }
+  :root[data-skin='retro'] .scoreboard__club b { font-size: 1.2rem; }
+}
+
+:root[data-skin='retro'] .feed__item--half-time .feed__min,
+:root[data-skin='retro'] .feed__item--full-time .feed__min,
+:root[data-skin='retro'] .feed__item--kickoff .feed__min { color: #000; }
+:root[data-skin='retro'] .bench-list__extra .btn { display: inline-flex; width: auto; white-space: nowrap; border-bottom: 0; }
+:root[data-skin='retro'] .bench-list__extra .btn--ghost { color: var(--text); }
+:root[data-skin='retro'] .bench-list li.is-selected { background: #4a4012; box-shadow: inset 4px 0 0 var(--r-yellow); }
+
+/* The newspaper stays printed on paper: local newsprint tokens inside a bevelled frame */
+:root[data-skin='retro'] .diario {
+  --surface: #f3eedf;
+  --surface-2: #e9e2cf;
+  --surface-3: #ddd4bd;
+  --text: #15120d;
+  --muted: #5f5747;
+  --border: #c9bea4;
+  --border-strong: #9d916f;
+  --accent: #1d4f86;
+  --amber: #8a5a10;
+  --ink: #15120d;
+  --paper: #f3eedf;
+  color: var(--text);
+  background: var(--paper);
+  font-family: Georgia, 'Times New Roman', serif;
+  box-shadow:
+    0 0 0 2px var(--r-face-dk),
+    0 0 0 4px var(--r-face),
+    6px 6px 0 4px rgb(0 0 0 / 0.5);
+}
+:root[data-skin='retro'] .diario h1,
+:root[data-skin='retro'] .diario h2,
+:root[data-skin='retro'] .diario h3 { font-family: 'Times New Roman', Georgia, serif; font-weight: 900; }
+:root[data-skin='retro'] .diario .chip { background: #e9e2cf; }
+
+@media (max-width: 560px) {
+  :root[data-skin='retro'] .topbar__skin { font-size: 0.7rem; padding: 0 5px; }
+  :root[data-skin='retro'] .topbar__brand { font-size: 0.95rem; }
+  :root[data-skin='retro'] .daybar__date b { font-size: 1.1rem; }
+}

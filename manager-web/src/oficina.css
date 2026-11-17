@@ -1,0 +1,106 @@
+/* ==========================================================================
+   Skin "Oficina 98": builds on the retro chrome (data-skin="retro") and turns
+   the side menu into a board of big, colourful bevelled icon tiles.
+   Original icons and colours; it does not reproduce any game's icon set.
+   ========================================================================== */
+
+:root[data-skin-variant='oficina'] {
+  --tile-a: #3d7fd1;
+  --tile-b: #1d4f8f;
+}
+
+/* Per-section tile colours */
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='inicio'] { --tile-a: #45a3e6; --tile-b: #1f5f9c; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='despacho'] { --tile-a: #b7834a; --tile-b: #6e4520; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='calendario'] { --tile-a: #e65a4f; --tile-b: #8f221b; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='plantel'] { --tile-a: #5cc15a; --tile-b: #24702a; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='tactica'] { --tile-a: #2fa66b; --tile-b: #155a37; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='entrenamiento'] { --tile-a: #f0a03a; --tile-b: #95560c; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='partido'] { --tile-a: #f5f5f5; --tile-b: #8a8f96; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='tablas'] { --tile-a: #8a7fe0; --tile-b: #43398f; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='competiciones'] { --tile-a: #f2c63a; --tile-b: #9a7406; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='mercado'] { --tile-a: #e0559b; --tile-b: #85194f; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='finanzas'] { --tile-a: #3fbf8f; --tile-b: #11674a; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='estadio'] { --tile-a: #7aa0b8; --tile-b: #35576c; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='empleados'] { --tile-a: #c2814f; --tile-b: #6b3c1a; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='directiva'] { --tile-a: #9b6fd0; --tile-b: #4d2a7a; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='noticias'] { --tile-a: #d9d2bf; --tile-b: #7c7460; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='clubes'] { --tile-a: #4fb3c4; --tile-b: #18606d; }
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='logros'] { --tile-a: #ffd23f; --tile-b: #a0700a; }
+
+/* The board: two columns of square tiles, icon on top, label below */
+:root[data-skin-variant='oficina'] .shell { grid-template-columns: 236px 1fr; }
+:root[data-skin-variant='oficina'] .sidebar { background: #5d6670; padding: 8px; }
+:root[data-skin-variant='oficina'] .sidebar nav {
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  overflow-y: auto;
+}
+:root[data-skin-variant='oficina'] .sidebar__item {
+  display: grid;
+  justify-items: center;
+  align-content: start;
+  gap: 4px;
+  padding: 7px 4px 6px;
+  text-align: center;
+  font-size: 0.72rem;
+  line-height: 1.1;
+  min-height: 78px;
+  position: relative;
+}
+:root[data-skin-variant='oficina'] .sidebar__label { overflow-wrap: anywhere; }
+:root[data-skin-variant='oficina'] .sidebar__item .nav-icon {
+  box-sizing: content-box;
+  width: 26px;
+  height: 26px;
+  padding: 6px;
+  color: #fff;
+  stroke-width: 2.2;
+  background: linear-gradient(135deg, var(--tile-a), var(--tile-b));
+  box-shadow:
+    inset -2px -2px 0 rgb(0 0 0 / 0.45),
+    inset 2px 2px 0 rgb(255 255 255 / 0.55),
+    2px 2px 0 #000;
+  filter: drop-shadow(1px 1px 0 rgb(0 0 0 / 0.35));
+}
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='partido'] .nav-icon,
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='noticias'] .nav-icon,
+:root[data-skin-variant='oficina'] .sidebar__item[data-section='logros'] .nav-icon { color: #111; }
+:root[data-skin-variant='oficina'] .sidebar__item.is-active {
+  background: #ffe98a;
+  color: #000;
+  box-shadow:
+    inset 1px 1px 0 var(--r-face-dk),
+    inset -1px -1px 0 #fff,
+    inset 2px 2px 0 #a08a2a;
+}
+:root[data-skin-variant='oficina'] .sidebar__item.is-active .nav-icon { color: #fff; outline: 2px solid #000; }
+:root[data-skin-variant='oficina'] .sidebar__item.is-active[data-section='partido'] .nav-icon,
+:root[data-skin-variant='oficina'] .sidebar__item.is-active[data-section='noticias'] .nav-icon,
+:root[data-skin-variant='oficina'] .sidebar__item.is-active[data-section='logros'] .nav-icon { color: #111; }
+:root[data-skin-variant='oficina'] .sidebar__dot { position: absolute; top: 5px; right: 5px; margin: 0; }
+:root[data-skin-variant='oficina'] .sidebar__foot .sidebar__item {
+  display: flex;
+  min-height: 0;
+  font-size: 0.8rem;
+  justify-content: flex-start;
+}
+:root[data-skin-variant='oficina'] .sidebar__foot .sidebar__item .nav-icon { width: 16px; height: 16px; padding: 3px; }
+
+/* Desk wallpaper: wood-toned instead of the blue desktop */
+:root[data-skin-variant='oficina'] body {
+  background:
+    repeating-linear-gradient(92deg, rgb(255 255 255 / 0.025) 0 3px, transparent 3px 11px),
+    linear-gradient(180deg, #2a1d14, #1a120c);
+  background-attachment: fixed;
+}
+:root[data-skin-variant='oficina'] .topbar { background: linear-gradient(90deg, #4a1f12, #a2471f); box-shadow: inset 0 -1px 0 #d4733f; }
+:root[data-skin-variant='oficina'] .panel__head { background: linear-gradient(90deg, #4a1f12, #a2471f); }
+:root[data-skin-variant='oficina'] .filete-frame::before { background: linear-gradient(90deg, #4a1f12, #a2471f); }
+:root[data-skin-variant='oficina'] .sidebar__item.is-active .sidebar__label { color: #000; }
+:root[data-skin-variant='oficina'] .main__title { text-shadow: 2px 2px 0 #000, 3px 3px 0 #4a1f12; }
+
+@media (max-width: 860px) {
+  :root[data-skin-variant='oficina'] .shell { grid-template-columns: 1fr; }
+  :root[data-skin-variant='oficina'] .sidebar nav { grid-template-columns: repeat(3, 1fr); }
+}

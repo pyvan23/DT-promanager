@@ -1378,3 +1378,19 @@ body { -webkit-tap-highlight-color: transparent; }
   font-weight: 600;
   letter-spacing: 0.03em;
 }
+
+/* ============ Skin selector ============ */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.topbar__skin-wrap { display: inline-flex; }
+.topbar__skin {
+  height: 34px;
+  padding: 0 8px;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  background: var(--surface-2);
+  color: var(--text);
+  font-family: var(--font-cond);
+  font-weight: 700;
+  font-size: 0.85rem;
+  cursor: pointer;
+}

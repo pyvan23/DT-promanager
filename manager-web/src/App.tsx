@@ -42,6 +42,10 @@ import { AchievementShare } from './ui/share/AchievementShare';
 import { SHARE_PARAM } from './ui/share/share';
 import { loadGame, saveGame, type LoadResult } from './ui/storage';
 import './App.css';
+import './retro.css';
+import './oficina.css';
+import './consola.css';
+import { readSkin, applySkin, SKINS, type Skin } from './ui/skin';
 
 type Theme = 'auto' | 'light' | 'dark';
 const THEME_KEY = 'manager-web:theme';
@@ -98,12 +102,14 @@ export default function App() {
   const [player, setPlayer] = useState<Player | null>(null);
   const [drawer, setDrawer] = useState(false);
   const [theme, setTheme] = useState<Theme>(readTheme);
+  const [skin, setSkin] = useState<Skin>(readSkin);
   const [saveFailed, setSaveFailed] = useState(false);
   const [busy, setBusy] = useState<string | null>(null);
   const [progress, setProgress] = useState<string | null>(null);
   const [sharedAch, setSharedAch] = useState<SharedAchievement | null>(readSharedAchievement);
 
   useEffect(() => applyTheme(theme), [theme]);
+  useEffect(() => applySkin(skin), [skin]);
 
   // The save slot loads asynchronously (IndexedDB).
   useEffect(() => {
@@ -344,6 +350,16 @@ export default function App() {
           <span className="topbar__season">Temporada {game.calendar.season}</span>
           <span className="topbar__day">{longDate(game.calendar.date)}</span>
         </div>
+        <label className="topbar__skin-wrap" title="Estilo visual">
+          <span className="sr-only">Estilo visual</span>
+          <select className="topbar__skin" value={skin} onChange={(e) => setSkin(e.target.value as Skin)} aria-label="Estilo visual">
+            {SKINS.map((k) => (
+              <option key={k.id} value={k.id}>
+                {k.label}
+              </option>
+            ))}
+          </select>
+        </label>
         <button className="topbar__theme" onClick={() => setTheme(THEME_NEXT[theme])} title={THEME_LABEL[theme]} aria-label={THEME_LABEL[theme]}>
           {theme === 'light' ? '☀' : theme === 'dark' ? '☾' : '◐'}
         </button>
@@ -435,6 +451,7 @@ export default function App() {
           {SECTIONS.filter((s) => game.scope !== 'entrenador' || !FULL_MANAGER_SECTIONS.includes(s.id)).map((s) => (
             <button
               key={s.id}
+              data-section={s.id}
               className={'sidebar__item' + (s.id === view || (s.id === 'partido' && (view === 'live' || view === 'simulacion' || view === 'report')) ? ' is-active' : '')}
               onClick={() => go(s.id === 'partido' && liveForToday ? (liveForToday.mode === 'sim' ? 'simulacion' : 'live') : s.id)}
               title={s.hint}
